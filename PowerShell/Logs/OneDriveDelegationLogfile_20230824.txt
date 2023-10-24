@@ -1,0 +1,127 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 24, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [rohit.reddy@eversana.com] whose manager is [nitin.lohar@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/rohit_reddy_eversana_com]
+
+Adding folder [TERM-20230824-ROHIT.REDDY] in /Documents directory
+
+Moving folder [Documents/Krisha's Files] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Old Files] into TERM folder.
+
+Moving folder [Documents/DC_HUB] into TERM folder.
+
+Moving folder [Documents/Kirshna_DBs_BKP] into TERM folder.
+
+Moving folder [Documents/New Client Setup] into TERM folder.
+
+Moving folder [Documents/Scripts] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Final Back Up from krishan Laptop] into TERM folder.
+
+Moving folder [Documents/Meetings] into TERM folder.
+
+Moving folder [Documents/Rohit @ EVERSANA] into TERM folder.
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/New User Requests.xlsx] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/New User Requests.xlsx]
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/PayLoad_Mapping.xlsx] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/PayLoad_Mapping.xlsx]
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/[Time_Zones] table script.sql] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/[Time_Zones] table script.sql]
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/ProfileManagement_sample_PayLoad insert_Rev1.sql] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/ProfileManagement_sample_PayLoad insert_Rev1.sql]
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/ProfileManagement_sample_PayLoad insert.sql] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/ProfileManagement_sample_PayLoad insert.sql]
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/DC_HUB_2023.07.19_Rev1.sql] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/DC_HUB_2023.07.19_Rev1.sql]
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/DC_HUB FieldMapping_2023.07.20.xlsx] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/DC_HUB FieldMapping_2023.07.20.xlsx]
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/DC_FromSiva.sql] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/DC_FromSiva.sql]
+
+Moving file [/personal/rohit_reddy_eversana_com/Documents/DC_HUB.zip] into folder [/personal/rohit_reddy_eversana_com/Documents/TERM-20230824-ROHIT.REDDY/DC_HUB.zip]
+
+Adding user [nitin.lohar@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [nitin.lohar@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [natasha.co@eversana.com] whose manager is [Timothy.Bass@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/natasha_co_eversana_com]
+
+Adding folder [TERM-20230824-NATASHA.CO] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Natasha @ EVERSANA] into TERM folder.
+
+Moving file [/personal/natasha_co_eversana_com/Documents/GSK Congress Planning Discussion Guide_v2 2023 May 9.docx] into folder [/personal/natasha_co_eversana_com/Documents/TERM-20230824-NATASHA.CO/GSK Congress Planning Discussion Guide_v2 2023 May 9.docx]
+
+Moving file [/personal/natasha_co_eversana_com/Documents/GSK Congress Planning Data Capture FINAL.xlsx] into folder [/personal/natasha_co_eversana_com/Documents/TERM-20230824-NATASHA.CO/GSK Congress Planning Data Capture FINAL.xlsx]
+
+Moving file [/personal/natasha_co_eversana_com/Documents/GSK Congress Planning Data Capture FINAL 1.xlsx] into folder [/personal/natasha_co_eversana_com/Documents/TERM-20230824-NATASHA.CO/GSK Congress Planning Data Capture FINAL 1.xlsx]
+
+Moving file [/personal/natasha_co_eversana_com/Documents/GSK Congress Planning Data Capture FINAL 2.xlsx] into folder [/personal/natasha_co_eversana_com/Documents/TERM-20230824-NATASHA.CO/GSK Congress Planning Data Capture FINAL 2.xlsx]
+
+Moving file [/personal/natasha_co_eversana_com/Documents/BMS-GSK_2023.06.13_Meeting Minutes.docx] into folder [/personal/natasha_co_eversana_com/Documents/TERM-20230824-NATASHA.CO/BMS-GSK_2023.06.13_Meeting Minutes.docx]
+
+Adding record into the Azure Storage Table
+
+Ran into an error. Error is:
+The specified user Timothy.Bass@eversana.com could not be found.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [lorena.davis@eversana.com] whose manager is [joy.dunaway@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/lorena_davis_eversana_com]
+
+Adding folder [TERM-20230824-LORENA.DAVIS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [joy.dunaway@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [joy.dunaway@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

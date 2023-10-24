@@ -1,0 +1,60 @@
+
+Daily Set-OneDriveDelegation Detail Logging for September 05, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [carrie.keller@eversana.com] whose manager is [jaydeep.hardikar@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/carrie_keller_eversana_com]
+
+Adding folder [TERM-20230905-CARRIE.KELLER] in /Documents directory
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Adding user [jaydeep.hardikar@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [jaydeep.hardikar@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [william.west@eversana.com] whose manager is [erin.mattan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/william_west_eversana_com]
+
+Adding folder [TERM-20230905-WILLIAM.WEST] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving folder [Documents/william @ Eversana] into TERM folder.
+
+Moving file [/personal/william_west_eversana_com/Documents/William West 1.17.23 Verbal Warning.docx] into folder [/personal/william_west_eversana_com/Documents/TERM-20230905-WILLIAM.WEST/William West 1.17.23 Verbal Warning.docx]
+
+Moving file [/personal/william_west_eversana_com/Documents/Coaching Session Form- William West 1.20.23.docx] into folder [/personal/william_west_eversana_com/Documents/TERM-20230905-WILLIAM.WEST/Coaching Session Form- William West 1.20.23.docx]
+
+Moving file [/personal/william_west_eversana_com/Documents/New Territory Map.docx] into folder [/personal/william_west_eversana_com/Documents/TERM-20230905-WILLIAM.WEST/New Territory Map.docx]
+
+Adding user [erin.mattan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [erin.mattan@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

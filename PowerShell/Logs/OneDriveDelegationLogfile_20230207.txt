@@ -1,0 +1,226 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 07, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [gordon.brown@eversana.com] whose manager is [Jennifer.Meeuwsen@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/gordon_brown_eversana_com]
+
+Adding folder [TERM-20230207-GORDON.BROWN] in /Documents directory
+
+Adding user [Jennifer.Meeuwsen@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Jennifer.Meeuwsen@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [liron.zilberbuch@eversana.com] whose manager is [kayla.abood@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/liron_zilberbuch_eversana_com]
+
+Adding folder [TERM-20230207-LIRON.ZILBERBUCH] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Exkivity HCP Target List] into TERM folder.
+
+Moving folder [Documents/Alunbrig HCP Target List] into TERM folder.
+
+Moving folder [Documents/Liron] into TERM folder.
+
+Moving folder [Documents/Pacing Reporting] into TERM folder.
+
+Moving folder [Documents/Exkivity Creative Swap] into TERM folder.
+
+Moving folder [Documents/New Link Matrix Related files] into TERM folder.
+
+Moving folder [Documents/Madrigal] into TERM folder.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/LZILBERBUCH_10.19.22 Backup]
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Sticky Note File backup] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Sticky Note File backup]
+
+Cannot move file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Sticky Note File backup] as it does not exist.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/Template - Media Site Tag Request Form1.xlsx] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Template - Media Site Tag Request Form1.xlsx]
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/bookmarks_8_19_22.html] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/bookmarks_8_19_22.html]
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/Oncology PM Org. Chart.jpg] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Oncology PM Org. Chart.jpg]
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/Liron Status To Do List.xlsx] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Liron Status To Do List.xlsx]
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Sticky Note File backup/plum.sqlite] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/plum.sqlite]
+
+Cannot move file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Sticky Note File backup/plum.sqlite] as it does not exist.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Drives & Software.docx] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Drives & Software.docx]
+
+Cannot move file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Drives & Software.docx] as it does not exist.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/INTOUCH bookmarks_10_19_22.html] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/INTOUCH bookmarks_10_19_22.html]
+
+Cannot move file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/INTOUCH bookmarks_10_19_22.html] as it does not exist.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/EVERSANA bookmarks_10_19_22.html] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/EVERSANA bookmarks_10_19_22.html]
+
+Cannot move file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/EVERSANA bookmarks_10_19_22.html] as it does not exist.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Intouch Chrome Passwords.csv] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Intouch Chrome Passwords.csv]
+
+Cannot move file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Intouch Chrome Passwords.csv] as it does not exist.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Eversana Chrome Passwords.csv] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Eversana Chrome Passwords.csv]
+
+Cannot move file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Eversana Chrome Passwords.csv] as it does not exist.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Intouch Passwords 10.27.2022 USE for DCM.csv] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Intouch Passwords 10.27.2022 USE for DCM.csv]
+
+Cannot move file [/personal/liron_zilberbuch_eversana_com/Documents/LZILBERBUCH_10.19.22 Backup/Intouch Passwords 10.27.2022 USE for DCM.csv] as it does not exist.
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/bookmarks_10_29_22.html] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/bookmarks_10_29_22.html]
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/Eversana Chrome Passwords 10.29.22.csv] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Eversana Chrome Passwords 10.29.22.csv]
+
+Moving file [/personal/liron_zilberbuch_eversana_com/Documents/Holiday Calendar.PNG] into folder [/personal/liron_zilberbuch_eversana_com/Documents/TERM-20230207-LIRON.ZILBERBUCH/Holiday Calendar.PNG]
+
+Adding user [kayla.abood@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [kayla.abood@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [sagar.adsul@eversana.com] whose manager is [jyoti.mhaske@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sagar_adsul_eversana_com]
+
+Adding folder [TERM-20230207-SAGAR.ADSUL] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/DDDDDDDDDD23.docx] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/DDDDDDDDDD23.docx]
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/Lódz.docx] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/Lódz.docx]
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/SSSSSSSSSSSSSSSSSSS.xlsx] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/SSSSSSSSSSSSSSSSSSS.xlsx]
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/sasasa.xlsm] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/sasasa.xlsm]
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/Book1.xlsx] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/Book1.xlsx]
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/Book2WWWW.xlsx] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/Book2WWWW.xlsx]
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/HEALTH CENTER SREMSKA MITROVICA.docx] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/HEALTH CENTER SREMSKA MITROVICA.docx]
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/CC.xlsx] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/CC.xlsx]
+
+Moving file [/personal/sagar_adsul_eversana_com/Documents/SSSS.xlsx] into folder [/personal/sagar_adsul_eversana_com/Documents/TERM-20230207-SAGAR.ADSUL/SSSS.xlsx]
+
+Adding user [jyoti.mhaske@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [jyoti.mhaske@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [desirae.grissom@eversana.com] whose manager is [julia.jones@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/desirae_grissom_eversana_com]
+
+Adding folder [TERM-20230207-DESIRAE.GRISSOM] in /Documents directory
+
+Moving folder [Documents/Desirae @ Eversana] into TERM folder.
+
+Adding user [julia.jones@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [julia.jones@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [mercedes.primus@eversana.com] whose manager is [julia.jones@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/mercedes_primus_eversana_com]
+
+Adding folder [TERM-20230207-MERCEDES.PRIMUS] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Mercedes @ Eversana] into TERM folder.
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/Payer Sites.xlsx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/Payer Sites.xlsx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/EV-GRI-New Patient Intake Split Shipment Process-GDE.pptx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/EV-GRI-New Patient Intake Split Shipment Process-GDE.pptx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/ALPHA PATIENT PROGRESS.xlsx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/ALPHA PATIENT PROGRESS.xlsx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/primus.docx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/primus.docx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/Jabber Setup.docx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/Jabber Setup.docx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/To whom it may concern.docx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/To whom it may concern.docx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/Cosmetology Journey.docx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/Cosmetology Journey.docx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/Primus Resume.docx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/Primus Resume.docx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/D CARTER.docx] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/D CARTER.docx]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/ONEAL.pdf] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/ONEAL.pdf]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/ONEAL NPI.pdf] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/ONEAL NPI.pdf]
+
+Moving file [/personal/mercedes_primus_eversana_com/Documents/Primus Resume 1.pdf] into folder [/personal/mercedes_primus_eversana_com/Documents/TERM-20230207-MERCEDES.PRIMUS/Primus Resume 1.pdf]
+
+Adding user [julia.jones@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [julia.jones@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

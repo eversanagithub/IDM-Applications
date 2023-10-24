@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+<script>
+const myRetrieveInitialEncryptedKey = "http://idmgmtapp01/php/HousekeepingScripts/RetrieveInitialEncryptedKey.php"
+
+const mysetCookie = (cname, cvalue, exdays) => {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+  let expires = "expires="+d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+const myRetrieveEncryptedKey = (EmplID,myRetrieveInitialEncryptedKey,returnEncryptedKey) => {		
+	let applicationURL = "";
+	let getInfoParams = 'EmplID=' + EmplID;
+	const requestEncryptedKey = new XMLHttpRequest();
+	requestEncryptedKey.addEventListener('readystatechange', () => {
+		if(requestEncryptedKey.readyState === 4 && requestEncryptedKey.status === 200) 
+		{
+			returnEncryptedKey(requestEncryptedKey.responseText);
+		}
+	});
+	requestEncryptedKey.open("POST", myRetrieveInitialEncryptedKey, true);
+	requestEncryptedKey.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	requestEncryptedKey.send(getInfoParams);
+}
+
+function ResetCookies() {
+	let EmplID = "103257";
+	mysetCookie("ProdEmpID", EmplID, 365);
+	myRetrieveEncryptedKey(EmplID,myRetrieveInitialEncryptedKey,function(thisEncryptedKey)
+	{
+		thisEncryptedKey = thisEncryptedKey.trim();
+		mysetCookie("ProdEncryptedKey",thisEncryptedKey, 365);
+	});
+}
+</script>
+</head>
+<body onload="ResetCookies()" bgcolor='#0F0141'></body>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/index.html' target='mainpanel'>
+				<img width=200 height=45 src="http://idmgmtapp01/images/buttons/AdminPortalRequestForm.jpg">
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

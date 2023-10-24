@@ -1,0 +1,86 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [leslie.kepler@eversana.com] whose manager is [Steven.Medina@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/leslie_kepler_eversana_com]
+
+Adding folder [TERM-20230728-LESLIE.KEPLER] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/State Drug Price Transparency] into TERM folder.
+
+Cannot move folder [TERM-20230728-LESLIE.KEPLER] as it does not exist.
+
+Moving folder [Documents/Government Pricing] into TERM folder.
+
+Cannot move folder [TERM-20230728-LESLIE.KEPLER] as it does not exist.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/General - MMA-RMS BPO] into TERM folder.
+
+Cannot move folder [TERM-20230728-LESLIE.KEPLER] as it does not exist.
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/State Drug Price Transparency] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/State Drug Price Transparency]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/Government Pricing] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/Government Pricing]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/General - MMA-RMS BPO] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/General - MMA-RMS BPO]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/Book1.xlsx] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/Book1.xlsx]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/Presentation.pptx] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/Presentation.pptx]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/Medicaid.xlsx] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/Medicaid.xlsx]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/Medicaid (1).xlsx] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/Medicaid (1).xlsx]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/Medicaid (2).xlsx] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/Medicaid (2).xlsx]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/Medicaid (3).xlsx] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/Medicaid (3).xlsx]
+
+Moving file [/personal/leslie_kepler_eversana_com/Documents/Medicaid (4).xlsx] into folder [/personal/leslie_kepler_eversana_com/Documents/TERM-20230728-LESLIE.KEPLER/Medicaid (4).xlsx]
+
+Adding user [Steven.Medina@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Steven.Medina@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jessica.lee@eversana.com] whose manager is [Vicky.Pan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jessica_lee_eversana_com]
+
+Adding folder [TERM-20230728-JESSICA.LEE] in /Documents directory
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Adding user [Vicky.Pan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Vicky.Pan@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

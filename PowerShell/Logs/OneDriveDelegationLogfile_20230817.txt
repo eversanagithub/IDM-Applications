@@ -1,0 +1,122 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 17, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [shiquila.scarborough@eversana.com] whose manager is [Balakrishna.Nadella@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/shiquila_scarborough_eversana_com]
+
+Adding folder [TERM-20230817-SHIQUILA.SCARBOROUGH] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/shiquila_scarborough_eversana_com/Documents/PVR.docx] into folder [/personal/shiquila_scarborough_eversana_com/Documents/TERM-20230817-SHIQUILA.SCARBOROUGH/PVR.docx]
+
+Adding user [Balakrishna.Nadella@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Balakrishna.Nadella@eversana.com]
+
+Adding record into SQL table.
+
+Ran into an error. Error is:
+Exception calling "ExecuteReader" with "0" argument(s): "Fatal error encountered during command execution."
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [shiquila.scarborough@eversana.com] whose manager is [Balakrishna.Nadella@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/shiquila_scarborough_eversana_com]
+
+Adding folder [TERM-20230817-SHIQUILA.SCARBOROUGH] in /Documents directory
+
+Main Folder [TERM-20230817-SHIQUILA.SCARBOROUGH] already exists --- will not recreate it
+
+Adding user [Balakrishna.Nadella@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Balakrishna.Nadella@eversana.com]
+
+Adding record into SQL table.
+
+Ran into an error. Error is:
+Exception calling "ExecuteReader" with "0" argument(s): "Fatal error encountered during command execution."
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [erin.pauley@eversana.com] whose manager is [whitney.mcclaurin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/erin_pauley_eversana_com]
+
+Adding folder [TERM-20230817-ERIN.PAULEY] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/erin_pauley_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (18).docx] into folder [/personal/erin_pauley_eversana_com/Documents/TERM-20230817-ERIN.PAULEY/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (18).docx]
+
+Moving file [/personal/erin_pauley_eversana_com/Documents/Erin Pauley - PAP Application Mailer.docx] into folder [/personal/erin_pauley_eversana_com/Documents/TERM-20230817-ERIN.PAULEY/Erin Pauley - PAP Application Mailer.docx]
+
+Moving file [/personal/erin_pauley_eversana_com/Documents/Erin Pauley - PAP Application Mailer (1).docx] into folder [/personal/erin_pauley_eversana_com/Documents/TERM-20230817-ERIN.PAULEY/Erin Pauley - PAP Application Mailer (1).docx]
+
+Moving file [/personal/erin_pauley_eversana_com/Documents/Erin Pauley - PAP Application Mailer (2).docx] into folder [/personal/erin_pauley_eversana_com/Documents/TERM-20230817-ERIN.PAULEY/Erin Pauley - PAP Application Mailer (2).docx]
+
+Adding user [whitney.mcclaurin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [whitney.mcclaurin@eversana.com]
+
+Adding record into SQL table.
+
+Ran into an error. Error is:
+Exception calling "ExecuteReader" with "0" argument(s): "Fatal error encountered during command execution."
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [emonni.tompkins@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/emonni_tompkins_eversana_com]
+
+Adding folder [TERM-20230817-EMONNI.TOMPKINS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+Ran into an error. Error is:
+Exception calling "ExecuteReader" with "0" argument(s): "Fatal error encountered during command execution."
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

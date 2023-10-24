@@ -1,0 +1,345 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 14, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [paul.sillman@eversana.com] whose manager is [Kelly.Connors@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/paul_sillman_eversana_com]
+
+Adding folder [TERM-20230214-PAUL.SILLMAN] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/IANE Targets.xlsx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/IANE Targets.xlsx]
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/Illinois Top Uros.xlsx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/Illinois Top Uros.xlsx]
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/Iowa Excel Dashboard.xlsx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/Iowa Excel Dashboard.xlsx]
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/AUA Mailing list as of 4-28 domestic copy.xlsx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/AUA Mailing list as of 4-28 domestic copy.xlsx]
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/Non 340B Hospitals 4.7.22. sorted by GPO Premier copy.xlsx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/Non 340B Hospitals 4.7.22. sorted by GPO Premier copy.xlsx]
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/UroGPO Account Targets copy.xlsx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/UroGPO Account Targets copy.xlsx]
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/Nancy Draft Quarterly Review.pptx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/Nancy Draft Quarterly Review.pptx]
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/West Region Q2 Strategy Meeting 7722.pptx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/West Region Q2 Strategy Meeting 7722.pptx]
+
+Moving file [/personal/paul_sillman_eversana_com/Documents/UroGPO Program Grid_08312022.xlsx] into folder [/personal/paul_sillman_eversana_com/Documents/TERM-20230214-PAUL.SILLMAN/UroGPO Program Grid_08312022.xlsx]
+
+Adding user [Kelly.Connors@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Kelly.Connors@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [giselle.sena@eversana.com] whose manager is [lisa.bill@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/giselle_sena_eversana_com]
+
+Adding folder [TERM-20230214-GISELLE.SENA] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Abbvie Data Tracking Journal] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/ANALYTICS ONLY DATA FILES USED FOR REPORT] into TERM folder.
+
+Cannot move folder [TERM-20230214-GISELLE.SENA] as it does not exist.
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/xFactor Immunology AMB and ARS call volume data (1).xlsx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/xFactor Immunology AMB and ARS call volume data (1).xlsx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/Field_Data.xlsb] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/Field_Data.xlsb]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/LiveWorld Complete Programs Report - 4 April 2022.xlsx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/LiveWorld Complete Programs Report - 4 April 2022.xlsx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/CDL Use Case Analysis Deck.pptx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/CDL Use Case Analysis Deck.pptx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/CDL Use Case Analysis Deck-GSena-2.pptx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/CDL Use Case Analysis Deck-GSena-2.pptx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/Welcome.CTAOverview 5.3 v3 (002).pptx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/Welcome.CTAOverview 5.3 v3 (002).pptx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/ANALYTICS ONLY DATA FILES USED FOR REPORT] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/ANALYTICS ONLY DATA FILES USED FOR REPORT]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/LiveWorld Complete Programs Report - 8 June 2022.xlsx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/LiveWorld Complete Programs Report - 8 June 2022.xlsx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/Variable Verbiage-US-HUM-200667.docx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/Variable Verbiage-US-HUM-200667.docx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/Oxygen Transition - Onboarding Questions.docx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/Oxygen Transition - Onboarding Questions.docx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/HVAs only - Intouch BMS Measurement Plan_082622_FINAL.pptx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/HVAs only - Intouch BMS Measurement Plan_082622_FINAL.pptx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/BMS DEUC HCP Branded Meas Framework 8.16.22 (002).pptx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/BMS DEUC HCP Branded Meas Framework 8.16.22 (002).pptx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/Solutions Oxygen Transition-Reference Document.xlsx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/Solutions Oxygen Transition-Reference Document.xlsx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/Solutions Oxygen Transition-Reference Document (1).xlsx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/Solutions Oxygen Transition-Reference Document (1).xlsx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/BMS OpdivoHCP MP 2022 - v2.pptx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/BMS OpdivoHCP MP 2022 - v2.pptx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/GA4 POV Jul 2022.docx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/GA4 POV Jul 2022.docx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/BMS Unbranded Mavacamten HCP Q4 2022_Draft.pptx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/BMS Unbranded Mavacamten HCP Q4 2022_Draft.pptx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/OpdivoHCP.com 2022 Incremental Site Visitors Sept-Nov (Eversana) 1.5.2023.xlsx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/OpdivoHCP.com 2022 Incremental Site Visitors Sept-Nov (Eversana) 1.5.2023.xlsx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/BMS Unbranded Mavacamten HCP Q3 2022.pptx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/BMS Unbranded Mavacamten HCP Q3 2022.pptx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/OpdivoHCP.com 2022 Incremental Site Visitors Sept-Nov (Eversana) 1.5.2023-INT-C2XSFK3.xlsx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/OpdivoHCP.com 2022 Incremental Site Visitors Sept-Nov (Eversana) 1.5.2023-INT-C2XSFK3.xlsx]
+
+Moving file [/personal/giselle_sena_eversana_com/Documents/Lantheus Pylarify Patient Site Metrics by Source by Campaign Code - 09012022-01152023.xlsx] into folder [/personal/giselle_sena_eversana_com/Documents/TERM-20230214-GISELLE.SENA/Lantheus Pylarify Patient Site Metrics by Source by Campaign Code - 09012022-01152023.xlsx]
+
+Adding user [lisa.bill@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [lisa.bill@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [don.corbett@eversana.com] whose manager is [rachel.williams@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/don_corbett_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [joey.meyer@eversana.com] whose manager is [maria.starr@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/joey_meyer_eversana_com]
+
+Adding folder [TERM-20230214-JOEY.MEYER] in /Documents directory
+
+Adding user [maria.starr@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [maria.starr@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [asha.gutierrez@eversana.com] whose manager is [Laura.Wendorff@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/asha_gutierrez_eversana_com]
+
+Adding folder [TERM-20230214-ASHA.GUTIERREZ] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/asha @ Eversana] into TERM folder.
+
+Moving file [/personal/asha_gutierrez_eversana_com/Documents/Asha Hotsheet.docx] into folder [/personal/asha_gutierrez_eversana_com/Documents/TERM-20230214-ASHA.GUTIERREZ/Asha Hotsheet.docx]
+
+Moving file [/personal/asha_gutierrez_eversana_com/Documents/Asha Coverage Doc.docx] into folder [/personal/asha_gutierrez_eversana_com/Documents/TERM-20230214-ASHA.GUTIERREZ/Asha Coverage Doc.docx]
+
+Moving file [/personal/asha_gutierrez_eversana_com/Documents/OBU Finance Tracker_ACG.xlsx] into folder [/personal/asha_gutierrez_eversana_com/Documents/TERM-20230214-ASHA.GUTIERREZ/OBU Finance Tracker_ACG.xlsx]
+
+Moving file [/personal/asha_gutierrez_eversana_com/Documents/Copy of 2022 Intouch Menu Cards_Playbook.xlsx] into folder [/personal/asha_gutierrez_eversana_com/Documents/TERM-20230214-ASHA.GUTIERREZ/Copy of 2022 Intouch Menu Cards_Playbook.xlsx]
+
+Moving file [/personal/asha_gutierrez_eversana_com/Documents/USPS_2023 Financial Tracker - Copy.xlsx] into folder [/personal/asha_gutierrez_eversana_com/Documents/TERM-20230214-ASHA.GUTIERREZ/USPS_2023 Financial Tracker - Copy.xlsx]
+
+Adding user [Laura.Wendorff@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Laura.Wendorff@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [tiara.austin@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/tiara_austin_eversana_com]
+
+Adding folder [TERM-20230214-TIARA.AUSTIN] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Data] into TERM folder.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Tiara @ EVERSANA] into TERM folder.
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [allison.schneider@eversana.com] whose manager is [doug.rimerman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/allison_schneider_eversana_com]
+
+Adding folder [TERM-20230214-ALLISON.SCHNEIDER] in /Documents directory
+
+Moving folder [Documents/Allison @ EVERSANA] into TERM folder.
+
+Adding user [doug.rimerman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [doug.rimerman@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [subhashish.karmakar@eversana.com] whose manager is [marijo.tinlin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/subhashish_karmakar_eversana_com]
+
+Adding folder [TERM-20230214-SUBHASHISH.KARMAKAR] in /Documents directory
+
+Adding user [marijo.tinlin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [marijo.tinlin@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [seema.yadav@eversana.com] whose manager is [ankit.shrungarpawar@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/seema_yadav_eversana_com]
+
+Adding folder [TERM-20230214-SEEMA.YADAV] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Adding user [ankit.shrungarpawar@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [ankit.shrungarpawar@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [stephanie.gavin@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/stephanie_gavin_eversana_com]
+
+Adding folder [TERM-20230214-STEPHANIE.GAVIN] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [dorian.branch@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/dorian_branch_eversana_com]
+
+Adding folder [TERM-20230214-DORIAN.BRANCH] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [avinash.kwatra@eversana.com] whose manager is [Drew.McCormick@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/avinash_kwatra_eversana_com]
+
+Adding folder [TERM-20230214-AVINASH.KWATRA] in /Documents directory
+
+Adding user [Drew.McCormick@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Drew.McCormick@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Sending out 10-Days left E-Mail reminder to [Ravi.V@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [jeffrey.bartsch@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [robert.muldoon@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Poornima.Galgali@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [mary.silcox@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+

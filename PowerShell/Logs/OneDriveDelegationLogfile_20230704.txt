@@ -1,0 +1,558 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 04, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [fatoumata.diallo@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/fatoumata_diallo_eversana_com]
+
+Adding folder [TERM-20230704-FATOUMATA.DIALLO] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jyoti.mhaske@eversana.com] whose manager is [sirisha.venneti@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jyoti_mhaske_eversana_com]
+
+Adding folder [TERM-20230704-JYOTI.MHASKE] in /Documents directory
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Spain Maintenace Folder] into TERM folder.
+
+Moving folder [Documents/Tender data] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Master Lists] into TERM folder.
+
+Moving folder [Documents/WEEKLY FILES] into TERM folder.
+
+Cannot move folder [TERM-20230704-JYOTI.MHASKE] as it does not exist.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Shared Documents] into TERM folder.
+
+Cannot move folder [TERM-20230704-JYOTI.MHASKE] as it does not exist.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Quiz] into TERM folder.
+
+Moving folder [Documents/Jyoti @ Eversana] into TERM folder.
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/WEEKLY FILES] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/WEEKLY FILES]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Shared Documents] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Shared Documents]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book2.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book2.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/video (1).mp4] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/video (1).mp4]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book3.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book3.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book1.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book1.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Croatia_PCID& Indication Alignment.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Croatia_PCID& Indication Alignment.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book4.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book4.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Belgium QA file_PROD.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Belgium QA file_PROD.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Revised_Astellas Italy data.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Revised_Astellas Italy data.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Tendar Data Tracker (Marketwise).xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Tendar Data Tracker (Marketwise).xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Daily status Format.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Daily status Format.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book13.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book13.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book31.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book31.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Portugal_Backlog_Data till 5 April.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Portugal_Backlog_Data till 5 April.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Tender Award 02nd May to 8th May 2022_Upload_Jyoti.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Tender Award 02nd May to 8th May 2022_Upload_Jyoti.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book27.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book27.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Cheisi_Sample data.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Cheisi_Sample data.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book19.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book19.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/PF Award and In Process.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/PF Award and In Process.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Croatia_Tocilizumab.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Croatia_Tocilizumab.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Saudi data load_2.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Saudi data load_2.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/ORGANON WAVE SOURCES.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/ORGANON WAVE SOURCES.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Jansen Generic_ATC code scope list.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Jansen Generic_ATC code scope list.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/TECHNICAL DOCUMENTATION Serbia.docx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/TECHNICAL DOCUMENTATION Serbia.docx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/TELEMAT .xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/TELEMAT .xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Drawing.vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Drawing.vsdx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Drawing1.vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Drawing1.vsdx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Customer Scope Market_Molecule_report.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Customer Scope Market_Molecule_report.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Tender Team Data Upload Process (Navlin Portal).vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Tender Team Data Upload Process (Navlin Portal).vsdx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Drawing3.vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Drawing3.vsdx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Drawing2.vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Drawing2.vsdx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/TenderExport_2023-06-12 053749_reupload with Quantity.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/TenderExport_2023-06-12 053749_reupload with Quantity.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book5.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book5.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Book10.xlsx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Book10.xlsx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Drawing4.vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Drawing4.vsdx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/SOPs Reports and Overviews Building and types.vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/SOPs Reports and Overviews Building and types.vsdx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Logic Building and Testing.vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Logic Building and Testing.vsdx]
+
+Moving file [/personal/jyoti_mhaske_eversana_com/Documents/Revised Duplication Logic Navlin 2023.vsdx] into folder [/personal/jyoti_mhaske_eversana_com/Documents/TERM-20230704-JYOTI.MHASKE/Revised Duplication Logic Navlin 2023.vsdx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [bhavisha.jadav@eversana.com] whose manager is [ganesh.chandor@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/bhavisha_jadav_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [rutuja.more@eversana.com] whose manager is [ashish.agrawal@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/rutuja_more_eversana_com]
+
+Adding folder [TERM-20230704-RUTUJA.MORE] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving file [/personal/rutuja_more_eversana_com/Documents/Book2.xlsx] into folder [/personal/rutuja_more_eversana_com/Documents/TERM-20230704-RUTUJA.MORE/Book2.xlsx]
+
+Moving file [/personal/rutuja_more_eversana_com/Documents/Pending Orders-PROD.xlsx] into folder [/personal/rutuja_more_eversana_com/Documents/TERM-20230704-RUTUJA.MORE/Pending Orders-PROD.xlsx]
+
+Adding user [ashish.agrawal@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [ashish.agrawal@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [george.calafactor@eversana.com] whose manager is [Mai.Shunk@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/george_calafactor_eversana_com]
+
+Adding folder [TERM-20230704-GEORGE.CALAFACTOR] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Audit Management] into TERM folder.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/George @ Eversana] into TERM folder.
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/GGC medical.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/GGC medical.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Quality Group Body of Knowledge.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Quality Group Body of Knowledge.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Audit Info (002).xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Audit Info (002).xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Quality_Consulting_Services_EVERSANA_16March2022.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Quality_Consulting_Services_EVERSANA_16March2022.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Master Client Audit List 6-9-22 GGC.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Master Client Audit List 6-9-22 GGC.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Supplier List.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Supplier List.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Supplier List (1).xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Supplier List (1).xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Supplier List (1) (1).xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Supplier List (1) (1).xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Master Client Audit List 6-15-22 GGC.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Master Client Audit List 6-15-22 GGC.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Supplier Questionnaire Template.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Supplier Questionnaire Template.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Supplier List DRAFT 06June2022.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Supplier List DRAFT 06June2022.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Nonconforming Product Checklist.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Nonconforming Product Checklist.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Comparison Supplier Lists 20June2022-GGC.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Comparison Supplier Lists 20June2022-GGC.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/George Calafactor Bio Sketch May 2022.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/George Calafactor Bio Sketch May 2022.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Desk audit report 5_18_2022 GGC.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Desk audit report 5_18_2022 GGC.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Copy of TPI Batch Record Review Tracking Spreadsheet_2022.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Copy of TPI Batch Record Review Tracking Spreadsheet_2022.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Copy of TPI Batch Record Review Tracking Spreadsheet_2022 (1).xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Copy of TPI Batch Record Review Tracking Spreadsheet_2022 (1).xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/BR release- TEST GGC.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/BR release- TEST GGC.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/GGC's objectives.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/GGC's objectives.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Batch 433480 TPI Release for Akten Gel.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Batch 433480 TPI Release for Akten Gel.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Batch 50029-15JUL2022 Ready for TPI Review & Approval.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Batch 50029-15JUL2022 Ready for TPI Review & Approval.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/GGC SR QA MGR Job Description.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/GGC SR QA MGR Job Description.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/On 25.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/On 25.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Complaint Notification Memo to Akorn Hettlingen (HET) for Betimol 0.5% THEAMC-70 (v.1) C-2022-0018.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Complaint Notification Memo to Akorn Hettlingen (HET) for Betimol 0.5% THEAMC-70 (v.1) C-2022-0018.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Complaint Notification Memo to Woodstock Sterile Solutions for Dorzolamide Hydrochloride-Timolol Maleate Ophthalmic Solution THEAMC-79 (C-2022-0023) .docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Complaint Notification Memo to Woodstock Sterile Solutions for Dorzolamide Hydrochloride-Timolol Maleate Ophthalmic Solution THEAMC-79 (C-2022-0023) .docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Complaint Notification Memo to Laboratoire UNITHER for Zioptan 0.0015% THEAMC-86 (C-2022-0024) .docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Complaint Notification Memo to Laboratoire UNITHER for Zioptan 0.0015% THEAMC-86 (C-2022-0024) .docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TPI Complaint Notification Memo to CMO for COSOPT PF THEAMC-63 Version 1 C-2022-0026.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TPI Complaint Notification Memo to CMO for COSOPT PF THEAMC-63 Version 1 C-2022-0026.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Master Client Audit List.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Master Client Audit List.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/complaints.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/complaints.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/GGC Billable vs nonbillable.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/GGC Billable vs nonbillable.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Document Template_ (002).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Document Template_ (002).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TM-25_Rev 4.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TM-25_Rev 4.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TM-25_Rev_4-MNC.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TM-25_Rev_4-MNC.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/TM-02_Rev 2.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/TM-02_Rev 2.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/DRAFT.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/DRAFT.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Regulatory Compliance Basics- Part 4- Devices, Drugs, and Biologics.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Regulatory Compliance Basics- Part 4- Devices, Drugs, and Biologics.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QA-006 Internal Audit.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QA-006 Internal Audit.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/F-QA-025 - Employee Training Form.DOCX] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/F-QA-025 - Employee Training Form.DOCX]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QA-018  Employee Training.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QA-018  Employee Training.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/F-QA-011 - Audit Report Form.DOCX] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/F-QA-011 - Audit Report Form.DOCX]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Internal Audit Schedule 2022 _Approved.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Internal Audit Schedule 2022 _Approved.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Example Internal Audit Agenda.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Example Internal Audit Agenda.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/2021 Notal Vision Internal Audit Report.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/2021 Notal Vision Internal Audit Report.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/2020 Notal Vision Internal Audit Report_12Oct2020.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/2020 Notal Vision Internal Audit Report_12Oct2020.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/2020 Notal Vision Internal Audit Certificate of Audit & Audit Agenda-Plan_12Oct2020.pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/2020 Notal Vision Internal Audit Certificate of Audit & Audit Agenda-Plan_12Oct2020.pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/F-QA-025 - Employee Training Form(1).DOCX] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/F-QA-025 - Employee Training Form(1).DOCX]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QA-006 Internal Audit(1).pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QA-006 Internal Audit(1).pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QA-018  Employee Training(1).pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QA-018  Employee Training(1).pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Internal Audit Schedule 2022 _Approved(1).pdf] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Internal Audit Schedule 2022 _Approved(1).pdf]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/F-QA-011 - Audit Report Form(1).DOCX] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/F-QA-011 - Audit Report Form(1).DOCX]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Notal Vision Ltd 2022 Audit agenda.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Notal Vision Ltd 2022 Audit agenda.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Notal Vision Inc 2022 Audit agenda.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Notal Vision Inc 2022 Audit agenda.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Notal Vision Ltd 2022 Audit agenda_Final Draft_10.19.22_REVISION_10_21_22_GGC.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Notal Vision Ltd 2022 Audit agenda_Final Draft_10.19.22_REVISION_10_21_22_GGC.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 (1).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 (1).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (2).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (2).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (2).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (2).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (3).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (3).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (3).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (3).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (4).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION INC (VA)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (4).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (4).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/NOTAL VISION LTD (Israel)( Audit Report Form for 2022 Audit - DYL 26OCT2022 - GGC_27-28OCT2022 (4).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Draft FDA response_MediBeacon_820.90_ggc.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Draft FDA response_MediBeacon_820.90_ggc.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Draft FDA response_MediBeacon_820.90_ready.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Draft FDA response_MediBeacon_820.90_ready.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Draft FDA response_MediBeacon_820.90_ready (1).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Draft FDA response_MediBeacon_820.90_ready (1).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/GGC NV.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/GGC NV.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Quality and Regulatory RASCI.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Quality and Regulatory RASCI.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QSP_7.5-2_Rev 2_Identification_and_Traceability.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QSP_7.5-2_Rev 2_Identification_and_Traceability.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QSP_7.5-1_Rev 1_Device_History_Record.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QSP_7.5-1_Rev 1_Device_History_Record.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Food and Drug Administration Federal Register 21 CFR 820.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Food and Drug Administration Federal Register 21 CFR 820.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QSP_7.5-3_Rev 2_Product_Labeling.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QSP_7.5-3_Rev 2_Product_Labeling.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QSP_7.2-1_Rev D_Contract_Review.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QSP_7.2-1_Rev D_Contract_Review.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QSP_6.3-3_Rev B_Equipment_Operational_Qualification.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QSP_6.3-3_Rev B_Equipment_Operational_Qualification.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/References.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/References.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form_6.3-3-2_Rev B_Operational_Qualification_Protocol_Template.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form_6.3-3-2_Rev B_Operational_Qualification_Protocol_Template.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form_9.2-4-4_Rev 1_Technical_Work_Instruction_Template.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form_9.2-4-4_Rev 1_Technical_Work_Instruction_Template.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Quality Manual.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Quality Manual.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/DRAFT-PBFC-WL-RESPONSE-08DEC2022 (1).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/DRAFT-PBFC-WL-RESPONSE-08DEC2022 (1).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/GeorgeCalafactor.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/GeorgeCalafactor.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/DRAFT-PBFC-WL-RESPONSE-09DEC2022.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/DRAFT-PBFC-WL-RESPONSE-09DEC2022.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/E-mail - Warning Letter Reply.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/E-mail - Warning Letter Reply.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/E-mail - FDA 483 Reply.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/E-mail - FDA 483 Reply.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Supplier questionnaire .docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Supplier questionnaire .docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/2022 Evoke Pharma Internal Audit Agenda_final.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/2022 Evoke Pharma Internal Audit Agenda_final.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Evoke Pharma 2022 Internal Audit.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Evoke Pharma 2022 Internal Audit.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/2022 Evoke Pharma Internal Audit Agenda_final - Copy.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/2022 Evoke Pharma Internal Audit Agenda_final - Copy.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Development of Arena as a Management Strategy for Eversana.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Development of Arena as a Management Strategy for Eversana.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/2022 Internal Audit_GGC_QA-21 F3 Rev A Certificate of Audit.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/2022 Internal Audit_GGC_QA-21 F3 Rev A Certificate of Audit.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/DENVER Intelex Procedures.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/DENVER Intelex Procedures.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Evoke Pharma 2022 Internal Audit-EV07637.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Evoke Pharma 2022 Internal Audit-EV07637.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/SOP-XXX Issuance of Client Template Procedures.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/SOP-XXX Issuance of Client Template Procedures.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EVERSANA Resume- GGC.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EVERSANA Resume- GGC.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Meeting Minutes- Vanilla Box Procedures and ARNA SOPs- February 2 2023.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Meeting Minutes- Vanilla Box Procedures and ARNA SOPs- February 2 2023.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/DENVER Intelex Procedures (1).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/DENVER Intelex Procedures (1).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QPP- ARENA and ISO Certifications.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QPP- ARENA and ISO Certifications.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Draft Remediation E-mail.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Draft Remediation E-mail.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Project_Charter_Template.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Project_Charter_Template.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/SOP PPC-14 Sterilization, Environmental Monitoring, and Cleanroom Management.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/SOP PPC-14 Sterilization, Environmental Monitoring, and Cleanroom Management.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EVERSANA Resume- GGC (1).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EVERSANA Resume- GGC (1).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Oncosec Supplier Requirements.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Oncosec Supplier Requirements.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form DOC-01 Master Document List.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form DOC-01 Master Document List.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/MicroVention Costa Rica S.R.L.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/MicroVention Costa Rica S.R.L.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Procedures for Mai to Decide.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Procedures for Mai to Decide.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Presentation.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Presentation.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EU Medical Device Regulation (MDR).pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EU Medical Device Regulation (MDR).pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EU MDR.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EU MDR.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/COMPLETE EU MDR (1).pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/COMPLETE EU MDR (1).pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EU MDR - CD training.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EU MDR - CD training.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EU MDR - CD training (1).pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EU MDR - CD training (1).pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Quality Questions Without Highlighted Answers.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Quality Questions Without Highlighted Answers.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/UNTITLED (002).pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/UNTITLED (002).pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EU MDR Questions - DYL 02MAR2023.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EU MDR Questions - DYL 02MAR2023.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Book1.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Book1.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Global Quality and Regulatory Consulting, Management, and Strategic Service Solutions.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Global Quality and Regulatory Consulting, Management, and Strategic Service Solutions.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Evoke Pharma 2022 Internal Audit Report_snt notes_GGC revision_3_15_23.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Evoke Pharma 2022 Internal Audit Report_snt notes_GGC revision_3_15_23.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/2022 Internal Audit_Corrective Action and Audit Item_GGC_comments_3_15_23 Closure_Draft1.0 (002).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/2022 Internal Audit_Corrective Action and Audit Item_GGC_comments_3_15_23 Closure_Draft1.0 (002).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Regulatory Matrix.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Regulatory Matrix.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Regulatory Matrix.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Regulatory Matrix.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/SECTION 1.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/SECTION 1.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Software validation for automated processes.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Software validation for automated processes.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/1st Purple Sheet.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/1st Purple Sheet.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form DES - Risk Management.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form DES - Risk Management.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form DES-XXX Risk Management.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form DES-XXX Risk Management.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Biologics trends.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Biologics trends.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/1st Purple Sheet.docx  -  Recovered  -  Compatibility Mode.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/1st Purple Sheet.docx  -  Recovered  -  Compatibility Mode.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Quality Audit Report Template.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Quality Audit Report Template.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/OncoSec Risk.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/OncoSec Risk.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Bicon_Eversana Vendor Quality Management Program_MS_04.06.23.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Bicon_Eversana Vendor Quality Management Program_MS_04.06.23.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Cintron Advisory Notices and Recall Procedure_REV_B_GGC_4_25_23.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Cintron Advisory Notices and Recall Procedure_REV_B_GGC_4_25_23.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form CAPA-04 Nonconforming Product and Quality Product Report (NCR).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form CAPA-04 Nonconforming Product and Quality Product Report (NCR).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/OncoSec Risk (1).xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/OncoSec Risk (1).xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/OncoSec Clinical Hold Review and Recommendation_5_1_23_GGC.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/OncoSec Clinical Hold Review and Recommendation_5_1_23_GGC.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/OncoSec Clinical Hold Review and Recommendation_GGC_5_1_23.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/OncoSec Clinical Hold Review and Recommendation_GGC_5_1_23.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Regulatory databases.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Regulatory databases.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EVERSANA Resume- GGC (2).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EVERSANA Resume- GGC (2).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Unique Device Identifier (UDI) Basics.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Unique Device Identifier (UDI) Basics.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Design Controls SOP.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Design Controls SOP.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form XXX FTA Template.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form XXX FTA Template.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Product ID storage handling distribution SOP.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Product ID storage handling distribution SOP.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/PPC-07 Building and Facility Design, Maintenance, and Sanitation.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/PPC-07 Building and Facility Design, Maintenance, and Sanitation.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Omnibus Calafactor 2.15.23_MS comments_GGC revision 02.16.2023 (004)_GGC_Revision 5.23.2023.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Omnibus Calafactor 2.15.23_MS comments_GGC revision 02.16.2023 (004)_GGC_Revision 5.23.2023.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form PPC-17 Packing List.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form PPC-17 Packing List.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/C&D Distributor survey.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/C&D Distributor survey.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/WI DOC-01 Change Management Template.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/WI DOC-01 Change Management Template.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/1WI DOC-01 Change Management Template.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/1WI DOC-01 Change Management Template.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Omnibus Calafactor 2.15.23_MS comments_GGC revision 02.16.2023 (004)_GGC_Revision 5.23.2023 (1).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Omnibus Calafactor 2.15.23_MS comments_GGC revision 02.16.2023 (004)_GGC_Revision 5.23.2023 (1).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form DES-08, Risk Management.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form DES-08, Risk Management.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/SOP PPC-13 Cleaning, Contamination, and Pest Control.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/SOP PPC-13 Cleaning, Contamination, and Pest Control.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Form PPC-22 Approved Pest Control Materials List.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Form PPC-22 Approved Pest Control Materials List.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/WI PPC-01 Gowning Instructions.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/WI PPC-01 Gowning Instructions.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/QSP_7.5-6_Process_Validation_Procedure_21OCT2022.doc] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/QSP_7.5-6_Process_Validation_Procedure_21OCT2022.doc]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EVERSANA Resume- GGC (3).docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EVERSANA Resume- GGC (3).docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/GGC Bio.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/GGC Bio.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/XSpray.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/XSpray.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EVERSANA 1099 Invoice Template.xls] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EVERSANA 1099 Invoice Template.xls]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EVERSANA 1099 Invoice GGC- # 1_ 06_16_23.xlsx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EVERSANA 1099 Invoice GGC- # 1_ 06_16_23.xlsx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/EVERSANA 1099 Invoice GGC- # 1_ 06_14_23.xls] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/EVERSANA 1099 Invoice GGC- # 1_ 06_14_23.xls]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Xspray 2023-06-15.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Xspray 2023-06-15.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Overview of PAI Audits.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Overview of PAI Audits.pptx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Regulatory Compliance Basics- Pharmaceuticals.pptx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Regulatory Compliance Basics- Pharmaceuticals.pptx]
+
+Cannot move file [/personal/george_calafactor_eversana_com/Documents/Regulatory Compliance Basics- Pharmaceuticals.pptx] as it does not exist.
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Complaint article.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Complaint article.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Zhejiang Liaoyuan Audit Plan GGC 06-29-23.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Zhejiang Liaoyuan Audit Plan GGC 06-29-23.docx]
+
+Moving file [/personal/george_calafactor_eversana_com/Documents/Huadong Audit Plan GGC 06-29-2023.docx] into folder [/personal/george_calafactor_eversana_com/Documents/TERM-20230704-GEORGE.CALAFACTOR/Huadong Audit Plan GGC 06-29-2023.docx]
+
+Adding user [Mai.Shunk@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Mai.Shunk@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

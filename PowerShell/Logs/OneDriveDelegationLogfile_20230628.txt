@@ -1,0 +1,218 @@
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for June 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [dwaipayan.talukdar@eversana.com] whose manager is [Srikant.Panigrahy@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/dwaipayan_talukdar_eversana_com]
+
+Adding folder [TERM-20230628-DWAIPAYAN.TALUKDAR] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/SFDC] into TERM folder.
+
+Moving folder [Documents/R&R] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/dwaipayan_talukdar_eversana_com/Documents/TERM-20220718-DWAIPAYAN.TALUKDAR] into folder [/personal/dwaipayan_talukdar_eversana_com/Documents/TERM-20230628-DWAIPAYAN.TALUKDAR/TERM-20220718-DWAIPAYAN.TALUKDAR]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [naomi.parker@eversana.com] whose manager is [whitney.mcclaurin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/naomi_parker_eversana_com]
+
+Adding folder [TERM-20230628-NAOMI.PARKER] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Naomi @ Eversana] into TERM folder.
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/Music - Shortcut.lnk] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/Music - Shortcut.lnk]
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/Book.xlsx] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/Book.xlsx]
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0.docx] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0.docx]
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (1).docx] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (1).docx]
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0 (7).docx] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0 (7).docx]
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (2).docx] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (2).docx]
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0 (8).docx] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0 (8).docx]
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (3).docx] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (3).docx]
+
+Moving file [/personal/naomi_parker_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (4).docx] into folder [/personal/naomi_parker_eversana_com/Documents/TERM-20230628-NAOMI.PARKER/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (4).docx]
+
+Adding user [whitney.mcclaurin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [whitney.mcclaurin@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

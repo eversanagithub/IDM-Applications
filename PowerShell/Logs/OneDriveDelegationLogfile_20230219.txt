@@ -1,0 +1,77 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 19, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [hisae.suzuki@eversana.com] whose manager is [Magda.Rudnikowska@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/hisae_suzuki_eversana_com]
+
+Adding folder [TERM-20230219-HISAE.SUZUKI] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/hisae_suzuki_eversana_com/Documents/????????????????.docx] into folder [/personal/hisae_suzuki_eversana_com/Documents/TERM-20230219-HISAE.SUZUKI/????????????????.docx]
+
+Moving file [/personal/hisae_suzuki_eversana_com/Documents/??.docx] into folder [/personal/hisae_suzuki_eversana_com/Documents/TERM-20230219-HISAE.SUZUKI/??.docx]
+
+Moving file [/personal/hisae_suzuki_eversana_com/Documents/Shake it Off.docx] into folder [/personal/hisae_suzuki_eversana_com/Documents/TERM-20230219-HISAE.SUZUKI/Shake it Off.docx]
+
+Moving file [/personal/hisae_suzuki_eversana_com/Documents/???.docx] into folder [/personal/hisae_suzuki_eversana_com/Documents/TERM-20230219-HISAE.SUZUKI/???.docx]
+
+Adding user [Magda.Rudnikowska@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Magda.Rudnikowska@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [don.corbett@eversana.com] whose manager is [rachel.williams@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/don_corbett_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [patrick.schandler@eversana.com] whose manager is [Zach.Janice@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/patrick_schandler_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [stormie.krone@eversana.com] whose manager is [tara.wiles@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/stormie_krone_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

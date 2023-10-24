@@ -1,0 +1,83 @@
+Content-type: text/html
+
+<html>
+<head>
+<link rel='stylesheet' href='http://iuatidmgmtapp01/IDM_Applications/css/styles.css'>
+<script LANGUAGE=JAVASCRIPT src=http://iuatidmgmtapp01/IDM_Applications/js/functions.js></script>
+</head><body onLoad='DisplayODDIntro();InitialFormerAssociateDropDownList();InitialRequesterDownList()' bgcolor='#0F0141'>
+<FORM id='ViewListings' METHOD='POST' ACTION='/cgi-bin/IDM_Applications/OneDriveDelegation/GrantOneDriveFolderAccess.pl' target='mainpanel'>
+<table width='100%' align='center'>
+<tr>
+<td width='100%' align='center'>
+<p class='AcctCreationTitle'>Welcome to the One Drive Delegation Application</p>
+</td>
+</tr>
+</table>
+<br>
+<table width='100%' align='center'>
+	<tr>
+		<th width='13%' align='center'>
+			<p class='WhiteText_P15'>Narrow Associate Listing</p>
+		</th>
+		<th width='18%' align='center'>
+			<p class='WhiteText_P15'>Select former Associate e-mail address</p>
+		</th>
+		<th width='%13' align='center'>
+			<p class='WhiteText_P15'>Narrow Requester Listing</p>
+		</th>
+		<th width='18%' align='center'>
+			<p class='WhiteText_P15'>Select requester e-mail address</p>
+		</th>
+		<th width='7%' align='center'>
+			<p class='WhiteText_P15_Underline'>Add Access</p>
+		</th>
+		<th width='7%' align='center'>
+			<p class='WhiteText_P15_Underline'>Remove Access</p>
+		</th>
+		<th width='12%' align='center'>
+			<p class='WhiteText_P15'>Requesting Incident Number</p>
+		</th>
+		<th width='10%' align='center'>
+			<p class='WhiteText_P15'>Execute Request</p>
+		</th>
+	</tr>
+	<tr>
+		<td width='13%' align='center'>
+			<input id='assocName' name='assocName' type='text' placeholder='e.g. john.do' onkeyup='UpdateFormerAssociateDropDownList(this);'>
+		</td>
+		<td width='18%' align='center'>
+			<select name='associateNames' id='associateNames'>
+				<option value=""></option>
+			</select>
+		</td>
+		<td width='13%' align='center'>
+			<input id='requesterName' name='requesterName' type='text' placeholder='e.g. john.do' onkeyup='UpdateRequesterDropDownList(this);'>
+		</td>
+		<td width='18%' align='center'>
+			<select name='requesterNames' id='requesterNames'>
+				<option value=""></option>
+			</select>
+		</td>
+		<td width='7%' align='center'>
+			<input type='radio' id='Action' name='Action' value='ADD' checked>
+		</td>
+		<td width='7%' align='center'>
+			<input type='radio' id='Action' name='Action' value='REMOVE'>
+		</td>
+		<td width='12%' align='center'>
+			<input id='incidentNumber' name='incidentNumber' type='text' placeholder='Leave empty if no incident'>
+		</td>
+		<input id='userID' name='userID' type='hidden' value="103257">
+		<input id='application' name='application' type='hidden' value="One-Drive Delegation">
+		<td width='10%' align='center'>
+			<button class='styledButton' id='Submit' name='Submit' value='Submit' onClick='SubmitODDRequest()'>Submit</button>
+		</td>
+	</tr>
+</table>
+<table border='0' width=100%>
+	<tr>
+		<canvas id='myCanvas' width='1600' height='0' style='border:2px solid #DFAB17;'>
+	</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,24 @@
+Content-type: text/html
+
+<html>
+<head>
+</head>
+<frameset rows='12%,88%' name='top'  border='0' framespacing='1' frameborder=NO>
+	<frameset cols='100%' name='topsidebar' frameborder=NO border='0'>
+		<frame src='http://idmgmtapp01/webpages/WebTitleBanner.htm' name='topright' scrolling=NO>
+	</frameset>
+	<frameset cols='15%,85%' name='topsidebar' frameborder=NO border='0'>
+		<frameset rows='43%,45%,12%' name='leftpanel' frameborder=NO border='0'>
+			<frame src='http://idmgmtapp01/webpages/topsidebar.html' name='leftpanel' scrolling=NO border='0'>
+		<frame src='http://idmgmtapp01/webpages/ClickOnApplicationButton.htm' name='middleleftpanel' scrolling=NO>
+		<frame src='http://idmgmtapp01/webpages/DisplayEventLogs.html' name='bottomleftpanel' scrolling=NO>
+		</frameset>
+		<frameset rows='17%,83%' name='mainpage' frameborder=NO border='0'>
+			<frame src='http://idmgmtapp01/webpages/AdminPortalWelcomeBanner.htm' name='topmainpanel' align=center scrolling=NO border='0'>
+			<frame src='http://idmgmtapp01/webpages/WelcomeToAdminPortal.htm' name='mainpanel' align=center scrolling=YES border='0'>
+		</frameset>
+	</frameset>
+</frameset>
+<body>
+</body>
+</html>

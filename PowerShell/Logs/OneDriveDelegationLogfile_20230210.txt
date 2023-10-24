@@ -1,0 +1,297 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 10, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [delores.dowdell@eversana.com] whose manager is [Patty.Johnson@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/delores_dowdell_eversana_com]
+
+Adding folder [TERM-20230210-DELORES.DOWDELL] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/delores_dowdell_eversana_com/Documents/PC report follow up.docx] into folder [/personal/delores_dowdell_eversana_com/Documents/TERM-20230210-DELORES.DOWDELL/PC report follow up.docx]
+
+Moving file [/personal/delores_dowdell_eversana_com/Documents/Recording document 2.docx] into folder [/personal/delores_dowdell_eversana_com/Documents/TERM-20230210-DELORES.DOWDELL/Recording document 2.docx]
+
+Adding user [Patty.Johnson@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Patty.Johnson@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ricky.whitehead@eversana.com] whose manager is [clint.max@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ricky_whitehead_eversana_com]
+
+Adding folder [TERM-20230210-RICKY.WHITEHEAD] in /Documents directory
+
+Adding user [clint.max@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [clint.max@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [don.corbett@eversana.com] whose manager is [rachel.williams@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/don_corbett_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [lesley.dufner@eversana.com] whose manager is [danielle.altmin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/lesley_dufner_eversana_com]
+
+Adding folder [TERM-20230210-LESLEY.DUFNER] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/HUMIRA] into TERM folder.
+
+Moving folder [Documents/Skyrizi References - AbbVie - Skyrizi Ps - HCP] into TERM folder.
+
+Cannot move folder [TERM-20230210-LESLEY.DUFNER] as it does not exist.
+
+Moving folder [Documents/RINVOQ References - AbbVie - Skyrizi Ps - HCP] into TERM folder.
+
+Cannot move folder [TERM-20230210-LESLEY.DUFNER] as it does not exist.
+
+Moving folder [Documents/Humira References - AbbVie - Skyrizi Ps - HCP] into TERM folder.
+
+Cannot move folder [TERM-20230210-LESLEY.DUFNER] as it does not exist.
+
+Moving folder [Documents/Central Repository- SKY Derm Pro ISA ARDs] into TERM folder.
+
+Cannot move folder [TERM-20230210-LESLEY.DUFNER] as it does not exist.
+
+Moving folder [Documents/SKYRIZI] into TERM folder.
+
+Moving folder [Documents/RINVOQ_] into TERM folder.
+
+Moving folder [Documents/Other] into TERM folder.
+
+Moving folder [Documents/SKYRIZI - Creative Server Solutions] into TERM folder.
+
+Cannot move folder [TERM-20230210-LESLEY.DUFNER] as it does not exist.
+
+Moving folder [Documents/2 year efficacy] into TERM folder.
+
+Moving folder [Documents/SKYRIZI Derm] into TERM folder.
+
+Moving file [/personal/lesley_dufner_eversana_com/Documents/Skyrizi References - AbbVie - Skyrizi Ps - HCP] into folder [/personal/lesley_dufner_eversana_com/Documents/TERM-20230210-LESLEY.DUFNER/Skyrizi References - AbbVie - Skyrizi Ps - HCP]
+
+Moving file [/personal/lesley_dufner_eversana_com/Documents/RINVOQ References - AbbVie - Skyrizi Ps - HCP] into folder [/personal/lesley_dufner_eversana_com/Documents/TERM-20230210-LESLEY.DUFNER/RINVOQ References - AbbVie - Skyrizi Ps - HCP]
+
+Moving file [/personal/lesley_dufner_eversana_com/Documents/Humira References - AbbVie - Skyrizi Ps - HCP] into folder [/personal/lesley_dufner_eversana_com/Documents/TERM-20230210-LESLEY.DUFNER/Humira References - AbbVie - Skyrizi Ps - HCP]
+
+Moving file [/personal/lesley_dufner_eversana_com/Documents/Central Repository- SKY Derm Pro ISA ARDs] into folder [/personal/lesley_dufner_eversana_com/Documents/TERM-20230210-LESLEY.DUFNER/Central Repository- SKY Derm Pro ISA ARDs]
+
+Moving file [/personal/lesley_dufner_eversana_com/Documents/SKYRIZI - Creative Server Solutions] into folder [/personal/lesley_dufner_eversana_com/Documents/TERM-20230210-LESLEY.DUFNER/SKYRIZI - Creative Server Solutions]
+
+Adding user [danielle.altmin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [danielle.altmin@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [christina.renfroe@eversana.com] whose manager is [tara.yantis@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/christina_renfroe_eversana_com]
+
+Adding folder [TERM-20230210-CHRISTINA.RENFROE] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Expenses] into TERM folder.
+
+Moving folder [Documents/Career Ladder] into TERM folder.
+
+Moving folder [Documents/PPC Ad Plans] into TERM folder.
+
+Moving folder [Documents/HCP Facebook Ads] into TERM folder.
+
+Moving folder [Documents/Peer Direct] into TERM folder.
+
+Moving folder [Documents/Sermo] into TERM folder.
+
+Moving folder [Documents/Project Briefs] into TERM folder.
+
+Moving folder [Documents/Timelines] into TERM folder.
+
+Moving folder [Documents/Unbranded Caregiver Story] into TERM folder.
+
+Moving folder [Documents/christina @ Work] into TERM folder.
+
+Moving folder [Documents/Tahkzyro] into TERM folder.
+
+Moving folder [Documents/HAE] into TERM folder.
+
+Moving folder [Documents/Images] into TERM folder.
+
+Cannot move folder [TERM-20230210-CHRISTINA.RENFROE] as it does not exist.
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKH 2.0]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/HAE Weekly Status 10.01.19.xlsx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/HAE Weekly Status 10.01.19.xlsx]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/RDD Photo Frame.pptx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/RDD Photo Frame.pptx]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/Static Banner Ad.pptx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/Static Banner Ad.pptx]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKHZYRO Static Banner Ad.pdf] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKHZYRO Static Banner Ad.pdf]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/Images] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/Images]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/Book2.xlsx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/Book2.xlsx]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/2.5.1 Submission Screenshots] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/2.5.1 Submission Screenshots]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/Approved Creative 2.2.2022] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/Approved Creative 2.2.2022]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/HAE Analytics Brief_Takeda P3 Report_December-March_04.11.22.docx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/HAE Analytics Brief_Takeda P3 Report_December-March_04.11.22.docx]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKHZYRO Facebook Indication Mock Up.pptx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKHZYRO Facebook Indication Mock Up.pptx]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/TAKHZYRO.com 2.0 Staging Credentials.docx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKHZYRO.com 2.0 Staging Credentials.docx]
+
+Cannot move file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/TAKHZYRO.com 2.0 Staging Credentials.docx] as it does not exist.
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/TAKHZYRO.com Consumer Staging Credentials 08.03.22.docx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKHZYRO.com Consumer Staging Credentials 08.03.22.docx]
+
+Cannot move file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/TAKHZYRO.com Consumer Staging Credentials 08.03.22.docx] as it does not exist.
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/TAKHZYRO.com HCP Website Staging Details (1).docx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKHZYRO.com HCP Website Staging Details (1).docx]
+
+Cannot move file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/TAKHZYRO.com HCP Website Staging Details (1).docx] as it does not exist.
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/Onboarding video transcript.docx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/Onboarding video transcript.docx]
+
+Cannot move file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/Onboarding video transcript.docx] as it does not exist.
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/TAKH 2.0 Updates .xlsx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKH 2.0 Updates .xlsx]
+
+Cannot move file [/personal/christina_renfroe_eversana_com/Documents/TAKH 2.0/TAKH 2.0 Updates .xlsx] as it does not exist.
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKHZYRO Unique URLs .docx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKHZYRO Unique URLs .docx]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/TAKHZYRO Patient & HCP GTM Brief.docx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/TAKHZYRO Patient & HCP GTM Brief.docx]
+
+Moving file [/personal/christina_renfroe_eversana_com/Documents/GLOBAL.docx] into folder [/personal/christina_renfroe_eversana_com/Documents/TERM-20230210-CHRISTINA.RENFROE/GLOBAL.docx]
+
+Processing OneDrive Delegation for delegate [justen.cucura@eversana.com] whose manager is [hope.hull@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/justen_cucura_eversana_com]
+
+Adding folder [TERM-20230210-JUSTEN.CUCURA] in /Documents directory
+
+Moving folder [Documents/Intouch, Abbvie and Genmab] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving file [/personal/justen_cucura_eversana_com/Documents/Epcoritamab HCP & Consumer Submission Linking Tracker.xlsx] into folder [/personal/justen_cucura_eversana_com/Documents/TERM-20230210-JUSTEN.CUCURA/Epcoritamab HCP & Consumer Submission Linking Tracker.xlsx]
+
+Moving file [/personal/justen_cucura_eversana_com/Documents/Document.docx] into folder [/personal/justen_cucura_eversana_com/Documents/TERM-20230210-JUSTEN.CUCURA/Document.docx]
+
+Moving file [/personal/justen_cucura_eversana_com/Documents/Book.xlsx] into folder [/personal/justen_cucura_eversana_com/Documents/TERM-20230210-JUSTEN.CUCURA/Book.xlsx]
+
+Adding user [hope.hull@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [hope.hull@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [markeita.daughtery@eversana.com] whose manager is [Matthew.Bruns@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/markeita_daughtery_eversana_com]
+
+Adding folder [TERM-20230210-MARKEITA.DAUGHTERY] in /Documents directory
+
+Moving folder [Documents/Markeita @ Eversana] into TERM folder.
+
+Moving file [/personal/markeita_daughtery_eversana_com/Documents/2 PAT 12-198.xlsx] into folder [/personal/markeita_daughtery_eversana_com/Documents/TERM-20230210-MARKEITA.DAUGHTERY/2 PAT 12-198.xlsx]
+
+Adding user [Matthew.Bruns@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Matthew.Bruns@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [michael.carpenter@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/michael_carpenter_eversana_com]
+
+Adding folder [TERM-20230210-MICHAEL.CARPENTER] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Michael @ EVERSANA] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

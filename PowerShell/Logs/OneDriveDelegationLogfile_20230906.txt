@@ -1,0 +1,352 @@
+
+Daily Set-OneDriveDelegation Detail Logging for September 06, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [matthew.thompson@eversana.com] whose manager is [charles.lawton@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/matthew_thompson_eversana_com]
+
+Adding folder [TERM-20230906-MATTHEW.THOMPSON] in /Documents directory
+
+Adding user [charles.lawton@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [charles.lawton@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [matthew.thompson@eversana.com] whose manager is [charles.lawton@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/matthew_thompson_eversana_com]
+
+Adding folder [TERM-20230906-MATTHEW.THOMPSON] in /Documents directory
+
+Main Folder [TERM-20230906-MATTHEW.THOMPSON] already exists --- will not recreate it
+
+Adding user [charles.lawton@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [charles.lawton@eversana.com]
+
+Processing OneDrive Delegation for delegate [sheanayla.sykes@eversana.com] whose manager is [cindy.wisdom@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sheanayla_sykes_eversana_com]
+
+Adding folder [TERM-20230906-SHEANAYLA.SYKES] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Sheanayla @ EVERSANA] into TERM folder.
+
+Moving file [/personal/sheanayla_sykes_eversana_com/Documents/PAT.docx] into folder [/personal/sheanayla_sykes_eversana_com/Documents/TERM-20230906-SHEANAYLA.SYKES/PAT.docx]
+
+Adding user [cindy.wisdom@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [cindy.wisdom@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [nouman.saleem@eversana.com] whose manager is [jonah.grotz@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/nouman_saleem_eversana_com]
+
+Adding folder [TERM-20230906-NOUMAN.SALEEM] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/B2D RACI Presentation] into TERM folder.
+
+Moving folder [Documents/DISC Profile] into TERM folder.
+
+Moving folder [Documents/Ignite Learning System Due 03162022] into TERM folder.
+
+Moving folder [Documents/Intouch B2D PM] into TERM folder.
+
+Moving folder [Documents/Intouch HR Policy and Benefits] into TERM folder.
+
+Moving folder [Documents/New Employee Orientation and Onboarding] into TERM folder.
+
+Moving folder [Documents/OneNote Notebooks] into TERM folder.
+
+Moving folder [Documents/Rate Card B2D] into TERM folder.
+
+Moving folder [Documents/Visual Studio 2022] into TERM folder.
+
+Moving folder [Documents/Workfront] into TERM folder.
+
+Moving folder [Documents/Genentech] into TERM folder.
+
+Moving folder [Documents/Screenshot Covo Pictures] into TERM folder.
+
+Moving folder [Documents/GNE Project Estimate] into TERM folder.
+
+Moving folder [Documents/NS Resume 2022] into TERM folder.
+
+Moving folder [Documents/Boot Camp Training] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Veeva Studio Expansion] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/FUEL 2023] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Data] into TERM folder.
+
+Moving folder [Documents/Executive Readout] into TERM folder.
+
+Moving folder [Documents/Menu Cards] into TERM folder.
+
+Moving folder [Documents/Trapper Keeper] into TERM folder.
+
+Moving folder [Documents/PC Reminder] into TERM folder.
+
+Moving folder [Documents/PC Career Ladder] into TERM folder.
+
+Moving folder [Documents/Intouch Menu Cards 2023] into TERM folder.
+
+Cannot move folder [TERM-20230906-NOUMAN.SALEEM] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/SEO Toolbox Project] into TERM folder.
+
+Moving folder [Documents/HR & Personal] into TERM folder.
+
+Moving folder [Documents/Meetings] into TERM folder.
+
+Moving folder [Documents/Nouman OneNote] into TERM folder.
+
+Moving folder [Documents/Nouman] into TERM folder.
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Intouch Menu Cards 2023] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Intouch Menu Cards 2023]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Genentech Email Technical Walkthrough Topics.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Genentech Email Technical Walkthrough Topics.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Ignite Virutal Strength Class.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Ignite Virutal Strength Class.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/GNE AEM Componentized Email Standup 04.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/GNE AEM Componentized Email Standup 04.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Export-Renters.xlsx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Export-Renters.xlsx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/PMO Meeting Bullet Points for 610.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/PMO Meeting Bullet Points for 610.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Status Doc_BLANK.xlsx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Status Doc_BLANK.xlsx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Status Doc Template.xlsx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Status Doc Template.xlsx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Affidavit Domestic Partner.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Affidavit Domestic Partner.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/homeacrordrunified18_2018.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/homeacrordrunified18_2018.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/ConcurExpenseOverview-IntouchGroup-3.5.19.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/ConcurExpenseOverview-IntouchGroup-3.5.19.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/pharmamarketing101workbook.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/pharmamarketing101workbook.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/PharmaIndustryResources.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/PharmaIndustryResources.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Guideline - Travel and Expense Reimbursement.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Guideline - Travel and Expense Reimbursement.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Process - Route, Review and Approve Project Assets.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Process - Route, Review and Approve Project Assets.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Policy - Confidentiality and Client Conflict (Intouch-internal).pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Policy - Confidentiality and Client Conflict (Intouch-internal).pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Guideline - Conducting Peer Reviews for Data Services.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Guideline - Conducting Peer Reviews for Data Services.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Standard - PHI Security Monitoring.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Standard - PHI Security Monitoring.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/signature-theme-654951-0-72604176-20220316101256150000000-vWFBD8.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/signature-theme-654951-0-72604176-20220316101256150000000-vWFBD8.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/User Guide - Purchasing using the AMEX and Purchase Order.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/User Guide - Purchasing using the AMEX and Purchase Order.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Revenue Program_Utilization Cheat Sheet.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Revenue Program_Utilization Cheat Sheet.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/IntouchBrandingGuidelines2020.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/IntouchBrandingGuidelines2020.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/MeetingsThatDontSuck.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/MeetingsThatDontSuck.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Standard - System Access Administration.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Standard - System Access Administration.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Standard - PHI Access Control.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Standard - PHI Access Control.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Standard - PHI Environment Configuration.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Standard - PHI Environment Configuration.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Policy - Compliance to HIPAA.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Policy - Compliance to HIPAA.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Microsoft Teams Best Practices Guideline.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Microsoft Teams Best Practices Guideline.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Instructions - Perform Schema Change.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Instructions - Perform Schema Change.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Standard - EDW Access Control.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Standard - EDW Access Control.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Policy - Data Classification.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Policy - Data Classification.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Policy - Data Privacy.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Policy - Data Privacy.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Standard - Mural Access Administration.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Standard - Mural Access Administration.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Manual - Software Development Life Cycle.pdf] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Manual - Software Development Life Cycle.pdf]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/SC_Style_Podcast_Transcript.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/SC_Style_Podcast_Transcript.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/DiSC_Handout_Virtual2022.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/DiSC_Handout_Virtual2022.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Instructions_SC_AC19_2a.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Instructions_SC_AC19_2a.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/SC_AC19_2a_NoumanSaleem_Report_1.accdb] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/SC_AC19_2a_NoumanSaleem_Report_1.accdb]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Project - hour sales price_637873749023670695.xlsx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Project - hour sales price_637873749023670695.xlsx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Genentech_AEM Componentize Emails Timeline_17 May 2022 (1).mpp] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Genentech_AEM Componentize Emails Timeline_17 May 2022 (1).mpp]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/B2D RACI Presentation Town Hall 09242019.pptx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/B2D RACI Presentation Town Hall 09242019.pptx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Intouch B2D - Non-Pod Project Kickoff Template.pptx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Intouch B2D - Non-Pod Project Kickoff Template.pptx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Negotiation_Prep_Worksheet.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Negotiation_Prep_Worksheet.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Alpha Pod DSU Meeting 617.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Alpha Pod DSU Meeting 617.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Alpha Pod DSU Meeting 621.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Alpha Pod DSU Meeting 621.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Chrome bookmarks_6_24_22.html] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Chrome bookmarks_6_24_22.html]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/FRD Meeting.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/FRD Meeting.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/test.txt] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/test.txt]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Chrome bookmarks_8_16_22.html] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Chrome bookmarks_8_16_22.html]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Bookings 2022-08-29.xlsx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Bookings 2022-08-29.xlsx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/Book.xlsx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/Book.xlsx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/2023 Menu Cards Email Campaign.xlsx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/2023 Menu Cards Email Campaign.xlsx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/How to Route a Doc.docx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/How to Route a Doc.docx]
+
+Moving file [/personal/nouman_saleem_eversana_com/Documents/2023 Internal Project Tracker_CWest_08082023 (002).xlsx] into folder [/personal/nouman_saleem_eversana_com/Documents/TERM-20230906-NOUMAN.SALEEM/2023 Internal Project Tracker_CWest_08082023 (002).xlsx]
+
+Adding user [jonah.grotz@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [jonah.grotz@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kamal.pathak@eversana.com] whose manager is [Allan.Siongco@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kamal_pathak_eversana_com]
+
+Adding folder [TERM-20230906-KAMAL.PATHAK] in /Documents directory
+
+Adding user [Allan.Siongco@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Allan.Siongco@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [salil.mulay@eversana.com] whose manager is [Allan.Siongco@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/salil_mulay_eversana_com]
+
+Adding folder [TERM-20230906-SALIL.MULAY] in /Documents directory
+
+Adding user [Allan.Siongco@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Allan.Siongco@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ashim.saha@eversana.com] whose manager is [Allan.Siongco@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ashim_saha_eversana_com]
+
+Adding folder [TERM-20230906-ASHIM.SAHA] in /Documents directory
+
+Adding user [Allan.Siongco@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Allan.Siongco@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [trinity.donastorg@eversana.com] whose manager is [whitney.mcclaurin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/trinity_donastorg_eversana_com]
+
+Adding folder [TERM-20230906-TRINITY.DONASTORG] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/trinity_donastorg_eversana_com/Documents/Trinity Donastorg - PAP Application Mailers (AutoRecovered).docx] into folder [/personal/trinity_donastorg_eversana_com/Documents/TERM-20230906-TRINITY.DONASTORG/Trinity Donastorg - PAP Application Mailers (AutoRecovered).docx]
+
+Adding user [whitney.mcclaurin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [whitney.mcclaurin@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [adarah.israel@eversana.com] whose manager is [tamara.kendrick@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/adarah_israel_eversana_com]
+
+Adding folder [TERM-20230906-ADARAH.ISRAEL] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [tamara.kendrick@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [tamara.kendrick@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

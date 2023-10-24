@@ -1,0 +1,452 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 27, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [pratyush.gupta@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/pratyush_gupta_eversana_com]
+
+Adding folder [TERM-20230727-PRATYUSH.GUPTA] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Internship Project] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Pratyush @ EVERSANA] into TERM folder.
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/Internal Resources_Access Information_2020 (2).xlsx] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/Internal Resources_Access Information_2020 (2).xlsx]
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/HR Induction deck -01st June 2023.pdf] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/HR Induction deck -01st June 2023.pdf]
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/EPF - New Composite Declaration Form 11.xlsx] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/EPF - New Composite Declaration Form 11.xlsx]
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/Personal Details - Pratyush Gupta.docx] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/Personal Details - Pratyush Gupta.docx]
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/EVERSANA 2023 Template.pptx] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/EVERSANA 2023 Template.pptx]
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/EVERSANA Digital (APAC) - presentation to interns.pdf] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/EVERSANA Digital (APAC) - presentation to interns.pdf]
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/PVF.doc] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/PVF.doc]
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/Contractor invoice July 2023.xlsx] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/Contractor invoice July 2023.xlsx]
+
+Moving file [/personal/pratyush_gupta_eversana_com/Documents/Contractor invoice July 2023.pdf] into folder [/personal/pratyush_gupta_eversana_com/Documents/TERM-20230727-PRATYUSH.GUPTA/Contractor invoice July 2023.pdf]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [dhawal.singh@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/dhawal_singh_eversana_com]
+
+Adding folder [TERM-20230727-DHAWAL.SINGH] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/dhawal_singh_eversana_com/Documents/Book1.xlsx] into folder [/personal/dhawal_singh_eversana_com/Documents/TERM-20230727-DHAWAL.SINGH/Book1.xlsx]
+
+Moving file [/personal/dhawal_singh_eversana_com/Documents/Book2.csv] into folder [/personal/dhawal_singh_eversana_com/Documents/TERM-20230727-DHAWAL.SINGH/Book2.csv]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [sanskriti.agrawal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sanskriti_agrawal_eversana_com]
+
+Adding folder [TERM-20230727-SANSKRITI.AGRAWAL] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/document 1 - molecular diagnostics.docx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/document 1 - molecular diagnostics.docx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/WorkflowPlan_Sanskriti.xlsx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/WorkflowPlan_Sanskriti.xlsx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/molecular diagnostics categories.xlsx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/molecular diagnostics categories.xlsx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/WorkflowPlan_Sanskriti.pdf] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/WorkflowPlan_Sanskriti.pdf]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/Timeline1.pptx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/Timeline1.pptx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/molecular diagnostics categories (1).xlsx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/molecular diagnostics categories (1).xlsx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/MDx product list.csv.xlsx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/MDx product list.csv.xlsx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/MDx product list.csv.xlsm] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/MDx product list.csv.xlsm]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/MDx product list.xlsm] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/MDx product list.xlsm]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/Final MDx product list.xlsx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/Final MDx product list.xlsx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/DG - MDx project.docx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/DG - MDx project.docx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/Contacting PMR.docx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/Contacting PMR.docx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/MDx project imp sheets.xlsx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/MDx project imp sheets.xlsx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/Molecular Diagnostics questionnaire.docx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/Molecular Diagnostics questionnaire.docx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/MDx project imp sheets_07jul.xlsx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/MDx project imp sheets_07jul.xlsx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/MDx project imp sheets_7th July_v2.xlsx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/MDx project imp sheets_7th July_v2.xlsx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/Questionnaire - 2.docx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/Questionnaire - 2.docx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/Whitepaper draft.docx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/Whitepaper draft.docx]
+
+Moving file [/personal/sanskriti_agrawal_eversana_com/Documents/Final presentation_MDx.pptx] into folder [/personal/sanskriti_agrawal_eversana_com/Documents/TERM-20230727-SANSKRITI.AGRAWAL/Final presentation_MDx.pptx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [sanskriti.agrawal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sanskriti_agrawal_eversana_com]
+
+Adding folder [TERM-20230727-SANSKRITI.AGRAWAL] in /Documents directory
+
+Main Folder [TERM-20230727-SANSKRITI.AGRAWAL] already exists --- will not recreate it
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Processing OneDrive Delegation for delegate [sanskriti.agrawal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sanskriti_agrawal_eversana_com]
+
+Adding folder [TERM-20230727-SANSKRITI.AGRAWAL] in /Documents directory
+
+Main Folder [TERM-20230727-SANSKRITI.AGRAWAL] already exists --- will not recreate it
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Processing OneDrive Delegation for delegate [sanskriti.agrawal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sanskriti_agrawal_eversana_com]
+
+Adding folder [TERM-20230727-SANSKRITI.AGRAWAL] in /Documents directory
+
+Main Folder [TERM-20230727-SANSKRITI.AGRAWAL] already exists --- will not recreate it
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Processing OneDrive Delegation for delegate [himanshu.bhokarikar@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/himanshu_bhokarikar_eversana_com]
+
+Adding folder [TERM-20230727-HIMANSHU.BHOKARIKAR] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving file [/personal/himanshu_bhokarikar_eversana_com/Documents/Work_Updates_Himanshu-Bhokarikar.xlsx] into folder [/personal/himanshu_bhokarikar_eversana_com/Documents/TERM-20230727-HIMANSHU.BHOKARIKAR/Work_Updates_Himanshu-Bhokarikar.xlsx]
+
+Moving file [/personal/himanshu_bhokarikar_eversana_com/Documents/Work_Updates_Himanshu-Bhokarikar (1).xlsx] into folder [/personal/himanshu_bhokarikar_eversana_com/Documents/TERM-20230727-HIMANSHU.BHOKARIKAR/Work_Updates_Himanshu-Bhokarikar (1).xlsx]
+
+Moving file [/personal/himanshu_bhokarikar_eversana_com/Documents/Interim Draft.pptx] into folder [/personal/himanshu_bhokarikar_eversana_com/Documents/TERM-20230727-HIMANSHU.BHOKARIKAR/Interim Draft.pptx]
+
+Moving file [/personal/himanshu_bhokarikar_eversana_com/Documents/Presentation.pptx] into folder [/personal/himanshu_bhokarikar_eversana_com/Documents/TERM-20230727-HIMANSHU.BHOKARIKAR/Presentation.pptx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [varun.maghnani@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/varun_maghnani_eversana_com]
+
+Adding folder [TERM-20230727-VARUN.MAGHNANI] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving file [/personal/varun_maghnani_eversana_com/Documents/Timeline.xlsx] into folder [/personal/varun_maghnani_eversana_com/Documents/TERM-20230727-VARUN.MAGHNANI/Timeline.xlsx]
+
+Moving file [/personal/varun_maghnani_eversana_com/Documents/Roadmad.pdf] into folder [/personal/varun_maghnani_eversana_com/Documents/TERM-20230727-VARUN.MAGHNANI/Roadmad.pdf]
+
+Moving file [/personal/varun_maghnani_eversana_com/Documents/Roadmap.pdf] into folder [/personal/varun_maghnani_eversana_com/Documents/TERM-20230727-VARUN.MAGHNANI/Roadmap.pdf]
+
+Moving file [/personal/varun_maghnani_eversana_com/Documents/EPF form.xlsx] into folder [/personal/varun_maghnani_eversana_com/Documents/TERM-20230727-VARUN.MAGHNANI/EPF form.xlsx]
+
+Moving file [/personal/varun_maghnani_eversana_com/Documents/ppt interim.pptx] into folder [/personal/varun_maghnani_eversana_com/Documents/TERM-20230727-VARUN.MAGHNANI/ppt interim.pptx]
+
+Moving file [/personal/varun_maghnani_eversana_com/Documents/ppt interim deck.pptx] into folder [/personal/varun_maghnani_eversana_com/Documents/TERM-20230727-VARUN.MAGHNANI/ppt interim deck.pptx]
+
+Moving file [/personal/varun_maghnani_eversana_com/Documents/ppt interim deck pre.pptx] into folder [/personal/varun_maghnani_eversana_com/Documents/TERM-20230727-VARUN.MAGHNANI/ppt interim deck pre.pptx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [anurag.pendse@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/anurag_pendse_eversana_com]
+
+Adding folder [TERM-20230727-ANURAG.PENDSE] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/ASCO Poster Summaries- 3 June.docx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/ASCO Poster Summaries- 3 June.docx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/ASCO 2023 CI Coverage Planner - MEL NSCLC GC Bladder RCC - 31May2023.xlsx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/ASCO 2023 CI Coverage Planner - MEL NSCLC GC Bladder RCC - 31May2023.xlsx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Abstract summaries.docx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Abstract summaries.docx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/InternProject_SelfNotes.docx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/InternProject_SelfNotes.docx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/InternProject.xlsx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/InternProject.xlsx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/PostersNotOnGDrive.xlsx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/PostersNotOnGDrive.xlsx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/InternProjectEpiData.xlsx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/InternProjectEpiData.xlsx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/ASCO Quotes.docx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/ASCO Quotes.docx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Where did Ferrari go wrong.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Where did Ferrari go wrong.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Ferrari mistakes.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Ferrari mistakes.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Data Dump- Intern Project.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Data Dump- Intern Project.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Intern Project-presentation.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Intern Project-presentation.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/InterimPresFair.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/InterimPresFair.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Intern Project-Interim presentation-final.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Intern Project-Interim presentation-final.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Final Presentation.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Final Presentation.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Final Presentation_final.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Final Presentation_final.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/InternProjectEpiData (1).xlsx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/InternProjectEpiData (1).xlsx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/InternProject (1).xlsx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/InternProject (1).xlsx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/Intern Project-Interim presentation-final (1).pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/Intern Project-Interim presentation-final (1).pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/final.pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/final.pptx]
+
+Moving file [/personal/anurag_pendse_eversana_com/Documents/final (1).pptx] into folder [/personal/anurag_pendse_eversana_com/Documents/TERM-20230727-ANURAG.PENDSE/final (1).pptx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [utkarsh.agiwal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/utkarsh_agiwal_eversana_com]
+
+Adding folder [TERM-20230727-UTKARSH.AGIWAL] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Utkarsh @ EVERSANA] into TERM folder.
+
+Moving file [/personal/utkarsh_agiwal_eversana_com/Documents/decision_science_deck_v140623.pptx] into folder [/personal/utkarsh_agiwal_eversana_com/Documents/TERM-20230727-UTKARSH.AGIWAL/decision_science_deck_v140623.pptx]
+
+Moving file [/personal/utkarsh_agiwal_eversana_com/Documents/decision_science_deck_v150623.pptx] into folder [/personal/utkarsh_agiwal_eversana_com/Documents/TERM-20230727-UTKARSH.AGIWAL/decision_science_deck_v150623.pptx]
+
+Moving file [/personal/utkarsh_agiwal_eversana_com/Documents/decision_science_deck_v180623.pptx] into folder [/personal/utkarsh_agiwal_eversana_com/Documents/TERM-20230727-UTKARSH.AGIWAL/decision_science_deck_v180623.pptx]
+
+Moving file [/personal/utkarsh_agiwal_eversana_com/Documents/The science of data.docx] into folder [/personal/utkarsh_agiwal_eversana_com/Documents/TERM-20230727-UTKARSH.AGIWAL/The science of data.docx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [bharat.kommana@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/bharat_kommana_eversana_com]
+
+Adding folder [TERM-20230727-BHARAT.KOMMANA] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving folder [Documents/Drug Pricing Model] into TERM folder.
+
+Moving file [/personal/bharat_kommana_eversana_com/Documents/Factors considered to influence successful market access.docx] into folder [/personal/bharat_kommana_eversana_com/Documents/TERM-20230727-BHARAT.KOMMANA/Factors considered to influence successful market access.docx]
+
+Moving file [/personal/bharat_kommana_eversana_com/Documents/JapanMrkets.xlsx] into folder [/personal/bharat_kommana_eversana_com/Documents/TERM-20230727-BHARAT.KOMMANA/JapanMrkets.xlsx]
+
+Moving file [/personal/bharat_kommana_eversana_com/Documents/Aus_Markets.xlsx] into folder [/personal/bharat_kommana_eversana_com/Documents/TERM-20230727-BHARAT.KOMMANA/Aus_Markets.xlsx]
+
+Moving file [/personal/bharat_kommana_eversana_com/Documents/HYPER.xlsx] into folder [/personal/bharat_kommana_eversana_com/Documents/TERM-20230727-BHARAT.KOMMANA/HYPER.xlsx]
+
+Moving file [/personal/bharat_kommana_eversana_com/Documents/gsk-viiv-the-pbs-in-australia-feb-2018.pptx] into folder [/personal/bharat_kommana_eversana_com/Documents/TERM-20230727-BHARAT.KOMMANA/gsk-viiv-the-pbs-in-australia-feb-2018.pptx]
+
+Moving file [/personal/bharat_kommana_eversana_com/Documents/ML MODELS.docx] into folder [/personal/bharat_kommana_eversana_com/Documents/TERM-20230727-BHARAT.KOMMANA/ML MODELS.docx]
+
+Moving file [/personal/bharat_kommana_eversana_com/Documents/DrugPriceModel_Bharat.zip] into folder [/personal/bharat_kommana_eversana_com/Documents/TERM-20230727-BHARAT.KOMMANA/DrugPriceModel_Bharat.zip]
+
+Moving file [/personal/bharat_kommana_eversana_com/Documents/Contractor_Invoice_Bharat.xlsx] into folder [/personal/bharat_kommana_eversana_com/Documents/TERM-20230727-BHARAT.KOMMANA/Contractor_Invoice_Bharat.xlsx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [dorothy.edwards@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/dorothy_edwards_eversana_com]
+
+Adding folder [TERM-20230727-DOROTHY.EDWARDS] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Dorothy @ Eversana] into TERM folder.
+
+Moving file [/personal/dorothy_edwards_eversana_com/Documents/Doc1.docx] into folder [/personal/dorothy_edwards_eversana_com/Documents/TERM-20230727-DOROTHY.EDWARDS/Doc1.docx]
+
+Moving file [/personal/dorothy_edwards_eversana_com/Documents/Doc1.pdf] into folder [/personal/dorothy_edwards_eversana_com/Documents/TERM-20230727-DOROTHY.EDWARDS/Doc1.pdf]
+
+Moving file [/personal/dorothy_edwards_eversana_com/Documents/2022 Complaint Form - EVERSANA (002).docx] into folder [/personal/dorothy_edwards_eversana_com/Documents/TERM-20230727-DOROTHY.EDWARDS/2022 Complaint Form - EVERSANA (002).docx]
+
+Moving file [/personal/dorothy_edwards_eversana_com/Documents/AEPC Form 2022.docx] into folder [/personal/dorothy_edwards_eversana_com/Documents/TERM-20230727-DOROTHY.EDWARDS/AEPC Form 2022.docx]
+
+Moving file [/personal/dorothy_edwards_eversana_com/Documents/AEPC Form 2023.docx] into folder [/personal/dorothy_edwards_eversana_com/Documents/TERM-20230727-DOROTHY.EDWARDS/AEPC Form 2023.docx]
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ravali.chenna@eversana.com] whose manager is [tim.runkle@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ravali_chenna_eversana_com]
+
+Adding folder [TERM-20230727-RAVALI.CHENNA] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [tim.runkle@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [tim.runkle@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ravali.chenna@eversana.com] whose manager is [tim.runkle@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ravali_chenna_eversana_com]
+
+Adding folder [TERM-20230727-RAVALI.CHENNA] in /Documents directory
+
+Main Folder [TERM-20230727-RAVALI.CHENNA] already exists --- will not recreate it
+
+Adding user [tim.runkle@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [tim.runkle@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+

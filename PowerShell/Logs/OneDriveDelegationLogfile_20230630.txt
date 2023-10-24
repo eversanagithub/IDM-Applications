@@ -1,0 +1,53 @@
+
+Daily Set-OneDriveDelegation Detail Logging for June 30, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [jillian.peterson@eversana.com] whose manager is [mia.duffie@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jillian_peterson_eversana_com]
+
+Adding folder [TERM-20230630-JILLIAN.PETERSON] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/jillian_peterson_eversana_com/Documents/Quick Notes Data Intake.docx] into folder [/personal/jillian_peterson_eversana_com/Documents/TERM-20230630-JILLIAN.PETERSON/Quick Notes Data Intake.docx]
+
+Moving file [/personal/jillian_peterson_eversana_com/Documents/Doc1.docx] into folder [/personal/jillian_peterson_eversana_com/Documents/TERM-20230630-JILLIAN.PETERSON/Doc1.docx]
+
+Moving file [/personal/jillian_peterson_eversana_com/Documents/MISC.docx] into folder [/personal/jillian_peterson_eversana_com/Documents/TERM-20230630-JILLIAN.PETERSON/MISC.docx]
+
+Moving file [/personal/jillian_peterson_eversana_com/Documents/INCOME INFO.docx] into folder [/personal/jillian_peterson_eversana_com/Documents/TERM-20230630-JILLIAN.PETERSON/INCOME INFO.docx]
+
+Adding user [mia.duffie@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [mia.duffie@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [steve.beauchamp@eversana.com] whose manager is [justin.oneal@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/steve_beauchamp_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

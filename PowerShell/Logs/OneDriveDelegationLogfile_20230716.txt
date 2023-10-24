@@ -1,0 +1,80 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 16, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [mason.clark@eversana.com] whose manager is [franco.spraggins@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/mason_clark_eversana_com]
+
+Adding folder [TERM-20230716-MASON.CLARK] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Privacy Agreements] into TERM folder.
+
+Moving file [/personal/mason_clark_eversana_com/Documents/ERD-1-21c BAA Exhibit C_Rev 0.docx] into folder [/personal/mason_clark_eversana_com/Documents/TERM-20230716-MASON.CLARK/ERD-1-21c BAA Exhibit C_Rev 0.docx]
+
+Moving file [/personal/mason_clark_eversana_com/Documents/January 2023.docx] into folder [/personal/mason_clark_eversana_com/Documents/TERM-20230716-MASON.CLARK/January 2023.docx]
+
+Moving file [/personal/mason_clark_eversana_com/Documents/Privacy Update - Washington My Health My Data.docx] into folder [/personal/mason_clark_eversana_com/Documents/TERM-20230716-MASON.CLARK/Privacy Update - Washington My Health My Data.docx]
+
+Moving file [/personal/mason_clark_eversana_com/Documents/AI Initiative Scope of Work - EVSS.docx] into folder [/personal/mason_clark_eversana_com/Documents/TERM-20230716-MASON.CLARK/AI Initiative Scope of Work - EVSS.docx]
+
+Adding user [franco.spraggins@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [franco.spraggins@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ramatu.nasir@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ramatu_nasir_eversana_com]
+
+Adding folder [TERM-20230716-RAMATU.NASIR] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Ramatu @ Eversana] into TERM folder.
+
+Moving file [/personal/ramatu_nasir_eversana_com/Documents/CHANGES.docx] into folder [/personal/ramatu_nasir_eversana_com/Documents/TERM-20230716-RAMATU.NASIR/CHANGES.docx]
+
+Moving file [/personal/ramatu_nasir_eversana_com/Documents/CALL BACKS.docx] into folder [/personal/ramatu_nasir_eversana_com/Documents/TERM-20230716-RAMATU.NASIR/CALL BACKS.docx]
+
+Moving file [/personal/ramatu_nasir_eversana_com/Documents/Call Openings.docx] into folder [/personal/ramatu_nasir_eversana_com/Documents/TERM-20230716-RAMATU.NASIR/Call Openings.docx]
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

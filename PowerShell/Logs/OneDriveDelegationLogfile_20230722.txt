@@ -1,0 +1,1195 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 22, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [nb.barooah@eversana.com] whose manager is [charles.lawton@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/nb_barooah_eversana_com]
+
+Adding folder [TERM-20230722-NB.BAROOAH] in /Documents directory
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/MDM & DG Implementation] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Budget & Expenses] into TERM folder.
+
+Cannot move folder [TERM-20230722-NB.BAROOAH] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Meetings] into TERM folder.
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Budget & Expenses] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Budget & Expenses]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Copy of CRM MDM Requirements_3_14_22.xlsx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Copy of CRM MDM Requirements_3_14_22.xlsx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Enterprise Architecture Intro-20220316_140529-Meeting Recording.mp4] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Enterprise Architecture Intro-20220316_140529-Meeting Recording.mp4]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Integration Approach for MDM.pptx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Integration Approach for MDM.pptx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Digital Council 3-21-22-v1.pptx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Digital Council 3-21-22-v1.pptx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/DataCouncil_20211130.pptx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/DataCouncil_20211130.pptx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Drawing.vsdx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Drawing.vsdx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Slides Boneyard.pptx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Slides Boneyard.pptx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Enterprise MDM - Data Council_20220405.pptx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Enterprise MDM - Data Council_20220405.pptx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/KnowledgePortal.docx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/KnowledgePortal.docx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Budget and Spend Analysis.xlsx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Budget and Spend Analysis.xlsx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Budget and Spend Analysis (1).xlsx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Budget and Spend Analysis (1).xlsx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/MDM Developer.docx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/MDM Developer.docx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Collibra Developer.docx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Collibra Developer.docx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Presentation1.pptx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Presentation1.pptx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Critical Data Elements- NB.xlsx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Critical Data Elements- NB.xlsx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Actual Hours Analysis.xlsx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Actual Hours Analysis.xlsx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Client-specific PDM - Example.xlsx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Client-specific PDM - Example.xlsx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/MDM Production Plan.xlsx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/MDM Production Plan.xlsx]
+
+Moving file [/personal/nb_barooah_eversana_com/Documents/Transition Plan - NB.xlsx] into folder [/personal/nb_barooah_eversana_com/Documents/TERM-20230722-NB.BAROOAH/Transition Plan - NB.xlsx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [nb.barooah@eversana.com] whose manager is [charles.lawton@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/nb_barooah_eversana_com]
+
+Adding folder [TERM-20230722-NB.BAROOAH] in /Documents directory
+
+Main Folder [TERM-20230722-NB.BAROOAH] already exists --- will not recreate it
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [jonathan.kish@eversana.com] whose manager is [nicole.ferko@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jonathan_kish_eversana_com]
+
+Adding folder [TERM-20230722-JONATHAN.KISH] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents - Eversana-Data & Analytics] into TERM folder.
+
+Cannot move folder [TERM-20230722-JONATHAN.KISH] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/05. RWD & HEOR Team] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/05. RWD & HEOR Team]
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/Documents - Eversana-Data & Analytics] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/Documents - Eversana-Data & Analytics]
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/Eversana for BMS_EHRs Data Product User Guide Final September 2022.docx] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/Eversana for BMS_EHRs Data Product User Guide Final September 2022.docx]
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/Process to Create a new Account in SFDC.docx] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/Process to Create a new Account in SFDC.docx]
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/Eversana HealthVerity HV-005738 Third Party Data Use EXHIBIT 072522 v1 rev3 Final JKK.docx] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/Eversana HealthVerity HV-005738 Third Party Data Use EXHIBIT 072522 v1 rev3 Final JKK.docx]
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/EVERSANA for ACGP_ CGP Testing Value Projects_02022023 (rev).pptx] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/EVERSANA for ACGP_ CGP Testing Value Projects_02022023 (rev).pptx]
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/Janssen_CRG-EVERSANA_SOW_CI22978_ELSS 20230221.docx] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/Janssen_CRG-EVERSANA_SOW_CI22978_ELSS 20230221.docx]
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/Copy of Regeneron_ Request Fulfilled by Eversana_ 02032023.xlsx] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/Copy of Regeneron_ Request Fulfilled by Eversana_ 02032023.xlsx]
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/05. RWD & HEOR Team/RWE Master Tracking - Project, Proposals, and Operations.xlsx] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/RWE Master Tracking - Project, Proposals, and Operations.xlsx]
+
+Cannot move file [/personal/jonathan_kish_eversana_com/Documents/05. RWD & HEOR Team/RWE Master Tracking - Project, Proposals, and Operations.xlsx] as it does not exist.
+
+Moving file [/personal/jonathan_kish_eversana_com/Documents/EVERSANA for ACGP Conafay_CGP RWE Studies_SOW_Mar 28 2023 Draft.docx] into folder [/personal/jonathan_kish_eversana_com/Documents/TERM-20230722-JONATHAN.KISH/EVERSANA for ACGP Conafay_CGP RWE Studies_SOW_Mar 28 2023 Draft.docx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [faith.cockrell@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/faith_cockrell_eversana_com]
+
+Adding folder [TERM-20230722-FAITH.COCKRELL] in /Documents directory
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Desktop]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Documents]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Pictures]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures/Camera Roll] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Camera Roll]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures/Camera Roll] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures/Screenshots] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Screenshots]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures/Screenshots] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures/Saved Pictures] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Saved Pictures]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures/Saved Pictures] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/OneNote Notebooks] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/OneNote Notebooks]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/OneNote Notebooks] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Custom Office Templates] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Custom Office Templates]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Custom Office Templates] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Microsoft Teams Chat Files] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Microsoft Teams Chat Files]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Attachments] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Attachments]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Outlook Files] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Outlook Files]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Outlook Files] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/TERM-20230718-FAITH.COCKRELL]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Faith @ Eversana]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/Open Notebook.onetoc2] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Open Notebook.onetoc2]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/Open Notebook.onetoc2] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/Quick Notes.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Quick Notes.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/Quick Notes.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 1.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 1.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 1.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 2.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 2.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 2.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 3.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 3.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 3.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 4.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 4.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 4.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/IT Service Desk.url] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/IT Service Desk.url]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/IT Service Desk.url] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Microsoft Teams.lnk] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Microsoft Teams.lnk]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Microsoft Teams.lnk] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/EVERSANA IT Handbook - PC.pptx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/EVERSANA IT Handbook - PC.pptx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/EVERSANA IT Handbook - PC.pptx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 5.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 5.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 5.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 6.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 6.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 6.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 7.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 7.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 7.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 8.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 8.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 8.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 9.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 9.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 9.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 10.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 10.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 10.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 11.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 11.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 11.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 12.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 12.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 12.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Missing Information Process Flow.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Missing Information Process Flow.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Missing Information Process Flow.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/PS-JJPAF-PAP Service Event Checklist-.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/PS-JJPAF-PAP Service Event Checklist-.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/PS-JJPAF-PAP Service Event Checklist-.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/No Cov DeterminationV3.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/No Cov DeterminationV3.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/No Cov DeterminationV3.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Processing Quick Notes.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Quick Notes.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Processing Quick Notes.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Copy of January Tracking 1 13.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Copy of January Tracking 1 13.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Copy of January Tracking 1 13.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/February Tracking.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/February Tracking.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/February Tracking.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 13.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 13.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 13.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 14.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 14.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 14.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 15.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 15.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 15.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 16.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 16.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 16.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/OneNote Notebooks/randy@ eversana] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/randy@ eversana]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/OneNote Notebooks/randy@ eversana] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/JJPAF-Benefit Verifications-PPT 2022.pptx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/JJPAF-Benefit Verifications-PPT 2022.pptx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/JJPAF-Benefit Verifications-PPT 2022.pptx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/HOW T PROCESS.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/HOW T PROCESS.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/HOW T PROCESS.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/OneNote Notebooks/randy@ eversana/Open Notebook.onetoc2] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Open Notebook.onetoc2]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/OneNote Notebooks/randy@ eversana/Open Notebook.onetoc2] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/OneNote Notebooks/randy@ eversana/New Section 1.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 1.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/OneNote Notebooks/randy@ eversana/New Section 1.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 17.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 17.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 17.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 18.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 18.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 18.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 19.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 19.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 19.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 20.one] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New Section 20.one]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith @ Eversana/New Section 20.one] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Tracking for february.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Tracking for february.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Tracking for february.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Processing Log 3-31-2023.XLSX] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 3-31-2023.XLSX]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Processing Log 3-31-2023.XLSX] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing 3-3-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing 3-3-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing 3-3-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-15-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 3-15-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-15-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-21-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 3-21-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-21-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-29-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 3-29-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-29-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-1-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-1-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-1-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-4-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-4-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-4-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-7-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-7-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-7-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-8-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-8-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-8-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-11-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-11-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-11-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-12-22 (1).xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-12-22 (1).xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-12-22 (1).xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-13-22 .xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-13-22 .xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-13-22 .xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-21-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-21-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-21-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-22-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-22-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-22-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-25-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-25-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-25-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-27-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-27-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-27-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-28-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-28-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-28-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-29-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 4-29-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-29-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-5-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 5-5-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-5-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-10-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 5-10-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-10-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-11-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 5-11-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-11-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-17-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 5-17-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-17-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-19-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 5-19-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-19-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-24-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 5-24-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-24-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-31-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 5-31-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-31-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-2-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-2-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-2-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-3-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-3-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-3-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-14-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-14-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-14-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-21-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-21-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-21-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-23-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-23-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-23-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-27-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-27-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-27-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-28-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-28-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-28-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-29-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-29-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-29-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-30-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 6-30-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-30-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Team Expectations (003).docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Team Expectations (003).docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Team Expectations (003).docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Cardio_Meta_Other.pptx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Cardio_Meta_Other.pptx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Cardio_Meta_Other.pptx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/bookmarks_7_1_22.html] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/bookmarks_7_1_22.html]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/bookmarks_7_1_22.html] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Chrome Passwords.csv] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Chrome Passwords.csv]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Chrome Passwords.csv] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-14-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 7-14-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-14-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-20-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 7-20-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-20-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-27-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 7-27-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-27-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-29-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 7-29-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-29-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-4-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 8-4-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-4-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-5-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 8-5-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-5-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-25-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 8-25-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-25-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-10-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 10-10-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-10-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-7-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 10-7-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-7-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/EVERSANA IT Handbook.pptx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/EVERSANA IT Handbook.pptx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/EVERSANA IT Handbook.pptx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/IT Service Desk - Copy.url] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/IT Service Desk - Copy.url]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/IT Service Desk - Copy.url] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Microsoft Teams - Copy.lnk] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Microsoft Teams - Copy.lnk]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Microsoft Teams - Copy.lnk] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-24-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 10-24-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-24-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 2-16-23.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Processing Log 2-16-23.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 2-16-23.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Quick Notes Data Intake.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Quick Notes Data Intake.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Quick Notes Data Intake.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/QUICK PROCESSING NOTES 11.3.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/QUICK PROCESSING NOTES 11.3.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/QUICK PROCESSING NOTES 11.3.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Inbound Call Template.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Inbound Call Template.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Inbound Call Template.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/JJPAF_Product List_Effective10.1.22.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/JJPAF_Product List_Effective10.1.22.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/JJPAF_Product List_Effective10.1.22.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/JJPAF-application-revSep22Infliximab.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/JJPAF-application-revSep22Infliximab.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/JJPAF-application-revSep22Infliximab.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/FAQ - 9-28-22 - Eligibility Changes - Final.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/FAQ - 9-28-22 - Eligibility Changes - Final.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/FAQ - 9-28-22 - Eligibility Changes - Final.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/JJPAF_Application_IMBRUVICA.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/JJPAF_Application_IMBRUVICA.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/JJPAF_Application_IMBRUVICA.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/jjpaf-application- ALL OTHER PRODUCTS.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/jjpaf-application- ALL OTHER PRODUCTS.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/jjpaf-application- ALL OTHER PRODUCTS.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/New 2023 Product List.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/New 2023 Product List.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/New 2023 Product List.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/MEDTEK Training Guide JJPAF BC 10.22.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/MEDTEK Training Guide JJPAF BC 10.22.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/MEDTEK Training Guide JJPAF BC 10.22.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures/Screenshot 2022-12-22 163831.png] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Screenshot 2022-12-22 163831.png]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Pictures/Screenshot 2022-12-22 163831.png] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Microsoft Teams Chat Files/Screenshot 2022-12-22 163831.png] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Screenshot 2022-12-22 163831.png]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Microsoft Teams Chat Files/Screenshot 2022-12-22 163831.png] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/101.24 Eversana-JJPAF SOP - Effective 1-1-2023_Executed.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/101.24 Eversana-JJPAF SOP - Effective 1-1-2023_Executed.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/101.24 Eversana-JJPAF SOP - Effective 1-1-2023_Executed.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith C 1-4-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Faith C 1-4-22.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith C 1-4-22.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/MedTek BV Notes Template.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/MedTek BV Notes Template.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/MedTek BV Notes Template.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC failed order report 1-18-2023.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/RXC failed order report 1-18-2023.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC failed order report 1-18-2023.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Copy of JJPAF RXC failed order report 1-25-2023.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Copy of JJPAF RXC failed order report 1-25-2023.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Copy of JJPAF RXC failed order report 1-25-2023.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC report 1-25-23 Faith.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/RXC report 1-25-23 Faith.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC report 1-25-23 Faith.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC report 1-25-23 Faith_.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/RXC report 1-25-23 Faith_.xlsx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC report 1-25-23 Faith_.xlsx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE00009892 .docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE00009892 .docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE00009892 .docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Faith Cockrell 5-2-23.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Faith Cockrell 5-2-23.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Desktop/Faith Cockrell 5-2-23.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005812.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00005812.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005812.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 5-2-23 (003).pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Faith Cockrell 5-2-23 (003).pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 5-2-23 (003).pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 5-10-23.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Faith Cockrell 5-10-23.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 5-10-23.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Microsoft Teams Chat Files/Loop task list.loop] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Loop task list.loop]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Microsoft Teams Chat Files/Loop task list.loop] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005892.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00005892.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005892.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005985.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00005985.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005985.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00006012.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006008.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00006008.docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006008.docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012 (1).docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00006012 (1).docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012 (1).docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012 (2).docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00006012 (2).docx]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012 (2).docx] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 5-22-23.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Faith Cockrell 5-22-23.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 5-22-23.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/AE-00006066.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00006066.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/AE-00006066.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 6-20-23.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Faith Cockrell 6-20-23.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 6-20-23.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 6-20-23 DA.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/Faith Cockrell 6-20-23 DA.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/Faith Cockrell 6-20-23 DA.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/AE-00006287.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00006287.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/AE-00006287.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/AE-00006290.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00006290.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/AE-00006290.pdf] as it does not exist.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/AE-00006297.pdf] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230722-FAITH.COCKRELL/AE-00006297.pdf]
+
+Cannot move file [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Documents/AE-00006297.pdf] as it does not exist.
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Processing OneDrive Delegation for delegate [suniva.priyadarshini@eversana.com] whose manager is [Amit.Uttarwar@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/suniva_priyadarshini_eversana_com]
+
+Adding folder [TERM-20230722-SUNIVA.PRIYADARSHINI] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Pen test Q2 reports 2020] into TERM folder.
+
+Moving folder [Documents/2020 Teva enhancement IADs] into TERM folder.
+
+Moving folder [Documents/Pen test Q3 reports 2020] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Suniva @ Eversana] into TERM folder.
+
+Moving file [/personal/suniva_priyadarshini_eversana_com/Documents/Enhancement IADs Solution.docx] into folder [/personal/suniva_priyadarshini_eversana_com/Documents/TERM-20230722-SUNIVA.PRIYADARSHINI/Enhancement IADs Solution.docx]
+
+Moving file [/personal/suniva_priyadarshini_eversana_com/Documents/Galapagos CI Goldfish app Android test document.docx] into folder [/personal/suniva_priyadarshini_eversana_com/Documents/TERM-20230722-SUNIVA.PRIYADARSHINI/Galapagos CI Goldfish app Android test document.docx]
+
+Moving file [/personal/suniva_priyadarshini_eversana_com/Documents/Book.xlsx] into folder [/personal/suniva_priyadarshini_eversana_com/Documents/TERM-20230722-SUNIVA.PRIYADARSHINI/Book.xlsx]
+
+Moving file [/personal/suniva_priyadarshini_eversana_com/Documents/Issue.docx] into folder [/personal/suniva_priyadarshini_eversana_com/Documents/TERM-20230722-SUNIVA.PRIYADARSHINI/Issue.docx]
+
+Adding user [Amit.Uttarwar@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Amit.Uttarwar@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [haley.beck@eversana.com] whose manager is [haleigh.martino@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/haley_beck_eversana_com]
+
+Adding folder [TERM-20230722-HALEY.BECK] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Table Top Display and Banner Stand] into TERM folder.
+
+Moving folder [Documents/Reg Review-Table Top and Banner Stand] into TERM folder.
+
+Moving folder [Documents/Table Top and Banner Stand Mech Files] into TERM folder.
+
+Moving folder [Documents/US-VED-1601 & US-VED-1718 ACG Panels for Review] into TERM folder.
+
+Moving folder [Documents/Entyvio_Takeda ACG Walk-Through Deck] into TERM folder.
+
+Moving folder [Documents/AFD ACG Walk-through Deck] into TERM folder.
+
+Moving folder [Documents/AFD ACG Training Deck] into TERM folder.
+
+Moving folder [Documents/AIBD and CCC Decks] into TERM folder.
+
+Moving folder [Documents/HB OOO Doc] into TERM folder.
+
+Moving folder [Documents/B&E Mech Files] into TERM folder.
+
+Moving folder [Documents/PreCon Deck] into TERM folder.
+
+Moving folder [Documents/AFD ACG Product Theater Recording] into TERM folder.
+
+Moving folder [Documents/AFD CCC Decks] into TERM folder.
+
+Moving folder [Documents/DDW 2023 PRT Concept Review] into TERM folder.
+
+Moving folder [Documents/Kassy onboarding plan] into TERM folder.
+
+Moving folder [Documents/DSE Audit Materials] into TERM folder.
+
+Moving folder [Documents/DDW 2023 Decks] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/ACG 2023 Decks] into TERM folder.
+
+Moving folder [Documents/World IBD Day] into TERM folder.
+
+Moving folder [Documents/Meetings] into TERM folder.
+
+Moving folder [Documents/haley @ Work] into TERM folder.
+
+Moving file [/personal/haley_beck_eversana_com/Documents/DDW_sizzle220711 (1).mp4] into folder [/personal/haley_beck_eversana_com/Documents/TERM-20230722-HALEY.BECK/DDW_sizzle220711 (1).mp4]
+
+Moving file [/personal/haley_beck_eversana_com/Documents/Comment Response Doc for 3.15 PRT.docx] into folder [/personal/haley_beck_eversana_com/Documents/TERM-20230722-HALEY.BECK/Comment Response Doc for 3.15 PRT.docx]
+
+Moving file [/personal/haley_beck_eversana_com/Documents/PC_Users_How_To_Update_Email_Signatures.docx] into folder [/personal/haley_beck_eversana_com/Documents/TERM-20230722-HALEY.BECK/PC_Users_How_To_Update_Email_Signatures.docx]
+
+Moving file [/personal/haley_beck_eversana_com/Documents/ACG Live Booth Map_PRT Revisions.pptx] into folder [/personal/haley_beck_eversana_com/Documents/TERM-20230722-HALEY.BECK/ACG Live Booth Map_PRT Revisions.pptx]
+
+Moving file [/personal/haley_beck_eversana_com/Documents/Entyvio ACG 2022 Booth Schedule.pptx] into folder [/personal/haley_beck_eversana_com/Documents/TERM-20230722-HALEY.BECK/Entyvio ACG 2022 Booth Schedule.pptx]
+
+Adding user [haleigh.martino@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [haleigh.martino@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [karan.koirala@eversana.com] whose manager is [aarti.vaid@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/karan_koirala_eversana_com]
+
+Adding folder [TERM-20230722-KARAN.KOIRALA] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/22_EPCO_Consumer_Now Approved Website] into TERM folder.
+
+Cannot move folder [TERM-20230722-KARAN.KOIRALA] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Karan - OneNote] into TERM folder.
+
+Moving folder [Documents/Account Oversight] into TERM folder.
+
+Cannot move folder [TERM-20230722-KARAN.KOIRALA] as it does not exist.
+
+Moving file [/personal/karan_koirala_eversana_com/Documents/22_EPCO_Consumer_Now Approved Website] into folder [/personal/karan_koirala_eversana_com/Documents/TERM-20230722-KARAN.KOIRALA/22_EPCO_Consumer_Now Approved Website]
+
+Moving file [/personal/karan_koirala_eversana_com/Documents/Account Oversight] into folder [/personal/karan_koirala_eversana_com/Documents/TERM-20230722-KARAN.KOIRALA/Account Oversight]
+
+Moving file [/personal/karan_koirala_eversana_com/Documents/iVA 3.pptx] into folder [/personal/karan_koirala_eversana_com/Documents/TERM-20230722-KARAN.KOIRALA/iVA 3.pptx]
+
+Moving file [/personal/karan_koirala_eversana_com/Documents/Steps to review the Veeva CDx Fragment.docx] into folder [/personal/karan_koirala_eversana_com/Documents/TERM-20230722-KARAN.KOIRALA/Steps to review the Veeva CDx Fragment.docx]
+
+Adding user [aarti.vaid@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [aarti.vaid@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kevin.robertson@eversana.com] whose manager is [abidur.rahman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kevin_robertson_eversana_com]
+
+Adding folder [TERM-20230722-KEVIN.ROBERTSON] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/MiQ Demo] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Product Innovation] into TERM folder.
+
+Moving folder [Documents/kevin @ Work] into TERM folder.
+
+Moving folder [Documents/Kevin Innovation Migration] into TERM folder.
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Productization bullet points.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Productization bullet points.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Eversana-Intouch Webportal MVP Charter.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Eversana-Intouch Webportal MVP Charter.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Template - Product Charter.dotx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Template - Product Charter.dotx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Product Charter Template.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Product Charter Template.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Portal Personas.vsdx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Portal Personas.vsdx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Drawing1.vsdx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Drawing1.vsdx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Drawing2.vsdx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Drawing2.vsdx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Battlecard Template V1.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Battlecard Template V1.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Ben's Room Battlecard.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Ben's Room Battlecard.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/C2 Roadmap.mpp] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/C2 Roadmap.mpp]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Search.mpp] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Search.mpp]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Search Charter.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Search Charter.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Airport to House.png] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Airport to House.png]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Chatbot MiQ Portal Integration.mpp] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Chatbot MiQ Portal Integration.mpp]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Houe to Airport.png] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Houe to Airport.png]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Battlecard - Template.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Battlecard - Template.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/receipt_95c3cae7-d0ed-4a36-80b0-0d50fd2d056a.pdf] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/receipt_95c3cae7-d0ed-4a36-80b0-0d50fd2d056a.pdf]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/ROBERTSON_99204.pdf] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/ROBERTSON_99204.pdf]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/itinerary_2022-01-25 1932.pdf] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/itinerary_2022-01-25 1932.pdf]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Cognitive Core Productization.pptx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Cognitive Core Productization.pptx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/SciMax Chatbot HCP Workflow.vsdx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/SciMax Chatbot HCP Workflow.vsdx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/C2 Roadmap-krobertson1.mpp] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/C2 Roadmap-krobertson1.mpp]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Chatbot MiQ Portal Integration.pdf] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Chatbot MiQ Portal Integration.pdf]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Product Support Structure.vsdx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Product Support Structure.vsdx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Drawing.vsdx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Drawing.vsdx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Drawing3.vsdx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Drawing3.vsdx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Chatbot workflows.vsdx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Chatbot workflows.vsdx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Presentation.pptx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Presentation.pptx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/HumanReadableEmailBodyChatbot.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/HumanReadableEmailBodyChatbot.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/Digital Concierge Demo Script Cancun 2023.docx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/Digital Concierge Demo Script Cancun 2023.docx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/asocaited document.xlsx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/asocaited document.xlsx]
+
+Moving file [/personal/kevin_robertson_eversana_com/Documents/IP requests.xlsx] into folder [/personal/kevin_robertson_eversana_com/Documents/TERM-20230722-KEVIN.ROBERTSON/IP requests.xlsx]
+
+Adding user [abidur.rahman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [abidur.rahman@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [shashikant.virmani@eversana.com] whose manager is [Neelesh.Kulkarni@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/shashikant_virmani_eversana_com]
+
+Adding folder [TERM-20230722-SHASHIKANT.VIRMANI] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/shashikant_virmani_eversana_com/Documents/Copy of Agile Methodology Test - Shashikant.xlsx] into folder [/personal/shashikant_virmani_eversana_com/Documents/TERM-20230722-SHASHIKANT.VIRMANI/Copy of Agile Methodology Test - Shashikant.xlsx]
+
+Moving file [/personal/shashikant_virmani_eversana_com/Documents/Copy of Corporate Etiquette test_Shashikant.xlsx] into folder [/personal/shashikant_virmani_eversana_com/Documents/TERM-20230722-SHASHIKANT.VIRMANI/Copy of Corporate Etiquette test_Shashikant.xlsx]
+
+Moving file [/personal/shashikant_virmani_eversana_com/Documents/Tableau Session 2.docx] into folder [/personal/shashikant_virmani_eversana_com/Documents/TERM-20230722-SHASHIKANT.VIRMANI/Tableau Session 2.docx]
+
+Moving file [/personal/shashikant_virmani_eversana_com/Documents/Welcome to Excel1.xlsx] into folder [/personal/shashikant_virmani_eversana_com/Documents/TERM-20230722-SHASHIKANT.VIRMANI/Welcome to Excel1.xlsx]
+
+Moving file [/personal/shashikant_virmani_eversana_com/Documents/Personal Finance App - Shashikant.zip] into folder [/personal/shashikant_virmani_eversana_com/Documents/TERM-20230722-SHASHIKANT.VIRMANI/Personal Finance App - Shashikant.zip]
+
+Adding user [Neelesh.Kulkarni@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Neelesh.Kulkarni@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [hailey.gray@eversana.com] whose manager is [Jenine.Holmes@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/hailey_gray_eversana_com]
+
+Adding folder [TERM-20230722-HAILEY.GRAY] in /Documents directory
+
+Moving folder [Documents/OneNote Uploads] into TERM folder.
+
+Moving folder [Documents/New Project Folders] into TERM folder.
+
+Moving folder [Documents/Styleguides] into TERM folder.
+
+Moving folder [Documents/Core Claims] into TERM folder.
+
+Moving folder [Documents/Onboarding] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Copy School] into TERM folder.
+
+Moving folder [Documents/TAKHZYRO] into TERM folder.
+
+Cannot move folder [TERM-20230722-HAILEY.GRAY] as it does not exist.
+
+Moving folder [Documents/PITCHES] into TERM folder.
+
+Moving folder [Documents/DARVA] into TERM folder.
+
+Moving folder [Documents/Inspo] into TERM folder.
+
+Moving folder [Documents/Management] into TERM folder.
+
+Moving folder [Documents/Decks] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/hailey @ EVERSANA INTOUCH] into TERM folder.
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/TAKHZYRO] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/TAKHZYRO]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Project Status.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Project Status.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/GATTEX HCP KOL Video_rough.mp4] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/GATTEX HCP KOL Video_rough.mp4]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Gattex Creative Status.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Gattex Creative Status.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Accomplishment Tracker1.xlsx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Accomplishment Tracker1.xlsx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Presentation.pptx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Presentation.pptx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Sizzle Music Options.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Sizzle Music Options.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/GAT Transition of Care_v1.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/GAT Transition of Care_v1.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/OCR_HCP_Boost Banners.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/OCR_HCP_Boost Banners.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/2021 MS One to One Website Creative Concept Review with Brands_4.29_FINAL.pptx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/2021 MS One to One Website Creative Concept Review with Brands_4.29_FINAL.pptx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Agency Process Framework and Best Practice_Route Review and Approve_v31.pptx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Agency Process Framework and Best Practice_Route Review and Approve_v31.pptx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/ADTikTok Concept Reactivation.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/ADTikTok Concept Reactivation.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Document.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Document.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/8. Transitioning from a Pediatric to Adult Healthcare System_v1.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/8. Transitioning from a Pediatric to Adult Healthcare System_v1.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Agency Process Framework and Best Practice_Route Review and Approve_v3.pptx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Agency Process Framework and Best Practice_Route Review and Approve_v3.pptx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/OCR HCP FB DARK ADS_v1.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/OCR HCP FB DARK ADS_v1.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/DHAE Patient Quote Matrix.xlsx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/DHAE Patient Quote Matrix.xlsx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Entyvio HCP Campaign.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Entyvio HCP Campaign.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Darva Dump.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Darva Dump.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/DarvaComments.pdf] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/DarvaComments.pdf]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Shire Reapproval S52033 A Kid's Guide to Short Bowel Syndrome (1).pdf] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Shire Reapproval S52033 A Kid's Guide to Short Bowel Syndrome (1).pdf]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Get real_going strong.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Get real_going strong.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/GAT HCP Brand Identity ideas.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/GAT HCP Brand Identity ideas.docx]
+
+Moving file [/personal/hailey_gray_eversana_com/Documents/Doc News Placement — Article 2.docx] into folder [/personal/hailey_gray_eversana_com/Documents/TERM-20230722-HAILEY.GRAY/Doc News Placement — Article 2.docx]
+
+Adding user [Jenine.Holmes@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Jenine.Holmes@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jerred.manns@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jerred_manns_eversana_com]
+
+Adding folder [TERM-20230722-JERRED.MANNS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jerred.manns@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jerred_manns_eversana_com]
+
+Adding folder [TERM-20230722-JERRED.MANNS] in /Documents directory
+
+Main Folder [TERM-20230722-JERRED.MANNS] already exists --- will not recreate it
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Processing OneDrive Delegation for delegate [bianca.mabry@eversana.com] whose manager is [william.mcghee@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/bianca_mabry_eversana_com]
+
+Adding folder [TERM-20230722-BIANCA.MABRY] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/bianca_mabry_eversana_com/Documents/TWI CHECK STOCK- 30000790.xls] into folder [/personal/bianca_mabry_eversana_com/Documents/TERM-20230722-BIANCA.MABRY/TWI CHECK STOCK- 30000790.xls]
+
+Adding user [william.mcghee@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [william.mcghee@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [krishna.sanikommu@eversana.com] whose manager is [bill.obryon@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/krishna_sanikommu_eversana_com]
+
+Adding folder [TERM-20230722-KRISHNA.SANIKOMMU] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/OneNote Uploads] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Krishna @ EVERSANA] into TERM folder.
+
+Adding user [bill.obryon@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [bill.obryon@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [bianca.mabry@eversana.com] whose manager is [william.mcghee@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/bianca_mabry_eversana_com]
+
+Adding folder [TERM-20230722-BIANCA.MABRY] in /Documents directory
+
+Main Folder [TERM-20230722-BIANCA.MABRY] already exists --- will not recreate it
+
+Adding user [william.mcghee@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [william.mcghee@eversana.com]
+
+Processing OneDrive Delegation for delegate [krishna.reddy@eversana.com] whose manager is [nitin.lohar@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/krishna_reddy_eversana_com]
+
+Adding folder [TERM-20230722-KRISHNA.REDDY] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Krishna @ EVERSANA] into TERM folder.
+
+Adding user [nitin.lohar@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [nitin.lohar@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

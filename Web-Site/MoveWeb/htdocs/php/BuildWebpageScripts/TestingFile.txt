@@ -1,0 +1,4 @@
+EmpID = []
+TimeCheckPassed = [Yes]
+EncryptedKey = []
+Authorized = []

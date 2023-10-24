@@ -1,0 +1,10 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 14, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+

@@ -1,0 +1,65 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 16, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [don.corbett@eversana.com] whose manager is [rachel.williams@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/don_corbett_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [nadia.levitz@eversana.com] whose manager is [annie.wong@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/nadia_levitz_eversana_com]
+
+Adding folder [TERM-20230216-NADIA.LEVITZ] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Assets] into TERM folder.
+
+Cannot move folder [TERM-20230216-NADIA.LEVITZ] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/nadia_levitz_eversana_com/Documents/Assets] into folder [/personal/nadia_levitz_eversana_com/Documents/TERM-20230216-NADIA.LEVITZ/Assets]
+
+Moving file [/personal/nadia_levitz_eversana_com/Documents/Workfront+Proof-1.0.58.pkg] into folder [/personal/nadia_levitz_eversana_com/Documents/TERM-20230216-NADIA.LEVITZ/Workfront+Proof-1.0.58.pkg]
+
+Adding user [annie.wong@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [annie.wong@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Sending out 10-Days left E-Mail reminder to [tiffany.ford@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Matthew.Bruns@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Stephen.Swyberius@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [rebecca.henchel@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [chanelle.harceg@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+

@@ -1,0 +1,1020 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [sachit.kashmiriya@eversana.com] whose manager is [Abhay.Kumar@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sachit_kashmiriya_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for August 28, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [teresa.russell@eversana.com] whose manager is [john.kenny@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/teresa_russell_eversana_com]
+
+Adding folder [TERM-20230828-TERESA.RUSSELL] in /Documents directory
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Microsoft Teams Chat Files]
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Attachments] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Attachments]
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Recordings] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Recordings]
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/TERM-20230825-TERESA.RUSSELL]
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2022-11-28 at 1.48.19 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2022-11-28 at 1.48.19 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2022-11-28 at 1.48.19 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2022-11-28 at 2.12.35 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2022-11-28 at 2.12.35 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2022-11-28 at 2.12.35 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Guide to Billability.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Guide to Billability.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Guide to Billability.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2022-12-21 at 2.31.16 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2022-12-21 at 2.31.16 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2022-12-21 at 2.31.16 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/EVERSANA INTOUCH Oxygen_Monjuvi_Jan2023 meeting.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/EVERSANA INTOUCH Oxygen_Monjuvi_Jan2023 meeting.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/EVERSANA INTOUCH Oxygen_Monjuvi_Jan2023 meeting.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-01-04 at 11.15.54 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-01-04 at 11.15.54 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-01-04 at 11.15.54 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Agenda_alt version_1.10.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Agenda_alt version_1.10.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Agenda_alt version_1.10.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023 Monjuvi Kick Off Meeting Agenda_V2[45].docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023 Monjuvi Kick Off Meeting Agenda_V2[45].docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023 Monjuvi Kick Off Meeting Agenda_V2[45].docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023 Monjuvi Kick Off Meeting Agenda_1.10.22_V2_TR.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023 Monjuvi Kick Off Meeting Agenda_1.10.22_V2_TR.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023 Monjuvi Kick Off Meeting Agenda_1.10.22_V2_TR.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DD_MONJUVI Scientific Story_DRAFT[48].pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/DD_MONJUVI Scientific Story_DRAFT[48].pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DD_MONJUVI Scientific Story_DRAFT[48].pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_2023 market events_draft_1.12.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_2023 market events_draft_1.12.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_2023 market events_draft_1.12.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI TEMPLATE_for meeting summary .pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI TEMPLATE_for meeting summary .pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI TEMPLATE_for meeting summary .pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Summary template.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Summary template.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Summary template.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Monjuvi Kick-off Meeting_Summary1.13.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Monjuvi Kick-off Meeting_Summary1.13.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Monjuvi Kick-off Meeting_Summary1.13.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Monjuvi Kick-off Meeting_Summary1.18.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Monjuvi Kick-off Meeting_Summary1.18.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Monjuvi Kick-off Meeting_Summary1.18.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Monjuvi_2023_FAST START brand planning _1.19.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Monjuvi_2023_FAST START brand planning _1.19.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Monjuvi_2023_FAST START brand planning _1.19.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Monjuvi_2023_FAST START brand planning _1.23.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Monjuvi_2023_FAST START brand planning _1.23.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Monjuvi_2023_FAST START brand planning _1.23.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/summary.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/summary.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/summary.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI EHR October 2022 Analytics Report[57].pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI EHR October 2022 Analytics Report[57].pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI EHR October 2022 Analytics Report[57].pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI STRATEGIC APPROACH TO 5-YEAR DATA ROLL-OUT  .pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI STRATEGIC APPROACH TO 5-YEAR DATA ROLL-OUT  .pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI STRATEGIC APPROACH TO 5-YEAR DATA ROLL-OUT  .pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MicrosoftTeams-image (3).png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MicrosoftTeams-image (3).png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MicrosoftTeams-image (3).png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS_Kick off meeting agenda.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/AZSTARYS_Kick off meeting agenda.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS_Kick off meeting agenda.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-02-28 at 6.01.01 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-02-28 at 6.01.01 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-02-28 at 6.01.01 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-02-28 at 6.16.04 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-02-28 at 6.16.04 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-02-28 at 6.16.04 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Corium AZSTARYS 2022 Agency Day PPT Shell 7.8.22.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Corium AZSTARYS 2022 Agency Day PPT Shell 7.8.22.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Corium AZSTARYS 2022 Agency Day PPT Shell 7.8.22.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS_Kick off meeting agenda (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/AZSTARYS_Kick off meeting agenda (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS_Kick off meeting agenda (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Morpho.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Morpho.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Morpho.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Adult Intro Slides-Partner Presentation-12-1-22.pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Adult Intro Slides-Partner Presentation-12-1-22.pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Adult Intro Slides-Partner Presentation-12-1-22.pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-08 at 9.32.35 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-08 at 9.32.35 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-08 at 9.32.35 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/SWOT - Mar 8.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/SWOT - Mar 8.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/SWOT - Mar 8.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-09 at 11.27.50 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-09 at 11.27.50 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-09 at 11.27.50 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-09 at 11.27.37 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-09 at 11.27.37 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-09 at 11.27.37 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-09 at 1.07.34 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-09 at 1.07.34 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-09 at 1.07.34 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Clinical Endpoints Oncology_2021.pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Clinical Endpoints Oncology_2021.pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Clinical Endpoints Oncology_2021.pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS Adult Strategy 2023.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/AZSTARYS Adult Strategy 2023.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS Adult Strategy 2023.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/for tom.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/for tom.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/for tom.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-17 at 1.23.01 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-17 at 1.23.01 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-17 at 1.23.01 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-20 at 8.52.04 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-20 at 8.52.04 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-20 at 8.52.04 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/L1 Sldies for Morph.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/L1 Sldies for Morph.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/L1 Sldies for Morph.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS Operational Plan 2023.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/AZSTARYS Operational Plan 2023.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS Operational Plan 2023.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS Operational Plan 2023 (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/AZSTARYS Operational Plan 2023 (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS Operational Plan 2023 (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/L1 Sldies for Morph (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/L1 Sldies for Morph (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/L1 Sldies for Morph (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-21 at 3.54.41 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-21 at 3.54.41 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-21 at 3.54.41 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Azstarys_2H23_BP_V2.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Azstarys_2H23_BP_V2.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Azstarys_2H23_BP_V2.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-23 at 11.44.03 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-23 at 11.44.03 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-23 at 11.44.03 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS Adult Strategy 2023 (1).docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/AZSTARYS Adult Strategy 2023 (1).docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSTARYS Adult Strategy 2023 (1).docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Azstarys ADULT & HCP Experience Map.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Azstarys ADULT & HCP Experience Map.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Azstarys ADULT & HCP Experience Map.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSATRYS Adult Competitive Audit Deck.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/AZSATRYS Adult Competitive Audit Deck.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/AZSATRYS Adult Competitive Audit Deck.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-28 at 8.34.32 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-28 at 8.34.32 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-28 at 8.34.32 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-29 at 9.12.50 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-29 at 9.12.50 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-29 at 9.12.50 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-31 at 11.29.35 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-03-31 at 11.29.35 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-03-31 at 11.29.35 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Monjuvi_ Key Dates.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Monjuvi_ Key Dates.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Monjuvi_ Key Dates.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-02 at 1.47.49 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-02 at 1.47.49 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-02 at 1.47.49 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-04 at 2.33.02 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-04 at 2.33.02 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-04 at 2.33.02 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Unknown.jpeg] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Unknown.jpeg]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Unknown.jpeg] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Unknown (1).jpeg] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Unknown (1).jpeg]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Unknown (1).jpeg] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-05 at 11.58.25 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-05 at 11.58.25 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-05 at 11.58.25 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-05 at 6.00.13 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-05 at 6.00.13 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-05 at 6.00.13 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI Competitive Simulation Workshop Exercise Overview 4 April 2023.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI Competitive Simulation Workshop Exercise Overview 4 April 2023.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI Competitive Simulation Workshop Exercise Overview 4 April 2023.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-06 at 9.22.30 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-06 at 9.22.30 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-06 at 9.22.30 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI STRATEGIC_2H Plan 4.6.23  .pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI STRATEGIC_2H Plan 4.6.23  .pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI STRATEGIC_2H Plan 4.6.23  .pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-07 at 12.04.14 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-07 at 12.04.14 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-07 at 12.04.14 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Image for deck.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Image for deck.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Image for deck.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/quotes.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/quotes.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/quotes.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Breaker slides.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Breaker slides.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Breaker slides.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-11 at 7.37.28 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-11 at 7.37.28 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-11 at 7.37.28 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Quote options.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Quote options.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Quote options.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2 quote options.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2 quote options.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2 quote options.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Unknown-1.jpeg] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Unknown-1.jpeg]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Unknown-1.jpeg] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/session 1.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/session 1.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/session 1.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/session 2.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/session 2.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/session 2.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Sonographer_Content Strategy_DG_April 2023.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Sonographer_Content Strategy_DG_April 2023.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Sonographer_Content Strategy_DG_April 2023.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Post-mortem of EMC workshop.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Post-mortem of EMC workshop.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Post-mortem of EMC workshop.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Competitive Scenario - Workshop Summary.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Competitive Scenario - Workshop Summary.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Competitive Scenario - Workshop Summary.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Polivy_ 1st session_ notes from Monjuvi workshop.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Polivy_ 1st session_ notes from Monjuvi workshop.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Polivy_ 1st session_ notes from Monjuvi workshop.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Example Template.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Example Template.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Example Template.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-18 at 5.21.48 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-18 at 5.21.48 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-18 at 5.21.48 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Sonographer_Content Strategy_DG_April 2023_v2.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Sonographer_Content Strategy_DG_April 2023_v2.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Sonographer_Content Strategy_DG_April 2023_v2.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-20 at 11.03.17 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-20 at 11.03.17 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-20 at 11.03.17 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lanteus – DEFINITY – TOPLINE INSIGHTS FROM THE INTERVIEWS.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Lanteus – DEFINITY – TOPLINE INSIGHTS FROM THE INTERVIEWS.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lanteus – DEFINITY – TOPLINE INSIGHTS FROM THE INTERVIEWS.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Teresa Notes_DEFINITY sonongrapher interviews_5.21.23.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Teresa Notes_DEFINITY sonongrapher interviews_5.21.23.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Teresa Notes_DEFINITY sonongrapher interviews_5.21.23.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/ZoomRx_The_2023_Oncology_Promotion_Playbook.pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/ZoomRx_The_2023_Oncology_Promotion_Playbook.pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/ZoomRx_The_2023_Oncology_Promotion_Playbook.pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_POSITIONING Refresh.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_POSITIONING Refresh.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_POSITIONING Refresh.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-25 at 9.01.54 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-25 at 9.01.54 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-25 at 9.01.54 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-25 at 9.00.14 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-25 at 9.00.14 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-25 at 9.00.14 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-25 at 9.04.55 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-25 at 9.04.55 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-25 at 9.04.55 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_2H initial conversation.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_2H initial conversation.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_2H initial conversation.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_2H initial conversation_4_26.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_2H initial conversation_4_26.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_2H initial conversation_4_26.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Spravato - Manifesto.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Spravato - Manifesto.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Spravato - Manifesto.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Time_Toxicity_of_Cancer_Treatment_1682481767[18].pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Time_Toxicity_of_Cancer_Treatment_1682481767[18].pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Time_Toxicity_of_Cancer_Treatment_1682481767[18].pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-28 at 4.10.42 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-04-28 at 4.10.42 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-04-28 at 4.10.42 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-02 at 3.27.51 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-02 at 3.27.51 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-02 at 3.27.51 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-02 at 3.30.10 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-02 at 3.30.10 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-02 at 3.30.10 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Arrow slide.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Arrow slide.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Arrow slide.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Arrow slide (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Arrow slide (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Arrow slide (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-03 at 9.19.19 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-03 at 9.19.19 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-03 at 9.19.19 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-03 at 2.54.42 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-03 at 2.54.42 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-03 at 2.54.42 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_POSITIONING Refresh (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_POSITIONING Refresh (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_POSITIONING Refresh (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-04 at 10.51.44 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-04 at 10.51.44 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-04 at 10.51.44 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-04 at 2.48.50 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-04 at 2.48.50 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-04 at 2.48.50 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_Core Story discussion.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_Core Story discussion.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_Core Story discussion.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_Core Story discussion_May 7.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_Core Story discussion_May 7.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_Core Story discussion_May 7.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_UPDATED Core Story FLOW_May 11.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_UPDATED Core Story FLOW_May 11.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_UPDATED Core Story FLOW_May 11.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-10 at 5.08.39 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-10 at 5.08.39 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-10 at 5.08.39 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_UPDATED Core Story Flow_May 11_rev.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/MONJUVI_UPDATED Core Story Flow_May 11_rev.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/MONJUVI_UPDATED Core Story Flow_May 11_rev.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/SONOGRAPHER INTERVIEW SUMMARY.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/SONOGRAPHER INTERVIEW SUMMARY.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/SONOGRAPHER INTERVIEW SUMMARY.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/SONOGRAPHER INTERVIEW SUMMARY_5.12.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/SONOGRAPHER INTERVIEW SUMMARY_5.12.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/SONOGRAPHER INTERVIEW SUMMARY_5.12.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-15 at 10.19.51 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-15 at 10.19.51 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-15 at 10.19.51 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-15 at 11.24.28 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-15 at 11.24.28 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-15 at 11.24.28 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-15 at 11.24.05 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-15 at 11.24.05 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-15 at 11.24.05 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-17 at 10.12.03 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-17 at 10.12.03 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-17 at 10.12.03 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus DEFINITY Q1 2023 Report.pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Lantheus DEFINITY Q1 2023 Report.pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus DEFINITY Q1 2023 Report.pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-21 at 12.17.09 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-21 at 12.17.09 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-21 at 12.17.09 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/SONOGRAPHER INTERVIEW SUMMARY_5.12 (1).docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/SONOGRAPHER INTERVIEW SUMMARY_5.12 (1).docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/SONOGRAPHER INTERVIEW SUMMARY_5.12 (1).docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-30 at 5.55.26 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-05-30 at 5.55.26 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-05-30 at 5.55.26 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-06-01 at 2.13.56 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screen Shot 2023-06-01 at 2.13.56 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screen Shot 2023-06-01 at 2.13.56 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Galderma_OUTPUT REPORT_U.S. AD and PN ? HCP and Patients Insights Workshop_.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Galderma_OUTPUT REPORT_U.S. AD and PN ? HCP and Patients Insights Workshop_.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Galderma_OUTPUT REPORT_U.S. AD and PN ? HCP and Patients Insights Workshop_.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_SONOGRAPHER INTERVIEW SUMMARY_5.30[1].docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/DEFINITY_SONOGRAPHER INTERVIEW SUMMARY_5.30[1].docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_SONOGRAPHER INTERVIEW SUMMARY_5.30[1].docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_internal brainstorming session deck.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/DEFINITY_internal brainstorming session deck.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_internal brainstorming session deck.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Read Out 053023.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Patient Demand Read Out 053023.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Read Out 053023.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/NEMO_OUTPUT_Insights Workshop_6.7.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v1.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/NEMO_OUTPUT_Insights Workshop_6.7.23_v1.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v1.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/NEMO_OUTPUT_Insights Workshop_6.7.23_v2.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_for TEAM.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_for TEAM.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_for TEAM.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_TR version (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_TR version (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_TR version (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-11 at 8.01.19 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-11 at 8.01.19 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-11 at 8.01.19 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-12 at 10.30.09 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-12 at 10.30.09 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-12 at 10.30.09 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-12 at 10.30.52 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-12 at 10.30.52 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-12 at 10.30.52 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_TR version.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_TR version.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_TR version.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-12 at 12.21.17 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-12 at 12.21.17 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-12 at 12.21.17 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/GALDERMA_Nemolizumab Insights Workshop Output_Client feedback_Teresa Revisions.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/GALDERMA_Nemolizumab Insights Workshop Output_Client feedback_Teresa Revisions.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/GALDERMA_Nemolizumab Insights Workshop Output_Client feedback_Teresa Revisions.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-13 at 5.09.56 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-13 at 5.09.56 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-13 at 5.09.56 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-13 at 5.05.46 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-13 at 5.05.46 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-13 at 5.05.46 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PLY_patient demand_methodology.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PLY_patient demand_methodology.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PLY_patient demand_methodology.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-14 at 4.11.24 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-14 at 4.11.24 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-14 at 4.11.24 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Market Research Objectives_TR.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Market Research Objectives_TR.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Market Research Objectives_TR.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Market Research Objectives_TR (1).docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Market Research Objectives_TR (1).docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Market Research Objectives_TR (1).docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_TR.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Patient Demand Study_Output Summary_TR.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_TR.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v1.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Patient Demand Study_Output Summary_v1.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v1.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v2.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Patient Demand Study_Output Summary_v2.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v2.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v3.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Patient Demand Study_Output Summary_v3.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v3.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v4.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Patient Demand Study_Output Summary_v4.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v4.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v4 (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Patient Demand Study_Output Summary_v4 (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Patient Demand Study_Output Summary_v4 (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/GSW COVID-19 HemOnc Report.pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/GSW COVID-19 HemOnc Report.pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/GSW COVID-19 HemOnc Report.pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-20 at 5.44.28 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-20 at 5.44.28 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-20 at 5.44.28 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-22 at 1.50.59 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-22 at 1.50.59 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-22 at 1.50.59 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 22.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 22.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 22.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 26.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 26.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 26.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_for TEAM (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_for TEAM (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO_OUTPUT_Insights Workshop_6.7.23_v2_for TEAM (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/GALDERMA_Nemolizumab Insights Workshop Output_Client feedback_Teresa Revisions (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/GALDERMA_Nemolizumab Insights Workshop Output_Client feedback_Teresa Revisions (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/GALDERMA_Nemolizumab Insights Workshop Output_Client feedback_Teresa Revisions (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO SI Workshop_FINAL.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/NEMO SI Workshop_FINAL.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/NEMO SI Workshop_FINAL.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-30 at 12.20.57 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-06-30 at 12.20.57 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-06-30 at 12.20.57 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 5.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 5.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 5.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Theme 5 - interrupt the itch.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Theme 5 - interrupt the itch.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Theme 5 - interrupt the itch.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-05 at 5.23.14 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-05 at 5.23.14 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-05 at 5.23.14 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 6.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 6.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 6.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 10.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 10.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 10.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-10 at 12.29.48 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-10 at 12.29.48 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-10 at 12.29.48 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-11 at 2.44.27 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-11 at 2.44.27 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-11 at 2.44.27 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Endeavor_2023 Brand Planning Process & Templates-7.11.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Endeavor_2023 Brand Planning Process & Templates-7.11.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Endeavor_2023 Brand Planning Process & Templates-7.11.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-13 at 11.26.25 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-13 at 11.26.25 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-13 at 11.26.25 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-13 at 11.34.52 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-13 at 11.34.52 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-13 at 11.34.52 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-14 at 11.02.42 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-14 at 11.02.42 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-14 at 11.02.42 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-14 at 1.25.11 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-14 at 1.25.11 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-14 at 1.25.11 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL HCP_ Creative Brief _July 17.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023_PYL HCP_ Creative Brief _July 17.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL HCP_ Creative Brief _July 17.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL DTC_ Creative Brief_July 17.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023_PYL DTC_ Creative Brief_July 17.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL DTC_ Creative Brief_July 17.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL HCP_ Creative Brief _July 19.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023_PYL HCP_ Creative Brief _July 19.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL HCP_ Creative Brief _July 19.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Recordings/Lantheus - Medical 101-20230719_140237-Meeting Recording.mp4] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Lantheus - Medical 101-20230719_140237-Meeting Recording.mp4]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Recordings/Lantheus - Medical 101-20230719_140237-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-20 at 7.51.10 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-20 at 7.51.10 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-20 at 7.51.10 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-20 at 7.51.30 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-20 at 7.51.30 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-20 at 7.51.30 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/quick wins for PYL.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/quick wins for PYL.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/quick wins for PYL.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_Q2NPP_EITRecommendations_v1[18].pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_Q2NPP_EITRecommendations_v1[18].pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_Q2NPP_EITRecommendations_v1[18].pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEF_2H23_Brand_Planning_Ideas_071123 copy.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/DEF_2H23_Brand_Planning_Ideas_071123 copy.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEF_2H23_Brand_Planning_Ideas_071123 copy.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-20 at 2.15.09 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-20 at 2.15.09 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-20 at 2.15.09 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023.01.11 JPM Deck FINAL.pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023.01.11 JPM Deck FINAL.pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023.01.11 JPM Deck FINAL.pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023.03.27_PSMACompetitivePlanning_PreRead_vSTC.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023.03.27_PSMACompetitivePlanning_PreRead_vSTC.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023.03.27_PSMACompetitivePlanning_PreRead_vSTC.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus PYLARIFY Brand Onboarding 7.14 - Copy.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Lantheus PYLARIFY Brand Onboarding 7.14 - Copy.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus PYLARIFY Brand Onboarding 7.14 - Copy.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/17. PYLARIFY PRE_READ 9-14.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/17. PYLARIFY PRE_READ 9-14.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/17. PYLARIFY PRE_READ 9-14.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/18. PYLARIFY Strat Overview_10.22.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/18. PYLARIFY Strat Overview_10.22.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/18. PYLARIFY Strat Overview_10.22.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/15. PYLARIFY competitive entrants implications.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/15. PYLARIFY competitive entrants implications.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/15. PYLARIFY competitive entrants implications.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/P000022316PyLARIFY_brand_guidelines_EA_FINAL (1) (1).pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/P000022316PyLARIFY_brand_guidelines_EA_FINAL (1) (1).pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/P000022316PyLARIFY_brand_guidelines_EA_FINAL (1) (1).pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Pylarify POV_Creative (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Pylarify POV_Creative (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Pylarify POV_Creative (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL HCP_ Creative Brief _July 19 (1).docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023_PYL HCP_ Creative Brief _July 19 (1).docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL HCP_ Creative Brief _July 19 (1).docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL DTC_ Creative Brief_July 19.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/2023_PYL DTC_ Creative Brief_July 19.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/2023_PYL DTC_ Creative Brief_July 19.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-24 at 1.07.23 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-24 at 1.07.23 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-24 at 1.07.23 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-24 at 1.59.51 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-24 at 1.59.51 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-24 at 1.59.51 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-24 at 4.33.21 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-24 at 4.33.21 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-24 at 4.33.21 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/quick wins for PYL_July 25.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/quick wins for PYL_July 25.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/quick wins for PYL_July 25.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_ AMPLIFYING  PYLARIFY BRAND IMPACT .pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_ AMPLIFYING  PYLARIFY BRAND IMPACT .pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_ AMPLIFYING  PYLARIFY BRAND IMPACT .pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_7.27.23.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Rad Onc Discussion Guide_7.27.23.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_7.27.23.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_7.27.23 (1).docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Rad Onc Discussion Guide_7.27.23 (1).docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_7.27.23 (1).docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_7.27.23 (2).docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Rad Onc Discussion Guide_7.27.23 (2).docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_7.27.23 (2).docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_BP deck_Teresa.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/DEFINITY_BP deck_Teresa.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_BP deck_Teresa.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Survey Read Out 071823.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Rad Onc Survey Read Out 071823.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Survey Read Out 071823.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus Pylarify Brand Tracker Wave 2 Report Draft 6.9.23[93].pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Lantheus Pylarify Brand Tracker Wave 2 Report Draft 6.9.23[93].pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus Pylarify Brand Tracker Wave 2 Report Draft 6.9.23[93].pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-28 at 3.38.27 PM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-07-28 at 3.38.27 PM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-07-28 at 3.38.27 PM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Eliz+SusanPylarify.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Eliz+SusanPylarify.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Eliz+SusanPylarify.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Eliz+SusanPylarify_Teresa.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Eliz+SusanPylarify_Teresa.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Eliz+SusanPylarify_Teresa.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_Revised 7.31.2023.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Rad Onc Discussion Guide_Revised 7.31.2023.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_Revised 7.31.2023.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Eliz+SusanPylarify_Teresa (1).docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Eliz+SusanPylarify_Teresa (1).docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Eliz+SusanPylarify_Teresa (1).docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Strategy Session 2023 - July 21 Small Group Actions SI_CSFs - YS AC DK adds.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Strategy Session 2023 - July 21 Small Group Actions SI_CSFs - YS AC DK adds.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Strategy Session 2023 - July 21 Small Group Actions SI_CSFs - YS AC DK adds.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Situational Analysis 2024 - FINAL Amanda - No Notes[92].pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Situational Analysis 2024 - FINAL Amanda - No Notes[92].pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Situational Analysis 2024 - FINAL Amanda - No Notes[92].pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/V1-DEF-Sonographer-Audit_presented 5.30.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/V1-DEF-Sonographer-Audit_presented 5.30.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/V1-DEF-Sonographer-Audit_presented 5.30.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY Experience Arcs Message Maps Channel Plans updates v2.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYLARIFY Experience Arcs Message Maps Channel Plans updates v2.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY Experience Arcs Message Maps Channel Plans updates v2.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_AudienceEA_MsgMap_Chnl.pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYLARIFY_AudienceEA_MsgMap_Chnl.pdf]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_AudienceEA_MsgMap_Chnl.pdf] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_Updates Aug 1, 2023.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Rad Onc Discussion Guide_Updates Aug 1, 2023.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_Updates Aug 1, 2023.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_COMPETITIVE ASSESSMENT.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/LAN_2024 Brand Planning Process_Aug 2.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/LAN_2024 Brand Planning Process_Aug 2.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/LAN_2024 Brand Planning Process_Aug 2.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus Pylarify Brand Tracker Wave 2 Report Draft 6.9.23[64]  -  Read-Only.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Lantheus Pylarify Brand Tracker Wave 2 Report Draft 6.9.23[64]  -  Read-Only.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus Pylarify Brand Tracker Wave 2 Report Draft 6.9.23[64]  -  Read-Only.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_Updates Aug 2, 2023.docx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL Rad Onc Discussion Guide_Updates Aug 2, 2023.docx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL Rad Onc Discussion Guide_Updates Aug 2, 2023.docx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/LAN_2024 Brand Planning Process_Aug 3.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/LAN_2024 Brand Planning Process_Aug 3.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/LAN_2024 Brand Planning Process_Aug 3.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_Aug 3_for Selina.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_COMPETITIVE ASSESSMENT_Aug 3_for Selina.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_Aug 3_for Selina.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/LAN_2024 Brand Planning Process_Aug 3 (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/LAN_2024 Brand Planning Process_Aug 3 (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/LAN_2024 Brand Planning Process_Aug 3 (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Situational Analysis 2024 - FINAL Amanda - No Notes[92] (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Situational Analysis 2024 - FINAL Amanda - No Notes[92] (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Situational Analysis 2024 - FINAL Amanda - No Notes[92] (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Strategy Session 2023 - July 21 Small Group Actions SI_CSFs - YS AC DK adds (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Strategy Session 2023 - July 21 Small Group Actions SI_CSFs - YS AC DK adds (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Strategy Session 2023 - July 21 Small Group Actions SI_CSFs - YS AC DK adds (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 10 (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 10 (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 10 (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 6 (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 6 (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JULY 6 (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 26 (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 26 (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Nemo_Tactical Workshop_Agenda_DRAFT__JUNE 26 (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_ FOR JEN.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_COMPETITIVE ASSESSMENT_ FOR JEN.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_ FOR JEN.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_ for Selina.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_COMPETITIVE ASSESSMENT_ for Selina.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_ for Selina.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_ Sunday August 6.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_COMPETITIVE ASSESSMENT_ Sunday August 6.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_ Sunday August 6.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus PYLARIFY_Pitch_Final.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Lantheus PYLARIFY_Pitch_Final.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Lantheus PYLARIFY_Pitch_Final.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_ AMPLIFYING  PYLARIFY BRAND IMPACT_7.26[19].pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_ AMPLIFYING  PYLARIFY BRAND IMPACT_7.26[19].pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_ AMPLIFYING  PYLARIFY BRAND IMPACT_7.26[19].pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_ Sunday August 6 (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_COMPETITIVE ASSESSMENT_ Sunday August 6 (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_COMPETITIVE ASSESSMENT_ Sunday August 6 (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning Pre-read .pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYLARIFY_Tactical Planning Pre-read .pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning Pre-read .pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning Pre-read  (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYLARIFY_Tactical Planning Pre-read  (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning Pre-read  (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning Pre-read_Aug 8.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYLARIFY_Tactical Planning Pre-read_Aug 8.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning Pre-read_Aug 8.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning_MURAL INFO .pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYLARIFY_Tactical Planning_MURAL INFO .pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning_MURAL INFO .pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Updated PYL agenda.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Updated PYL agenda.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Updated PYL agenda.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning Pre-read_Aug 8 copy.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYLARIFY_Tactical Planning Pre-read_Aug 8 copy.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYLARIFY_Tactical Planning Pre-read_Aug 8 copy.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_Tactical Planning Brainstorm Pre-read_8.8.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/DEFINITY_Tactical Planning Brainstorm Pre-read_8.8.23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_Tactical Planning Brainstorm Pre-read_8.8.23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_Tactical Planning Brainstorm_OUTPUT DECL.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/DEFINITY_Tactical Planning Brainstorm_OUTPUT DECL.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/DEFINITY_Tactical Planning Brainstorm_OUTPUT DECL.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PLY_Tactical Brainstorm_OUTPUT DECK_TR.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PLY_Tactical Brainstorm_OUTPUT DECK_TR.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PLY_Tactical Brainstorm_OUTPUT DECK_TR.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PLY_Tactical Brainstorm_OUTPUT DECK_TR (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PLY_Tactical Brainstorm_OUTPUT DECK_TR (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PLY_Tactical Brainstorm_OUTPUT DECK_TR (1).pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PLY_Tactical Brainstorm_OUTPUT DECK_Aug 14.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PLY_Tactical Brainstorm_OUTPUT DECK_Aug 14.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PLY_Tactical Brainstorm_OUTPUT DECK_Aug 14.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/POSLUMA_patient website_Aug 15.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/POSLUMA_patient website_Aug 15.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/POSLUMA_patient website_Aug 15.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Brand Planning check points.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Brand Planning check points.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Brand Planning check points.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Qual IDI_HCP info.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Qual IDI_HCP info.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Qual IDI_HCP info.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-08-23 at 10.15.39 AM.png] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/Screenshot 2023-08-23 at 10.15.39 AM.png]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/Screenshot 2023-08-23 at 10.15.39 AM.png] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_Phase 2_RADIATION ONCOLOGIST IDIs_August 23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_Phase 2_RADIATION ONCOLOGIST IDIs_August 23.pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_Phase 2_RADIATION ONCOLOGIST IDIs_August 23.pptx] as it does not exist.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_Phase 2_RADIATION ONCOLOGIST IDIs_August 23 (1).pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230828-TERESA.RUSSELL/PYL_Phase 2_RADIATION ONCOLOGIST IDIs_August 23 (1).pptx]
+
+Cannot move file [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Microsoft Teams Chat Files/PYL_Phase 2_RADIATION ONCOLOGIST IDIs_August 23 (1).pptx] as it does not exist.
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

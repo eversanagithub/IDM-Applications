@@ -1,0 +1,136 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 13, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [fiona.dusenberry@eversana.com] whose manager is [Cathy.McGarrity@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/fiona_dusenberry_eversana_com]
+
+Adding folder [TERM-20230813-FIONA.DUSENBERRY] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Pharma Industry Education Note.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Pharma Industry Education Note.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Commercial Strategy Intern Cheat Sheet.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Commercial Strategy Intern Cheat Sheet.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Document.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Document.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Template - Fiona.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Template - Fiona.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Vera Theraputics.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Vera Theraputics.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Durect Proactive Proposal.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Durect Proactive Proposal.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Vera Theraputics Proactive Proposal.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Vera Theraputics Proactive Proposal.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Annovis.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Annovis.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Annovis Proactive Proposal .docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Annovis Proactive Proposal .docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/CSFs for Proactive Proposals.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/CSFs for Proactive Proposals.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/ResQ - LAST Research.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/ResQ - LAST Research.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/KYOWA_KIRIN_Initial_Assessment .pptx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/KYOWA_KIRIN_Initial_Assessment .pptx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Kyowa Kirin - Poteligeo.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Kyowa Kirin - Poteligeo.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/ResQ Pharma Notes.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/ResQ Pharma Notes.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Book.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Book.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified1.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified1.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified2.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified2.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified3.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified3.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified4.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified4.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified5.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified5.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified51.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified51.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified6.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified6.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified7.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified7.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified8.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified8.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified9.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified9.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified10.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified10.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified11.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified11.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified12.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified12.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified13.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified13.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified14.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified14.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified17.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified17.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Cross-Solve Initiative Your connections identified16.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Cross-Solve Initiative Your connections identified16.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Copy of Cross-Solve Initiative Your connections identified2 SBuchanan 7 2023 (003).xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Copy of Cross-Solve Initiative Your connections identified2 SBuchanan 7 2023 (003).xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Rizafilm Notes.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Rizafilm Notes.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Applied Therapeutics Notes.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Applied Therapeutics Notes.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Oliva Work Prep meeting.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Oliva Work Prep meeting.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Mediloom Notes w.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Mediloom Notes w.docx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Agency Project Research.xlsx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Agency Project Research.xlsx]
+
+Moving file [/personal/fiona_dusenberry_eversana_com/Documents/Agency Research.docx] into folder [/personal/fiona_dusenberry_eversana_com/Documents/TERM-20230813-FIONA.DUSENBERRY/Agency Research.docx]
+
+Adding user [Cathy.McGarrity@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Cathy.McGarrity@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [matthew.mcleod@eversana.com] whose manager is [Matthew.Hilman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/matthew_mcleod_eversana_com]
+
+Adding folder [TERM-20230813-MATTHEW.MCLEOD] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [Matthew.Hilman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Matthew.Hilman@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

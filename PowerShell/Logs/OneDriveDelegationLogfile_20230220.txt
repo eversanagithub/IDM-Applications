@@ -1,0 +1,161 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 20, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [christopher.dyer@eversana.com] whose manager is [Michelle.Maier@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/christopher_dyer_eversana_com]
+
+Adding folder [TERM-20230220-CHRISTOPHER.DYER] in /Documents directory
+
+Moving folder [Documents/Christopher @ Banner Life Sciences] into TERM folder.
+
+Adding user [Michelle.Maier@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Michelle.Maier@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jason.terrell@eversana.com] whose manager is [Matthew.Bruns@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jason_terrell_eversana_com]
+
+Adding folder [TERM-20230220-JASON.TERRELL] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Jason @ EVERSANA] into TERM folder.
+
+Adding user [Matthew.Bruns@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Matthew.Bruns@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [don.corbett@eversana.com] whose manager is [rachel.williams@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/don_corbett_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [patrick.schandler@eversana.com] whose manager is [Zach.Janice@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/patrick_schandler_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [stormie.krone@eversana.com] whose manager is [tara.wiles@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/stormie_krone_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [kaelle.hawkins@eversana.com] whose manager is [mia.duffie@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kaelle_hawkins_eversana_com]
+
+Adding folder [TERM-20230220-KAELLE.HAWKINS] in /Documents directory
+
+Moving folder [Documents/Kaelle @ Eversana] into TERM folder.
+
+Adding user [mia.duffie@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [mia.duffie@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [damika.larkin@eversana.com] whose manager is [mia.duffie@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/damika_larkin_eversana_com]
+
+Adding folder [TERM-20230220-DAMIKA.LARKIN] in /Documents directory
+
+Moving folder [Documents/Damika @ Eversana] into TERM folder.
+
+Adding user [mia.duffie@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [mia.duffie@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [dante.keeling@eversana.com] whose manager is [alexandria.brewster@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/dante_keeling_eversana_com]
+
+Adding folder [TERM-20230220-DANTE.KEELING] in /Documents directory
+
+Moving folder [Documents/dante @ Eversana] into TERM folder.
+
+Adding user [alexandria.brewster@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [alexandria.brewster@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Sending out 10-Days left E-Mail reminder to [Jim.Hepp@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Doug.Hutchinson@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Matthew.Bruns@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [marisol.fuentes@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [aubrey.ammon@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Chaitanya.Dandekar@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [sarah.zwicky@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [gary.watson@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Christina.Christos@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Ellen.Cappellino@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+

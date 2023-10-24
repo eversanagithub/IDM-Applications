@@ -1,0 +1,73 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 17, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [laura.harvey@eversana.com] whose manager is [Cassie.Krause@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/laura_harvey_eversana_com]
+
+Adding folder [TERM-20230217-LAURA.HARVEY] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving file [/personal/laura_harvey_eversana_com/Documents/OCPC 2022 - Sponsor Prospectus.pdf] into folder [/personal/laura_harvey_eversana_com/Documents/TERM-20230217-LAURA.HARVEY/OCPC 2022 - Sponsor Prospectus.pdf]
+
+Adding user [Cassie.Krause@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Cassie.Krause@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [don.corbett@eversana.com] whose manager is [rachel.williams@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/don_corbett_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [ashley.hall@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ashley_hall_eversana_com]
+
+Adding folder [TERM-20230217-ASHLEY.HALL] in /Documents directory
+
+Moving folder [Documents/Ashley @ EVERSANA] into TERM folder.
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

@@ -1,0 +1,66 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 08, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [melody.keith@eversana.com] whose manager is [tiffany.ford@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/melody_keith_eversana_com]
+
+Adding folder [TERM-20230208-MELODY.KEITH] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/melody_keith_eversana_com/Documents/CRD-3-04a-NVN Adverse Event and Product Complaint Form - Novo Nordisk2 (4).docx] into folder [/personal/melody_keith_eversana_com/Documents/TERM-20230208-MELODY.KEITH/CRD-3-04a-NVN Adverse Event and Product Complaint Form - Novo Nordisk2 (4).docx]
+
+Moving file [/personal/melody_keith_eversana_com/Documents/Rule 5122.docx] into folder [/personal/melody_keith_eversana_com/Documents/TERM-20230208-MELODY.KEITH/Rule 5122.docx]
+
+Adding user [tiffany.ford@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [tiffany.ford@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [bhargavreddy.nalabolu@eversana.com] whose manager is [Sachin.Kadam@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/bhargavreddy_nalabolu_eversana_com]
+
+Adding folder [TERM-20230208-BHARGAVREDDY.NALABOLU] in /Documents directory
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Bhargavreddy @ Eversana] into TERM folder.
+
+Adding user [Sachin.Kadam@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Sachin.Kadam@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

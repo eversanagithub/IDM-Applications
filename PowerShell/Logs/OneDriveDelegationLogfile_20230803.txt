@@ -1,0 +1,597 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 03, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [pranali.hande@eversana.com] whose manager is [Waseem.Ahmad@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/pranali_hande_eversana_com]
+
+Adding folder [TERM-20230803-PRANALI.HANDE] in /Documents directory
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Maintenance and New pull] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/CODIFA_WORKING_SCRAPE.xlsx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/CODIFA_WORKING_SCRAPE.xlsx]
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/INTERNAL_PRICING_174870_INTERNAL_PRICING_1.xlsx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/INTERNAL_PRICING_174870_INTERNAL_PRICING_1.xlsx]
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/NEW PULL NOV.xlsx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/NEW PULL NOV.xlsx]
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/INTERNAL_PRICING_174870_INTERNAL_PRICING_1 (1).xlsx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/INTERNAL_PRICING_174870_INTERNAL_PRICING_1 (1).xlsx]
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/SCREENSHOT ACTIVITY_28-06-2022.pptx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/SCREENSHOT ACTIVITY_28-06-2022.pptx]
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/Book9.xlsx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/Book9.xlsx]
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/Book5.xlsx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/Book5.xlsx]
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/Book1.xlsx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/Book1.xlsx]
+
+Moving file [/personal/pranali_hande_eversana_com/Documents/Book3.xlsx] into folder [/personal/pranali_hande_eversana_com/Documents/TERM-20230803-PRANALI.HANDE/Book3.xlsx]
+
+Adding user [Waseem.Ahmad@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Waseem.Ahmad@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [bradley.giddens@eversana.com] whose manager is [catherine.loechner@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/bradley_giddens_eversana_com]
+
+Adding folder [TERM-20230803-BRADLEY.GIDDENS] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Custom Office Templates] into TERM folder.
+
+Moving folder [Documents/Zoom] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Holistic Content Strat] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Strat Chat] into TERM folder.
+
+Cannot move folder [TERM-20230803-BRADLEY.GIDDENS] as it does not exist.
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Diagnostic Template.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Diagnostic Template.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/the reason y msg.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/the reason y msg.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/L2 Goals Review v1.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/L2 Goals Review v1.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Pan Tumor ESOC Interactive Ideation.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Pan Tumor ESOC Interactive Ideation.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Lung Podcast Ecosystem v1.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Lung Podcast Ecosystem v1.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Lung Podcast Ecosystem v2.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Lung Podcast Ecosystem v2.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Email Best Practices - Updated.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Email Best Practices - Updated.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Shorter Form Email Concept Rationale.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Shorter Form Email Concept Rationale.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CX Pitch Audit Worksheet.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CX Pitch Audit Worksheet.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Mava Consumer Unbranded CRM Program v8 WIP.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Mava Consumer Unbranded CRM Program v8 WIP.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/MorphoSys CX Audit.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/MorphoSys CX Audit.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CX Audit Template.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CX Audit Template.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Innovation Day Highlights.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Innovation Day Highlights.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Opdivo_2023_Functional-Planning_Objectives.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Opdivo_2023_Functional-Planning_Objectives.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Behavioral Economics Checkpoint Scrub - CX Audit.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Behavioral Economics Checkpoint Scrub - CX Audit.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/mel opduolag brand planning.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/mel opduolag brand planning.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Vyndamax CX Checklist.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Vyndamax CX Checklist.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Strat Chat] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Strat Chat]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/pan-tumor 2H v1.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/pan-tumor 2H v1.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Ben Convo v1.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Ben Convo v1.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Vyndamax CX WIP.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Vyndamax CX WIP.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Portfolio Omnichannel Readiness Brief WIP.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Portfolio Omnichannel Readiness Brief WIP.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Opdivo CX Audit and Recommendations.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Opdivo CX Audit and Recommendations.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC_DISCUSSION GUIDES_v3.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC_DISCUSSION GUIDES_v3.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC 3PP Discovery Call.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC 3PP Discovery Call.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/o2 Project Worksheet.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/o2 Project Worksheet.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC Workshop Wireframe v1.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC Workshop Wireframe v1.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Presentation5.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Presentation5.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC Content Workshop v1.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC Content Workshop v1.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC 3PP Recommendation Rough Draft.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC 3PP Recommendation Rough Draft.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Experience #1.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Experience #1.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/v2 Portfolio Omnichannel.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/v2 Portfolio Omnichannel.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Zeposia MS Strategy Onboarding Shell.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Zeposia MS Strategy Onboarding Shell.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/v3 POP Discussion Document.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/v3 POP Discussion Document.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Hudson Stats.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Hudson Stats.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/MAVYRET PSP POV_FINAL.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/MAVYRET PSP POV_FINAL.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/OPDIVO Future Forward.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/OPDIVO Future Forward.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Portfolio Omnichannel Readiness Brief.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Portfolio Omnichannel Readiness Brief.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Project_Program Brief_Published.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Project_Program Brief_Published.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/IA2 IA3 Zeposia.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/IA2 IA3 Zeposia.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/VYNDAMAX Omnichannel Strategy 7.26.22.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/VYNDAMAX Omnichannel Strategy 7.26.22.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CAMZYOS Consumer Patient Support Enrollment POV.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CAMZYOS Consumer Patient Support Enrollment POV.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/OPDIVO_PanTumor_OmnichannelRoadmap_072222.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/OPDIVO_PanTumor_OmnichannelRoadmap_072222.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/OPDIVO PAN-TUMOR 2H.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/OPDIVO PAN-TUMOR 2H.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Portfolio Above Tumor Segmentation - Profiling and Next Steps May 2021.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Portfolio Above Tumor Segmentation - Profiling and Next Steps May 2021.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Portfolio Marketing_2023 Engagement Plan_v2.3.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Portfolio Marketing_2023 Engagement Plan_v2.3.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Lung Brand Planning screenshots.pptm] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Lung Brand Planning screenshots.pptm]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/HCP Portfolio Omnichannel Case Study.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/HCP Portfolio Omnichannel Case Study.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/PFIZERPRO tech.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/PFIZERPRO tech.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Pfizer SD tech.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Pfizer SD tech.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/BMS OPDIVO 1L NSCLC Trigger Workshop_111720.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/BMS OPDIVO 1L NSCLC Trigger Workshop_111720.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/VYNDAMAX EAs.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/VYNDAMAX EAs.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/portfolio brand planning.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/portfolio brand planning.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/L2 Goals Review v1 feedback.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/L2 Goals Review v1 feedback.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/NSCLC Dynamic Email Strategy.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/NSCLC Dynamic Email Strategy.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/2022-02-18_Personalized-Omnichannel-Approach.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/2022-02-18_Personalized-Omnichannel-Approach.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/AEM links.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/AEM links.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/data inputs.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/data inputs.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Effective VoC Programs Drive CX Improvements.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Effective VoC Programs Drive CX Improvements.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/2022-06-28 Full GU CCF - WIP.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/2022-06-28 Full GU CCF - WIP.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Morphosys Pelabresib Live Presentation v1.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Morphosys Pelabresib Live Presentation v1.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/EVERSANA INTOUCH Oxygen_Q2 BMS Shareout_v1_06.14.22.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/EVERSANA INTOUCH Oxygen_Q2 BMS Shareout_v1_06.14.22.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Dynamic Email 101.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Dynamic Email 101.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/INTO_OncologyPlaybook_0222.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/INTO_OncologyPlaybook_0222.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/pharma cx thought gathering.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/pharma cx thought gathering.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Brand Planning thought.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Brand Planning thought.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Do you enjoy taking poll questions.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Do you enjoy taking poll questions.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Innovation Day.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Innovation Day.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/mava brd workbook.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/mava brd workbook.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Mava Consumer Unbranded CRM Program v8 - Updated.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Mava Consumer Unbranded CRM Program v8 - Updated.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Intouch Oxygen pelabresib Research Download FULL.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Intouch Oxygen pelabresib Research Download FULL.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CX Audit Workbook.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CX Audit Workbook.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/mava brd brief.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/mava brd brief.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CX CS Sellable Solutions Tactical Appendix.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CX CS Sellable Solutions Tactical Appendix.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/WCC_Request A Rep_Implementation Manual_v12.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/WCC_Request A Rep_Implementation Manual_v12.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Vyndamax v2.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Vyndamax v2.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Vyndamax Archetype MCM WIP.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Vyndamax Archetype MCM WIP.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/v2 Portfolio Omnichannel Readiness Brief.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/v2 Portfolio Omnichannel Readiness Brief.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/testimony attempt.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/testimony attempt.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Template - Meeting Notes.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Template - Meeting Notes.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Template - Meeting Agenda.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Template - Meeting Agenda.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Strengths Icebreaker.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Strengths Icebreaker.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/relatedQueries (version 1).xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/relatedQueries (version 1).xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Reason Y.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Reason Y.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC Workshop New.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC Workshop New.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC Trigger FLows v1.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC Trigger FLows v1.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC Dynamic Email KO.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC Dynamic Email KO.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC DAOR + 3PP Tactics 2020-2022.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC DAOR + 3PP Tactics 2020-2022.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/podcast ecosystem v1.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/podcast ecosystem v1.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Persuasion_Application_Worksheet.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Persuasion_Application_Worksheet.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Pan Tumor thoughts.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Pan Tumor thoughts.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Pan Tumor ESOC Interactive Email Full PPT Deck.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Pan Tumor ESOC Interactive Email Full PPT Deck.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Pan Tumor Data Summit Chat Thread.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Pan Tumor Data Summit Chat Thread.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Opdualg Backgrounder.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Opdualg Backgrounder.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Opdivo RCC Splitter MM 8_26 Final.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Opdivo RCC Splitter MM 8_26 Final.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/oneintouch process.jfif] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/oneintouch process.jfif]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Omnichannel_Project_Brief_LAUNCH BRAND.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Omnichannel_Project_Brief_LAUNCH BRAND.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Omnichannel-Project-Brief-MATURE-BRAND.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Omnichannel-Project-Brief-MATURE-BRAND.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/OLD - VYNDAMAX Omnichannel Strategy_Geotargeting Update.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/OLD - VYNDAMAX Omnichannel Strategy_Geotargeting Update.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/O+Y 7.5 Year Email Feedback_CL Comments.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/O+Y 7.5 Year Email Feedback_CL Comments.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/NSCLC Segments.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/NSCLC Segments.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Modern_Brand_CX_Exercises.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Modern_Brand_CX_Exercises.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/ModernMarketing-Workshop-0-1-0.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/ModernMarketing-Workshop-0-1-0.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Lung Segmentation WIP.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Lung Segmentation WIP.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Lung Segmentation Check-In.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Lung Segmentation Check-In.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Lung Podcast Ecosystem Thought Starters.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Lung Podcast Ecosystem Thought Starters.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Intouch_OPDUALAG_Innovation_Ideas.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Intouch_OPDUALAG_Innovation_Ideas.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Intouch Oxygen - Text Heavy Slides.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Intouch Oxygen - Text Heavy Slides.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Intouch Oxygen - Master Template.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Intouch Oxygen - Master Template.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Home Office Email Overview.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Home Office Email Overview.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/HCP Bootcamp_3.24.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/HCP Bootcamp_3.24.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Goal Mapping.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Goal Mapping.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Giddens Project Worksheet.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Giddens Project Worksheet.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Gallup Ideas for Action Worksheet.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Gallup Ideas for Action Worksheet.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Example of CX Strategy Deliverables.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Example of CX Strategy Deliverables.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Enterprise Clients-Challenges and Excitement.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Enterprise Clients-Challenges and Excitement.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Email_Best Practices.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Email_Best Practices.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Deucrava HCP Experience Workshop.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Deucrava HCP Experience Workshop.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CX_Dont_Miss_Out.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CX_Dont_Miss_Out.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CX20.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CX20.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CX Summit - Presentation - MASTER.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CX Summit - Presentation - MASTER.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/CX Director Role.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/CX Director Role.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Customer Engagement Toolkit Overview[1]  -  Read-Only.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Customer Engagement Toolkit Overview[1]  -  Read-Only.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Copy - Modern Marketing Playbook.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Copy - Modern Marketing Playbook.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Content Workshop Final.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Content Workshop Final.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Colors & Fonts.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Colors & Fonts.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Bradley_Giddens_Onboarding 2.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Bradley_Giddens_Onboarding 2.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/BMS Opdivo RCC Dynamic Emails.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/BMS Opdivo RCC Dynamic Emails.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Blinded - Adobe 101 - CX Connect 4.15.22.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Blinded - Adobe 101 - CX Connect 4.15.22.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/big idea.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/big idea.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Advanced_Cx_Omni_Playbook_Blinded.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Advanced_Cx_Omni_Playbook_Blinded.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/4_19 Abbreviated Deuc Engagement Strategy_Worksession.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/4_19 Abbreviated Deuc Engagement Strategy_Worksession.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/3PP CMI.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/3PP CMI.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/3PP Alignment.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/3PP Alignment.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/2022_CX_Strategy_Vision.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/2022_CX_Strategy_Vision.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/2022_CX_Strategy_Goals_Session.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/2022_CX_Strategy_Goals_Session.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/2022-01-20_Opdualag_Content_Planning_Client-Review.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/2022-01-20_Opdualag_Content_Planning_Client-Review.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/2021_CX_Solutions_Blinded.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/2021_CX_Solutions_Blinded.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Level+Ex+-+Capabilities+Follow+Up+-+BMS+OPDIVO+and+OPDUALAG+-+Revised+13JUL22.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Level+Ex+-+Capabilities+Follow+Up+-+BMS+OPDIVO+and+OPDUALAG+-+Revised+13JUL22.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/realizing-the-dream-of-1-to-1-personalization-ebook-v13.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/realizing-the-dream-of-1-to-1-personalization-ebook-v13.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/000035094_OPDIVO_ESOC_HOE_3_061522_v2 (1).pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/000035094_OPDIVO_ESOC_HOE_3_061522_v2 (1).pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/State of Programmatic Health Media Report H2.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/State of Programmatic Health Media Report H2.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/2022-05 Omnichannel Capability Focus Areas_Review with AL (002) (1).pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/2022-05 Omnichannel Capability Focus Areas_Review with AL (002) (1).pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Claims-Data-Improves-Life-Science-Company-Success pdf.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Claims-Data-Improves-Life-Science-Company-Success pdf.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Optimizing-marketplace-insights-in-times-of-uncertainty pdf.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Optimizing-marketplace-insights-in-times-of-uncertainty pdf.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/XMI_OperationalizingXM.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/XMI_OperationalizingXM.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Sprinklr_BenchmarkingRpt_Pharm.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Sprinklr_BenchmarkingRpt_Pharm.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/the-digitally-savvy-hcp.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/the-digitally-savvy-hcp.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/part-5-current-future-remote-engagement-with-pharma-sales-representatives.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/part-5-current-future-remote-engagement-with-pharma-sales-representatives.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Oncology Glossary.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Oncology Glossary.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Gallup 34.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Gallup 34.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/DT-Consulting_31_The-State-Of-Customer-Experience-In-The-Pharmaceutical-Industry-2021-HCP-Interactions_February-2022.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/DT-Consulting_31_The-State-Of-Customer-Experience-In-The-Pharmaceutical-Industry-2021-HCP-Interactions_February-2022.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/digital-consumer-trends-in-pharma-2022.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/digital-consumer-trends-in-pharma-2022.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/customer-experience-the-next-battleground-for-success.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/customer-experience-the-next-battleground-for-success.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/BradGiddens DiSC.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/BradGiddens DiSC.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/BMS EMR US Standard Draft  041320 v5 (003)65.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/BMS EMR US Standard Draft  041320 v5 (003)65.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Becoming-A-Credible-Presenter 04.06.2022.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Becoming-A-Credible-Presenter 04.06.2022.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/2022 Intouch Group Benefits Summary (002).pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/2022 Intouch Group Benefits Summary (002).pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/100-day-Report.pdf] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/100-day-Report.pdf]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Presentation.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Presentation.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Tactical Brief Opdivo RCC TPO HOE V1_AM (002).doc] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Tactical Brief Opdivo RCC TPO HOE V1_AM (002).doc]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/RCC TPO Updated Experiences 9.23_ERMKJUComments.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/RCC TPO Updated Experiences 9.23_ERMKJUComments.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Use A.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Use A.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Presentation (1).pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Presentation (1).pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Data from March 2022 shows that Apple accounts for 60.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Data from March 2022 shows that Apple accounts for 60.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/HF Audit Convo 2 - Informal Recco Thoughts.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/HF Audit Convo 2 - Informal Recco Thoughts.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/For the Innovative Industry in the Healthcare sector.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/For the Innovative Industry in the Healthcare sector.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/content strat Port.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/content strat Port.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/LanU Brief Collab WIP.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/LanU Brief Collab WIP.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/OPDIVO-Content-Inventory-Master.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/OPDIVO-Content-Inventory-Master.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Trigger Workshop WIP - Holistic Content.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Trigger Workshop WIP - Holistic Content.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/TPO Triggers & Questions.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/TPO Triggers & Questions.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Revised Channel Plan with TPO Buildout.xlsx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Revised Channel Plan with TPO Buildout.xlsx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/OPDIVO for Tracy.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/OPDIVO for Tracy.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Lan Academy.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Lan Academy.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/1.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/1.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/BMSOnc Ecosystem Workbook.pptx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/BMSOnc Ecosystem Workbook.pptx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/DTC speaking points.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/DTC speaking points.docx]
+
+Moving file [/personal/bradley_giddens_eversana_com/Documents/Camzyos Reg Page Reccos.docx] into folder [/personal/bradley_giddens_eversana_com/Documents/TERM-20230803-BRADLEY.GIDDENS/Camzyos Reg Page Reccos.docx]
+
+Adding user [catherine.loechner@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [catherine.loechner@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [carter.herrman@eversana.com] whose manager is [nick.mcnally@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/carter_herrman_eversana_com]
+
+Adding folder [TERM-20230803-CARTER.HERRMAN] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Unbranded Rheum Campaigns 8.521.pptx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Unbranded Rheum Campaigns 8.521.pptx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/UCB Competitive 8.01.2021 (1).xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/UCB Competitive 8.01.2021 (1).xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/UCB Competitive 8.08.2021.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/UCB Competitive 8.08.2021.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/UCB Competitive 8.8.2021.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/UCB Competitive 8.8.2021.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Rheum Unbranded Audit - COMBINED - Copy.pptx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Rheum Unbranded Audit - COMBINED - Copy.pptx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/UCB Competitive Insights 9.13.21.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/UCB Competitive Insights 9.13.21.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/UCB Competitive Highlights 9.13.21.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/UCB Competitive Highlights 9.13.21.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Competitive Overview.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Competitive Overview.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/CIMZIA nr-axSpA 2022 DIFA Dashboard.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/CIMZIA nr-axSpA 2022 DIFA Dashboard.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Otezla.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Otezla.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Excel examples.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Excel examples.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Weekly Competitive Functions.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Weekly Competitive Functions.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/TripleLift Placement Names.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/TripleLift Placement Names.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Book1.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Book1.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/INTOUCH POWERPOINT TEMPLATE.pptx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/INTOUCH POWERPOINT TEMPLATE.pptx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Pandora Meeting 6.9.22.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Pandora Meeting 6.9.22.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Finances.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Finances.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/gMG Research NOtes 6.8.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/gMG Research NOtes 6.8.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Passwords and Methodologies.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Passwords and Methodologies.xlsx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Estimated Data Versus Real Data Rational.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Estimated Data Versus Real Data Rational.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/treatment brand summaries.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/treatment brand summaries.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/NERLYNX.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/NERLYNX.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/My two cents on reporting.docx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/My two cents on reporting.docx]
+
+Moving file [/personal/carter_herrman_eversana_com/Documents/Book4.xlsx] into folder [/personal/carter_herrman_eversana_com/Documents/TERM-20230803-CARTER.HERRMAN/Book4.xlsx]
+
+Adding user [nick.mcnally@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [nick.mcnally@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [andrew.li@eversana.com] whose manager is [max.kunakhovich@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/andrew_li_eversana_com]
+
+Adding folder [TERM-20230803-ANDREW.LI] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Downloads] into TERM folder.
+
+Moving folder [Documents/EPCO HCP Web Pages] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Andrew OOO April 2022] into TERM folder.
+
+Moving folder [Documents/andrew @ Work] into TERM folder.
+
+Moving file [/personal/andrew_li_eversana_com/Documents/AbbVie Complete Audit Notes.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/AbbVie Complete Audit Notes.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/AbbVie Complete Audit Talking Points.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/AbbVie Complete Audit Talking Points.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Lifeguard Audit Notes.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Lifeguard Audit Notes.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Lifeguard_UX__Review_11.30.21_MC.pptx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Lifeguard_UX__Review_11.30.21_MC.pptx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/UX List for Complete.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/UX List for Complete.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/AAS SItemap v1.1.png] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/AAS SItemap v1.1.png]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/OCE App Update - UX Patterns.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/OCE App Update - UX Patterns.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Otezla_UX_Review_02.03.22.pptx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Otezla_UX_Review_02.03.22.pptx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Audit Checklist Questions.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Audit Checklist Questions.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Otezla vs. Stelara.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Otezla vs. Stelara.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Audit Checklist Questions - Otezla.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Audit Checklist Questions - Otezla.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Stelara_UX_Review_02.03.22.pptx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Stelara_UX_Review_02.03.22.pptx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Audit Checklist Questions - Stelara.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Audit Checklist Questions - Stelara.docx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Genentech USMA Sitemap 3.17.22.sketch] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Genentech USMA Sitemap 3.17.22.sketch]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Complete App Registration Flows.sketch] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Complete App Registration Flows.sketch]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/Epco HCP Day 1 Website Sitemap 10.11.2022.pdf] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/Epco HCP Day 1 Website Sitemap 10.11.2022.pdf]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/RINVOQ HCP AD CAR Button POV 12.22.2022.pptx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/RINVOQ HCP AD CAR Button POV 12.22.2022.pptx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/VRAYLAR Competitive Audit 02.22.2023.pptx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/VRAYLAR Competitive Audit 02.22.2023.pptx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/VRAYLAR aMDD Consumer Website Update_Brief Deck.pptx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/VRAYLAR aMDD Consumer Website Update_Brief Deck.pptx]
+
+Moving file [/personal/andrew_li_eversana_com/Documents/WSIAB Roadmap.docx] into folder [/personal/andrew_li_eversana_com/Documents/TERM-20230803-ANDREW.LI/WSIAB Roadmap.docx]
+
+Adding user [max.kunakhovich@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [max.kunakhovich@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [zac.bell@eversana.com] whose manager is [ty.esser@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/zac_bell_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

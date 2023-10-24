@@ -1,0 +1,260 @@
+
+Daily Set-OneDriveDelegation Detail Logging for September 07, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [elizabeth.williams@eversana.com] whose manager is [Desiree.Marcus@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/elizabeth_williams_eversana_com]
+
+Adding folder [TERM-20230907-ELIZABETH.WILLIAMS] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Week 6 Day 27] into TERM folder.
+
+Cannot move folder [TERM-20230907-ELIZABETH.WILLIAMS] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/elizabeth_williams_eversana_com/Documents/Week 6 Day 27] into folder [/personal/elizabeth_williams_eversana_com/Documents/TERM-20230907-ELIZABETH.WILLIAMS/Week 6 Day 27]
+
+Moving file [/personal/elizabeth_williams_eversana_com/Documents/BENEFITS.txt] into folder [/personal/elizabeth_williams_eversana_com/Documents/TERM-20230907-ELIZABETH.WILLIAMS/BENEFITS.txt]
+
+Moving file [/personal/elizabeth_williams_eversana_com/Documents/lETTER.txt] into folder [/personal/elizabeth_williams_eversana_com/Documents/TERM-20230907-ELIZABETH.WILLIAMS/lETTER.txt]
+
+Moving file [/personal/elizabeth_williams_eversana_com/Documents/email.txt] into folder [/personal/elizabeth_williams_eversana_com/Documents/TERM-20230907-ELIZABETH.WILLIAMS/email.txt]
+
+Moving file [/personal/elizabeth_williams_eversana_com/Documents/Notes1.txt] into folder [/personal/elizabeth_williams_eversana_com/Documents/TERM-20230907-ELIZABETH.WILLIAMS/Notes1.txt]
+
+Adding user [Desiree.Marcus@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Desiree.Marcus@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [aiysha.johnson@eversana.com] whose manager is [Dusty.FurnoKorbel@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/aiysha_johnson_eversana_com]
+
+Adding folder [TERM-20230907-AIYSHA.JOHNSON] in /Documents directory
+
+Moving folder [Documents/Apellis] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/PLx Product Launch - Print Jobs] into TERM folder.
+
+Moving folder [Documents/PLx Launch Meeting - Printing] into TERM folder.
+
+Moving folder [Documents/UCB] into TERM folder.
+
+Moving folder [Documents/GIMOTI Gastro Ad Boards] into TERM folder.
+
+Moving folder [Documents/MacroGenics] into TERM folder.
+
+Moving folder [Documents/Honorarium request] into TERM folder.
+
+Moving folder [Documents/TauRx] into TERM folder.
+
+Moving folder [Documents/Pharmavite] into TERM folder.
+
+Moving folder [Documents/Janssen] into TERM folder.
+
+Moving folder [Documents/Calliditas] into TERM folder.
+
+Moving folder [Documents/Giveaway Deck] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/BIORX - 23 - Apheresis Nurses GENESIS Trial] into TERM folder.
+
+Cannot move folder [TERM-20230907-AIYSHA.JOHNSON] as it does not exist.
+
+Moving file [/personal/aiysha_johnson_eversana_com/Documents/BIORX - 23 - Apheresis Nurses GENESIS Trial] into folder [/personal/aiysha_johnson_eversana_com/Documents/TERM-20230907-AIYSHA.JOHNSON/BIORX - 23 - Apheresis Nurses GENESIS Trial]
+
+Moving file [/personal/aiysha_johnson_eversana_com/Documents/Pharmavite Giveaways with Bamko Notes (002).pptx] into folder [/personal/aiysha_johnson_eversana_com/Documents/TERM-20230907-AIYSHA.JOHNSON/Pharmavite Giveaways with Bamko Notes (002).pptx]
+
+Moving file [/personal/aiysha_johnson_eversana_com/Documents/Pharmavite Giveaways with Bamko Notes (002) (1).pptx] into folder [/personal/aiysha_johnson_eversana_com/Documents/TERM-20230907-AIYSHA.JOHNSON/Pharmavite Giveaways with Bamko Notes (002) (1).pptx]
+
+Moving file [/personal/aiysha_johnson_eversana_com/Documents/Venue Sourcing Grid 1.17.xlsx] into folder [/personal/aiysha_johnson_eversana_com/Documents/TERM-20230907-AIYSHA.JOHNSON/Venue Sourcing Grid 1.17.xlsx]
+
+Adding user [Dusty.FurnoKorbel@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Dusty.FurnoKorbel@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [goretti.pardeshi@eversana.com] whose manager is [sirisha.venneti@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/goretti_pardeshi_eversana_com]
+
+Adding folder [TERM-20230907-GORETTI.PARDESHI] in /Documents directory
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Stream Migrated Videos] into TERM folder.
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/JAN CONTRACTION- all 3.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/JAN CONTRACTION- all 3.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/June 2021 Spain allocation-Goretti.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/June 2021 Spain allocation-Goretti.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/June Spain@ 2021.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/June Spain@ 2021.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Collated DATA Italy 2021.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Collated DATA Italy 2021.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Collated LATVIA Basic data Pulling.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Collated LATVIA Basic data Pulling.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Greece March 2021 Data pull .xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Greece March 2021 Data pull .xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain Sept 2021 Collated File .xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain Sept 2021 Collated File .xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book11.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book11.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain Allocation 19-11-21.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain Allocation 19-11-21.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain Allocation 19-11-21 (1).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain Allocation 19-11-21 (1).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain_13-11-2021 to 18-11-2021 (Daily).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain_13-11-2021 to 18-11-2021 (Daily).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/SPAIN_ 13th NOV to 18th_ NOV (Daily).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/SPAIN_ 13th NOV to 18th_ NOV (Daily).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Latvia_Bidder Checks 24-11.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Latvia_Bidder Checks 24-11.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Latvia Bidder check File.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Latvia Bidder check File.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain _2021 data.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain _2021 data.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Fresenius data 2021_rest Markets (003).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Fresenius data 2021_rest Markets (003).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Paraguay_Data Extraction_Daily(9-12-2021).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Paraguay_Data Extraction_Daily(9-12-2021).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain Data Extraction _15th Dec_Daily .xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain Data Extraction _15th Dec_Daily .xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain Data Extraction _27 Dec_ (Daily).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain Data Extraction _27 Dec_ (Daily).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book6.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book6.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book7.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book7.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/501795.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/501795.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/LINE 1-68 XL.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/LINE 1-68 XL.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book4.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book4.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book2.1.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book2.1.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/CROATIA_Dec_data Extraction.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/CROATIA_Dec_data Extraction.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain Data Extraction_11 Jan _(Daily).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain Data Extraction_11 Jan _(Daily).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Latvia Data Extraction _10 Jan (Daily).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Latvia Data Extraction _10 Jan (Daily).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/USA Data Extraction (11 to 14 Jan Allocation).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/USA Data Extraction (11 to 14 Jan Allocation).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book13.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book13.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book9.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book9.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book16.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book16.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book8.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book8.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Book21.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Book21.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain Data Extraction_11th to 13th FEB (Daily).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain Data Extraction_11th to 13th FEB (Daily).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/crt 1 update.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/crt 1 update.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Spain weekly award  mappong 18 to 24 apr.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Spain weekly award  mappong 18 to 24 apr.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/03_40_Delibera_n._0264_del_21.06.2022_compressed-31-88-8-55.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/03_40_Delibera_n._0264_del_21.06.2022_compressed-31-88-8-55.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/BULGARIA AWARD MAPPING WORK.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/BULGARIA AWARD MAPPING WORK.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/PORTUGAL 10 TO 17 REALLOCATION.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/PORTUGAL 10 TO 17 REALLOCATION.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Serbia 16-11_DE_Daily.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Serbia 16-11_DE_Daily.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/FINLAND SAMPLE.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/FINLAND SAMPLE.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Finland DE.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Finland DE.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/chile DE_23 to 25 dec.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/chile DE_23 to 25 dec.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/SPAIN Award Mapping 19 to 24 Dec_(weekly).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/SPAIN Award Mapping 19 to 24 Dec_(weekly).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/FINLAND DATA EXTRACTION.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/FINLAND DATA EXTRACTION.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/1_pielikums_tehniska_specifikacija.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/1_pielikums_tehniska_specifikacija.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/SLOVENIA Data Extraction 16th to 21 (Weekly).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/SLOVENIA Data Extraction 16th to 21 (Weekly).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Thailand 20 Feb to 12 March collated file.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Thailand 20 Feb to 12 March collated file.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Name and description of the object of procurement and the terms of the contract.docx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Name and description of the object of procurement and the terms of the contract.docx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/SLOVENIA Data Extraction_Daily_10-4-2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/SLOVENIA Data Extraction_Daily_10-4-2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/HUNGARY Data Extraction_Daily_12 to 14 May 2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/HUNGARY Data Extraction_Daily_12 to 14 May 2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/ANNOUNCEMENT of open bidding.docx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/ANNOUNCEMENT of open bidding.docx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Hungary Published on 30-5-2023, Ext on 31-5-2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Hungary Published on 30-5-2023, Ext on 31-5-2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/MALTA Daily Screened Data 9 Aug 2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/MALTA Daily Screened Data 9 Aug 2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/MALTA Published on 9 Aug 2023, Ext on 10-8-2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/MALTA Published on 9 Aug 2023, Ext on 10-8-2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Costa Rica Daily 09-08-2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Costa Rica Daily 09-08-2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/CHILE Daily Screened Data 9 Aug 2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/CHILE Daily Screened Data 9 Aug 2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/MALTA Daily Screened Data 10 Aug 2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/MALTA Daily Screened Data 10 Aug 2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/Costa Rica Published on 17-08-2023,Ext on 18-8-2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/Costa Rica Published on 17-08-2023,Ext on 18-8-2023.xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/SS of teams.docx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/SS of teams.docx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/panama Daily screening File (16).xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/panama Daily screening File (16).xlsx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/TERMS OF REFERENCE.docx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/TERMS OF REFERENCE.docx]
+
+Moving file [/personal/goretti_pardeshi_eversana_com/Documents/MALTA Published on 31 Aug 2023,Ext no 1-9-2023.xlsx] into folder [/personal/goretti_pardeshi_eversana_com/Documents/TERM-20230907-GORETTI.PARDESHI/MALTA Published on 31 Aug 2023,Ext no 1-9-2023.xlsx]
+
+Adding user [sirisha.venneti@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sirisha.venneti@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

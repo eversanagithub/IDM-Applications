@@ -1,0 +1,83 @@
+Content-type: text/html
+
+<html>
+<head>
+<link rel='stylesheet' href='http://iuatidmgmtapp01/css/styles.css'>
+<script LANGUAGE=JAVASCRIPT src=http://iuatidmgmtapp01/js/functions.js></script>
+</head><body bgcolor='#0F0141'>
+<FORM id='PortalForm' METHOD='POST' ACTION='/cgi-bin/ExecutePromotionProcess.pl';>
+<table width='100%' align='center'>
+<tr>
+<td align='center'>
+<p class='IDMReportHeading'>IDM Website Code Promotion Utility</p></td>
+</td>
+</tr>
+</table>
+<br>
+<table width='100%'>
+<tr>
+<td>
+<p class='IDMReportDetail'>This application promotes the HTML code within the Development environment into Production.</p></td>
+</td>
+</tr>
+</table>
+<br>
+<table width='100%' align='center'>
+<tr>
+<td width='100%'>
+<p class='MainHeader'>Click the Commence Promotion button to initiate the promotion process</p>
+</td>
+</tr>
+</table>
+<table width='100%' align='center'>
+<tr>
+<td width='15%'>&nbsp</td>
+<td width='17%' align='center'>
+<p class='NoticeBlueUnderline'>Start Time</p>
+</td>
+<td width='17%' align='center'>
+<p class='NoticeBlueUnderline'>Completion Time</p>
+</td>
+<td width='17%' align='center'>
+<p class='NoticeBlueUnderline'>Completion %</p>
+</td>
+<td width='21%' align='center'>
+<p class='NoticeBlueUnderline'>Status Message</p>
+</td>
+<td width='13%'>&nbsp</td>
+</tr>
+<tr>
+<td width='15%'>&nbsp</td>
+<td width='17%' align='center'>
+<p class='WhiteText_P18'>Pending</p>
+</td>
+<td width='17%' align='center'>
+<p class='WhiteText_P18'>Pending</p>
+</td>
+<td width='17%' align='center'>
+<p class='WhiteText_P18'>0.0</p>
+</td>
+<td width='21%' align='center'>
+<p class='WhiteText_P18'>Awaiting Command to start</p>
+</td>
+<td width='13%'>&nbsp</td>
+</tr>
+</table>
+<br><br><br><br>
+<table width='100%' align='center'>
+<tr>
+<td width='100%' align='center'>
+<button class='styledButton' id='Submit' name='Submit' type='submit' value='Submit'>Commence Promotion</button>
+</td>
+</tr>
+</table>
+<br>
+<table width='100%' align='center'>
+<tr>
+<td width='100%' align='center'>
+<img width=800 height=300 src='http://iuatidmgmtapp01/images/PromoteCartoon3.jpg'>
+</td>
+</tr>
+</table>
+</body>
+</html>

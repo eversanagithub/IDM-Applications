@@ -1,0 +1,1 @@
+update WebSearchFields set srchAssocID = '1032' where webUserDTG = '000';

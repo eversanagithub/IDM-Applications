@@ -1,0 +1,326 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 20, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [shalini.subramanian@eversana.com] whose manager is [Srikant.Panigrahy@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/shalini_subramanian_eversana_com]
+
+Adding folder [TERM-20230720-SHALINI.SUBRAMANIAN] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/D&A Team] into TERM folder.
+
+Moving folder [Documents/Bangalore Team] into TERM folder.
+
+Moving folder [Documents/D&A Engineering] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/GIMOTI UPSCRIPT] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Shalini @ Eversana] into TERM folder.
+
+Moving file [/personal/shalini_subramanian_eversana_com/Documents/Book1.xlsx] into folder [/personal/shalini_subramanian_eversana_com/Documents/TERM-20230720-SHALINI.SUBRAMANIAN/Book1.xlsx]
+
+Moving file [/personal/shalini_subramanian_eversana_com/Documents/Patient Demo Flow.xlsx] into folder [/personal/shalini_subramanian_eversana_com/Documents/TERM-20230720-SHALINI.SUBRAMANIAN/Patient Demo Flow.xlsx]
+
+Moving file [/personal/shalini_subramanian_eversana_com/Documents/Analysis Symphony.xlsx] into folder [/personal/shalini_subramanian_eversana_com/Documents/TERM-20230720-SHALINI.SUBRAMANIAN/Analysis Symphony.xlsx]
+
+Adding user [Srikant.Panigrahy@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Srikant.Panigrahy@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [richard.bishop@eversana.com] whose manager is [AshleyM.Young@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/richard_bishop_eversana_com]
+
+Adding folder [TERM-20230720-RICHARD.BISHOP] in /Documents directory
+
+Adding user [AshleyM.Young@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [AshleyM.Young@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [richard.bishop@eversana.com] whose manager is [AshleyM.Young@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/richard_bishop_eversana_com]
+
+Adding folder [TERM-20230720-RICHARD.BISHOP] in /Documents directory
+
+Main Folder [TERM-20230720-RICHARD.BISHOP] already exists --- will not recreate it
+
+Adding user [AshleyM.Young@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [AshleyM.Young@eversana.com]
+
+Processing OneDrive Delegation for delegate [yvonne.rosales@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/yvonne_rosales_eversana_com]
+
+Adding folder [TERM-20230720-YVONNE.ROSALES] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ellen.short@eversana.com] whose manager is [Robert.Springmeyer@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ellen_short_eversana_com]
+
+Adding folder [TERM-20230720-ELLEN.SHORT] in /Documents directory
+
+Adding user [Robert.Springmeyer@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Robert.Springmeyer@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jocelyn.eide@eversana.com] whose manager is [justin.tillich@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jocelyn_eide_eversana_com]
+
+Adding folder [TERM-20230720-JOCELYN.EIDE] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/ORIAHNN] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Jatenzo] into TERM folder.
+
+Moving folder [Documents/Women's Health] into TERM folder.
+
+Moving folder [Documents/951] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/VENCLEXTA] into TERM folder.
+
+Moving folder [Documents/Core Claims] into TERM folder.
+
+Moving folder [Documents/Copy Templates] into TERM folder.
+
+Moving folder [Documents/EPCO] into TERM folder.
+
+Cannot move folder [TERM-20230720-JOCELYN.EIDE] as it does not exist.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/Competitive Intelligence Slides from Client] into TERM folder.
+
+Cannot move folder [TERM-20230720-JOCELYN.EIDE] as it does not exist.
+
+Moving folder [Documents/VYALEV - Creative Server Solutions] into TERM folder.
+
+Cannot move folder [TERM-20230720-JOCELYN.EIDE] as it does not exist.
+
+Moving folder [Documents/CREON] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/ARD] into TERM folder.
+
+Cannot move folder [TERM-20230720-JOCELYN.EIDE] as it does not exist.
+
+Moving folder [Documents/APS 951] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/jocelyn @ EVERSANA INTOUCH] into TERM folder.
+
+Moving folder [Documents/VYALEV] into TERM folder.
+
+Cannot move folder [TERM-20230720-JOCELYN.EIDE] as it does not exist.
+
+Moving folder [Documents/ORIAHNN - Creative Server Solutions] into TERM folder.
+
+Cannot move folder [TERM-20230720-JOCELYN.EIDE] as it does not exist.
+
+Moving folder [Documents/ORILISSA] into TERM folder.
+
+Cannot move folder [TERM-20230720-JOCELYN.EIDE] as it does not exist.
+
+Moving folder [Documents/EPCO-Handoff] into TERM folder.
+
+Moving folder [Documents/951 - Launch] into TERM folder.
+
+Moving folder [Documents/Jocelyn_CoveragePlan] into TERM folder.
+
+Moving folder [Documents/Synthroid Campaign] into TERM folder.
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/EPCO] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/EPCO]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/Competitive Intelligence Slides from Client] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/Competitive Intelligence Slides from Client]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/VYALEV - Creative Server Solutions] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/VYALEV - Creative Server Solutions]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/ARD] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/ARD]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/VYALEV] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/VYALEV]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/ORIAHNN - Creative Server Solutions] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/ORIAHNN - Creative Server Solutions]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/ORILISSA] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/ORILISSA]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/34837_ABV_VYV_DTC_FullWebsite_Manuscript.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/34837_ABV_VYV_DTC_FullWebsite_Manuscript.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/Synthroid_Programs.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/Synthroid_Programs.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/PHASE 2 CONTENT NEEDS.xlsx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/PHASE 2 CONTENT NEEDS.xlsx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/34837_ABV_VYV_DTC_WorkshopAreas_Manuscript.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/34837_ABV_VYV_DTC_WorkshopAreas_Manuscript.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/34837_ABV_VYV_DTC_WIP.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/34837_ABV_VYV_DTC_WIP.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/34837_ABV_VYV_DTC_Home_OnTime_Manuscript.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/34837_ABV_VYV_DTC_Home_OnTime_Manuscript.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/34837_ABV_VYV_DTC_Phase_2_Site_113022_je_edits.pdf] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/34837_ABV_VYV_DTC_Phase_2_Site_113022_je_edits.pdf]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/HCP_site_updates.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/HCP_site_updates.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/ActiveProjects.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/ActiveProjects.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/EPCO_CopyResources.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/EPCO_CopyResources.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/Phase 2 FAQs.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/Phase 2 FAQs.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/Document.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/Document.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/951-OrphanPage-Edu.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/951-OrphanPage-Edu.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/KeepWarm_Touches_Manuscript.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/KeepWarm_Touches_Manuscript.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/EPI-Interactive-Booth-Content_MissingRefs.xlsx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/EPI-Interactive-Booth-Content_MissingRefs.xlsx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/ABBV-951 – VO Casting Script.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/ABBV-951 – VO Casting Script.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/VoiceoverScript_031323.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/VoiceoverScript_031323.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/MOD Animation Notes.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/MOD Animation Notes.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/Phase2_Optimizations_Status.xlsx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/Phase2_Optimizations_Status.xlsx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/AR_Promo.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/AR_Promo.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/POM_ContentOutline.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/POM_ContentOutline.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/Document1.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/Document1.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/AnaiisProjectHandoff.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/AnaiisProjectHandoff.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/Document2.docx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/Document2.docx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/VRAY_aMDD_MOA_ARD.xlsx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/VRAY_aMDD_MOA_ARD.xlsx]
+
+Moving file [/personal/jocelyn_eide_eversana_com/Documents/ProjectList_Jocelyn.xlsx] into folder [/personal/jocelyn_eide_eversana_com/Documents/TERM-20230720-JOCELYN.EIDE/ProjectList_Jocelyn.xlsx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [tiffany.patelynn@eversana.com] whose manager is [cindy.wisdom@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/tiffany_patelynn_eversana_com]
+
+Adding folder [TERM-20230720-TIFFANY.PATELYNN] in /Documents directory
+
+Moving folder [Documents/New Folder] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Tiffany @ Eversana] into TERM folder.
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/Michael Burrows (AE).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/Michael Burrows (AE).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/Haley Green (AE).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/Haley Green (AE).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (1).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (1).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (2).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (2).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (3).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (3).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (4).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (4).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (5).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (5).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (6).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (6).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (7).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (7).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (8).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (8).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (9).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (9).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/2022 Complaint Form - EVERSANA (002) (10).docx] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/2022 Complaint Form - EVERSANA (002) (10).docx]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/bookmarks_6_29_23.html] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/bookmarks_6_29_23.html]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/Chrome Passwords.csv] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/Chrome Passwords.csv]
+
+Moving file [/personal/tiffany_patelynn_eversana_com/Documents/bookmarks_7_10_23.html] into folder [/personal/tiffany_patelynn_eversana_com/Documents/TERM-20230720-TIFFANY.PATELYNN/bookmarks_7_10_23.html]
+
+Adding user [cindy.wisdom@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [cindy.wisdom@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [steve.beauchamp@eversana.com] whose manager is [Mai.Shunk@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/steve_beauchamp_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

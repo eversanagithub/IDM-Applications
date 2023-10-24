@@ -1,0 +1,61 @@
+<html>
+<head>
+	<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+	<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<!-- SetWebPageDTGToZero sets WebPageDTG to '000'. -->
+<BODY onLoad='SetWebPageDTGToZero();BuildMainSelectionButtons()' class="bodyBackground">
+<FORM id='LaunchAdminPortalBuildPage' METHOD='POST' ACTION='/cgi-bin/BuildWebPageScripts/CreateAdminPortalHTMLResponse.pl' target='_parent'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<img src="http://idmgmtapp01/images/ThisSite.jpg">
+		</td>
+	</tr>
+</table>
+<br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<img src="http://idmgmtapp01/images/ResourceLinks.jpg">
+		</td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center' id="adminPortal"></td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/webpages/IDMReports.html' target='mainpanel'>
+				<img width=200 height=45 src="http://idmgmtapp01/images/buttons/idmreports.jpg" onMouseOver='BlueBlank_Description();' onMouseLeave='initialTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/webpages/Registration/RegistrationForm.html' target='mainpanel'>
+				<img width=200 height=45 src="http://idmgmtapp01/images/buttons/AdminPortalRequestForm.jpg" onMouseOver='BlueBlank_Description();' onMouseLeave='initialTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<table border='0' width=100%>
+<br>
+ <tr>
+  <canvas id="myCanvas" width="400" height="0" style="border:1px solid #DFAB17;">
+ </tr>
+</table>
+</body>
+</html>

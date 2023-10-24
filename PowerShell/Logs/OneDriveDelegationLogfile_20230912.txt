@@ -1,0 +1,313 @@
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Adding folder [TERM-20230912-AMY.KETTLE] in /Documents directory
+
+Adding record into the Azure Storage Table
+
+Adding record into theSQL table.
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Adding folder [TERM-20230912-AMY.KETTLE] in /Documents directory
+
+Main Folder [TERM-20230912-AMY.KETTLE] already exists --- will not recreate it
+
+Moving folder [Documents/Amy @ Eversana] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/PS COVID-19 Response Team] into TERM folder.
+
+Moving folder [Documents/COVID-19 BCP] into TERM folder.
+
+Moving folder [Documents/STL SR Leadership Team] into TERM folder.
+
+Moving folder [Documents/AMEX Receipts] into TERM folder.
+
+Moving folder [Documents/Patient Services] into TERM folder.
+
+Moving folder [Documents/Bhaskar - Expenses] into TERM folder.
+
+Moving folder [Documents/WFH Pictures] into TERM folder.
+
+Moving folder [Documents/PS Leadership Team] into TERM folder.
+
+Moving folder [Documents/EMAILS] into TERM folder.
+
+Moving folder [Documents/FedEx Payment Tracker] into TERM folder.
+
+Moving folder [Documents/COVID RTW] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/RTW- COVID Planning] into TERM folder.
+
+Moving folder [Documents/RTW Pilot] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Maria] into TERM folder.
+
+Moving folder [Documents/Mirum Mailings] into TERM folder.
+
+Moving folder [Documents/EVERSANA PS Leadership Program] into TERM folder.
+
+Moving folder [Documents/Employee Engagement] into TERM folder.
+
+Moving folder [Documents/Team Facts] into TERM folder.
+
+Moving folder [Documents/JJPAF] into TERM folder.
+
+Moving folder [Documents/2022 Holiday Spirit Week] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/D365] into TERM folder.
+
+Moving folder [Documents/Stream Migrated Videos] into TERM folder.
+
+Adding record into the Azure Storage Table
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Adding folder [TERM-20230912-AMY.KETTLE] in /Documents directory
+
+Main Folder [TERM-20230912-AMY.KETTLE] already exists --- will not recreate it
+
+Adding record into the Azure Storage Table
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Adding folder [TERM-20230912-AMY.KETTLE] in /Documents directory
+
+Main Folder [TERM-20230912-AMY.KETTLE] already exists --- will not recreate it
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/STL Associates 03.17.20.xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/STL Associates 03.17.20.xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/PS 2.0 Client Communications] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/PS 2.0 Client Communications]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/PS 2.0 Client Communications/PS 2.0 Client Communication Schedule 05282020.docx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/PS 2.0 Client Communication Schedule 05282020.docx]
+
+Cannot move file [/personal/amy_kettle_eversana_com/Documents/PS 2.0 Client Communications/PS 2.0 Client Communication Schedule 05282020.docx] as it does not exist.
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Dupixent Ad Hoc Eversana 08102020.xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Dupixent Ad Hoc Eversana 08102020.xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Drawing.vsdx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Drawing.vsdx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/PS LT_StaffMeeting_11.19.21.pptx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/PS LT_StaffMeeting_11.19.21.pptx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/PS LT_StaffMeeting_12.7.21.pptx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/PS LT_StaffMeeting_12.7.21.pptx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/PS LT_StaffMeeting_12.7.21 (1).pptx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/PS LT_StaffMeeting_12.7.21 (1).pptx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/PS LT_StaffMeeting_12.8.21.pptx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/PS LT_StaffMeeting_12.8.21.pptx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/TDR_12.8.21.pptx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/TDR_12.8.21.pptx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/2021-2022 TDR Schedule.xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/2021-2022 TDR Schedule.xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Sharing a patient.docx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Sharing a patient.docx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Patient Service Client and Program Matrix_9 17 2020.xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Patient Service Client and Program Matrix_9 17 2020.xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/PS RTW Plan_3.1.22.xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/PS RTW Plan_3.1.22.xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/PS RTW Plan_3.1.22 (1).xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/PS RTW Plan_3.1.22 (1).xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Employee Engagement - Fun Days.xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Employee Engagement - Fun Days.xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Catapult for PS Leaders Attendance Spreadsheet.xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Catapult for PS Leaders Attendance Spreadsheet.xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Copy of GroupAccess.xlsx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Copy of GroupAccess.xlsx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Day 1 Notes.pptx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Day 1 Notes.pptx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Day 1 Action Items.pptx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Day 1 Action Items.pptx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/JJPAF Notice.docx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/JJPAF Notice.docx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/After Action Report.docx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/After Action Report.docx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Dec LT Meeting_Agenda.pptx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Dec LT Meeting_Agenda.pptx]
+
+Moving file [/personal/amy_kettle_eversana_com/Documents/Doc1.docx] into folder [/personal/amy_kettle_eversana_com/Documents/TERM-20230912-AMY.KETTLE/Doc1.docx]
+
+Adding record into the Azure Storage Table
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Adding folder [TERM-20230912-AMY.KETTLE] in /Documents directory
+
+Main Folder [TERM-20230912-AMY.KETTLE] already exists --- will not recreate it
+
+Adding record into the Azure Storage Table
+
+All delegates processed ... see you tomorrow!!
+
+
+Daily Set-OneDriveDelegation Detail Logging for September 12, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com]
+
+Adding folder [TERM-20230912-AMY.KETTLE] in /Documents directory
+
+Main Folder [TERM-20230912-AMY.KETTLE] already exists --- will not recreate it
+
+Adding record into the Azure Storage Table
+
+All delegates processed ... see you tomorrow!!
+

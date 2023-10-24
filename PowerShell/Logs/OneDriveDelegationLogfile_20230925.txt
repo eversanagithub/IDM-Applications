@@ -1,0 +1,198 @@
+
+Daily Set-OneDriveDelegation Detail Logging for September 25, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/rachel_nunn_eversana_com]
+
+Adding folder [TERM-20230925-RACHEL.NUNN] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/PROMOTIONS] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/PayScale] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/rachel @ Work] into TERM folder.
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Risk Management Training NEW TEMPLATE 4-27-2017.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Risk Management Training NEW TEMPLATE 4-27-2017.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Intouch parental benefit highlights 2017.xps] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Intouch parental benefit highlights 2017.xps]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Nagesh Namana Recruitment Chart Net Developer.xls] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Nagesh Namana Recruitment Chart Net Developer.xls]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Dumala JD and responsbilities .docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Dumala JD and responsbilities .docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Onboarding Blueprint Current.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Onboarding Blueprint Current.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Presentation.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Presentation.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Nunn Maternity Leave Fall 2020.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Nunn Maternity Leave Fall 2020.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/WPO Summary - Copy.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/WPO Summary - Copy.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/PayScale Review and Analysis 8-18-21 BJ Edits.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/PayScale Review and Analysis 8-18-21 BJ Edits.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Internal opportunity process.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Internal opportunity process.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/INTERIM TRANSFER ROCESS.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/INTERIM TRANSFER ROCESS.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Process Workstream Priorities.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Process Workstream Priorities.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Comp and Ben Workstream Priorities.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Comp and Ben Workstream Priorities.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Salguero-Luchansky investigation.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Salguero-Luchansky investigation.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Evertouch Onboarding.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Evertouch Onboarding.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Onboarding workstream.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Onboarding workstream.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Book1.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Book1.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/New Employee Onboarding Deck 051022.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/New Employee Onboarding Deck 051022.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Nunn Treatment.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Nunn Treatment.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/may22flight.pdf] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/may22flight.pdf]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/cover.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/cover.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Nunn Intro.pdf] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Nunn Intro.pdf]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Nunn Letter.pdf] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Nunn Letter.pdf]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/INTERNAL TRANSFER PROCESS (AutoRecovered).docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/INTERNAL TRANSFER PROCESS (AutoRecovered).docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of Transition Document_Open Reqs 8.10.22 RN.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of Transition Document_Open Reqs 8.10.22 RN.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/operations coe.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/operations coe.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/CX Transfers.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/CX Transfers.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Development Transfers.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Development Transfers.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Editorial Transfer.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Editorial Transfer.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/PMO Transfers.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/PMO Transfers.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Medical Transfer.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Medical Transfer.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Creative Transfers.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Creative Transfers.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of Engage Transfer list 8.12.22.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of Engage Transfer list 8.12.22.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Engage transfer list - affiliates.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Engage transfer list - affiliates.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/INTERNAL TRANSFER PROCESS August 2022.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/INTERNAL TRANSFER PROCESS August 2022.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/CA.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/CA.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/EE onboarding SSN.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/EE onboarding SSN.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Finance Associate.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Finance Associate.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of 2022 Terminations YTD 9.7.22.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of 2022 Terminations YTD 9.7.22.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/All HR Meeting - September 2022.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/All HR Meeting - September 2022.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Termination Letter.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Termination Letter.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/HR Manager.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/HR Manager.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of HR EE Report 9.22.22 (003).xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of HR EE Report 9.22.22 (003).xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/trip.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/trip.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Eversana processes to know.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Eversana processes to know.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Senior Project Manager B2D v.3.0.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Senior Project Manager B2D v.3.0.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/JW CDA.pdf] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/JW CDA.pdf]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of Report for Rachel_12.19.22.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of Report for Rachel_12.19.22.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/EE BU report.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/EE BU report.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Bardy Agreement.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Bardy Agreement.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Org 2023.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Org 2023.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Org 2023 - MarCom.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Org 2023 - MarCom.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Org 2023 - IT.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Org 2023 - IT.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Org 2023 - HR.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Org 2023 - HR.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Org 2023 - Finance.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Org 2023 - Finance.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Org 2023 - Legal.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Org 2023 - Legal.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Org 2023 - Commercial.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Org 2023 - Commercial.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/TEMPLATE EV Separation Agreement (Over 40).docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/TEMPLATE EV Separation Agreement (Over 40).docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Carney separation agreement.pdf] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Carney separation agreement.pdf]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Carney Agreement.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Carney Agreement.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of New Job Code Request Template Revision Recommendations.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of New Job Code Request Template Revision Recommendations.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of SA Template State Statutes Chart.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of SA Template State Statutes Chart.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of Severance Calculator.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of Severance Calculator.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/2023 calendar.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/2023 calendar.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Copy of Legal Bonuses 2022 (002).xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Copy of Legal Bonuses 2022 (002).xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Jim Hepp's Team.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Jim Hepp's Team.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Check Request Form Schulze.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Check Request Form Schulze.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Check Request Form Arrambide.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Check Request Form Arrambide.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/RN BT bonus targets.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/RN BT bonus targets.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/talking points merit.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/talking points merit.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/HR Org Levels.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/HR Org Levels.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/manatee.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/manatee.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Liz Christman.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Liz Christman.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/MacNaughton Agreement.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/MacNaughton Agreement.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/BT title changes.xlsx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/BT title changes.xlsx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/Title Creation Process – NEW!.pptx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/Title Creation Process – NEW!.pptx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/meeting with vicky.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/meeting with vicky.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/VP quality.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/VP quality.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/RACHEL NUNN REFERENCES.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/RACHEL NUNN REFERENCES.docx]
+
+Moving file [/personal/rachel_nunn_eversana_com/Documents/AARETE JD.docx] into folder [/personal/rachel_nunn_eversana_com/Documents/TERM-20230925-RACHEL.NUNN/AARETE JD.docx]
+
+Adding record into the Azure Storage Table
+
+Adding record into theSQL table.
+
+All delegates processed ... see you tomorrow!!
+

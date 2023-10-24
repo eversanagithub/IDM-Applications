@@ -1,0 +1,1090 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 10, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [storree.fuller@eversana.com] whose manager is [Matthew.Bruns@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/storree_fuller_eversana_com]
+
+Adding folder [TERM-20230810-STORREE.FULLER] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Storree @ Eversana] into TERM folder.
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/07885 Backup 5.9.23] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/07885 Backup 5.9.23]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Compliance quiz.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Compliance quiz.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/2023 sop.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/2023 sop.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/MEDTEK Training Guide JJPAF BC 10.22.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/MEDTEK Training Guide JJPAF BC 10.22.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Live Call Monitor.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Live Call Monitor.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/TransperfectUpdate.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/TransperfectUpdate.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Warm Transfer Process.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Warm Transfer Process.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Associate Production Tracker 10312022.xlsx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Associate Production Tracker 10312022.xlsx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Welcome to quicksteps and resource guide (1).pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Welcome to quicksteps and resource guide (1).pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/15697_CRD-5-03a Distraught Suicidal Callers Talking Points.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/15697_CRD-5-03a Distraught Suicidal Callers Talking Points.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Application Processing Training deck.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Application Processing Training deck.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/EF_EVERSANA.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/EF_EVERSANA.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Associate Production Tracker 102622.xlsx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Associate Production Tracker 102622.xlsx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Preview Missing Information Letter_20221027_161908.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Preview Missing Information Letter_20221027_161908.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Associate Production Tracker 102522.xlsx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Associate Production Tracker 102522.xlsx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/JJPAF_WI_ OIG Verification.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/JJPAF_WI_ OIG Verification.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/STEPS TO PROCESSING.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/STEPS TO PROCESSING.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/2022 Complaint Form -Blanks.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/2022 Complaint Form -Blanks.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/AEPQC.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/AEPQC.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Neurology2022.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Neurology2022.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/downscript.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/downscript.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Medicaid and Part D.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Medicaid and Part D.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Associate Production Tracker 10282022.xlsx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Associate Production Tracker 10282022.xlsx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Payer Contact numbers.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Payer Contact numbers.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Associate Production Tracker 10272022.xlsx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Associate Production Tracker 10272022.xlsx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Missing Information_Patient_20221027_173512.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Missing Information_Patient_20221027_173512.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Preview Missing Information Letter_20221027_162420.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Preview Missing Information Letter_20221027_162420.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Adverse Event  Guide Draft.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Adverse Event  Guide Draft.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/4709bcc4-dfdf-4fdb-90e0-3245181031c0.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/4709bcc4-dfdf-4fdb-90e0-3245181031c0.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/1.2 Unrestricted Approval_Patient_Zytiga.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/1.2 Unrestricted Approval_Patient_Zytiga.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Processing Quick Notes.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Processing Quick Notes.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/MicrosoftTeams-image.png] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/MicrosoftTeams-image.png]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Data Intake checklist 6.18.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Data Intake checklist 6.18.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/MicrosoftTeams-image (1).png] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/MicrosoftTeams-image (1).png]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/CRM TOUR.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/CRM TOUR.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/JJPAF_Product List_Effective10.1.22.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/JJPAF_Product List_Effective10.1.22.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/jjpaf-application.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/jjpaf-application.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Order Processing Steps.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Order Processing Steps.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/phone set up instructions.PDF] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/phone set up instructions.PDF]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/JJPAF CRM Resource Guide.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/JJPAF CRM Resource Guide.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/JJP Program Contacts - JJPAF.pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/JJP Program Contacts - JJPAF.pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/PS-Multi-Introduction to Patient Assistance Programs-PPT.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/PS-Multi-Introduction to Patient Assistance Programs-PPT.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/How to document in Crm.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/How to document in Crm.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/PS-Multi-Medication and Prescription Basics-PPT (3).pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/PS-Multi-Medication and Prescription Basics-PPT (3).pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/JJPAF_Product List_Effective10.1.22 (003).pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/JJPAF_Product List_Effective10.1.22 (003).pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Prescription Abbreviations (1).pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Prescription Abbreviations (1).pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/TURNAROUND TIMES.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/TURNAROUND TIMES.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Preview Missing Information Letter_20221102_151849.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Preview Missing Information Letter_20221102_151849.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/tax info.PNG] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/tax info.PNG]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/jjpaf app pg 3.PNG] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/jjpaf app pg 3.PNG]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/jjpaf app pg 2.PNG] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/jjpaf app pg 2.PNG]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Missing Information Process FlowV2.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Missing Information Process FlowV2.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/PS-Multi-Industry Terms and Acronyms Glossary-SPM (2).docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/PS-Multi-Industry Terms and Acronyms Glossary-SPM (2).docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/PS-JJPAF-PAP Service Event Checklist-.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/PS-JJPAF-PAP Service Event Checklist-.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/RX qty Visual Aid.pptx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/RX qty Visual Aid.pptx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Medicaid Expansion HCP_20200118_011933.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Medicaid Expansion HCP_20200118_011933.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Missing Information_Patient_20221207_141759.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Missing Information_Patient_20221207_141759.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/16245_CRD-5-33a Patient Authentication1 (3).pdf] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/16245_CRD-5-33a Patient Authentication1 (3).pdf]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/Processing Quick Notes - Copy.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Processing Quick Notes - Copy.docx]
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/07885 Backup 5.9.23/bookmarks_5_9_23.html] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/bookmarks_5_9_23.html]
+
+Cannot move file [/personal/storree_fuller_eversana_com/Documents/07885 Backup 5.9.23/bookmarks_5_9_23.html] as it does not exist.
+
+Moving file [/personal/storree_fuller_eversana_com/Documents/07885 Backup 5.9.23/Drives & Software.docx] into folder [/personal/storree_fuller_eversana_com/Documents/TERM-20230810-STORREE.FULLER/Drives & Software.docx]
+
+Cannot move file [/personal/storree_fuller_eversana_com/Documents/07885 Backup 5.9.23/Drives & Software.docx] as it does not exist.
+
+Adding user [Matthew.Bruns@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Matthew.Bruns@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [devora.bahar@eversana.com] whose manager is [Maris.Smith@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/devora_bahar_eversana_com]
+
+Adding folder [TERM-20230810-DEVORA.BAHAR] in /Documents directory
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/2020] into TERM folder.
+
+Cannot move folder [TERM-20230810-DEVORA.BAHAR] as it does not exist.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/2020] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/2020]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Novartis Remi Market Access Written Response_06-2023 v2.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Novartis Remi Market Access Written Response_06-2023 v2.pdf]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Test and Learn POV_V2.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Test and Learn POV_V2.pdf]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Advanced_Cx_Omni_Manual_Blinded.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Advanced_Cx_Omni_Manual_Blinded.pdf]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Market Research Excercise..docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Market Research Excercise..docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Cx Audit Project.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Cx Audit Project.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/CX Audit . Devora Bahar.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/CX Audit . Devora Bahar.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Presentation1.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Presentation1.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Cs Trend 2022. Devora_Bahar.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Cs Trend 2022. Devora_Bahar.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Ecosystem . Devora_ Bahar.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Ecosystem . Devora_ Bahar.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/ChoicesOnlineReports842b9246-35d4-41d0-9112-46f11e7a17ec.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/ChoicesOnlineReports842b9246-35d4-41d0-9112-46f11e7a17ec.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Adult females that experience migraines.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Adult females that experience migraines.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Migraine Stats.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Migraine Stats.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Content Inventory.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Content Inventory.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Murals.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Murals.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/SEO.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/SEO.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Ecosystem Presentation.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Ecosystem Presentation.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/CS Map.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/CS Map.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Tagging Map Exercise.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Tagging Map Exercise.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Strategic Planning.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Strategic Planning.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Tagging Map Exercise (1).xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Tagging Map Exercise (1).xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/measurement_map.devora_bahar.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/measurement_map.devora_bahar.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Ocrevus.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Ocrevus.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Creative Audit _ Devora.Bahar.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Creative Audit _ Devora.Bahar.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Cx Audit Dupixent . Devora_ Bahar.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Cx Audit Dupixent . Devora_ Bahar.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Content Strategy.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Content Strategy.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Persona 2.0.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Persona 2.0.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Customer Journey Map.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Customer Journey Map.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/nurtec15.png] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/nurtec15.png]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/skyrizi&Eylea audit.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/skyrizi&Eylea audit.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Book Write Up.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Book Write Up.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Document.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Document.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Document1.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Document1.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Document2.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Document2.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Document3.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Document3.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/How to change_ Devora Bahar.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/How to change_ Devora Bahar.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Teenager Behavior Infographics by Slidesgo.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Teenager Behavior Infographics by Slidesgo.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/test and learn_ Matt&Devora.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/test and learn_ Matt&Devora.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Rybelsus A1C.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Rybelsus A1C.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Table.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Table.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Data.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Data.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/ChoicesOnlineReportsf17d88b0-33a6-41d7-8897-ec33349eefc5.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/ChoicesOnlineReportsf17d88b0-33a6-41d7-8897-ec33349eefc5.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/The CGRP biologics used for migraine prophylaxis are not highly differentiated based on efficacy.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/The CGRP biologics used for migraine prophylaxis are not highly differentiated based on efficacy.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Creon Onboarding.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Creon Onboarding.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/graphs.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/graphs.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Norway.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Norway.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Norway (1).docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Norway (1).docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/iRep strategic recommendations duplicates list.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/iRep strategic recommendations duplicates list.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/EVERSANA Omni capabilities_TauRx_3.7.23.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/EVERSANA Omni capabilities_TauRx_3.7.23.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Drafts.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Drafts.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/workfront hours.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/workfront hours.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Comvivent Experience FLow.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Comvivent Experience FLow.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/career goals.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/career goals.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/notes.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/notes.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Cyltezo_CRD_ April 2023.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Cyltezo_CRD_ April 2023.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/BI_New_ Cyltezo CRD .docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/BI_New_ Cyltezo CRD .docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Ravicti+ Actimmune audit.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Ravicti+ Actimmune audit.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Combivent Analysis.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Combivent Analysis.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/audits.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/audits.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/combvent meeting.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/combvent meeting.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Tactical template_Dermtech.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Tactical template_Dermtech.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Lymphir CRM sign up POV.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Lymphir CRM sign up POV.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Endos treating t2d.xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Endos treating t2d.xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/channel preferrence .xlsx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/channel preferrence .xlsx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Lymphir CRM sign up POV (1).pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Lymphir CRM sign up POV (1).pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Document4.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Document4.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Mural Brainstorm Session.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Mural Brainstorm Session.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Approved Banner Black Box Warning.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Approved Banner Black Box Warning.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/CGD COnnections Outline Review.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/CGD COnnections Outline Review.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/CX POV Library.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/CX POV Library.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Now Approved Drugs.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Now Approved Drugs.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Novartis MA Check In.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Novartis MA Check In.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Novartis Daily Check IN.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Novartis Daily Check IN.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Lymphir Landing Page.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Lymphir Landing Page.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/CIT LYM - 23 LYMPHIR Day 1 Website_v4_DC.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/CIT LYM - 23 LYMPHIR Day 1 Website_v4_DC.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Actimmune and Spark.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Actimmune and Spark.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Ravicti Notes.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Ravicti Notes.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Combivent Notes.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Combivent Notes.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Lymphir Notes.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Lymphir Notes.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Spark Notes.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Spark Notes.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Actinmune Notes.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Actinmune Notes.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Ravicti June Write Up_WIP.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Ravicti June Write Up_WIP.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Rivfloza Notes.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Rivfloza Notes.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Recipes.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Recipes.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Launch Tactics.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Launch Tactics.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Combivent Case Studies API HCP 365.pptx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Combivent Case Studies API HCP 365.pptx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Q2 Combivent Report.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Q2 Combivent Report.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Cyltezo 23 Website Panel.docx] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Cyltezo 23 Website Panel.docx]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Novartis Remi Market Access Written Response_06-2023 v2.pdf/Novartis Remi Market Access Written Response_06-2023 v2.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Novartis Remi Market Access Written Response_06-2023 v2.pdf]
+
+Cannot move file [/personal/devora_bahar_eversana_com/Documents/Novartis Remi Market Access Written Response_06-2023 v2.pdf/Novartis Remi Market Access Written Response_06-2023 v2.pdf] as it does not exist.
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Lymphir Landing Page.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Lymphir Landing Page.pdf]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/HZN RAV UCD CRM_v1.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/HZN RAV UCD CRM_v1.pdf]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Test and Learn POV_V2.pdf/Test and Learn POV_V2.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Test and Learn POV_V2.pdf]
+
+Cannot move file [/personal/devora_bahar_eversana_com/Documents/Test and Learn POV_V2.pdf/Test and Learn POV_V2.pdf] as it does not exist.
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Example of CX Strategy Deliverables.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Example of CX Strategy Deliverables.pdf]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/030323_CX FUEL ESSENTIALS_ChatGPT.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/030323_CX FUEL ESSENTIALS_ChatGPT.pdf]
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Advanced_Cx_Omni_Manual_Blinded.pdf/Advanced_Cx_Omni_Manual_Blinded.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Advanced_Cx_Omni_Manual_Blinded.pdf]
+
+Cannot move file [/personal/devora_bahar_eversana_com/Documents/Advanced_Cx_Omni_Manual_Blinded.pdf/Advanced_Cx_Omni_Manual_Blinded.pdf] as it does not exist.
+
+Moving file [/personal/devora_bahar_eversana_com/Documents/Combivent Case Studies API HCP 365.pdf] into folder [/personal/devora_bahar_eversana_com/Documents/TERM-20230810-DEVORA.BAHAR/Combivent Case Studies API HCP 365.pdf]
+
+Adding user [Maris.Smith@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Maris.Smith@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [sean.richter@eversana.com] whose manager is [tracy.aronoff@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sean_richter_eversana_com]
+
+Adding folder [TERM-20230810-SEAN.RICHTER] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Final Project] into TERM folder.
+
+Cannot move folder [TERM-20230810-SEAN.RICHTER] as it does not exist.
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Final Project] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Final Project]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Timesheet.xlsx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Timesheet.xlsx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/AI and Austedo Patients.docx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/AI and Austedo Patients.docx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Pharma Digital Marketing Webinar Notes.docx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Pharma Digital Marketing Webinar Notes.docx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Presentation.pptx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Presentation.pptx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Austedo Planning Brainstorm.docx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Austedo Planning Brainstorm.docx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Document.docx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Document.docx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Cologuard Conference Pamphlet Draft.pptx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Cologuard Conference Pamphlet Draft.pptx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/CG Audience Insights and Synthesis.docx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/CG Audience Insights and Synthesis.docx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/AI and Austedo.pptx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/AI and Austedo.pptx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Avion Balcoltra Competitor Classifications.docx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Avion Balcoltra Competitor Classifications.docx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/CG Competitors.docx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/CG Competitors.docx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/CG Non-Competitive Creative Assets.pptx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/CG Non-Competitive Creative Assets.pptx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/TV Halo Effect.pptx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/TV Halo Effect.pptx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Cetaphil IDI Notes.xlsx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Cetaphil IDI Notes.xlsx]
+
+Moving file [/personal/sean_richter_eversana_com/Documents/Cologuard Speech.docx] into folder [/personal/sean_richter_eversana_com/Documents/TERM-20230810-SEAN.RICHTER/Cologuard Speech.docx]
+
+Adding user [tracy.aronoff@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [tracy.aronoff@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [tara.routson@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/tara_routson_eversana_com]
+
+Adding folder [TERM-20230810-TARA.ROUTSON] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [mary.dancel@eversana.com] whose manager is [doug.rimerman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/mary_dancel_eversana_com]
+
+Adding folder [TERM-20230810-MARY.DANCEL] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Adding user [doug.rimerman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [doug.rimerman@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kimberly.dean@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kimberly_dean_eversana_com]
+
+Adding folder [TERM-20230810-KIMBERLY.DEAN] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/SS_files] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Kimberly @ Eversana] into TERM folder.
+
+Moving file [/personal/kimberly_dean_eversana_com/Documents/EOD.xlsb] into folder [/personal/kimberly_dean_eversana_com/Documents/TERM-20230810-KIMBERLY.DEAN/EOD.xlsb]
+
+Moving file [/personal/kimberly_dean_eversana_com/Documents/Processors Tracking Sheet (2)5 (003).xlsb] into folder [/personal/kimberly_dean_eversana_com/Documents/TERM-20230810-KIMBERLY.DEAN/Processors Tracking Sheet (2)5 (003).xlsb]
+
+Moving file [/personal/kimberly_dean_eversana_com/Documents/SS.html] into folder [/personal/kimberly_dean_eversana_com/Documents/TERM-20230810-KIMBERLY.DEAN/SS.html]
+
+Moving file [/personal/kimberly_dean_eversana_com/Documents/R-AVS-prd-1504614329.PDF] into folder [/personal/kimberly_dean_eversana_com/Documents/TERM-20230810-KIMBERLY.DEAN/R-AVS-prd-1504614329.PDF]
+
+Moving file [/personal/kimberly_dean_eversana_com/Documents/R-AVS-prd-1502023003.PDF] into folder [/personal/kimberly_dean_eversana_com/Documents/TERM-20230810-KIMBERLY.DEAN/R-AVS-prd-1502023003.PDF]
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jameelah.phillips@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jameelah_phillips_eversana_com]
+
+Adding folder [TERM-20230810-JAMEELAH.PHILLIPS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Jameelah @ EVERSANA] into TERM folder.
+
+Moving file [/personal/jameelah_phillips_eversana_com/Documents/Training Notes.docx] into folder [/personal/jameelah_phillips_eversana_com/Documents/TERM-20230810-JAMEELAH.PHILLIPS/Training Notes.docx]
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [zakyra.bennet@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/zakyra_bennet_eversana_com]
+
+Adding folder [TERM-20230810-ZAKYRA.BENNET] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Zakyra @ EVERSANA] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [hang.ta@eversana.com] whose manager is [Jefferson.Dooley@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/hang_ta_eversana_com]
+
+Adding folder [TERM-20230810-HANG.TA] in /Documents directory
+
+Adding user [Jefferson.Dooley@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Jefferson.Dooley@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [mayur.deshpande@eversana.com] whose manager is [Jefferson.Dooley@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/mayur_deshpande_eversana_com]
+
+Adding folder [TERM-20230810-MAYUR.DESHPANDE] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Microsoft Teams Chat Files]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Recordings] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Recordings]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Data] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Microsoft Teams Data]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Data/Wiki] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Wiki]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Data/Wiki] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/A - Combining of the PDFs] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/A - Combining of the PDFs]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Attachments]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/TERM-20230324-MAYUR.DESHPANDE]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment_concord.png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment_concord.png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment_concord.png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment_concord (1).png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment_concord (1).png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment_concord (1).png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/User Manual- WholeSale Ordering Automation - V1.2.docx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/User Manual- WholeSale Ordering Automation - V1.2.docx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/User Manual- WholeSale Ordering Automation - V1.2.docx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/FO_Transation_plan.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/FO_Transation_plan.xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/FO_Transation_plan.xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Eversana - Weekly_Status_Report 10-14-2022.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Eversana - Weekly_Status_Report 10-14-2022.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Eversana - Weekly_Status_Report 10-14-2022.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/FO flow-APC-Block.jpg] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/FO flow-APC-Block.jpg]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/FO flow-APC-Block.jpg] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/FO flow-APC-Block (1).jpg] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/FO flow-APC-Block (1).jpg]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/FO flow-APC-Block (1).jpg] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/tmp_4d804509-0849-4dc2-86f1-470961d374e1.jpeg] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/tmp_4d804509-0849-4dc2-86f1-470961d374e1.jpeg]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/tmp_4d804509-0849-4dc2-86f1-470961d374e1.jpeg] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image (1).png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/MicrosoftTeams-image (1).png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image (1).png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/RMS_phase_2 (1).jpg] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/RMS_phase_2 (1).jpg]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/RMS_phase_2 (1).jpg] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Data/Wiki/RMS phase 2  UI part Email information discussion  - 51739765c546da46b0f7a67f41419fbb54753dd0f1ee9b11d3f8f357 - 2.mht] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/RMS phase 2  UI part Email information discussion  - 51739765c546da46b0f7a67f41419fbb54753dd0f1ee9b11d3f8f357 - 2.mht]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Data/Wiki/RMS phase 2  UI part Email information discussion  - 51739765c546da46b0f7a67f41419fbb54753dd0f1ee9b11d3f8f357 - 2.mht] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Screen_POC.jpg] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Screen_POC.jpg]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Screen_POC.jpg] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Exceptions_List.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Exceptions_List.xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Exceptions_List.xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/SANA.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/SANA.xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/SANA.xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Medicaid - Portal - Download List.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Medicaid - Portal - Download List.xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Medicaid - Portal - Download List.xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/SANA (1).xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/SANA (1).xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/SANA (1).xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/SANA (2).xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/SANA (2).xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/SANA (2).xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Book.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Book.xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Book.xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Presentation.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 1.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Presentation 1.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 1.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 2.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Presentation 2.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 2.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 3.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Presentation 3.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 3.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 4.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Presentation 4.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 4.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Book 1.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Book 1.xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Book 1.xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Eversana - Weekly_Status_Report 01-20-2023.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Eversana - Weekly_Status_Report 01-20-2023.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Eversana - Weekly_Status_Report 01-20-2023.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/OSD Estimates and Timelines.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/OSD Estimates and Timelines.xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/OSD Estimates and Timelines.xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image (2).png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/MicrosoftTeams-image (2).png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image (2).png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image (3).png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/MicrosoftTeams-image (3).png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image (3).png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/image001.png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/image001.png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/image001.png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/image001 (1).png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/image001 (1).png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/image001 (1).png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Eversana - Weekly_Status_Report 01-27-2023.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Eversana - Weekly_Status_Report 01-27-2023.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Eversana - Weekly_Status_Report 01-27-2023.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image (5).png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/MicrosoftTeams-image (5).png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image (5).png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/TestingSignOff_SANA.pdf] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/TestingSignOff_SANA.pdf]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/TestingSignOff_SANA.pdf] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/UAT_sign_off_SANA_R2.pdf] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/UAT_sign_off_SANA_R2.pdf]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/UAT_sign_off_SANA_R2.pdf] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Eversana - Weekly_Status_Report 02-17-2023.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Eversana - Weekly_Status_Report 02-17-2023.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Eversana - Weekly_Status_Report 02-17-2023.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 5.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Presentation 5.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Presentation 5.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord discovery-20230202_190328-Meeting Recording (1).mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord discovery-20230202_190328-Meeting Recording (1).mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord discovery-20230202_190328-Meeting Recording (1).mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord discovery-20230202_190328-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord discovery-20230202_190328-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord discovery-20230202_190328-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1).mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1).mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1).mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230213_190802-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230221_183824-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230221_183824-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230221_183824-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230208_183351-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230208_183351-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230208_183351-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG  (2).vtt] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG  (2).vtt]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG  (2).vtt] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord Discussion-20230119_190612-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord Discussion-20230119_190612-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord Discussion-20230119_190612-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (2).mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (2).mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (2).mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord Discussion-20230119_190612-Meeting Recording 1.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord Discussion-20230119_190612-Meeting Recording 1.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord Discussion-20230119_190612-Meeting Recording 1.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1) 1.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1) 1.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1) 1.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG-20230221_183824-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230221_183824-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG-20230221_183824-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG-20230208_183351-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230208_183351-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG-20230208_183351-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1).mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1).mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1).mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment Concord Discussion-20230119_190612-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord Discussion-20230119_190612-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment Concord Discussion-20230119_190612-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG  (1).vtt] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG  (1).vtt]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG  (1).vtt] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment Concord discovery-20230202_190328-Meeting Recording.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord discovery-20230202_190328-Meeting Recording.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment Concord discovery-20230202_190328-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG  (2).vtt] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG  (2).vtt]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG  (2).vtt] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment Concord discovery-20230202_190328-Meeting Recording (2).mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord discovery-20230202_190328-Meeting Recording (2).mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Payment Concord discovery-20230202_190328-Meeting Recording (2).mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (2).mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (2).mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (2).mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/TimeTracking_phase1 .xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/TimeTracking_phase1 .xlsx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/TimeTracking_phase1 .xlsx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Time Tracking Presentation Governance .pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Time Tracking Presentation Governance .pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Time Tracking Presentation Governance .pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Time Tracking Tool_Kickoff_Feb23.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Time Tracking Tool_Kickoff_Feb23.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Time Tracking Tool_Kickoff_Feb23.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Time Tracking Tool_mtg2.pptx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Time Tracking Tool_mtg2.pptx]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Time Tracking Tool_mtg2.pptx] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image.png] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/MicrosoftTeams-image.png]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Microsoft Teams Chat Files/MicrosoftTeams-image.png] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230208_183351-Meeting Recording 1.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230208_183351-Meeting Recording 1.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230208_183351-Meeting Recording 1.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1) 2.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1) 2.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230213_190802-Meeting Recording (1) 2.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230221_183824-Meeting Recording 1.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230221_183824-Meeting Recording 1.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230221_183824-Meeting Recording 1.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230221_183824-Meeting Recording 2.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Automated Payment Concord_ RG-20230221_183824-Meeting Recording 2.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Automated Payment Concord_ RG-20230221_183824-Meeting Recording 2.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord discovery-20230202_190328-Meeting Recording (1) 1.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord discovery-20230202_190328-Meeting Recording (1) 1.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord discovery-20230202_190328-Meeting Recording (1) 1.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord Discussion-20230119_190612-Meeting Recording 2.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord Discussion-20230119_190612-Meeting Recording 2.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord Discussion-20230119_190612-Meeting Recording 2.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord discovery-20230202_190328-Meeting Recording 1.mp4] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Payment Concord discovery-20230202_190328-Meeting Recording 1.mp4]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Payment Concord discovery-20230202_190328-Meeting Recording 1.mp4] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/Book.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Book.xlsx]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/Book 1.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Book 1.xlsx]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/Book 2.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Book 2.xlsx]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/SF_migration_Client.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/SF_migration_Client.xlsx]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Documents in Trash from Manifest file.csv] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Documents in Trash from Manifest file.csv]
+
+Cannot move file [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230324-MAYUR.DESHPANDE/Attachments/Documents in Trash from Manifest file.csv] as it does not exist.
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/BAA_Contracts_ready_for_migration .csv] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/BAA_Contracts_ready_for_migration .csv]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/Vendor_Contracts_ready_for_Migration_1.csv] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Vendor_Contracts_ready_for_Migration_1.csv]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/Status_change_signed.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Status_change_signed.xlsx]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/MSA10Records.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/MSA10Records.xlsx]
+
+Moving file [/personal/mayur_deshpande_eversana_com/Documents/Book1.xlsx] into folder [/personal/mayur_deshpande_eversana_com/Documents/TERM-20230810-MAYUR.DESHPANDE/Book1.xlsx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [kimberly.dean@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kimberly_dean_eversana_com]
+
+Adding folder [TERM-20230810-KIMBERLY.DEAN] in /Documents directory
+
+Main Folder [TERM-20230810-KIMBERLY.DEAN] already exists --- will not recreate it
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Processing OneDrive Delegation for delegate [mukta.mishra@eversana.com] whose manager is [Nicholas.Milazzo@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/mukta_mishra_eversana_com]
+
+Adding folder [TERM-20230810-MUKTA.MISHRA] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving folder [Documents/Meetings] into TERM folder.
+
+Moving folder [Documents/PriceXpress Team Engagements] into TERM folder.
+
+Cannot move folder [TERM-20230810-MUKTA.MISHRA] as it does not exist.
+
+Moving folder [Documents/Documents - Intial- Onboarding] into TERM folder.
+
+Moving folder [Documents/Driving Licence] into TERM folder.
+
+Moving folder [Documents/Forms to be updated] into TERM folder.
+
+Moving folder [Documents/Master IRP File] into TERM folder.
+
+Moving folder [Documents/New folder] into TERM folder.
+
+Moving folder [Documents/CV] into TERM folder.
+
+Moving folder [Documents/Project_2022] into TERM folder.
+
+Moving folder [Documents/Shivaay School] into TERM folder.
+
+Moving folder [Documents/Visa] into TERM folder.
+
+Moving folder [Documents/Almirall] into TERM folder.
+
+Moving folder [Documents/amicus] into TERM folder.
+
+Moving folder [Documents/Analouge] into TERM folder.
+
+Moving folder [Documents/AstraZeneca] into TERM folder.
+
+Moving folder [Documents/CSL] into TERM folder.
+
+Moving folder [Documents/Gilead] into TERM folder.
+
+Moving folder [Documents/Grifols] into TERM folder.
+
+Moving folder [Documents/HTA Assesment] into TERM folder.
+
+Moving folder [Documents/J&J] into TERM folder.
+
+Moving folder [Documents/Jansses] into TERM folder.
+
+Moving folder [Documents/Lakshmi] into TERM folder.
+
+Moving folder [Documents/Mexico] into TERM folder.
+
+Moving folder [Documents/Otsuka] into TERM folder.
+
+Moving folder [Documents/Proposal] into TERM folder.
+
+Moving folder [Documents/Recodarti] into TERM folder.
+
+Moving folder [Documents/Regenron] into TERM folder.
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/PriceXpress Team Engagements] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/PriceXpress Team Engagements]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Book1.xlsx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Book1.xlsx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Value based Pricing.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Value based Pricing.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/vaccines.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/vaccines.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Legevrio.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Legevrio.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Ref rule.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Ref rule.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Doc1.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Doc1.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/AZ new analouge list.xlsx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/AZ new analouge list.xlsx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Most recent CTC break.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Most recent CTC break.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/A Deterministic Model allows you to calculate a future event exactly.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/A Deterministic Model allows you to calculate a future event exactly.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Price.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Price.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Latest Rules for Romania, Poland and Czech.xlsx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Latest Rules for Romania, Poland and Czech.xlsx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Partner with businesses and program manager to identify opportunities for improving efficiency and effectiveness strategic pricing for customer sales teams to drive adoption and value capture of configure price quote.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Partner with businesses and program manager to identify opportunities for improving efficiency and effectiveness strategic pricing for customer sales teams to drive adoption and value capture of configure price quote.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/2022-11-22 - Diamicron volumes and prices.xlsx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/2022-11-22 - Diamicron volumes and prices.xlsx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Pros and cons of 3 key pricing strategies.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Pros and cons of 3 key pricing strategies.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Book2.xlsx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Book2.xlsx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/UK in June 2023.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/UK in June 2023.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Almirall Scope - SKP.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Almirall Scope - SKP.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA_Idorsia_Analouge Analysis-LSO_ 7th_Feb_23.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA_Idorsia_Analouge Analysis-LSO_ 7th_Feb_23.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Grifols_Tavlesse LSO Analysis_2.10.23_vF.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Grifols_Tavlesse LSO Analysis_2.10.23_vF.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Almirall_Lebri Global Pricing Policy_Status Update - 03.19.23.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Almirall_Lebri Global Pricing Policy_Status Update - 03.19.23.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Kildare.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Kildare.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Almirall_Lebri Global Pricing Policy_Status Update - 31st March.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Almirall_Lebri Global Pricing Policy_Status Update - 31st March.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Almirall_Lebri Global Pricing Policy_Status Update - 11th April - vNM.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Almirall_Lebri Global Pricing Policy_Status Update - 11th April - vNM.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Almirall_Lebri Global Pricing Policy_Status Update - 11th April - vNM Updates (002).pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Almirall_Lebri Global Pricing Policy_Status Update - 11th April - vNM Updates (002).pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Almirall_Lebri Global Pricing Policy_Final Deliverable - 05.12.23_Alm comments - vNM.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Almirall_Lebri Global Pricing Policy_Final Deliverable - 05.12.23_Alm comments - vNM.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Almirall_Lebri Global Pricing Policy_Final Deliverable - 18 April _MM.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Almirall_Lebri Global Pricing Policy_Final Deliverable - 18 April _MM.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/USA.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/USA.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/CIMZIA.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/CIMZIA.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Agenda for IRP session.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Agenda for IRP session.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Almirall_Lebri Global Pricing Policy_Final Deliverable - 05.12.23_Alm comments - vNM - Copy.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Almirall_Lebri Global Pricing Policy_Final Deliverable - 05.12.23_Alm comments - vNM - Copy.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 06.20.23 (Final).pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 06.20.23 (Final).pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 06.22.23.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 06.22.23.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Pricing Model.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Pricing Model.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 06.22.23 (002).pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 06.22.23 (002).pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Irish Visa Processing.docx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Irish Visa Processing.docx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 07.01.23.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 07.01.23.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update- HTA - 07.04.23 (002).pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update- HTA - 07.04.23 (002).pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 07.13.23.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Status Update - 07.13.23.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Final Report - 07.20.23_review -vNM1.pptx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/EVERSANA - Amicus_Galafold  AT-GAA Analogue Assessment_Final Report - 07.20.23_review -vNM1.pptx]
+
+Moving file [/personal/mukta_mishra_eversana_com/Documents/Mukta Mishra - New Employee Entry Form - Eversana IR.xlsx] into folder [/personal/mukta_mishra_eversana_com/Documents/TERM-20230810-MUKTA.MISHRA/Mukta Mishra - New Employee Entry Form - Eversana IR.xlsx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

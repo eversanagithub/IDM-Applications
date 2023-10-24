@@ -1,0 +1,34 @@
+
+Daily Set-OneDriveDelegation Detail Logging for September 04, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [peter.yassa@eversana.com] whose manager is [Samantha.Craigie@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/peter_yassa_eversana_com]
+
+Adding folder [TERM-20230904-PETER.YASSA] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Adding user [Samantha.Craigie@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Samantha.Craigie@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

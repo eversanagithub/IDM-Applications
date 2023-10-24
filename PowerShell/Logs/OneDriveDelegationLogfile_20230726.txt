@@ -1,0 +1,586 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 26, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [kevin.losey@eversana.com] whose manager is [doug.rimerman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kevin_losey_eversana_com]
+
+Adding folder [TERM-20230726-KEVIN.LOSEY] in /Documents directory
+
+Moving file [/personal/kevin_losey_eversana_com/Documents/KevinLosey_Resume2023.docx] into folder [/personal/kevin_losey_eversana_com/Documents/TERM-20230726-KEVIN.LOSEY/KevinLosey_Resume2023.docx]
+
+Moving file [/personal/kevin_losey_eversana_com/Documents/kevin losey (2).docx] into folder [/personal/kevin_losey_eversana_com/Documents/TERM-20230726-KEVIN.LOSEY/kevin losey (2).docx]
+
+Adding user [doug.rimerman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [doug.rimerman@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [charles.gray@eversana.com] whose manager is [joy.dunaway@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/charles_gray_eversana_com]
+
+Adding folder [TERM-20230726-CHARLES.GRAY] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/charles_gray_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0.docx] into folder [/personal/charles_gray_eversana_com/Documents/TERM-20230726-CHARLES.GRAY/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0.docx]
+
+Moving file [/personal/charles_gray_eversana_com/Documents/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0.docx] into folder [/personal/charles_gray_eversana_com/Documents/TERM-20230726-CHARLES.GRAY/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0.docx]
+
+Moving file [/personal/charles_gray_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (3).docx] into folder [/personal/charles_gray_eversana_com/Documents/TERM-20230726-CHARLES.GRAY/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (3).docx]
+
+Adding user [joy.dunaway@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [joy.dunaway@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [subhrajit.mishra@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/subhrajit_mishra_eversana_com]
+
+Adding folder [TERM-20230726-SUBHRAJIT.MISHRA] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/New folder] into TERM folder.
+
+Moving folder [Documents/WTR Proposal] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/WTR Proposals Master Sheet.xlsx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/WTR Proposals Master Sheet.xlsx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Copy of EPF - New Composite Declaration Form 11.xlsx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Copy of EPF - New Composite Declaration Form 11.xlsx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/BD Catalogue backup.xlsx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/BD Catalogue backup.xlsx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Work.docx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Work.docx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/PoV.pptx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/PoV.pptx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Rough DG Questions.docx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Rough DG Questions.docx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Medical Consumables in a B2B setting.docx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Medical Consumables in a B2B setting.docx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Demo.pptx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Demo.pptx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Interim Presentation_vFinal.pptx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Interim Presentation_vFinal.pptx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/SURVEY.docx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/SURVEY.docx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Survey types.pptx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Survey types.pptx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/(Inactive) BD Catalogue.xlsx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/(Inactive) BD Catalogue.xlsx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Sub-persona categorization.xlsx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Sub-persona categorization.xlsx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Review Meet Presentation.pptx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Review Meet Presentation.pptx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Sub-personas and interventions.xlsx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Sub-personas and interventions.xlsx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Tool.xlsx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Tool.xlsx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Tool_v1.xlsx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Tool_v1.xlsx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/Storyboarding the tool.pptx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/Storyboarding the tool.pptx]
+
+Moving file [/personal/subhrajit_mishra_eversana_com/Documents/offline Dummy DG.docx] into folder [/personal/subhrajit_mishra_eversana_com/Documents/TERM-20230726-SUBHRAJIT.MISHRA/offline Dummy DG.docx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [abhishek.agrawal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/abhishek_agrawal_eversana_com]
+
+Adding folder [TERM-20230726-ABHISHEK.AGRAWAL] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Omnichannel Secondary Research resources.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Omnichannel Secondary Research resources.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Presentation1.pptx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Presentation1.pptx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital omnichannel ROI_Discussion guide_14Jun2023_v0.2.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital omnichannel ROI_Discussion guide_14Jun2023_v0.2.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital omnichannel ROI_Discussion guide_Questions_only_v0.1.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital omnichannel ROI_Discussion guide_Questions_only_v0.1.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Friday Knowledge Sharing Session_meet_rohit_comments.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Friday Knowledge Sharing Session_meet_rohit_comments.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/ANUPEVERSANA_omnichannel_interview_23June.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/ANUPEVERSANA_omnichannel_interview_23June.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital omnichannel ROI_Data Analysis_03July2023.pptx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital omnichannel ROI_Data Analysis_03July2023.pptx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital Omnichannel ROI_Doubts on data given.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital Omnichannel ROI_Doubts on data given.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital Omnichannel ROI_Chart List.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital Omnichannel ROI_Chart List.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital Omnichannel Abhishek_I2P document points_10July.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital Omnichannel Abhishek_I2P document points_10July.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital Omnichannel_interview_SunPharma_Biocon.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital Omnichannel_interview_SunPharma_Biocon.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital Omnichannel Project_Debraj Interview_19July2023.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital Omnichannel Project_Debraj Interview_19July2023.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Next Steps Digital ROI MMM.docx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Next Steps Digital ROI MMM.docx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Digital omnichannel & ROI_Final presentation_21Jul2023_v0.1.pptx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Digital omnichannel & ROI_Final presentation_21Jul2023_v0.1.pptx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Contractor_template_Invoice 2023_Abhishek_July.xlsx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Contractor_template_Invoice 2023_Abhishek_July.xlsx]
+
+Moving file [/personal/abhishek_agrawal_eversana_com/Documents/Contractor_template_Invoice 2023_Abhishek_July (1).xlsx] into folder [/personal/abhishek_agrawal_eversana_com/Documents/TERM-20230726-ABHISHEK.AGRAWAL/Contractor_template_Invoice 2023_Abhishek_July (1).xlsx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [abhishek.agrawal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/abhishek_agrawal_eversana_com]
+
+Adding folder [TERM-20230726-ABHISHEK.AGRAWAL] in /Documents directory
+
+Main Folder [TERM-20230726-ABHISHEK.AGRAWAL] already exists --- will not recreate it
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Processing OneDrive Delegation for delegate [abhishek.agrawal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/abhishek_agrawal_eversana_com]
+
+Adding folder [TERM-20230726-ABHISHEK.AGRAWAL] in /Documents directory
+
+Main Folder [TERM-20230726-ABHISHEK.AGRAWAL] already exists --- will not recreate it
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Processing OneDrive Delegation for delegate [abhishek.agrawal@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/abhishek_agrawal_eversana_com]
+
+Adding folder [TERM-20230726-ABHISHEK.AGRAWAL] in /Documents directory
+
+Main Folder [TERM-20230726-ABHISHEK.AGRAWAL] already exists --- will not recreate it
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Processing OneDrive Delegation for delegate [ojas.deshmukh@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ojas_deshmukh_eversana_com]
+
+Adding folder [TERM-20230726-OJAS.DESHMUKH] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Internship Project] into TERM folder.
+
+Moving folder [Documents/Custom Office Templates] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Internship Project v02] into TERM folder.
+
+Cannot move folder [TERM-20230726-OJAS.DESHMUKH] as it does not exist.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Internship Project v02]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Shortlist]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Intern Project Brief_Researching potential acquisition in industry 4.0 target market_Ojas Deshmukh_v3 (002).pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Intern Project Brief_Researching potential acquisition in industry 4.0 target market_Ojas Deshmukh_v3 (002).pdf]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Client_FinalReport_OjasInternshipProject_5June2023_vSh.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Client_FinalReport_OjasInternshipProject_5June2023_vSh.pdf]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/EPF - New Composite Declaration Form 11_Ojas.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/EPF - New Composite Declaration Form 11_Ojas.xlsx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Weekly Update_Intern Project_09Jun2023.pptx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Weekly Update_Intern Project_09Jun2023.pptx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Weekly Update_Intern Project_09Jun2023.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Weekly Update_Intern Project_09Jun2023.pdf]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist/Primary Shortlist v01.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Primary Shortlist v01.xlsx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh.pptx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas Deshmukh.pptx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh.pptx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Proposed_Methodology v01.docx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Proposed_Methodology v01.docx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Proposed_Methodology v01.docx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Flow.docx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Flow.docx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Flow.docx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V01.pptx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas Deshmukh_V01.pptx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V01.pptx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V01.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas Deshmukh_V01.pdf]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V01.pdf] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V02.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas Deshmukh_V02.pdf]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V02.pdf] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02.pptx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas_V02.pptx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02.pptx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas_V02.pdf]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02.pdf] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V02.pptx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas Deshmukh_V02.pptx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V02.pptx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Shortlist v01.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Shortlist v01.xlsx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist/Shortlist v01 - Copy.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Shortlist v01 - Copy.xlsx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02_Draft1.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas_V02_Draft1.pdf]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02_Draft1.pdf] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02_Draft2.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas_V02_Draft2.pdf]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02_Draft2.pdf] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02_FinalDraft1.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas_V02_FinalDraft1.pdf]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02_FinalDraft1.pdf] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02_Final.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas_V02_Final.pdf]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas_V02_Final.pdf] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist/Primary Shortlist v01-MUIN-LT766.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Primary Shortlist v01-MUIN-LT766.xlsx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist/Primary Shortlist v02.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Primary Shortlist v02.xlsx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist/Secondary Shortlist.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Secondary Shortlist.xlsx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V03.pptx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas Deshmukh_V03.pptx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V03.pptx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V03.pdf] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas Deshmukh_V03.pdf]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V03.pdf] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist/Secondary Shortlist - Copy.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Secondary Shortlist - Copy.xlsx]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V04.pptx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Interim Report_Ojas Deshmukh_V04.pptx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Interim Report_Ojas Deshmukh_V04.pptx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Worksheet in Chart 2(AutoRecovered).xlsb] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Worksheet in Chart 2(AutoRecovered).xlsb]
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist/Final Shortlist.xlsx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Final Shortlist.xlsx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Shortlist/Final Shortlist.xlsx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Final Report_Ojas Deshmukh_V04.pptx] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Final Report_Ojas Deshmukh_V04.pptx]
+
+Cannot move file [/personal/ojas_deshmukh_eversana_com/Documents/Internship Project v02/Interim Report/Final Report_Ojas Deshmukh_V04.pptx] as it does not exist.
+
+Moving file [/personal/ojas_deshmukh_eversana_com/Documents/Intern Project Brief_Researching potential acquisition in industry 4.0 target market_Ojas Deshmukh_v3 (002).zip] into folder [/personal/ojas_deshmukh_eversana_com/Documents/TERM-20230726-OJAS.DESHMUKH/Intern Project Brief_Researching potential acquisition in industry 4.0 target market_Ojas Deshmukh_v3 (002).zip]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [aumkaar.shukla@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/aumkaar_shukla_eversana_com]
+
+Adding folder [TERM-20230726-AUMKAAR.SHUKLA] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Product Documents] into TERM folder.
+
+Moving folder [Documents/WTR Proposals] into TERM folder.
+
+Moving folder [Documents/Aumkaar @ EVERSANA] into TERM folder.
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Project Progress Timeline.docx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Project Progress Timeline.docx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Adaptation of Behaviour Change Wheel.docx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Adaptation of Behaviour Change Wheel.docx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Scribble pad for interim ppt deck.docx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Scribble pad for interim ppt deck.docx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Interim Presentation Deck.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Interim Presentation Deck.pptx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/The second approach to segmentation.docx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/The second approach to segmentation.docx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/toolSandBoxAumk.xlsx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/toolSandBoxAumk.xlsx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Chevron_BD_WTR_collab.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Chevron_BD_WTR_collab.pptx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/toolV2.xlsx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/toolV2.xlsx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Typing Tool.xlsx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Typing Tool.xlsx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Chevron_BD_WTR_aumK.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Chevron_BD_WTR_aumK.pptx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/chevron.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/chevron.pptx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Chevron_BD_WTR_edited.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Chevron_BD_WTR_edited.pptx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Final_Presentation_Deck.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Final_Presentation_Deck.pptx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/temp.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/temp.pptx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Interim_Wednesday_aumk.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Interim_Wednesday_aumk.pptx]
+
+Moving file [/personal/aumkaar_shukla_eversana_com/Documents/Interim Presentation Deck - Aumkaar and Subhrajit.pptx] into folder [/personal/aumkaar_shukla_eversana_com/Documents/TERM-20230726-AUMKAAR.SHUKLA/Interim Presentation Deck - Aumkaar and Subhrajit.pptx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [tamia.graham@eversana.com] whose manager is [William.Jeffries@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/tamia_graham_eversana_com]
+
+Adding folder [TERM-20230726-TAMIA.GRAHAM] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Tamia @ EVERSANA] into TERM folder.
+
+Moving file [/personal/tamia_graham_eversana_com/Documents/productivity tracker New.xlsx] into folder [/personal/tamia_graham_eversana_com/Documents/TERM-20230726-TAMIA.GRAHAM/productivity tracker New.xlsx]
+
+Moving file [/personal/tamia_graham_eversana_com/Documents/productivity tracker New (1).xlsx] into folder [/personal/tamia_graham_eversana_com/Documents/TERM-20230726-TAMIA.GRAHAM/productivity tracker New (1).xlsx]
+
+Adding user [William.Jeffries@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [William.Jeffries@eversana.com]
+
+Adding record into SQL table.
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'ObjectId' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [krystal.williams@eversana.com] whose manager is [whitney.mcclaurin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/krystal_williams_eversana_com]
+
+Adding folder [TERM-20230726-KRYSTAL.WILLIAMS] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Krystal @ Eversana] into TERM folder.
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Desktop] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/Desktop]
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Documents] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/Documents]
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Pictures] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/Pictures]
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Pictures/Camera Roll] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/Camera Roll]
+
+Cannot move file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Pictures/Camera Roll] as it does not exist.
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Pictures/Screenshots] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/Screenshots]
+
+Cannot move file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Pictures/Screenshots] as it does not exist.
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Pictures/Saved Pictures] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/Saved Pictures]
+
+Cannot move file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Pictures/Saved Pictures] as it does not exist.
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/TERM-20220304-KRYSTAL.WILLIAMS]
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Desktop/Microsoft Teams.lnk] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/Microsoft Teams.lnk]
+
+Cannot move file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Desktop/Microsoft Teams.lnk] as it does not exist.
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Desktop/EVERSANA IT Handbook - PC.pptx] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/EVERSANA IT Handbook - PC.pptx]
+
+Cannot move file [/personal/krystal_williams_eversana_com/Documents/TERM-20220304-KRYSTAL.WILLIAMS/Desktop/EVERSANA IT Handbook - PC.pptx] as it does not exist.
+
+Moving file [/personal/krystal_williams_eversana_com/Documents/Book.xlsx] into folder [/personal/krystal_williams_eversana_com/Documents/TERM-20230726-KRYSTAL.WILLIAMS/Book.xlsx]
+
+Adding user [whitney.mcclaurin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [whitney.mcclaurin@eversana.com]
+
+Processing OneDrive Delegation for delegate [erica.chiao@eversana.com] whose manager is [john.kenny@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/erica_chiao_eversana_com]
+
+Adding folder [TERM-20230726-ERICA.CHIAO] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Seres Corp Positioning] into TERM folder.
+
+Moving folder [Documents/MONJUVI PITCH] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Seres Brand Identity] into TERM folder.
+
+Moving folder [Documents/Seres Therapeutics Exec Gallery Pics] into TERM folder.
+
+Moving folder [Documents/Seres Cognitive Core Output] into TERM folder.
+
+Moving folder [Documents/Seres Positioning] into TERM folder.
+
+Moving folder [Documents/Seres Creative Kickoff] into TERM folder.
+
+Moving folder [Documents/Approved Corporate Creative Brief] into TERM folder.
+
+Moving folder [Documents/Labcorp] into TERM folder.
+
+Moving folder [Documents/PYLARIFY Tactical Plan DRAFT] into TERM folder.
+
+Moving folder [Documents/Seres Messaging Project Brief] into TERM folder.
+
+Moving folder [Documents/Staffing] into TERM folder.
+
+Moving folder [Documents/DEF NSM] into TERM folder.
+
+Moving folder [Documents/Strategic Council] into TERM folder.
+
+Moving folder [Documents/PYL NSM] into TERM folder.
+
+Moving folder [Documents/pela 2023 KO Exercises] into TERM folder.
+
+Moving folder [Documents/BET Shoot Video] into TERM folder.
+
+Moving folder [Documents/Career Ribbon] into TERM folder.
+
+Moving folder [Documents/Pela 2023 KO Meeting Report] into TERM folder.
+
+Moving folder [Documents/O2 SP Team Training Docs] into TERM folder.
+
+Moving folder [Documents/Team Misc] into TERM folder.
+
+Moving folder [Documents/DEFINITY Brand Background] into TERM folder.
+
+Moving folder [Documents/PYLARIFY Brand Background] into TERM folder.
+
+Moving folder [Documents/pela brand personality approach] into TERM folder.
+
+Moving folder [Documents/PYL Brand Planning] into TERM folder.
+
+Moving folder [Documents/PN HCP Discussion Guide] into TERM folder.
+
+Moving folder [Documents/Patient Request PYL] into TERM folder.
+
+Moving folder [Documents/Brand Elements] into TERM folder.
+
+Moving folder [Documents/pela launch activities list] into TERM folder.
+
+Moving folder [Documents/PYL RAD ONC MR PROPOSAL] into TERM folder.
+
+Moving folder [Documents/Brand Truth Documents] into TERM folder.
+
+Moving folder [Documents/HCP Creative Brief] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/DEF SONOGRAPHER DG] into TERM folder.
+
+Moving folder [Documents/PYL Sales Rep Ad Board] into TERM folder.
+
+Moving folder [Documents/brainspo] into TERM folder.
+
+Moving folder [Documents/Galderma SA Follow Up] into TERM folder.
+
+Moving folder [Documents/Galderma MR Explainer] into TERM folder.
+
+Moving folder [Documents/Pela Brand Personality Quiz Email Copy] into TERM folder.
+
+Moving folder [Documents/Galderma Photos] into TERM folder.
+
+Moving file [/personal/erica_chiao_eversana_com/Documents/EVERSANA INTOUCH Oxygen Strategic Council 2022 1H Report v2.pptx] into folder [/personal/erica_chiao_eversana_com/Documents/TERM-20230726-ERICA.CHIAO/EVERSANA INTOUCH Oxygen Strategic Council 2022 1H Report v2.pptx]
+
+Moving file [/personal/erica_chiao_eversana_com/Documents/Brand Truth Documents.pptx] into folder [/personal/erica_chiao_eversana_com/Documents/TERM-20230726-ERICA.CHIAO/Brand Truth Documents.pptx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

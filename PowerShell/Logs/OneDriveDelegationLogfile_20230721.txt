@@ -1,0 +1,104 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 21, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [marquitta.lark@eversana.com] whose manager is [Calvin.Valentine@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/marquitta_lark_eversana_com]
+
+Adding folder [TERM-20230721-MARQUITTA.LARK] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/Book1.xlsx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/Book1.xlsx]
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/HOLD FOR LILLIE HALL.docx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/HOLD FOR LILLIE HALL.docx]
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/Eversana Employee Documentation Guidelines.docx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/Eversana Employee Documentation Guidelines.docx]
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/Copy of Book1.xlsx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/Copy of Book1.xlsx]
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/Muster Report 3-31-2023.xlsx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/Muster Report 3-31-2023.xlsx]
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/Copy of Copy of Book1.xlsx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/Copy of Copy of Book1.xlsx]
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/MAT110_Week4_Assignment_230100.docx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/MAT110_Week4_Assignment_230100.docx]
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/Marquitta Lark_MAT110_Week10_assignmenttemplate (1).docx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/Marquitta Lark_MAT110_Week10_assignmenttemplate (1).docx]
+
+Moving file [/personal/marquitta_lark_eversana_com/Documents/Copy of Copy of Copy of Book1.xlsx] into folder [/personal/marquitta_lark_eversana_com/Documents/TERM-20230721-MARQUITTA.LARK/Copy of Copy of Copy of Book1.xlsx]
+
+Adding user [Calvin.Valentine@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Calvin.Valentine@eversana.com]
+
+Adding record into SQL table.
+
+Ran into an error. Error is:
+Exception calling "Open" with "0" argument(s): "ERROR [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+ERROR [01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect())."
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [shamik.ghosh@eversana.com] whose manager is [AshleyM.Young@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/shamik_ghosh_eversana_com]
+
+Adding folder [TERM-20230721-SHAMIK.GHOSH] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Adding user [AshleyM.Young@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [AshleyM.Young@eversana.com]
+
+Adding record into SQL table.
+
+Ran into an error. Error is:
+Exception calling "Open" with "0" argument(s): "ERROR [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+ERROR [01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect())."
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [curtis.mcclain@eversana.com] whose manager is [Maria.Kirsch@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/curtis_mcclain_eversana_com]
+
+Adding folder [TERM-20230721-CURTIS.MCCLAIN] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/curtis_mcclain_eversana_com/Documents/CCM INTRO.docx] into folder [/personal/curtis_mcclain_eversana_com/Documents/TERM-20230721-CURTIS.MCCLAIN/CCM INTRO.docx]
+
+Adding user [Maria.Kirsch@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Maria.Kirsch@eversana.com]
+
+Adding record into SQL table.
+
+Ran into an error. Error is:
+Exception calling "Open" with "0" argument(s): "ERROR [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+ERROR [01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect())."
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

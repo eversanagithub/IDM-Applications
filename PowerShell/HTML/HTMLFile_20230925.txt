@@ -1,0 +1,70 @@
+<html>
+<head>
+<style>
+p.NameText {
+  font-family: 'Times New Roman', Times, serif;
+        color: blue;
+    font-size: 17px;
+   font-style: normal;
+  font-weight: normal;
+}
+p.AlertText {
+  font-family: 'Times New Roman', Times, serif;
+        color: red;
+    font-size: 17px;
+   font-style: normal;
+  font-weight: normal;
+}
+p.SummaryText {
+  font-family: 'Times New Roman', Times, serif;
+        color: green;
+    font-size: 20px;
+   font-style: normal;
+  font-weight: normal;
+text-decoration: underline;
+}
+p.DetailText {
+  font-family: 'Times New Roman', Times, serif;
+        color: black;
+    font-size: 16px;
+   font-style: normal;
+  font-weight: normal;
+}
+p.HeaderText {
+  font-family: Arial, Helvetica, sans-serif;
+        color: Black;
+    font-size: 30px;
+   font-style: normal;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<center>
+<table width=100%>
+<tr><td><img src='https://www.eversana.com/wp-content/uploads/2019/05/EmailHeaderTECHNOLOGYComm.png' width='545' height='85'></td></tr>
+</table>
+</center>
+<table>
+<tr><td><p class='NameText'>Stephanie,</p></td></tr>
+</table>
+</br>
+<table>
+<tr><td><p class='DetailText'>The user account belonging to <FONT COLOR=blue SIZE=3><i>Rachel Nunn</i></FONT> has been disabled. As their manager, you have been delegated read-only access to the contents of their OneDrive folders.</p></td></tr>
+<tr><td><p class='DetailText'>Please back up any of Rachel's important files to your personal space before <FONT COLOR=blue SIZE=3><b>Wednesday, October 25, 2023</b></font>, after which time they will be deleted.</p></td></tr>
+<tr><td><p class='DetailText'>If an account delegated to you is empty, the user most likely did not have any files stored in their OneDrive repository.</p></td></tr>
+</table>
+<br>
+<table>
+<tr><td><p class='DetailText'>You will receive an E-Mail reminder in 20 days to copy these files to your personnel space if not already done.</p></td></tr>
+<tr><td><p class='DetailText'>A link to Rachel's folder is provided below for your convenience.</p></td></tr>
+</table>
+<br>
+<table>
+<tr><td><p class='SummaryText'>OneDrive Details</p></td></tr>
+<tr><td><p class='DetailText'>Disabled User: RACHEL.NUNN</p></td></tr>
+<tr><td><p class='DetailText'>Manager: stephanie.urban@eversana.com</p></td></tr>
+<tr><td><p class='DetailText'>OneDrive Files URL: <a href='https://eversana-my.sharepoint.com/personal/rachel_nunn_eversana_com/_layouts/15/onedrive.aspx?id=%2fpersonal%2frachel%5Fnunn%5Feversana%5Fcom%2fDocuments%2fTERM%2D20230925%2DRACHEL%2ENUNN'>Click Here</p></td></tr>
+</table>
+</body>
+</html>

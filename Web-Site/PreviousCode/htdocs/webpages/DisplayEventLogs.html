@@ -1,0 +1,56 @@
+<html>
+<head>
+	<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+	<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<body bgcolor="#0F0141">
+<FORM id='DisplayEventLogs' METHOD='POST' ACTION='/cgi-bin/HousekeepingScripts/DisplayEventLogs.pl' target='mainpanel'>
+<table border='0' width=100%>
+ <tr>
+  <canvas id="myCanvas" width="400" height="0" style="border:1px solid #DFAB17;">
+ </tr>
+</table>
+<table border='0' width=100%>
+ <tr>
+  <th width='100%'><p class='EventLogHeadingLinesUnderline'>Informative Links</p></th>
+ </tr>
+</table>
+<br>
+<table width='100%' align='center' border='0'>
+	<tr>
+<td width='1%' align='center'> 
+			<FORM id='DisplayEventLogsForm' METHOD='POST' ACTION='/cgi-bin/HousekeepingScripts/DisplayEventLogs.pl' target='mainpanel'>
+				<input type='image' id='EventLogs' name='EventLogs' alt='EventLogs' value='EventLogs' src='http://idmgmtapp01/images/buttons/BlankBlue.jpg' style="vertical-align: middle" onClick='LaunchDisplayEventLogs()'>
+			</form>
+</td>
+		<td width='32%' align='center'> 
+			<FORM id='DisplayEventLogsForm' METHOD='POST' ACTION='/cgi-bin/HousekeepingScripts/DisplayEventLogs.pl' target='mainpanel'>
+				<input type='image' id='EventLogs' name='EventLogs' alt='EventLogs' value='EventLogs' src='http://idmgmtapp01/images/buttons/EventLogs.jpg' style="vertical-align: middle" onClick='LaunchDisplayEventLogs()'>
+			</form>
+		</td>
+		<td width='2%' align='center'></td>
+		<td width='33%' align='center'> 
+		<FORM id='DisplayEventLogsForm' METHOD='POST' ACTION='/cgi-bin/HousekeepingScripts/DisplayEventLogs.pl' target='mainpanel'>
+			<a href='http://idmgmtapp01/Instructions/IDMWebSiteHelpGuide.htm' target='mainpanel'>
+			<img src="http://idmgmtapp01/images/buttons/Help.jpg" onClick='DisplayHelpBanner();'>
+			</a>
+		</form>
+		</td>
+
+		<td width='32%' align='center'> 
+			<FORM id='AboutThisWebsiteForm' METHOD='POST' ACTION='/cgi-bin/HousekeepingScripts/DisplayAboutThisWebsite.pl' target='mainpanel'>
+				<input type="image" id="AboutThisWebsite" name="AboutThisWebsite" alt="AboutThisWebsite" value="AboutThisWebsite" src="http://idmgmtapp01/images/buttons/AboutUs.jpg" style="vertical-align: middle" onClick='LaunchAboutThisWebsite()'>
+			</form>
+		</td>
+	</tr>
+</table>
+<table border='0' width=100%>
+ <tr>
+  <canvas id="myCanvas2" width="400" height="0" style="border:1px solid #DFAB17;">
+ </tr>
+</table>
+</body>
+</html>
+
+
+		

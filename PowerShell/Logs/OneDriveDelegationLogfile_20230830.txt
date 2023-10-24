@@ -1,0 +1,427 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 30, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [azhar.mohiuddin@eversana.com] whose manager is [sachin.petkar@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/azhar_mohiuddin_eversana_com]
+
+Adding folder [TERM-20230830-AZHAR.MOHIUDDIN] in /Documents directory
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Eversana_temporary weekly timesheet.xlsx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Eversana_temporary weekly timesheet.xlsx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Baseline All Module Search Box.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Baseline All Module Search Box.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/TestScript_Baseline_teneat admin_Azhar.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/TestScript_Baseline_teneat admin_Azhar.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Eversana_temporary weekly timesheet (1).xlsx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Eversana_temporary weekly timesheet (1).xlsx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Global Pricing.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Global Pricing.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Test Evidence-ZPM-14908 - QA_Lilly LSP-815 issue with DU .docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Test Evidence-ZPM-14908 - QA_Lilly LSP-815 issue with DU .docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/TestScript_Baseline_teneat admin_Azhar (1).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/TestScript_Baseline_teneat admin_Azhar (1).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Eversana_temporary weekly timesheet (2).xlsx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Eversana_temporary weekly timesheet (2).xlsx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Template_Price_Discount_Ratio (2).xlsx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Template_Price_Discount_Ratio (2).xlsx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Price_Discount_Ratio (3).xlsx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Price_Discount_Ratio (3).xlsx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/TestScript_Baseline_teneat admin_Azhar (2).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/TestScript_Baseline_teneat admin_Azhar (2).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Document1.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Document1.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Test eveidence_.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Test eveidence_.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Test eveidence_ (1).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Test eveidence_ (1).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Test Evidence_Merge the 'Initiate Request' button within the 'Create Request'.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Test Evidence_Merge the 'Initiate Request' button within the 'Create Request'.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Test Evidence_Merge the 'Initiate Request' button within the 'Create Request' (1).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Test Evidence_Merge the 'Initiate Request' button within the 'Create Request' (1).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Baseline_TC_126_Global Price Management.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Baseline_TC_126_Global Price Management.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Baseline_TC_126_Global Price Management (1).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Baseline_TC_126_Global Price Management (1).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Baseline_TC_126_Global Price Management (2).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Baseline_TC_126_Global Price Management (2).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Baseline_GPM_TC_11_Tenant Admin_Guideline Management.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Baseline_GPM_TC_11_Tenant Admin_Guideline Management.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Baseline_TC_126_Global Price Management (3).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Baseline_TC_126_Global Price Management (3).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Baseline_GPM_TC_127_Tenant Admin_Guideline Management.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Baseline_GPM_TC_127_Tenant Admin_Guideline Management.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Baseline_TC_126_Global Price Management (4).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Baseline_TC_126_Global Price Management (4).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/QA-MENARANI2.docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/QA-MENARANI2.docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Test Evidence -Takeda -Reimbursement Section of GPM proposal and Reimbursement-only proposal  Add a hover-over on the field EFFECTIVE DATE .docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Test Evidence -Takeda -Reimbursement Section of GPM proposal and Reimbursement-only proposal  Add a hover-over on the field EFFECTIVE DATE .docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Test Evidence -Takeda -Reimbursement Section of GPM proposal and Reimbursement-only proposal  Add a hover-over on the field EFFECTIVE DATE  (1).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Test Evidence -Takeda -Reimbursement Section of GPM proposal and Reimbursement-only proposal  Add a hover-over on the field EFFECTIVE DATE  (1).docx]
+
+Moving file [/personal/azhar_mohiuddin_eversana_com/Documents/Test Evidence -Takeda -Reimbursement Section of GPM proposal and Reimbursement-only proposal  Add a hover-over on the field EFFECTIVE DATE  (2).docx] into folder [/personal/azhar_mohiuddin_eversana_com/Documents/TERM-20230830-AZHAR.MOHIUDDIN/Test Evidence -Takeda -Reimbursement Section of GPM proposal and Reimbursement-only proposal  Add a hover-over on the field EFFECTIVE DATE  (2).docx]
+
+Adding user [sachin.petkar@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sachin.petkar@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ujwal.pawar@eversana.com] whose manager is [Srinivasa.RaoH@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ujwal_pawar_eversana_com]
+
+Adding folder [TERM-20230830-UJWAL.PAWAR] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Data] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Meetings] into TERM folder.
+
+Moving folder [Documents/Ujwal @ Eversana] into TERM folder.
+
+Moving folder [Documents/Rigel] into TERM folder.
+
+Moving folder [Documents/Seagen Marketing Mix] into TERM folder.
+
+Moving folder [Documents/BI Combivent] into TERM folder.
+
+Moving folder [Documents/Takeda US Ninlaro] into TERM folder.
+
+Moving file [/personal/ujwal_pawar_eversana_com/Documents/Book2.xlsm] into folder [/personal/ujwal_pawar_eversana_com/Documents/TERM-20230830-UJWAL.PAWAR/Book2.xlsm]
+
+Moving file [/personal/ujwal_pawar_eversana_com/Documents/Book2.xlsx] into folder [/personal/ujwal_pawar_eversana_com/Documents/TERM-20230830-UJWAL.PAWAR/Book2.xlsx]
+
+Moving file [/personal/ujwal_pawar_eversana_com/Documents/REIGNITE -  Steglatro Brand Overview 0.2up.pptx] into folder [/personal/ujwal_pawar_eversana_com/Documents/TERM-20230830-UJWAL.PAWAR/REIGNITE -  Steglatro Brand Overview 0.2up.pptx]
+
+Moving file [/personal/ujwal_pawar_eversana_com/Documents/EDA - 19052022.xlsx] into folder [/personal/ujwal_pawar_eversana_com/Documents/TERM-20230830-UJWAL.PAWAR/EDA - 19052022.xlsx]
+
+Moving file [/personal/ujwal_pawar_eversana_com/Documents/Book1.xlsx] into folder [/personal/ujwal_pawar_eversana_com/Documents/TERM-20230830-UJWAL.PAWAR/Book1.xlsx]
+
+Moving file [/personal/ujwal_pawar_eversana_com/Documents/EDA Deck.pptx] into folder [/personal/ujwal_pawar_eversana_com/Documents/TERM-20230830-UJWAL.PAWAR/EDA Deck.pptx]
+
+Moving file [/personal/ujwal_pawar_eversana_com/Documents/Book4.xlsx] into folder [/personal/ujwal_pawar_eversana_com/Documents/TERM-20230830-UJWAL.PAWAR/Book4.xlsx]
+
+Moving file [/personal/ujwal_pawar_eversana_com/Documents/Account Segment 2022.06.06.xlsx] into folder [/personal/ujwal_pawar_eversana_com/Documents/TERM-20230830-UJWAL.PAWAR/Account Segment 2022.06.06.xlsx]
+
+Adding user [Srinivasa.RaoH@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Srinivasa.RaoH@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [lexie.longbine@eversana.com] whose manager is [kenzie.grob@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/lexie_longbine_eversana_com]
+
+Adding folder [TERM-20230830-LEXIE.LONGBINE] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/External Shared Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Global axSpA Shared Materials] into TERM folder.
+
+Cannot move folder [TERM-20230830-LEXIE.LONGBINE] as it does not exist.
+
+Moving folder [Documents/Global AD Shared Materials] into TERM folder.
+
+Cannot move folder [TERM-20230830-LEXIE.LONGBINE] as it does not exist.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Global axSpA Shared Materials] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Global axSpA Shared Materials]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Global AD Shared Materials] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Global AD Shared Materials]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Lexie's top 10.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Lexie's top 10.pptx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Presentation.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Presentation.pptx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/AbbVie & Intouch Language.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/AbbVie & Intouch Language.pptx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/RA Banners UC Label Update KO 06.06.22.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/RA Banners UC Label Update KO 06.06.22.pptx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/itinerary_2022-06-15 1036.pdf] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/itinerary_2022-06-15 1036.pdf]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/US-IMMR-220066 FYBP DE CRM Stream - Variable Verbiage Doc 7.13 (1).docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/US-IMMR-220066 FYBP DE CRM Stream - Variable Verbiage Doc 7.13 (1).docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/US-IMMR-220066 FYBP DE CRM Stream - Variable Verbiage Doc 7.13 (1) (1).docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/US-IMMR-220066 FYBP DE CRM Stream - Variable Verbiage Doc 7.13 (1) (1).docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Bookmarks.docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Bookmarks.docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Bookmarks (1).docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Bookmarks (1).docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/US-RNQR-220646 CRM Stream - T2 Email - UC June Update_FRD 9.28.xls] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/US-RNQR-220646 CRM Stream - T2 Email - UC June Update_FRD 9.28.xls]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Overview of RINVOQ AS & nr-axSpA Assets.xlsx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Overview of RINVOQ AS & nr-axSpA Assets.xlsx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/New team questions for donald.docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/New team questions for donald.docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Client notes 2.14.docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Client notes 2.14.docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/2023 Goals.docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/2023 Goals.docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Presentation1.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Presentation1.pptx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Global SpA Brand Campaign_TalkingBack_Spotlight.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Global SpA Brand Campaign_TalkingBack_Spotlight.pptx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Global SpA Brand Campaign Preview.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Global SpA Brand Campaign Preview.pptx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Document1.docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Document1.docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/iRep email Deep Dive.docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/iRep email Deep Dive.docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Document.docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Document.docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/2023 Final Goals.docx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/2023 Final Goals.docx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Presentation2.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Presentation2.pptx]
+
+Moving file [/personal/lexie_longbine_eversana_com/Documents/Lexie's Immunology Transition.pptx] into folder [/personal/lexie_longbine_eversana_com/Documents/TERM-20230830-LEXIE.LONGBINE/Lexie's Immunology Transition.pptx]
+
+Adding user [kenzie.grob@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [kenzie.grob@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [lisa.eichenbaum@eversana.com] whose manager is [Jeri.Soendker@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/lisa_eichenbaum_eversana_com]
+
+Adding folder [TERM-20230830-LISA.EICHENBAUM] in /Documents directory
+
+Moving folder [Documents/MedRhythms] into TERM folder.
+
+Moving folder [Documents/Examples] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/NVAF Value Prop Deck - 2200092] into TERM folder.
+
+Cannot move folder [TERM-20230830-LISA.EICHENBAUM] as it does not exist.
+
+Moving folder [Documents/NVAF Toolkit_BMS] into TERM folder.
+
+Moving folder [Documents/Pfizer SDOH] into TERM folder.
+
+Moving folder [Documents/Project Initiation Form Instructions] into TERM folder.
+
+Moving folder [Documents/BACKUP] into TERM folder.
+
+Moving folder [Documents/OXBRYTA] into TERM folder.
+
+Moving folder [Documents/PENTA] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/For Roger] into TERM folder.
+
+Moving folder [Documents/For Nathan] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Travel CONCUR] into TERM folder.
+
+Moving folder [Documents/For Alliance] into TERM folder.
+
+Moving folder [Documents/Personal] into TERM folder.
+
+Moving folder [Documents/Transition Plan] into TERM folder.
+
+Moving folder [Documents/SOTYKTU] into TERM folder.
+
+Moving folder [Documents/SOTYKTU 2024 DTC BRAND PLANNING] into TERM folder.
+
+Moving folder [Documents/OLD SOTYKTU 2024 DTC Functional Planning Slides] into TERM folder.
+
+Cannot move folder [TERM-20230830-LISA.EICHENBAUM] as it does not exist.
+
+Moving folder [Documents/Lisa @ Eversana] into TERM folder.
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/NVAF Value Prop Deck - 2200092] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/NVAF Value Prop Deck - 2200092]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/OLD SOTYKTU 2024 DTC Functional Planning Slides] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/OLD SOTYKTU 2024 DTC Functional Planning Slides]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/MedR 2022 Sep Launch SOW 11.16.21.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/MedR 2022 Sep Launch SOW 11.16.21.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Book.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Book.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/2022-08-04 Functional Planning template v1_ (003).pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/2022-08-04 Functional Planning template v1_ (003).pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/8.19_Functional Planning Agency Template_V1_ENGAGE_ZS comments.pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/8.19_Functional Planning Agency Template_V1_ENGAGE_ZS comments.pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/2023 ELIQUIS Functional Planning_ENGAGE_8.24_FINAL.pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/2023 ELIQUIS Functional Planning_ENGAGE_8.24_FINAL.pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/The Academy_Evolving Maturity in Cardiovascular Care Redesign_Report_FINAL.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/The Academy_Evolving Maturity in Cardiovascular Care Redesign_Report_FINAL.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/EVERSANA 2023 SOW_LEO Pharma 11.18.22.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/EVERSANA 2023 SOW_LEO Pharma 11.18.22.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Eversana Pfizer Project Plan - 11.14.22.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Eversana Pfizer Project Plan - 11.14.22.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Eversana Pfizer Project Plan - 11.21.22.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Eversana Pfizer Project Plan - 11.21.22.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/UTILIZATION BY DEPARTMENT FOR LEO.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/UTILIZATION BY DEPARTMENT FOR LEO.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/COMBIVENT HCP Website – Phase 2.pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/COMBIVENT HCP Website – Phase 2.pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Combivent HCP Website_Phase 2.pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Combivent HCP Website_Phase 2.pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/BI CYL_Estimate Template_Blank_2023.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/BI CYL_Estimate Template_Blank_2023.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/2022 Updated AGS Beers® Criteria For Comment Period 11.10.22.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/2022 Updated AGS Beers® Criteria For Comment Period 11.10.22.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Eversana Pfizer Project Plan 1.24.23.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Eversana Pfizer Project Plan 1.24.23.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/ACC21 Undiagnosed AFIB US.pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/ACC21 Undiagnosed AFIB US.pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/HRS21 Heatmap.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/HRS21 Heatmap.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/ACC21 Undiagnosed AFIB US(1).pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/ACC21 Undiagnosed AFIB US(1).pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Munir2022_Article_OralAnticoagulantUnderutilizat.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Munir2022_Article_OralAnticoagulantUnderutilizat.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Untreated_Outcomes_PlosOne.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Untreated_Outcomes_PlosOne.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/HRS21 Heatmap(1).pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/HRS21 Heatmap(1).pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Copy of Undiagnosed NVAF Value Prop Feedback Collated.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Copy of Undiagnosed NVAF Value Prop Feedback Collated.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/PFE HS - 23 SDoH Health Disparities Intervention Project Brief_Updates_1.24.23_KSup.docx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/PFE HS - 23 SDoH Health Disparities Intervention Project Brief_Updates_1.24.23_KSup.docx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Pfizer - Eliquis 2023 Health Systems Actuals 2.10.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Pfizer - Eliquis 2023 Health Systems Actuals 2.10.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Copy of Recruitment Workbook_A-40630_ LE.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Copy of Recruitment Workbook_A-40630_ LE.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Primary Stroke Centers_JC (website).pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Primary Stroke Centers_JC (website).pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Comprehensive Stroke Centers_JC (website).pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Comprehensive Stroke Centers_JC (website).pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/[EXTERNAL] RE_ New References for CV-US-2200600.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/[EXTERNAL] RE_ New References for CV-US-2200600.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/PENTA Market Research_Project Brief.docx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/PENTA Market Research_Project Brief.docx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/ACIP Feb 2023 - final deck (2).pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/ACIP Feb 2023 - final deck (2).pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/PENTA_EVERSANA_Plan_WIP_3.14.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/PENTA_EVERSANA_Plan_WIP_3.14.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/EVERSANA Forecasting by Tactic_PENTA_US_3.15.23.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/EVERSANA Forecasting by Tactic_PENTA_US_3.15.23.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Copy of EVERSANA 2023 SOW_LEO Pharma 11.18.22.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Copy of EVERSANA 2023 SOW_LEO Pharma 11.18.22.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Copy of UTILIZATION BY DEPARTMENT FOR LEO.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Copy of UTILIZATION BY DEPARTMENT FOR LEO.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/ELIQU-012613-002_NVAF Informatics Platform_Electronic_3.23.23.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/ELIQU-012613-002_NVAF Informatics Platform_Electronic_3.23.23.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Eversana Alliance Project Plan rev4.19.23.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Eversana Alliance Project Plan rev4.19.23.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Copy of Eversana Alliance Project Plan rev4.21.23 (002).xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Copy of Eversana Alliance Project Plan rev4.21.23 (002).xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/2023 ELIQUIS Tactical Planning_EVERSANA_2H 2023.pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/2023 ELIQUIS Tactical Planning_EVERSANA_2H 2023.pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/ELIQUIS Health Systems Client Finance Tracker_05.2023.xlsx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/ELIQUIS Health Systems Client Finance Tracker_05.2023.xlsx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/Health Systems 2022 SOW_Change Order 5.16.23_GC.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/Health Systems 2022 SOW_Change Order 5.16.23_GC.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/5-30_KS-LS_PFE HS_23_NVAF_Diagnosed_v19_SlideView.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/5-30_KS-LS_PFE HS_23_NVAF_Diagnosed_v19_SlideView.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/SOTYKTU DTC 6.5 WKSP.pptx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/SOTYKTU DTC 6.5 WKSP.pptx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/AGENDA.docx] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/AGENDA.docx]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/SOTYKTU.com Usability Recco Deck 8_14_23.pdf] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/SOTYKTU.com Usability Recco Deck 8_14_23.pdf]
+
+Moving file [/personal/lisa_eichenbaum_eversana_com/Documents/SOTYKTU (2).zip] into folder [/personal/lisa_eichenbaum_eversana_com/Documents/TERM-20230830-LISA.EICHENBAUM/SOTYKTU (2).zip]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [ryan.walsh@eversana.com] whose manager is [punyavathi.devaraju@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ryan_walsh_eversana_com]
+
+Adding folder [TERM-20230830-RYAN.WALSH] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/WG] into TERM folder.
+
+Moving file [/personal/ryan_walsh_eversana_com/Documents/1 W2 to WG ABC 0533129614.pdf] into folder [/personal/ryan_walsh_eversana_com/Documents/TERM-20230830-RYAN.WALSH/1 W2 to WG ABC 0533129614.pdf]
+
+Adding user [punyavathi.devaraju@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [punyavathi.devaraju@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ryan.walsh@eversana.com] whose manager is [punyavathi.devaraju@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ryan_walsh_eversana_com]
+
+Adding folder [TERM-20230830-RYAN.WALSH] in /Documents directory
+
+Main Folder [TERM-20230830-RYAN.WALSH] already exists --- will not recreate it
+
+Adding user [punyavathi.devaraju@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [punyavathi.devaraju@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+

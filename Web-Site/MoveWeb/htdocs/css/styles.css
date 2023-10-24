@@ -1,0 +1,473 @@
+.bodyBackground {
+	background:#0F0141;
+}
+
+#ShadowBox {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
+
+
+a:hover,button:hover { cursor: pointer;}
+
+
+/*
+table, th, td {
+  border: 1px solid #0F0141;
+  border-collapse: collapse;
+}
+*/
+
+#TableWhiteBorder {
+  border: 1px solid white;
+  border-collapse: collapse;
+	border-spacing: 50px;
+}
+
+#TableWhiteBorder2 {
+	border: 1px solid white;
+  border-collapse: collapse;
+	width: 70%;
+	align: center;
+	text-align: center;
+}
+
+input[type="text"] {
+	width: 200px;
+	// background-color: #B08C7C;
+       background-color: white;
+	color: black;
+	font-size: 15px;
+	font-weight: normal;
+	border-radius: 25px;
+	border: 2px solid white;
+	padding: 10px;
+	width: 200px;
+	height: 10px;
+}
+
+
+/*
+input[type="text"] {
+	width: 200px;
+	background-color: #0F0141;
+	color: White;
+	font-size: 15px;
+	font-weight: normal;
+}
+
+button {
+	background-color: white;
+	color: black;
+  width: 25px;
+  height: 25px;
+  border-radius: 20px;
+}
+*/
+
+.tooltip1-wrap {  
+	position: relative;  
+	display: inline-block;  
+	border-bottom: 1px dotted black;  
+}  
+  
+.tooltip1-wrap .tooltip1-content {  
+color: white;
+	display: none;  
+	position: absolute;  
+	top: 500px;  
+	background-color: #0F0141;  
+	padding: .5em;  
+}  
+  
+.tooltip1-wrap:hover .tooltip1-content {  
+	display: block;  
+}  
+						
+.styledButton {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+	vertical-align: middle;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 0);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.Cls_WhiteText_P15_Normal {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+ background-color: #0F0141;
+        font-size: 15px;
+       font-style: normal;
+      font-weight: normal;
+       text-align: center;
+}
+
+.White_P18 {
+	font-family: 'Times New Roman', Times, serif;
+	        color: white;
+ background-color: #0F0141;
+        font-size: 18px;
+       font-style: normal;
+      font-weight: normal;
+       text-align: left;
+}
+
+.ODD_P28_Heading {
+	  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 28px;
+       font-style: normal;
+      font-weight: normal;
+       text-align: center;
+}
+
+/* Red: 223, Green: 171, Blue: 23 */
+p.MainHeading {
+ont-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+        font-size: 50px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+	
+p.AdminPortalHeading {
+  font-family: 'Times New Roman', Times, serif;
+            color: #D0E2FC;
+        font-size: 26px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.AppHeader {
+  font-family: 'Times New Roman', Times, serif;
+            color: white;
+        font-size: 18px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+	   text-decoration: underline;
+}
+
+p.AppHeader_Underline {
+  font-family: 'Times New Roman', Times, serif;
+            color: #FF5900;
+        font-size: 20px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+  text-decoration: underline;
+}
+
+p.AppHeader_Gold {
+  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+        font-size: 18px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+	   text-decoration: underline;
+}
+
+p.TitleHeader_Gold {
+  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+        font-size: 22px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.WhiteText_P12 {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+ background-color: #0F0141;
+        font-size: 12px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.WhiteText_P15 {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+ background-color: #0F0141;
+        font-size: 15px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.WhiteText_P15_Right {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+ background-color: #0F0141;
+        font-size: 15px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: right;
+}
+
+
+p.White_P25 {
+	  font-family: 'Times New Roman', Times, serif;
+            color: white;
+ background-color: #0F0141;
+        font-size: 25px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.White_P30 {
+	  font-family: 'Times New Roman', Times, serif;
+            color: white;
+ background-color: #0F0141;
+        font-size: 30px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+  text-decoration: underline;
+}
+
+p.White_P18 {
+	  font-family: 'Times New Roman', Times, serif;
+            color: white;
+ background-color: #0F0141;
+        font-size: 18px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.ODD_P32_Heading {
+	  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 32px;
+       font-style: normal;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.ODD_P48_Heading {
+	  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 48px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.Gold_P60 {
+	  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 60px;
+       font-style: italic;
+      font-weight: normal;
+			 text-align: center;
+}
+
+p.WhiteText_P17_Underline {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+ background-color: #0F0141;
+        font-size: 17px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+	text-decoration: underline;
+}
+
+p.GoldText_P17_Underline {
+	  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 17px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+	text-decoration: underline;
+}
+
+p.QuickLinks {
+	  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 30px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.buttontext {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+ background-color: #0F0141;
+        font-size: 12px;
+       font-style: normal;
+      font-weight: normal;
+       text-align: center;
+   vertical-align: top;
+}
+
+p.WhiteText_P15_Normal {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+ background-color: #0F0141;
+        font-size: 15px;
+       font-style: normal;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.WhiteText_P18_Italic {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+ background-color: #0F0141;
+        font-size: 18px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.WhiteText_P15_Underline {
+	  font-family: 'Times New Roman', Times, serif;
+            color: White;
+        font-size: 15px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+	text-decoration: underline;
+}
+
+p.AcctCreationTitle {
+	font-family: 'Times New Roman', Times, serif;
+	          color: #A6B6F8;
+        font-size: 40px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.Gold_P20 {
+	font-family: 'Times New Roman', Times, serif;
+	          color: #DFAB17;
+        font-size: 20px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.Gold_P15 {
+	font-family: 'Times New Roman', Times, serif;
+	          color: #DFAB17;
+        font-size: 15px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.Gold_P15_Underline {
+	font-family: 'Times New Roman', Times, serif;
+	          color: #DFAB17;
+        font-size: 15px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+	text-decoration: underline;
+}
+
+p.Gold_P15_Left {
+	font-family: 'Times New Roman', Times, serif;
+	          color: #DFAB17;
+        font-size: 15px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: left;
+}
+
+p.Gold_P15_Right {
+	font-family: 'Times New Roman', Times, serif;
+	          color: #DFAB17;
+        font-size: 15px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: right;
+}
+
+p.Gold_P18 {
+	font-family: 'Times New Roman', Times, serif;
+	        color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 18px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.Warning {
+	font-family: 'Times New Roman', Times, serif;
+	color: Red;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+}
+
+p.Important {
+	font-family: 'Times New Roman', Times, serif;
+	color: White;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+}
+
+p.EMailGreeting {
+	font-family: 'Times New Roman', Times, serif;
+	color: Black;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+
+p.EMailFooter {
+	font-family: 'Times New Roman', Times, serif;
+	color: Blue;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: normal;
+	text-align: left;
+}
+
+selector {
+	font-family: 'Times New Roman', Times, serif;
+	color: Black;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+
+a{
+	font-family: 'Times New Roman', Times, serif;
+	color: Blue;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+}

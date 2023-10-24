@@ -1,0 +1,88 @@
+<html>
+<head>
+<style>
+.bodyBackground {
+	background:white;
+}
+
+p.EMailGreeting {
+	font-family: 'Times New Roman', Times, serif;
+	color: Black;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+
+p.EMailFooter {
+	font-family: 'Times New Roman', Times, serif;
+	color: Blue;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: normal;
+	text-align: left;
+}
+
+p.RegisterUser {
+	font-family: 'Times New Roman', Times, serif;
+	color: Blue;
+	font-size: 36px;
+	font-style: italic;
+	font-weight: normal;
+	text-align: left;
+}
+
+</style>
+</head>
+<body class='bodyBackground'>
+<center>
+<table width=100%>
+<tr><td><img src='https://www.eversana.com/wp-content/uploads/2019/05/EmailHeaderTECHNOLOGYComm.png' width='545' height='85'></td></tr>
+</table>
+</br>
+<table width=100%>
+<tr><td><p class='EMailGreeting'>Hi Dave,</p></td></tr>
+</table>
+</br>
+<table width=100%>
+<tr><td><p class='EMailGreeting'>You are receiving this e-mail as you have been identified as someone who requires Admin Portal access within the IDM website.</p></td></tr>
+<tr><td><p class='EMailGreeting'>The IDM website is a new feature within Identity Management which allows our HR and IDM team to easily perform administrative tasks.</p></td></tr>
+<tr><td><p class='EMailGreeting'>The Admin Portal is a secure location where advanced sets of applications such as Employee Termination can be easily utilized.</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='EMailGreeting'>To obtain your Admin Portal access, click on the Register link below:</p></td></tr>
+</table>
+<table width=100%>
+<tr><td width='20%'>&nbsp</td>
+<td width='80%'<a href='http://idmgmtapp01/Register.html'><p class='RegisterUser'>Click Here To Register!</p></a></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='EMailGreeting'>This will take you to the IDM Website Registration page.</p></td></tr>
+<tr><td><p class='EMailGreeting'>Once there, simply select your name from the drop-down list at the top of the page and click on the registration button.</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='EMailGreeting'>It&#39s that easy! From there, you will automatically be redirected to the IDM website.</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='EMailGreeting'>To enter the Admin Portal once you arive, simply click on the Admin Portal button to the left.</p></td></tr>
+<tr><td><p class='EMailGreeting'>Applications provided are listed from top down and can be accessed by clicking on the button labeled with its function.</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='EMailGreeting'>If you have any further questions, please contact the Identity Management team.</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='EMailGreeting'>Thanks Dave!.</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='EMailFooter'>The Identity Management Team</p></td></tr>
+</table>
+</center>
+</body>
+</html>

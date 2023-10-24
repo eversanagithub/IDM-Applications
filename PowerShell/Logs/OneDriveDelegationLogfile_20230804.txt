@@ -1,0 +1,166 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 04, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [brook.reed@eversana.com] whose manager is [cindy.wisdom@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/brook_reed_eversana_com]
+
+Adding folder [TERM-20230804-BROOK.REED] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Brook @ Eversana] into TERM folder.
+
+Moving file [/personal/brook_reed_eversana_com/Documents/Tiff's JJPAF Class Notes.docx] into folder [/personal/brook_reed_eversana_com/Documents/TERM-20230804-BROOK.REED/Tiff's JJPAF Class Notes.docx]
+
+Adding user [cindy.wisdom@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [cindy.wisdom@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [brook.reed@eversana.com] whose manager is [cindy.wisdom@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/brook_reed_eversana_com]
+
+Adding folder [TERM-20230804-BROOK.REED] in /Documents directory
+
+Main Folder [TERM-20230804-BROOK.REED] already exists --- will not recreate it
+
+Adding user [cindy.wisdom@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [cindy.wisdom@eversana.com]
+
+Processing OneDrive Delegation for delegate [pathik.sheth@eversana.com] whose manager is [Jefferson.Dooley@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/pathik_sheth_eversana_com]
+
+Adding folder [TERM-20230804-PATHIK.SHETH] in /Documents directory
+
+Adding user [Jefferson.Dooley@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Jefferson.Dooley@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [pathik.sheth@eversana.com] whose manager is [Jefferson.Dooley@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/pathik_sheth_eversana_com]
+
+Adding folder [TERM-20230804-PATHIK.SHETH] in /Documents directory
+
+Main Folder [TERM-20230804-PATHIK.SHETH] already exists --- will not recreate it
+
+Adding user [Jefferson.Dooley@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Jefferson.Dooley@eversana.com]
+
+Processing OneDrive Delegation for delegate [meghna.avulavenkat@eversana.com] whose manager is [Jefferson.Dooley@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/meghna_avulavenkat_eversana_com]
+
+Adding folder [TERM-20230804-MEGHNA.AVULAVENKAT] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Meghna @ EVERSANA] into TERM folder.
+
+Moving file [/personal/meghna_avulavenkat_eversana_com/Documents/April Score card-2023-.pptx] into folder [/personal/meghna_avulavenkat_eversana_com/Documents/TERM-20230804-MEGHNA.AVULAVENKAT/April Score card-2023-.pptx]
+
+Moving file [/personal/meghna_avulavenkat_eversana_com/Documents/June Score card-2023..pptx] into folder [/personal/meghna_avulavenkat_eversana_com/Documents/TERM-20230804-MEGHNA.AVULAVENKAT/June Score card-2023..pptx]
+
+Moving file [/personal/meghna_avulavenkat_eversana_com/Documents/June Score card-2023.pptx] into folder [/personal/meghna_avulavenkat_eversana_com/Documents/TERM-20230804-MEGHNA.AVULAVENKAT/June Score card-2023.pptx]
+
+Adding user [Jefferson.Dooley@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Jefferson.Dooley@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [meghna.avulavenkat@eversana.com] whose manager is [Jefferson.Dooley@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/meghna_avulavenkat_eversana_com]
+
+Adding folder [TERM-20230804-MEGHNA.AVULAVENKAT] in /Documents directory
+
+Main Folder [TERM-20230804-MEGHNA.AVULAVENKAT] already exists --- will not recreate it
+
+Adding user [Jefferson.Dooley@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Jefferson.Dooley@eversana.com]
+
+Processing OneDrive Delegation for delegate [matty.fera@eversana.com] whose manager is [karina.kleiner@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/matty_fera_eversana_com]
+
+Adding folder [TERM-20230804-MATTY.FERA] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/_BRAND ASSETS] into TERM folder.
+
+Cannot move folder [TERM-20230804-MATTY.FERA] as it does not exist.
+
+Moving folder [Documents/matty @ EVERSANA INTOUCH] into TERM folder.
+
+Moving folder [Documents/Creative Library] into TERM folder.
+
+Cannot move folder [TERM-20230804-MATTY.FERA] as it does not exist.
+
+Moving file [/personal/matty_fera_eversana_com/Documents/_BRAND ASSETS] into folder [/personal/matty_fera_eversana_com/Documents/TERM-20230804-MATTY.FERA/_BRAND ASSETS]
+
+Moving file [/personal/matty_fera_eversana_com/Documents/Creative Library] into folder [/personal/matty_fera_eversana_com/Documents/TERM-20230804-MATTY.FERA/Creative Library]
+
+Moving file [/personal/matty_fera_eversana_com/Documents/Document.docx] into folder [/personal/matty_fera_eversana_com/Documents/TERM-20230804-MATTY.FERA/Document.docx]
+
+Moving file [/personal/matty_fera_eversana_com/Documents/LIBTAYO COUGH DISCUSSION-20221011_140634-Meeting Recording.mp4] into folder [/personal/matty_fera_eversana_com/Documents/TERM-20230804-MATTY.FERA/LIBTAYO COUGH DISCUSSION-20221011_140634-Meeting Recording.mp4]
+
+Moving file [/personal/matty_fera_eversana_com/Documents/INTERVIEW QUESTIONS ACD.docx] into folder [/personal/matty_fera_eversana_com/Documents/TERM-20230804-MATTY.FERA/INTERVIEW QUESTIONS ACD.docx]
+
+Moving file [/personal/matty_fera_eversana_com/Documents/Document1.docx] into folder [/personal/matty_fera_eversana_com/Documents/TERM-20230804-MATTY.FERA/Document1.docx]
+
+Adding user [karina.kleiner@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [karina.kleiner@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

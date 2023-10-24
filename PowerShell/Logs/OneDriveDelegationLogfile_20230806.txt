@@ -1,0 +1,194 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 06, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [charles.johnson@eversana.com] whose manager is [odessa.harris@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/charles_johnson_eversana_com]
+
+Adding folder [TERM-20230806-CHARLES.JOHNSON] in /Documents directory
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Attachments] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Attachments]
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Recordings]
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Microsoft Teams Chat Files] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Microsoft Teams Chat Files]
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/TERM-20230805-CHARLES.JOHNSON]
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Charles @ EVERSANA] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Charles @ EVERSANA]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Charles @ EVERSANA] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Charles @ EVERSANA/Open Notebook.onetoc2] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Open Notebook.onetoc2]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Charles @ EVERSANA/Open Notebook.onetoc2] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Charles @ EVERSANA/Quick Notes.one] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Quick Notes.one]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Charles @ EVERSANA/Quick Notes.one] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230503_123030-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Meeting now-20230503_123030-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230503_123030-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230503_152734-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Meeting now-20230503_152734-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230503_152734-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230503_163104-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Meeting now-20230503_163104-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230503_163104-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230504_061619-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Meeting now-20230504_061619-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230504_061619-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230504_061619-Meeting Recording 1.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Meeting now-20230504_061619-Meeting Recording 1.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230504_061619-Meeting Recording 1.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230504_125407-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Meeting now-20230504_125407-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230504_125407-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training_ PO Tracker, AR, Lilly Existence Testing-20230509_123309-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Training_ PO Tracker, AR, Lilly Existence Testing-20230509_123309-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training_ PO Tracker, AR, Lilly Existence Testing-20230509_123309-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230511_131138-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Meeting now-20230511_131138-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230511_131138-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230515_135315-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Meeting now-20230515_135315-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Meeting now-20230515_135315-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/MM Billing-May 2023-20230518_080221-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/MM Billing-May 2023-20230518_080221-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/MM Billing-May 2023-20230518_080221-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/MM Billing-May 2023-20230518_142205-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/MM Billing-May 2023-20230518_142205-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/MM Billing-May 2023-20230518_142205-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training With Karen-Embecta-20230524_083237-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Training With Karen-Embecta-20230524_083237-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training With Karen-Embecta-20230524_083237-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training With Karen-Embecta-20230524_100123-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Training With Karen-Embecta-20230524_100123-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training With Karen-Embecta-20230524_100123-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training With Karen-Altima CoPay Issue-20230524_140236-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Training With Karen-Altima CoPay Issue-20230524_140236-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training With Karen-Altima CoPay Issue-20230524_140236-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/SOC-1-20230525_080654-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/SOC-1-20230525_080654-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/SOC-1-20230525_080654-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/SOC-1 Review-20230525_100036-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/SOC-1 Review-20230525_100036-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/SOC-1 Review-20230525_100036-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training With Karen-Existence Testing Sample-20230525_130041-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Training With Karen-Existence Testing Sample-20230525_130041-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Training With Karen-Existence Testing Sample-20230525_130041-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Attachments/Lilly Claims Detail 2023-02a v00   Q1 EX TSTNG.xlsx] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Lilly Claims Detail 2023-02a v00   Q1 EX TSTNG.xlsx]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Attachments/Lilly Claims Detail 2023-02a v00   Q1 EX TSTNG.xlsx] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Attachments/Lilly Claims Detail 2023-03a v00 Q1 EX TSTNG.xlsx] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Lilly Claims Detail 2023-03a v00 Q1 EX TSTNG.xlsx]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Attachments/Lilly Claims Detail 2023-03a v00 Q1 EX TSTNG.xlsx] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 1 other-20230601_094134-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Call with Heather and 1 other-20230601_094134-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 1 other-20230601_094134-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 2 others-20230601_114657-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Call with Heather and 2 others-20230601_114657-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 2 others-20230601_114657-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 2 others-20230601_140457-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Call with Heather and 2 others-20230601_140457-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 2 others-20230601_140457-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 1 other-20230602_071344-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Call with Heather and 1 other-20230602_071344-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 1 other-20230602_071344-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 1 other-20230605_145433-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Call with Heather and 1 other-20230605_145433-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Call with Heather and 1 other-20230605_145433-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Microsoft Teams Chat Files/JJPAF - AE-PQC - MAY 2023.xlsx] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/JJPAF - AE-PQC - MAY 2023.xlsx]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Microsoft Teams Chat Files/JJPAF - AE-PQC - MAY 2023.xlsx] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing-20230721_090407-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Mason Billing-20230721_090407-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing-20230721_090407-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing-20230721_123154-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Mason Billing-20230721_123154-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing-20230721_123154-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Review Of MM And Overview Of ME-20230724_103153-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Review Of MM And Overview Of ME-20230724_103153-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Review Of MM And Overview Of ME-20230724_103153-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/ME Training-20230724_130218-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/ME Training-20230724_130218-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/ME Training-20230724_130218-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 3-ME Closing Process-20230725_093042-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Mason Billing Training Part 3-ME Closing Process-20230725_093042-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 3-ME Closing Process-20230725_093042-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 4-ME Closing Process-20230725_133036-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Mason Billing Training Part 4-ME Closing Process-20230725_133036-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 4-ME Closing Process-20230725_133036-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 4-ME Closing Process-20230725_153421-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Mason Billing Training Part 4-ME Closing Process-20230725_153421-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 4-ME Closing Process-20230725_153421-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 6-ME Closing Process-20230726_080202-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Mason Billing Training Part 6-ME Closing Process-20230726_080202-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 6-ME Closing Process-20230726_080202-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 7-ME Closing Process-20230726_093147-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Mason Billing Training Part 7-ME Closing Process-20230726_093147-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 7-ME Closing Process-20230726_093147-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 8-ME Closing Process-20230726_133550-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/Mason Billing Training Part 8-ME Closing Process-20230726_133550-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/Mason Billing Training Part 8-ME Closing Process-20230726_133550-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/training-20230731_080425-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/training-20230731_080425-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/training-20230731_080425-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/training cont-20230731_100112-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/training cont-20230731_100112-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/training cont-20230731_100112-Meeting Recording.mp4] as it does not exist.
+
+Moving file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/training-20230731_140034-Meeting Recording.mp4] into folder [/personal/charles_johnson_eversana_com/Documents/TERM-20230806-CHARLES.JOHNSON/training-20230731_140034-Meeting Recording.mp4]
+
+Cannot move file [/personal/charles_johnson_eversana_com/Documents/TERM-20230805-CHARLES.JOHNSON/Recordings/training-20230731_140034-Meeting Recording.mp4] as it does not exist.
+
+Adding user [odessa.harris@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [odessa.harris@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+

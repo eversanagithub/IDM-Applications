@@ -1,0 +1,258 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 25, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [stan.dektiarenko@eversana.com] whose manager is [ross.price@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/stan_dektiarenko_eversana_com]
+
+Adding folder [TERM-20230825-STAN.DEKTIARENKO] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Microsoft Teams Chat Files] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Microsoft Teams Chat Files]
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Desktop]
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Documents]
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pictures] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Pictures]
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pictures/Camera Roll] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Camera Roll]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pictures/Camera Roll] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pictures/Screenshots] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Screenshots]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pictures/Screenshots] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pictures/Saved Pictures] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Saved Pictures]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pictures/Saved Pictures] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/TERM-20210731-STAN.DEKTIARENKO]
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Microsoft Teams Chat Files/cpub-DCCEITRDS-DCCEITRDS-CmsRdsh.rdp] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/cpub-DCCEITRDS-DCCEITRDS-CmsRdsh.rdp]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Microsoft Teams Chat Files/cpub-DCCEITRDS-DCCEITRDS-CmsRdsh.rdp] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop/Microsoft Teams.lnk] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Microsoft Teams.lnk]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop/Microsoft Teams.lnk] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop/IT Service Desk.url] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/IT Service Desk.url]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop/IT Service Desk.url] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop/Microsoft Edge.lnk] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Microsoft Edge.lnk]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop/Microsoft Edge.lnk] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Lic_Server_Install.docx] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Lic_Server_Install.docx]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Lic_Server_Install.docx] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents/vCenter.cer] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/vCenter.cer]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents/vCenter.cer] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents/Servers.rdg] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Servers.rdg]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents/Servers.rdg] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents/Default.rdp] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Default.rdp]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents/Default.rdp] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pre-Prod DDC Install.docx] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Pre-Prod DDC Install.docx]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Pre-Prod DDC Install.docx] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop/nsrunning.conf] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/nsrunning.conf]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Desktop/nsrunning.conf] as it does not exist.
+
+Moving file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents/Servers_Stan.rdg] into folder [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20230825-STAN.DEKTIARENKO/Servers_Stan.rdg]
+
+Cannot move file [/personal/stan_dektiarenko_eversana_com/Documents/TERM-20210731-STAN.DEKTIARENKO/Documents/Servers_Stan.rdg] as it does not exist.
+
+Adding user [ross.price@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [ross.price@eversana.com]
+
+Processing OneDrive Delegation for delegate [stan.dektiarenko@eversana.com] whose manager is [ross.price@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/stan_dektiarenko_eversana_com]
+
+Adding folder [TERM-20230825-STAN.DEKTIARENKO] in /Documents directory
+
+Main Folder [TERM-20230825-STAN.DEKTIARENKO] already exists --- will not recreate it
+
+Adding user [ross.price@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [ross.price@eversana.com]
+
+Processing OneDrive Delegation for delegate [teresa.russell@eversana.com] whose manager is [john.kenny@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/teresa_russell_eversana_com]
+
+Adding folder [TERM-20230825-TERESA.RUSSELL] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/Guide to Billability.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Guide to Billability.pptx]
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/EVERSANA INTOUCH Oxygen_Monjuvi_Jan2023 meeting.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/EVERSANA INTOUCH Oxygen_Monjuvi_Jan2023 meeting.pptx]
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/Monjuvi Kick-off Meeting_Summary1.13.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Monjuvi Kick-off Meeting_Summary1.13.23.pptx]
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/Monjuvi Kick-off Meeting_Summary1.18.23.pptx] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Monjuvi Kick-off Meeting_Summary1.18.23.pptx]
+
+Moving file [/personal/teresa_russell_eversana_com/Documents/Clinical Endpoints Oncology_2021.pdf] into folder [/personal/teresa_russell_eversana_com/Documents/TERM-20230825-TERESA.RUSSELL/Clinical Endpoints Oncology_2021.pdf]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [porsha.jones@eversana.com] whose manager is [Jeanie.Rhodes@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/porsha_jones_eversana_com]
+
+Adding folder [TERM-20230825-PORSHA.JONES] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Adding user [Jeanie.Rhodes@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Jeanie.Rhodes@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [ciara.sims@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ciara_sims_eversana_com]
+
+Adding folder [TERM-20230825-CIARA.SIMS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [james.schmersal@eversana.com] whose manager is [Neville.Adolf@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/james_schmersal_eversana_com]
+
+Adding folder [TERM-20230825-JAMES.SCHMERSAL] in /Documents directory
+
+Moving folder [Documents/Alexion] into TERM folder.
+
+Moving folder [Documents/BPL] into TERM folder.
+
+Moving folder [Documents/Expense Reports] into TERM folder.
+
+Moving folder [Documents/GE] into TERM folder.
+
+Moving folder [Documents/Grifols] into TERM folder.
+
+Moving folder [Documents/HR] into TERM folder.
+
+Moving folder [Documents/Maintenance] into TERM folder.
+
+Moving folder [Documents/Obagi] into TERM folder.
+
+Moving folder [Documents/ONT] into TERM folder.
+
+Moving folder [Documents/Projects] into TERM folder.
+
+Moving folder [Documents/Safety] into TERM folder.
+
+Moving folder [Documents/Sagent] into TERM folder.
+
+Moving folder [Documents/SOP] into TERM folder.
+
+Moving folder [Documents/Supply Inventory] into TERM folder.
+
+Moving folder [Documents/Training] into TERM folder.
+
+Moving folder [Documents/Transportation] into TERM folder.
+
+Moving folder [Documents/Custom Office Templates] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder] into folder [/personal/james_schmersal_eversana_com/Documents/TERM-20230825-JAMES.SCHMERSAL/Jim S. Folder]
+
+Moving file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder/Passwords.docx] into folder [/personal/james_schmersal_eversana_com/Documents/TERM-20230825-JAMES.SCHMERSAL/Passwords.docx]
+
+Cannot move file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder/Passwords.docx] as it does not exist.
+
+Moving file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder/Office Supply Order.xlsx] into folder [/personal/james_schmersal_eversana_com/Documents/TERM-20230825-JAMES.SCHMERSAL/Office Supply Order.xlsx]
+
+Cannot move file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder/Office Supply Order.xlsx] as it does not exist.
+
+Moving file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder/MBWA LOG.xlsx] into folder [/personal/james_schmersal_eversana_com/Documents/TERM-20230825-JAMES.SCHMERSAL/MBWA LOG.xlsx]
+
+Cannot move file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder/MBWA LOG.xlsx] as it does not exist.
+
+Moving file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder/Cold Chain Presentation.pptx] into folder [/personal/james_schmersal_eversana_com/Documents/TERM-20230825-JAMES.SCHMERSAL/Cold Chain Presentation.pptx]
+
+Cannot move file [/personal/james_schmersal_eversana_com/Documents/Jim S. Folder/Cold Chain Presentation.pptx] as it does not exist.
+
+Moving file [/personal/james_schmersal_eversana_com/Documents/DC - Open Shipments.xlsx] into folder [/personal/james_schmersal_eversana_com/Documents/TERM-20230825-JAMES.SCHMERSAL/DC - Open Shipments.xlsx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

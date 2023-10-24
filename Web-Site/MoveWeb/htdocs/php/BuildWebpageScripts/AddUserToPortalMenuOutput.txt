@@ -1,0 +1,67 @@
+Content-type: text/html
+
+<html>
+<head>
+<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+</head><body bgcolor='#0F0141'>
+<FORM id='AddUserToPortal' METHOD='POST' ACTION='/cgi-bin/SendClientWebsiteInvite.pl';>
+<table width='100%' align='center'>
+<tr>
+<td width='100%' align='center'>
+<p class='AcctCreationTitle'>User invitation to Admin Portal Application</p>
+</td>
+</tr>
+</table>
+<table width='100%' align='center'>
+<tr>
+<td width='5%'>&nbsp</td>
+<th width='13%' align='center'>
+<p class='WhiteText_P15'>Employee ID</p>
+</th>
+<th width='13%' align='center'>
+<p class='WhiteText_P15'>First Name</p>
+</th>
+<th width='13%' align='center'>
+<p class='WhiteText_P15'>Last Name</p>
+</th>
+<th width='%17' align='center'>
+<p class='WhiteText_P15'>E-Mail Address</p>
+</th>
+<th width='13%' align='center'>
+<p class='WhiteText_P15'>Access Level (1,2 or 3)</p>
+</th>
+<th width='13%' align='center'>
+<p class='WhiteText_P15'>Admin Access (Yes or No)</p>
+</th>
+<th width='13%' align='center'>
+<p class='WhiteText_P15'>Execute Request</p>
+</th>
+</tr>
+<tr>
+<td width='5%'>&nbsp</td>
+<td width='13%' align='center'>
+<input id='EmplID' name='EmplID' type='text' placeholder='e.g. 123456'>
+</td>
+<td width='13%' align='center'>
+<input id='firstName' name='firstName' type='text' placeholder='e.g. John'>
+</td>
+<td width='13%' align='center'>
+<input id='lastName' name='lastName' type='text' placeholder='e.g. Doe'>
+</td>
+<td width='17%' align='center'>
+<input id='emailAddress' name='emailAddress' type='text' placeholder='e.g. john.doe@eversana.com'>
+</td>
+<td width='13%' align='center'>
+<input id='accessLevel' name='accessLevel' type='text' placeholder='e.g. 1,2 or 3'>
+</td>
+<td width='13%' align='center'>
+<input id='adminAccess' name='adminAccess' type='text' placeholder='e.g. Yes or No'>
+</td>
+<td width='13%' align='center'>
+<input id='Submit' name='Submit' type='image' src='http://idmgmtapp01/images/buttons/submit.jpg' width=90 height=30 align='middle' border='0' onClick='DisplayNewUserAddMessage();'>
+</td>
+</tr>
+</table>
+</body>
+</html>

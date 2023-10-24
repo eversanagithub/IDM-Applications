@@ -1,0 +1,34 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 05, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [rhonie.douglas@eversana.com] whose manager is [sara.kisaberth@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/rhonie_douglas_eversana_com]
+
+Adding folder [TERM-20230205-RHONIE.DOUGLAS] in /Documents directory
+
+Main Folder [TERM-20230205-RHONIE.DOUGLAS] already exists --- will not recreate it
+
+Adding user [sara.kisaberth@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sara.kisaberth@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

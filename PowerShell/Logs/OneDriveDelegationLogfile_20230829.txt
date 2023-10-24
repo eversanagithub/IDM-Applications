@@ -1,0 +1,789 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 29, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [kushagra.sharma@eversana.com] whose manager is [viji.alwan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kushagra_sharma_eversana_com]
+
+Adding folder [TERM-20230829-KUSHAGRA.SHARMA] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/LSPD] into TERM folder.
+
+Cannot move folder [TERM-20230829-KUSHAGRA.SHARMA] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/GSK_HZ] into TERM folder.
+
+Moving folder [Documents/Personal documents] into TERM folder.
+
+Moving folder [Documents/SCT] into TERM folder.
+
+Moving folder [Documents/CIDs] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Handover-Kushagra Sharma] into TERM folder.
+
+Moving folder [Documents/Kushagra Sharma_Handover] into TERM folder.
+
+Cannot move folder [TERM-20230829-KUSHAGRA.SHARMA] as it does not exist.
+
+Moving folder [Documents/GSK KAP study] into TERM folder.
+
+Cannot move folder [TERM-20230829-KUSHAGRA.SHARMA] as it does not exist.
+
+Moving folder [Documents/Kushagra @ Eversana] into TERM folder.
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/LSPD] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/LSPD]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Kushagra Sharma_Handover] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Kushagra Sharma_Handover]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GSK KAP study] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GSK KAP study]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/EPF - New Composite Declaration Forn 11.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/EPF - New Composite Declaration Forn 11.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Personal Information Form_ES_Direct Hire.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Personal Information Form_ES_Direct Hire.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/https.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/https.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/TBP-Malaysia.pdf] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/TBP-Malaysia.pdf]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Viatris GTN_Brazil Final report_15 Sep 2022 6PM.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Viatris GTN_Brazil Final report_15 Sep 2022 6PM.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Competitve intensity.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Competitve intensity.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Regression_Analysis_Mexico_Viatris_v1.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Regression_Analysis_Mexico_Viatris_v1.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Regression_Analysis_Mexico_Viatris_v1 (1).pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Regression_Analysis_Mexico_Viatris_v1 (1).pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Digital_Deck_Development.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Digital_Deck_Development.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Neuromodulation_Market_POV.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Neuromodulation_Market_POV.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Astellas_NM_Scoring.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Astellas_NM_Scoring.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Astellas_NM_Scoring (1).xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Astellas_NM_Scoring (1).xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Prevalence-numbers.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Prevalence-numbers.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Neuromodulation_Market_POV_7.10.22.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Neuromodulation_Market_POV_7.10.22.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Market_size_scoring.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Market_size_scoring.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/PoV Secondary Neuromodulation .xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/PoV Secondary Neuromodulation .xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Neuromodulation devices points.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Neuromodulation devices points.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/sec_personal_kushagra (version 1).xlsb.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/sec_personal_kushagra (version 1).xlsb.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Neuromodulation_Market_POV_7.10.22 (1).pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Neuromodulation_Market_POV_7.10.22 (1).pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-Sciatica-TPP-Secondary.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-Sciatica-TPP-Secondary.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-Sciatica-KOL-Quotations.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-Sciatica-KOL-Quotations.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-Treatment-Competition.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-Treatment-Competition.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-Secondary-Kushagra.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-Secondary-Kushagra.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-Products.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-Products.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Medicines_output_european_public_assessment_reports.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Medicines_output_european_public_assessment_reports.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi_MS_Sciatica_LegPain_Interview Tracker.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi_MS_Sciatica_LegPain_Interview Tracker.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi_MS_Sciatica_Info_Grid.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi_MS_Sciatica_Info_Grid.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi_MS_Sciatica_Info_Grid (1).xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi_MS_Sciatica_Info_Grid (1).xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/EVERSANA_MS  Sciatica_Showcards_20221220_vSh.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/EVERSANA_MS  Sciatica_Showcards_20221220_vSh.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-Sciatica-TPP-Secondary-MUIN-LT754.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-Sciatica-TPP-Secondary-MUIN-LT754.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Prevalence-numbers-MUIN-LT754.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Prevalence-numbers-MUIN-LT754.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Multiple Sclerosis and Sciatica - audio only.m4a] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Multiple Sclerosis and Sciatica - audio only.m4a]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Multiple Sclerosis and Sciatica - audio only.mp4] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Multiple Sclerosis and Sciatica - audio only.mp4]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Document.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Document.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionog-Sciatica-MS-KOL-Germany-20-12-2022-Interview.mp4] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionog-Sciatica-MS-KOL-Germany-20-12-2022-Interview.mp4]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-sciatica-ms-Transcript-germany-kol-techspert.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-sciatica-ms-Transcript-germany-kol-techspert.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-Sciatica-MS-KOL2-Techsp.mp4] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-Sciatica-MS-KOL2-Techsp.mp4]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-Sciatica-MS-Transcript-KOL2-Robert-US-21-12-2022.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-Sciatica-MS-Transcript-KOL2-Robert-US-21-12-2022.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GMT20221227-075721_Recording_1920x1080.mp4] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GMT20221227-075721_Recording_1920x1080.mp4]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GMT20221227-075721_Recording_1920x1080 - Copy.mp4] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GMT20221227-075721_Recording_1920x1080 - Copy.mp4]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-Sciatica-MS-Balashov-US-Techspert-TS.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-Sciatica-MS-Balashov-US-Techspert-TS.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Multiple-Sclerosis-and-Sciatica.mp4] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Multiple-Sclerosis-and-Sciatica.mp4]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-Sciatica-MS-Norbert-France-TS.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-Sciatica-MS-Norbert-France-TS.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/EVERSANA_MS  Sciatica_DG_Phase 2a_27Dec2022_vMarkedFor3-1-23-Interview.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/EVERSANA_MS  Sciatica_DG_Phase 2a_27Dec2022_vMarkedFor3-1-23-Interview.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Multiple-Sclerosis-and-Sciatica (1).mp4] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Multiple-Sclerosis-and-Sciatica (1).mp4]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-Sciatica-MS-UK-Francisco-TS.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-Sciatica-MS-UK-Francisco-TS.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/EVERSANA_MS  Sciatica_DG_Phase 2a_27Dec2022_vUS-Interview-4-1-23.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/EVERSANA_MS  Sciatica_DG_Phase 2a_27Dec2022_vUS-Interview-4-1-23.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/PPMS-SPMS-Future-Treatments.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/PPMS-SPMS-Future-Treatments.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Multiple-Sclerosis-and-Sciatica (2).mp4] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Multiple-Sclerosis-and-Sciatica (2).mp4]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-Darin-Okuda-US-TS.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-Darin-Okuda-US-TS.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/US-PMA.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/US-PMA.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/US-PMA-Lecture-Chronic-Pain-Products.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/US-PMA-Lecture-Chronic-Pain-Products.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi_MS_Sciatica_InfluenceDiagram.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi_MS_Sciatica_InfluenceDiagram.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi_MS_TreatmentAlgo_ProductXPreference.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi_MS_TreatmentAlgo_ProductXPreference.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi_MS_Sciatica_Product_Info.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi_MS_Sciatica_Product_Info.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Model-flow.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Model-flow.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi_Prevalence_Disc Herniation_Canal Stenosis_Spondylolisthesis.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi_Prevalence_Disc Herniation_Canal Stenosis_Spondylolisthesis.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/EVERSANA_MS  Sciatica_Showcards_Ph 2b.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/EVERSANA_MS  Sciatica_Showcards_Ph 2b.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-Chronic Leg Pain-Drug-Prices.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-Chronic Leg Pain-Drug-Prices.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi_MS & Sciatica_Forecast_220223.xlsm] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi_MS & Sciatica_Forecast_220223.xlsm]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Shionogi-MS-CLP-Followup Ques-17-03-23.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Shionogi-MS-CLP-Followup Ques-17-03-23.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/MSD_Affordability_Analysis.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/MSD_Affordability_Analysis.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Sun-pharma-25th-TS.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Sun-pharma-25th-TS.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/E Flow chart for E Nomination.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/E Flow chart for E Nomination.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Sun Pharma-Patient Journey-KOL responses.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Sun Pharma-Patient Journey-KOL responses.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/KAP slides.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/KAP slides.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/PAG President Interview 12th April_2023-04-12.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/PAG President Interview 12th April_2023-04-12.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GSK_HZ_Secondary.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GSK_HZ_Secondary.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Consulting_Project Review for Analyst 2020_Kushagra Sharma_Astellas Neuromodulation_CD_255.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Consulting_Project Review for Analyst 2020_Kushagra Sharma_Astellas Neuromodulation_CD_255.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Consulting_Project Review for Analyst 2020_Kushagra Sharma_Shionogi MS & Sciatica_CD_280.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Consulting_Project Review for Analyst 2020_Kushagra Sharma_Shionogi MS & Sciatica_CD_280.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Consulting_Project Review for Analyst 2020_Kushagra Sharma_Project Name_Project Code.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Consulting_Project Review for Analyst 2020_Kushagra Sharma_Project Name_Project Code.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Consulting_Project Review for Analysts_Kushagra Sharma_Sun Pharma_Patient Journey_CD_304.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Consulting_Project Review for Analysts_Kushagra Sharma_Sun Pharma_Patient Journey_CD_304.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Consulting_Project Review for Analyst 2020_Kushagra_Sharma_CID_CC_Sept.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Consulting_Project Review for Analyst 2020_Kushagra_Sharma_CID_CC_Sept.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Consulting_Project Review for Analyst 2023_Kushagra Sharma_Shionogi MS & Sciatica_CD_280_v2.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Consulting_Project Review for Analyst 2023_Kushagra Sharma_Shionogi MS & Sciatica_CD_280_v2.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Consulting_Project Review_2022_Kushagra Sharma__CID_CC_Sept_CD_246.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Consulting_Project Review_2022_Kushagra Sharma__CID_CC_Sept_CD_246.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Kushagra Sharma_Annual Review Form_Fin Year 2022 _All Consultants_ 2023.xls] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Kushagra Sharma_Annual Review Form_Fin Year 2022 _All Consultants_ 2023.xls]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Astellas_Neuromod_Final Report_30Dec2022_vF.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Astellas_Neuromod_Final Report_30Dec2022_vF.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Benchmarking Requirements Brazil May 2022-30052022 IC v0.5.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Benchmarking Requirements Brazil May 2022-30052022 IC v0.5.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Viatris GTN and AP benchmarking_Mexico_7Sep2022_vF - Copy.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Viatris GTN and AP benchmarking_Mexico_7Sep2022_vF - Copy.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Viatris GTN and AP benchmarking_Mexico_7Sep2022_vF.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Viatris GTN and AP benchmarking_Mexico_7Sep2022_vF.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Viatris GTN_Brazil Final report_6 Sep 2022.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Viatris GTN_Brazil Final report_6 Sep 2022.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Competitve intensity (1).xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Competitve intensity (1).xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Regression_Analysis_Mexico_Viatris_v1 (2).pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Regression_Analysis_Mexico_Viatris_v1 (2).pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GSK-KAP Study-Japan-Pt-Jrny.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GSK-KAP Study-Japan-Pt-Jrny.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GSK_KAP_KOREA_SEC.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GSK_KAP_KOREA_SEC.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/EVERSANA_HZ_KAP_Study_260523.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/EVERSANA_HZ_KAP_Study_260523.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Godfrey.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Godfrey.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/EVERSANA_Sun Pharma_Psoriasis Patient Joureny_Final Report_28 April vShared (003).pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/EVERSANA_Sun Pharma_Psoriasis Patient Joureny_Final Report_28 April vShared (003).pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/sun pharma.pptx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/sun pharma.pptx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GSK_KAP_GAPS.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GSK_KAP_GAPS.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/Sun-Pharma-Patient-Journey-Profiles-Data.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/Sun-Pharma-Patient-Journey-Profiles-Data.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GSK_KAP Study_Preferred Hospitals.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GSK_KAP Study_Preferred Hospitals.xlsx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/GSK_Comorbitiies.docx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/GSK_Comorbitiies.docx]
+
+Moving file [/personal/kushagra_sharma_eversana_com/Documents/KAP_Compiled.xlsx] into folder [/personal/kushagra_sharma_eversana_com/Documents/TERM-20230829-KUSHAGRA.SHARMA/KAP_Compiled.xlsx]
+
+Adding user [viji.alwan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [viji.alwan@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [laure.fourrier@eversana.com] whose manager is [Tancredi.Fichera@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/laure_fourrier_eversana_com]
+
+Adding folder [TERM-20230829-LAURE.FOURRIER] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [Tancredi.Fichera@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Tancredi.Fichera@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [isaac.bencomo@eversana.com] whose manager is [Tancredi.Fichera@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/isaac_bencomo_eversana_com]
+
+Adding folder [TERM-20230829-ISAAC.BENCOMO] in /Documents directory
+
+Moving folder [Documents/preparation material by Deciphera] into TERM folder.
+
+Cannot move folder [TERM-20230829-ISAAC.BENCOMO] as it does not exist.
+
+Moving folder [Documents/BeiGene] into TERM folder.
+
+Moving folder [Documents/TR] into TERM folder.
+
+Moving folder [Documents/Global Support] into TERM folder.
+
+Cannot move folder [TERM-20230829-ISAAC.BENCOMO] as it does not exist.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/IB03282023_!] into TERM folder.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Attachments]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Notebooks]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/OneNote_RecycleBin]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/CO.Docs.Transition]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Microsoft Teams Chat Files]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/CO.IB]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Deciphera]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Excel.Analogues] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Excel.Analogues]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Excel.Analogues] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/country resources]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/Slidedeck.template] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Slidedeck.template]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/References.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/BeiGene] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/BeiGene]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Almirall] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Almirall]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/preparation material by Deciphera] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/preparation material by Deciphera]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Documents]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Office Scripts] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Office Scripts]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Office Scripts] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/TERM-20230129-ISAAC.BENCOMO]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Snagit] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Snagit]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Snagit] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Snagit/Program] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Program]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Snagit/Program] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Custom Office Templates] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Custom Office Templates]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Custom Office Templates] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/Global Support] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Global Support]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/My Data Sources] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/My Data Sources]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/My Data Sources] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/New Employee Onboarding - Oct 2022 - UK.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/New Employee Onboarding - Oct 2022 - UK.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/New Employee Onboarding - Oct 2022 - UK.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/20220927_NAVLIN_Business.Update (Data & Software).pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/20220927_NAVLIN_Business.Update (Data & Software).pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/20220927_NAVLIN_Business.Update (Data & Software).pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/PMA - Notes; Onboarding]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/PMA - Notes; Onboarding .onetoc2] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/PMA - Notes; Onboarding .onetoc2]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/PMA - Notes; Onboarding .onetoc2] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/Onboarding.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Onboarding.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/Onboarding.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin/New Section 2.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/New Section 2.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin/New Section 2.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin/Open Notebook.onetoc2] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Open Notebook.onetoc2]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin/Open Notebook.onetoc2] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin/OneNote_DeletedPages.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/OneNote_DeletedPages.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin/OneNote_DeletedPages.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/FR Exec Summary.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/FR Exec Summary.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/FR Exec Summary.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/PNR Landscape.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/PNR Landscape.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/PNR Landscape.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/PNR Mechanisms.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/PNR Mechanisms.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/PNR Mechanisms.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Navlin LoE April 2022.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Navlin LoE April 2022.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Navlin LoE April 2022.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Biosimilar Pricing Trends 2021 vs 2022.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Biosimilar Pricing Trends 2021 vs 2022.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Biosimilar Pricing Trends 2021 vs 2022.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Navlin- Global IRP Rules- September 2022.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Navlin- Global IRP Rules- September 2022.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Navlin- Global IRP Rules- September 2022.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/PNR Flowcharts.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/PNR Flowcharts.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/PNR Flowcharts.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files/Biosimilar Pricing Trends 2021 vs 2022.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Biosimilar Pricing Trends 2021 vs 2022.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files/Biosimilar Pricing Trends 2021 vs 2022.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files/Navlin LoE April 2022.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Navlin LoE April 2022.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files/Navlin LoE April 2022.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/anchor point.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/anchor point.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/anchor point.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/Country Overview Structure version.2.FR.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Country Overview Structure version.2.FR.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/Country Overview Structure version.2.FR.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/CO Structures .xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/CO Structures .xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/CO Structures .xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/LoE Rules.EU5.Template.V1.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/LoE Rules.EU5.Template.V1.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/LoE Rules.EU5.Template.V1.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/Other Pricing Mechanisms.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Other Pricing Mechanisms.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/Other Pricing Mechanisms.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/IRP Rules.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/IRP Rules.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/IRP Rules.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Country.Overview.Notes.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Country.Overview.Notes.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Country.Overview.Notes.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/Global.Reference.Library.V1.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Global.Reference.Library.V1.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/Global.Reference.Library.V1.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin/Country Overview Layout V2.one] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Country Overview Layout V2.one]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Notebooks/PMA - Notes; Onboarding/OneNote_RecycleBin/Country Overview Layout V2.one] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/IBB21LSE.IB.GB.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/IBB21LSE.IB.GB.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/IBB21LSE.IB.GB.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/CO.Project.IB.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/CO.Project.IB.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/CO.Project.IB.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/CO.Timeline.V1.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/CO.Timeline.V1.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/CO.Timeline.V1.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/5-10-22_EVERSANA_PPT_Template.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/5-10-22_EVERSANA_PPT_Template.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/5-10-22_EVERSANA_PPT_Template.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Platform - Outline.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Platform - Outline.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.IB/Platform - Outline.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/Timesheet.template.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Timesheet.template.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/Timesheet.template.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/CO.Timeline.V1.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/CO.Timeline.V1.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/CO.Timeline.V1.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/Internal Resources_Access Information_2021.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Internal Resources_Access Information_2021.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/Internal Resources_Access Information_2021.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/2022.08 In-Scope Countries Deep-dive.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/2022.08 In-Scope Countries Deep-dive.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/2022.08 In-Scope Countries Deep-dive.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/4SC-Eversana  Resminostat Final Report - 10252022.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/4SC-Eversana  Resminostat Final Report - 10252022.pdf]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources/chile .docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/chile .docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources/chile .docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/PowerPoint Training 101 October 2022.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/PowerPoint Training 101 October 2022.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/PowerPoint Training 101 October 2022.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources/ARG.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/ARG.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources/ARG.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources/mexico.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/mexico.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources/mexico.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Excel.Analogues/NAVLIN - historical_cot -Cross.check.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/NAVLIN - historical_cot -Cross.check.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Excel.Analogues/NAVLIN - historical_cot -Cross.check.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Excel.Analogues/NAVLIN - historical_cot - 2022-11-21 (EVERSANA (HTA)) (8).xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/NAVLIN - historical_cot - 2022-11-21 (EVERSANA (HTA)) (8).xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Excel.Analogues/NAVLIN - historical_cot - 2022-11-21 (EVERSANA (HTA)) (8).xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources/SaudiArabiaPNR.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/SaudiArabiaPNR.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/country resources/SaudiArabiaPNR.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/Slidedeck.template/Eversana - Template HTA Tracking RFP. 07.11.2022.IB.edits VTF.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Eversana - Template HTA Tracking RFP. 07.11.2022.IB.edits VTF.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/Slidedeck.template/Eversana - Template HTA Tracking RFP. 07.11.2022.IB.edits VTF.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/Slidedeck.template/5-10-22_EVERSANA_PPT_Template.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/5-10-22_EVERSANA_PPT_Template.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/Slidedeck.template/5-10-22_EVERSANA_PPT_Template.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/south.africa .docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/south.africa .docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/south.africa .docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/chile .docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/chile .docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/chile .docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/mexico.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/mexico.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/mexico.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/india.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/india.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/india.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/ARG.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/ARG.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/ARG.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/The Life Sciences Law Review ARG- The Law Reviews.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/The Life Sciences Law Review ARG- The Law Reviews.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/The Life Sciences Law Review ARG- The Law Reviews.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/View of Medicines regulation, pricing and reimbursement in Brazil.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/View of Medicines regulation, pricing and reimbursement in Brazil.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/View of Medicines regulation, pricing and reimbursement in Brazil.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/SaudiArabiaPNR.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/SaudiArabiaPNR.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/SaudiArabiaPNR.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/The-Pharma-Legal-Handbook-Mexico-2021-PharmaBoardroom-preview.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/The-Pharma-Legal-Handbook-Mexico-2021-PharmaBoardroom-preview.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/The-Pharma-Legal-Handbook-Mexico-2021-PharmaBoardroom-preview.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/use-price-regulation-for-medical-devices-Landscape-analysis-Brazil-China-Germany-India-USA.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/use-price-regulation-for-medical-devices-Landscape-analysis-Brazil-China-Germany-India-USA.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/use-price-regulation-for-medical-devices-Landscape-analysis-Brazil-China-Germany-India-USA.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/USA.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/USA.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/USA.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Pricing-and-Reimbursement-in-Brazil_04.30.20-V2.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Pricing-and-Reimbursement-in-Brazil_04.30.20-V2.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Pricing-and-Reimbursement-in-Brazil_04.30.20-V2.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/PLH_MEXICO-Updated-May-2021-1.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/PLH_MEXICO-Updated-May-2021-1.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/PLH_MEXICO-Updated-May-2021-1.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Japan_Drug_Pricing_Special_Report.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Japan_Drug_Pricing_Special_Report.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Japan_Drug_Pricing_Special_Report.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Early_access_routes_in_Latin_America_2019_Issue_2_Article_5.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Early_access_routes_in_Latin_America_2019_Issue_2_Article_5.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Early_access_routes_in_Latin_America_2019_Issue_2_Article_5.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/EAP-Country-Specific-Nomenclature-for-Expanded-Access-Programs.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/EAP-Country-Specific-Nomenclature-for-Expanded-Access-Programs.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/EAP-Country-Specific-Nomenclature-for-Expanded-Access-Programs.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/colombia.IOL.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/colombia.IOL.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/colombia.IOL.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/CM-Section-21-Application-Form.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/CM-Section-21-Application-Form.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/CM-Section-21-Application-Form.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/BeiGene/Beigene - Brukinsa Global PMR project proposal  .pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Beigene - Brukinsa Global PMR project proposal  .pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/BeiGene/Beigene - Brukinsa Global PMR project proposal  .pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Brazil_HTA_01.09.2020.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Brazil_HTA_01.09.2020.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Brazil_HTA_01.09.2020.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Brazil.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Brazil.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Brazil.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/AnoverviewaboutRareDiseaseinSaudiArabiaandReimbursementofOrphanDrugs.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/AnoverviewaboutRareDiseaseinSaudiArabiaandReimbursementofOrphanDrugs.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/AnoverviewaboutRareDiseaseinSaudiArabiaandReimbursementofOrphanDrugs.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Legal.pharma.book.japan.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Legal.pharma.book.japan.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/Legal.pharma.book.japan.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/SAPHRA_Access_to_Unregistered_Medicines_Aug21_v3.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/SAPHRA_Access_to_Unregistered_Medicines_Aug21_v3.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/References.pdf/SAPHRA_Access_to_Unregistered_Medicines_Aug21_v3.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Almirall/ALMIRALL-GVD-Skilarence-FV-April2017.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/ALMIRALL-GVD-Skilarence-FV-April2017.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Almirall/ALMIRALL-GVD-Skilarence-FV-April2017.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Excel.Analogues/NAVLIN - historical_cot -Reimb.Cross.check.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/NAVLIN - historical_cot -Reimb.Cross.check.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Excel.Analogues/NAVLIN - historical_cot -Reimb.Cross.check.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/I&P-GIST.IB.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/I&P-GIST.IB.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/I&P-GIST.IB.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/I&P-GIST.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/I&P-GIST.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/I&P-GIST.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Potential List of Questions for KEE.docx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Potential List of Questions for KEE.docx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Deciphera/Potential List of Questions for KEE.docx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/Book4.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Book4.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/Book4.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files/Web capture_26-12-2022_131159_visas-immigration.service.gov.uk.jpeg] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Web capture_26-12-2022_131159_visas-immigration.service.gov.uk.jpeg]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files/Web capture_26-12-2022_131159_visas-immigration.service.gov.uk.jpeg] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files/Loop task list.fluid] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Loop task list.fluid]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Microsoft Teams Chat Files/Loop task list.fluid] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/out-of-pocket-expenditure-per-capita-on-healthcare.csv] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/out-of-pocket-expenditure-per-capita-on-healthcare.csv]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/out-of-pocket-expenditure-per-capita-on-healthcare.csv] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Snagit/EditorOverview.snag] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/EditorOverview.snag]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/Snagit/EditorOverview.snag] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/Pictures - Shortcut.lnk] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Pictures - Shortcut.lnk]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/CO.Docs.Transition/Pictures - Shortcut.lnk] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/NAVLIN - COT - 2023-05-19 (EVERSANA (HTA)) (1).xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/NAVLIN - COT - 2023-05-19 (EVERSANA (HTA)) (1).xlsx]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/FINAL.NAVLIN - COT - 2023-05-19 (EVERSANA (HTA)) (3) 2023-05-22 00_00_27.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/FINAL.NAVLIN - COT - 2023-05-19 (EVERSANA (HTA)) (3) 2023-05-22 00_00_27.xlsx]
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/20230523_Tisle GPP_Key.slides_Draft.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/20230523_Tisle GPP_Key.slides_Draft.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/20230523_Tisle GPP_Key.slides_Draft.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/My Data Sources/FOLDER.ICO] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/FOLDER.ICO]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/My Data Sources/FOLDER.ICO] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/My Data Sources/+NewSQLServerConnection.odc] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/+NewSQLServerConnection.odc]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/My Data Sources/+NewSQLServerConnection.odc] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/My Data Sources/+Connect to New Data Source.odc] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/+Connect to New Data Source.odc]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Documents/My Data Sources/+Connect to New Data Source.odc] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/evidence pack available for PMR.eml] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/evidence pack available for PMR.eml]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/evidence pack available for PMR.eml] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/Copy of Copy of BeiGene_PR Tracker_template_APAC.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/Copy of Copy of BeiGene_PR Tracker_template_APAC.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/Copy of Copy of BeiGene_PR Tracker_template_APAC.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/JCC Tislelizumab Launch Preparation_05012023 -Dicla.pdf] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/JCC Tislelizumab Launch Preparation_05012023 -Dicla.pdf]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/JCC Tislelizumab Launch Preparation_05012023 -Dicla.pdf] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/202306116_BeiGene_NM_PR_Tracker.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/202306116_BeiGene_NM_PR_Tracker.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/202306116_BeiGene_NM_PR_Tracker.xlsx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/20230623_BeiGene Global Pricing Terminology_IB.pptx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/20230623_BeiGene Global Pricing Terminology_IB.pptx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/20230623_BeiGene Global Pricing Terminology_IB.pptx] as it does not exist.
+
+Moving file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/IRP Phase 1 + EU Tier 2 + Other.xlsx] into folder [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230829-ISAAC.BENCOMO/IRP Phase 1 + EU Tier 2 + Other.xlsx]
+
+Cannot move file [/personal/isaac_bencomo_eversana_com/Documents/TERM-20230129-ISAAC.BENCOMO/Attachments/IRP Phase 1 + EU Tier 2 + Other.xlsx] as it does not exist.
+
+Adding user [Tancredi.Fichera@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Tancredi.Fichera@eversana.com]
+
+Processing OneDrive Delegation for delegate [aditi.parihar@eversana.com] whose manager is [michelle.pereira@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/aditi_parihar_eversana_com]
+
+Adding folder [TERM-20230829-ADITI.PARIHAR] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Aditi @ Eversana] into TERM folder.
+
+Moving file [/personal/aditi_parihar_eversana_com/Documents/Exit Formalities- Clearance Certificate- Aditi Singh Parihar.doc] into folder [/personal/aditi_parihar_eversana_com/Documents/TERM-20230829-ADITI.PARIHAR/Exit Formalities- Clearance Certificate- Aditi Singh Parihar.doc]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [erica.sanks@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/erica_sanks_eversana_com]
+
+Adding folder [TERM-20230829-ERICA.SANKS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [naima.hasan@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/naima_hasan_eversana_com]
+
+Adding folder [TERM-20230829-NAIMA.HASAN] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

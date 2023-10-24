@@ -1,0 +1,193 @@
+Content-type: text/html
+
+<HTML>
+<HEAD>
+<link rel='stylesheet' href='http://iuatidmgmtapp01/css/UserModStyles.css'>
+<script LANGUAGE=JAVASCRIPT src='http://iuatidmgmtapp01/js/functions.js'></script>
+</head>
+<BODY onLoad='UpdateUserSettings()' bgcolor='#0F0141'>
+<FORM id='ModifyUsersRole' METHOD='POST' ACTION='/cgi-bin/HousekeepingScripts/CreateModifyUserAttributesPage.pl'>
+<table width='100%' border='0'>
+<tr><th><p class='TitleSmallWhite'>This section allows for the update or deletion of registered user accounts.</p></th></tr>
+<tr><th><p class='TitleSmallWhite'>To change settings for either application roles or user access, simply click</p></th></tr>
+<tr><th><p class='TitleSmallWhite'>on the check box values associated with a users name. These changes will </p></th></tr>
+<tr><th><p class='TitleSmallWhite'>then be reflected within the website immediately after a selection is clicked.</p></th></tr>
+</table>
+<br>
+<table width='100%' border='0'>
+<tr>
+<td width='32%'>&nbsp</td>
+<td width='30%'><p class='ModifyRoleAssignmentHeader'>Modify Role Assignments for Each User Below</p></td>
+<td width='4.5%'>&nbsp</td>
+<td width='16%'><p class='ModifyRoleAssignmentHeader'>Modify User Access</p></td>
+<td width='17.5%'>&nbsp</td>
+</table>
+<table width='100%' border='0'>
+<tr>
+<td width='7%'>&nbsp</td>
+<td width='13%'><p class='Heading'>Name</p></td>
+<td width='9%'><p class='Heading'>Registered</p></td>
+<td width='12%'><p class='Heading'>One-Drive Delegate</p></td>
+<td width='12%'><p class='Heading'>AD Account Creation</p></td>
+<td width='12%'><p class='Heading'>Terminate Associate</p></td>
+<td width='9%'><p class='Heading'>Authorized</p></td>
+<td width='9%'><p class='Heading'>Admin Access</p></td>
+<td width='9%'><p class='Heading'>Delete User</p></td>
+<td width='8%'>&nbsp</td>
+</tr>
+</table>
+<table width='100%' border='0'>
+<tr>
+<td width='3%'>
+<input id='EmpID1' name='EmpID1' type='text' value='103257' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+</td>
+<td width='4%'>
+<input id='Name1' name='Name1' type='text' value='Dave Jaynes' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+<td width='13%'><p class='Detail'>Dave Jaynes</p></td>
+<td width='9%'><p class='Detail'>Yes</p></td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ODDAccessLevel1' id='ODDAccessLevel1' checked onChange='UpdateUserSettings()'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ADACAccessLevel1' id='ADACAccessLevel1' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='TERMAccessLevel1' id='TERMAccessLevel1' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='Authorized1' id='Authorized1' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='AdminAccess1' id='AdminAccess1' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='radio' name='deleteuser1' id='deleteuser1' value='103257' onChange='ModifyUsersRoles(1)'>
+</td>
+<td width='8%'>&nbsp</td>
+</tr>
+<tr>
+<td width='3%'>
+<input id='EmpID2' name='EmpID2' type='text' value='101971' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+</td>
+<td width='4%'>
+<input id='Name2' name='Name2' type='text' value='Nicole Bartelt' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+<td width='13%'><p class='Detail'>Nicole Bartelt</p></td>
+<td width='9%'><p class='Detail'>Yes</p></td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ODDAccessLevel2' id='ODDAccessLevel2' checked onChange='UpdateUserSettings()'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ADACAccessLevel2' id='ADACAccessLevel2' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='TERMAccessLevel2' id='TERMAccessLevel2' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='Authorized2' id='Authorized2' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='AdminAccess2' id='AdminAccess2' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='radio' name='deleteuser2' id='deleteuser2' value='101971' onChange='ModifyUsersRoles(2)'>
+</td>
+<td width='8%'>&nbsp</td>
+</tr>
+<tr>
+<td width='3%'>
+<input id='EmpID3' name='EmpID3' type='text' value='120441' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+</td>
+<td width='4%'>
+<input id='Name3' name='Name3' type='text' value='ReddiRani TR' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+<td width='13%'><p class='Detail'>ReddiRani TR</p></td>
+<td width='9%'><p class='Detail'>Yes</p></td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ODDAccessLevel3' id='ODDAccessLevel3' checked onChange='UpdateUserSettings()'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ADACAccessLevel3' id='ADACAccessLevel3' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='TERMAccessLevel3' id='TERMAccessLevel3' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='Authorized3' id='Authorized3' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='AdminAccess3' id='AdminAccess3' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='radio' name='deleteuser3' id='deleteuser3' value='120441' onChange='ModifyUsersRoles(3)'>
+</td>
+<td width='8%'>&nbsp</td>
+</tr>
+<tr>
+<td width='3%'>
+<input id='EmpID4' name='EmpID4' type='text' value='120405' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+</td>
+<td width='4%'>
+<input id='Name4' name='Name4' type='text' value='Sweety Panpatte' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+<td width='13%'><p class='Detail'>Sweety Panpatte</p></td>
+<td width='9%'><p class='Detail'>Yes</p></td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ODDAccessLevel4' id='ODDAccessLevel4' checked onChange='UpdateUserSettings()'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ADACAccessLevel4' id='ADACAccessLevel4' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='TERMAccessLevel4' id='TERMAccessLevel4' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='Authorized4' id='Authorized4' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='AdminAccess4' id='AdminAccess4' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='radio' name='deleteuser4' id='deleteuser4' value='120405' onChange='ModifyUsersRoles(4)'>
+</td>
+<td width='8%'>&nbsp</td>
+</tr>
+<tr>
+<td width='3%'>
+<input id='EmpID5' name='EmpID5' type='text' value='103882' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+</td>
+<td width='4%'>
+<input id='Name5' name='Name5' type='text' value='Ted Schuette' style='color:#0F0141; background-color#0F0141; border: none; border-color: transparent;width: 1px'>
+</td>
+<td width='13%'><p class='Detail'>Ted Schuette</p></td>
+<td width='9%'><p class='Detail'>Yes</p></td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ODDAccessLevel5' id='ODDAccessLevel5' checked onChange='UpdateUserSettings()'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='ADACAccessLevel5' id='ADACAccessLevel5' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='12%' align='center'>
+<input type='checkbox' name='TERMAccessLevel5' id='TERMAccessLevel5' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='Authorized5' id='Authorized5' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='checkbox' name='AdminAccess5' id='AdminAccess5' checked onChange='UpdateUserSettings();'>
+</td>
+<td width='9%' align='center'>
+<input type='radio' name='deleteuser5' id='deleteuser5' value='103882' onChange='ModifyUsersRoles(5)'>
+</td>
+<td width='8%'>&nbsp</td>
+</tr>
+</table>
+</form>
+</body>
+</html>

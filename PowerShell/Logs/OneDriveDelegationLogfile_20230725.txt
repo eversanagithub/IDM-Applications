@@ -1,0 +1,456 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 25, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [aniya.carter@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/aniya_carter_eversana_com]
+
+Adding folder [TERM-20230725-ANIYA.CARTER] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [aniya.carter@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/aniya_carter_eversana_com]
+
+Adding folder [TERM-20230725-ANIYA.CARTER] in /Documents directory
+
+Main Folder [TERM-20230725-ANIYA.CARTER] already exists --- will not recreate it
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Processing OneDrive Delegation for delegate [ariagn.mccloud@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ariagn_mccloud_eversana_com]
+
+Adding folder [TERM-20230725-ARIAGN.MCCLOUD] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Ariagn @ EVERSANA] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [austin.caudill@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/austin_caudill_eversana_com]
+
+Adding folder [TERM-20230725-AUSTIN.CAUDILL] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [myra.king@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/myra_king_eversana_com]
+
+Adding folder [TERM-20230725-MYRA.KING] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Myra @ EVERSANA] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [marissa.cross@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/marissa_cross_eversana_com]
+
+Adding folder [TERM-20230725-MARISSA.CROSS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving folder [Documents/Marissa @ EVERSANA] into TERM folder.
+
+Moving file [/personal/marissa_cross_eversana_com/Documents/Lilly Role Overview marissa cross.docx] into folder [/personal/marissa_cross_eversana_com/Documents/TERM-20230725-MARISSA.CROSS/Lilly Role Overview marissa cross.docx]
+
+Moving file [/personal/marissa_cross_eversana_com/Documents/New Hire PW Sheet.docx] into folder [/personal/marissa_cross_eversana_com/Documents/TERM-20230725-MARISSA.CROSS/New Hire PW Sheet.docx]
+
+Moving file [/personal/marissa_cross_eversana_com/Documents/Lilly Quiz.docx] into folder [/personal/marissa_cross_eversana_com/Documents/TERM-20230725-MARISSA.CROSS/Lilly Quiz.docx]
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [maranda.scott@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/maranda_scott_eversana_com]
+
+Adding folder [TERM-20230725-MARANDA.SCOTT] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Maranda @ EVERSANA] into TERM folder.
+
+Moving file [/personal/maranda_scott_eversana_com/Documents/OCR.docx] into folder [/personal/maranda_scott_eversana_com/Documents/TERM-20230725-MARANDA.SCOTT/OCR.docx]
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [maranda.scott@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/maranda_scott_eversana_com]
+
+Adding folder [TERM-20230725-MARANDA.SCOTT] in /Documents directory
+
+Main Folder [TERM-20230725-MARANDA.SCOTT] already exists --- will not recreate it
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Processing OneDrive Delegation for delegate [cathy.williams@eversana.com] whose manager is [joy.dunaway@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/cathy_williams_eversana_com]
+
+Adding folder [TERM-20230725-CATHY.WILLIAMS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/cathy_williams_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (3).docx] into folder [/personal/cathy_williams_eversana_com/Documents/TERM-20230725-CATHY.WILLIAMS/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (3).docx]
+
+Moving file [/personal/cathy_williams_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (1).docx] into folder [/personal/cathy_williams_eversana_com/Documents/TERM-20230725-CATHY.WILLIAMS/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (1).docx]
+
+Moving file [/personal/cathy_williams_eversana_com/Documents/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0 (5).docx] into folder [/personal/cathy_williams_eversana_com/Documents/TERM-20230725-CATHY.WILLIAMS/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0 (5).docx]
+
+Moving file [/personal/cathy_williams_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (1) (1).docx] into folder [/personal/cathy_williams_eversana_com/Documents/TERM-20230725-CATHY.WILLIAMS/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (1) (1).docx]
+
+Moving file [/personal/cathy_williams_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (1) (1) (1).docx] into folder [/personal/cathy_williams_eversana_com/Documents/TERM-20230725-CATHY.WILLIAMS/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0 (1) (1) (1).docx]
+
+Moving file [/personal/cathy_williams_eversana_com/Documents/Programs Open for Day.docx] into folder [/personal/cathy_williams_eversana_com/Documents/TERM-20230725-CATHY.WILLIAMS/Programs Open for Day.docx]
+
+Moving file [/personal/cathy_williams_eversana_com/Documents/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0 (12).docx] into folder [/personal/cathy_williams_eversana_com/Documents/TERM-20230725-CATHY.WILLIAMS/CJA-5-35d-NVN_Affordability Options - Novo Nordisk Rev 81.0 (12).docx]
+
+Adding user [joy.dunaway@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [joy.dunaway@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [cathy.williams@eversana.com] whose manager is [joy.dunaway@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/cathy_williams_eversana_com]
+
+Adding folder [TERM-20230725-CATHY.WILLIAMS] in /Documents directory
+
+Main Folder [TERM-20230725-CATHY.WILLIAMS] already exists --- will not recreate it
+
+Adding user [joy.dunaway@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [joy.dunaway@eversana.com]
+
+Processing OneDrive Delegation for delegate [kristen.larson@eversana.com] whose manager is [Stephanie.Newton@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kristen_larson_eversana_com]
+
+Adding folder [TERM-20230725-KRISTEN.LARSON] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [Stephanie.Newton@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Stephanie.Newton@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kristen.larson@eversana.com] whose manager is [Stephanie.Newton@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kristen_larson_eversana_com]
+
+Adding folder [TERM-20230725-KRISTEN.LARSON] in /Documents directory
+
+Main Folder [TERM-20230725-KRISTEN.LARSON] already exists --- will not recreate it
+
+Adding user [Stephanie.Newton@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Stephanie.Newton@eversana.com]
+
+Processing OneDrive Delegation for delegate [taariq.naseer@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/taariq_naseer_eversana_com]
+
+Adding folder [TERM-20230725-TAARIQ.NASEER] in /Documents directory
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Taariq @ EVERSANA] into TERM folder.
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/AE00001245.docx] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/AE00001245.docx]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/Copy of Mounjaro Deactivation.xlsx] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/Copy of Mounjaro Deactivation.xlsx]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/Training checklist and timeline_.docx] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/Training checklist and timeline_.docx]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/favorites_3_3_23.html] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/favorites_3_3_23.html]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/Microsoft Edge Passwords.csv] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/Microsoft Edge Passwords.csv]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/Agent Call Calibration Kari Barnhart February #2 (AutoRecovered).docx] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/Agent Call Calibration Kari Barnhart February #2 (AutoRecovered).docx]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/AE Fax Form (20) (AutoRecovered).doc] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/AE Fax Form (20) (AutoRecovered).doc]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/Good Day.docx] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/Good Day.docx]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/AE Fax Form (20) (AutoRecovered) (AutoRecovered).doc] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/AE Fax Form (20) (AutoRecovered) (AutoRecovered).doc]
+
+Moving file [/personal/taariq_naseer_eversana_com/Documents/AE Fax Form.doc] into folder [/personal/taariq_naseer_eversana_com/Documents/TERM-20230725-TAARIQ.NASEER/AE Fax Form.doc]
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kaeton.odeneal@eversana.com] whose manager is [katema.adriyel@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kaeton_odeneal_eversana_com]
+
+Adding folder [TERM-20230725-KAETON.ODENEAL] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Catering Folder] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Bathroom Code] into TERM folder.
+
+Moving folder [Documents/CHI Winter Party 2022] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/OneNote Uploads] into TERM folder.
+
+Moving folder [Documents/OneNote+Uploads] into TERM folder.
+
+Moving folder [Documents/kaeton @ Work] into TERM folder.
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Travel Profile.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Travel Profile.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Notes from Systems Meeting.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Notes from Systems Meeting.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/24th floor to do list.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/24th floor to do list.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Agenda 3-23.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Agenda 3-23.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/I&D Glossary.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/I&D Glossary.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/New Hire List.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/New Hire List.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/New Hire List (1).xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/New Hire List (1).xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Mary's Parent Email.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Mary's Parent Email.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/IMPACT@Intouch - Giving Tuesday Plan.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/IMPACT@Intouch - Giving Tuesday Plan.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Impact at Intouch - Giving Tuesday Scavenger Hunt.pptx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Impact at Intouch - Giving Tuesday Scavenger Hunt.pptx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Sample Office Supplies List.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Sample Office Supplies List.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Office Supply Request Sheet.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Office Supply Request Sheet.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Recent Activity 04.12.21 -  NYC.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Recent Activity 04.12.21 -  NYC.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Recent Activity 04.12.21.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Recent Activity 04.12.21.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Homecoming.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Homecoming.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Recent Activity 07.19.21 - NYC.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Recent Activity 07.19.21 - NYC.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Shauntay's Copy of July Statements.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Shauntay's Copy of July Statements.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/08-16 Activity.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/08-16 Activity.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/report-2021-09-27T1145.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/report-2021-09-27T1145.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/RSVP List for Pep Rally.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/RSVP List for Pep Rally.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Office Favorites for Catering.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Office Favorites for Catering.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Products from Crafty on the Decline.pptx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Products from Crafty on the Decline.pptx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Assigned Desks and Offices.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Assigned Desks and Offices.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/SF Bars to Call.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/SF Bars to Call.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Krista.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Krista.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/I grew up on a farm and had a pet possum.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/I grew up on a farm and had a pet possum.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/General_Conflict Policy_Integration slides.pptx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/General_Conflict Policy_Integration slides.pptx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/How to Navigate New Hire and Transfer Tracking Form.pptx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/How to Navigate New Hire and Transfer Tracking Form.pptx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/ComplianceWire_ Intouch Test matrix_2.6.23.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/ComplianceWire_ Intouch Test matrix_2.6.23.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/03-15-23 New Hire Tracking Form.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/03-15-23 New Hire Tracking Form.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/03-15-23 Transfer Tracking Form.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/03-15-23 Transfer Tracking Form.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/03-21-23 Transfer Tracking Form.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/03-21-23 Transfer Tracking Form.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/03-21-23.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/03-21-23.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/04-06-23 Transfer Tracking Form.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/04-06-23 Transfer Tracking Form.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Anniversary Dates.xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Anniversary Dates.xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Anniversary Dates (002).xlsx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Anniversary Dates (002).xlsx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Response to Performance Improvement Plan.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Response to Performance Improvement Plan.docx]
+
+Moving file [/personal/kaeton_odeneal_eversana_com/Documents/Next Steps for Kaeton.docx] into folder [/personal/kaeton_odeneal_eversana_com/Documents/TERM-20230725-KAETON.ODENEAL/Next Steps for Kaeton.docx]
+
+Adding user [katema.adriyel@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [katema.adriyel@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [tanisja.ross@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/tanisja_ross_eversana_com]
+
+Adding folder [TERM-20230725-TANISJA.ROSS] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

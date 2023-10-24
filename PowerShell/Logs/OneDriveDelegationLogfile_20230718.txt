@@ -1,0 +1,420 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 18, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [adi.paladugu@eversana.com] whose manager is [doug.rimerman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/adi_paladugu_eversana_com]
+
+Adding folder [TERM-20230718-ADI.PALADUGU] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/adi_paladugu_eversana_com/Documents/Settings - Customize profile.html] into folder [/personal/adi_paladugu_eversana_com/Documents/TERM-20230718-ADI.PALADUGU/Settings - Customize profile.html]
+
+Adding user [doug.rimerman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [doug.rimerman@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jim.scott@eversana.com] whose manager is [doug.rimerman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jim_scott_eversana_com]
+
+Adding folder [TERM-20230718-JIM.SCOTT] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/jim_scott_eversana_com/Documents/Wheeler Schedule.xlsx] into folder [/personal/jim_scott_eversana_com/Documents/TERM-20230718-JIM.SCOTT/Wheeler Schedule.xlsx]
+
+Moving file [/personal/jim_scott_eversana_com/Documents/Wheeler 2021-22 Master Schedule.xlsx] into folder [/personal/jim_scott_eversana_com/Documents/TERM-20230718-JIM.SCOTT/Wheeler 2021-22 Master Schedule.xlsx]
+
+Moving file [/personal/jim_scott_eversana_com/Documents/Presentation.pptx] into folder [/personal/jim_scott_eversana_com/Documents/TERM-20230718-JIM.SCOTT/Presentation.pptx]
+
+Moving file [/personal/jim_scott_eversana_com/Documents/Presentation 1.pptx] into folder [/personal/jim_scott_eversana_com/Documents/TERM-20230718-JIM.SCOTT/Presentation 1.pptx]
+
+Adding user [doug.rimerman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [doug.rimerman@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [fraze.sen@eversana.com] whose manager is [charles.lawton@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/fraze_sen_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [kimberly.wynn@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kimberly_wynn_eversana_com]
+
+Adding folder [TERM-20230718-KIMBERLY.WYNN] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Kimberly @ EVERSANA] into TERM folder.
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kimberly.wynn@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kimberly_wynn_eversana_com]
+
+Adding folder [TERM-20230718-KIMBERLY.WYNN] in /Documents directory
+
+Main Folder [TERM-20230718-KIMBERLY.WYNN] already exists --- will not recreate it
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Processing OneDrive Delegation for delegate [praveen.kolli@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/praveen_kolli_eversana_com]
+
+Adding folder [TERM-20230718-PRAVEEN.KOLLI] in /Documents directory
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [praveen.kolli@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/praveen_kolli_eversana_com]
+
+Adding folder [TERM-20230718-PRAVEEN.KOLLI] in /Documents directory
+
+Main Folder [TERM-20230718-PRAVEEN.KOLLI] already exists --- will not recreate it
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Processing OneDrive Delegation for delegate [kabhishek.kumar@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kabhishek_kumar_eversana_com]
+
+Adding folder [TERM-20230718-KABHISHEK.KUMAR] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/kabhishek_kumar_eversana_com/Documents/US Travel Iternary.xlsx] into folder [/personal/kabhishek_kumar_eversana_com/Documents/TERM-20230718-KABHISHEK.KUMAR/US Travel Iternary.xlsx]
+
+Moving file [/personal/kabhishek_kumar_eversana_com/Documents/FOK_TasksforPython_01Aug22.xlsx] into folder [/personal/kabhishek_kumar_eversana_com/Documents/TERM-20230718-KABHISHEK.KUMAR/FOK_TasksforPython_01Aug22.xlsx]
+
+Moving file [/personal/kabhishek_kumar_eversana_com/Documents/IT SOW_GBS_Jan23_V3.docx] into folder [/personal/kabhishek_kumar_eversana_com/Documents/TERM-20230718-KABHISHEK.KUMAR/IT SOW_GBS_Jan23_V3.docx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [kabhishek.kumar@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kabhishek_kumar_eversana_com]
+
+Adding folder [TERM-20230718-KABHISHEK.KUMAR] in /Documents directory
+
+Main Folder [TERM-20230718-KABHISHEK.KUMAR] already exists --- will not recreate it
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [murali.ravikanti@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/murali_ravikanti_eversana_com]
+
+Adding folder [TERM-20230718-MURALI.RAVIKANTI] in /Documents directory
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jodell.johnson@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jodell_johnson_eversana_com]
+
+Adding folder [TERM-20230718-JODELL.JOHNSON] in /Documents directory
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [fraze.sen@eversana.com] whose manager is [charles.lawton@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/fraze_sen_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [francesca.kelly@eversana.com] whose manager is [Latisha.Battle@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/francesca_kelly_eversana_com]
+
+Adding folder [TERM-20230718-FRANCESCA.KELLY] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Francesca @ EVERSANA] into TERM folder.
+
+Moving file [/personal/francesca_kelly_eversana_com/Documents/Ozempic_RolePlay_Check List 1.27.22 (2).xlsx] into folder [/personal/francesca_kelly_eversana_com/Documents/TERM-20230718-FRANCESCA.KELLY/Ozempic_RolePlay_Check List 1.27.22 (2).xlsx]
+
+Moving file [/personal/francesca_kelly_eversana_com/Documents/Fiasp_RolePlay_Check List FrancescaKelly.xlsx] into folder [/personal/francesca_kelly_eversana_com/Documents/TERM-20230718-FRANCESCA.KELLY/Fiasp_RolePlay_Check List FrancescaKelly.xlsx]
+
+Adding user [Latisha.Battle@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Latisha.Battle@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [francesca.kelly@eversana.com] whose manager is [Latisha.Battle@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/francesca_kelly_eversana_com]
+
+Adding folder [TERM-20230718-FRANCESCA.KELLY] in /Documents directory
+
+Main Folder [TERM-20230718-FRANCESCA.KELLY] already exists --- will not recreate it
+
+Adding user [Latisha.Battle@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Latisha.Battle@eversana.com]
+
+Processing OneDrive Delegation for delegate [gary.goldenberg@eversana.com] whose manager is [punyavathi.devaraju@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/gary_goldenberg_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [gary.goldenberg@eversana.com] whose manager is [punyavathi.devaraju@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/gary_goldenberg_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [faith.cockrell@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/faith_cockrell_eversana_com]
+
+Adding folder [TERM-20230718-FAITH.COCKRELL] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Faith @ Eversana] into TERM folder.
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing 3-3-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing 3-3-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 3-15-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-15-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 3-21-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-21-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 3-29-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 3-29-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-1-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-1-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-4-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-4-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-7-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-7-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-8-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-8-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-11-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-11-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-12-22 (1).xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-12-22 (1).xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-13-22 .xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-13-22 .xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-21-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-21-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-22-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-22-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-25-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-25-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-27-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-27-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-28-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-28-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 4-29-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 4-29-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 5-5-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-5-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 5-10-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-10-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 5-11-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-11-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 5-17-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-17-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 5-19-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-19-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 5-24-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-24-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 5-31-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 5-31-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-2-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-2-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-3-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-3-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-14-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-14-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-21-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-21-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-23-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-23-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-27-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-27-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-28-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-28-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-29-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-29-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 6-30-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 6-30-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Team Expectations (003).docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Team Expectations (003).docx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/bookmarks_7_1_22.html] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/bookmarks_7_1_22.html]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Chrome Passwords.csv] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Chrome Passwords.csv]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 7-14-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-14-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 7-20-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-20-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 7-27-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-27-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 7-29-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 7-29-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 8-4-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-4-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 8-5-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-5-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 8-25-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 8-25-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 10-10-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-10-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 10-7-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-7-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 10-24-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 10-24-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Processing Log 2-16-23.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Processing Log 2-16-23.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/Faith C 1-4-22.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/Faith C 1-4-22.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/RXC failed order report 1-18-2023.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC failed order report 1-18-2023.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/RXC report 1-25-23 Faith.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC report 1-25-23 Faith.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/RXC report 1-25-23 Faith_.xlsx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/RXC report 1-25-23 Faith_.xlsx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/AE00009892 .docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE00009892 .docx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/AE-00005812.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005812.docx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/AE-00005892.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005892.docx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/AE-00005985.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00005985.docx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/AE-00006012.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012.docx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/AE-00006008.docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006008.docx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/AE-00006012 (1).docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012 (1).docx]
+
+Moving file [/personal/faith_cockrell_eversana_com/Documents/AE-00006012 (2).docx] into folder [/personal/faith_cockrell_eversana_com/Documents/TERM-20230718-FAITH.COCKRELL/AE-00006012 (2).docx]
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

@@ -1,0 +1,33 @@
+<html>
+<head>
+<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<body bgcolor='white'>
+<center>
+<table width=100%>
+<tr><td><img src='https://www.eversana.com/wp-content/uploads/2019/05/EmailHeaderTECHNOLOGYComm.png' width='545' height='85'></td></tr>
+</table>
+</br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>IDM Team,</p></td></tr>
+</table>
+</br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>Dave Jaynes has submitted a registration request for Admin Portal access to the IDM website.</p></td></tr>
+<tr><td><p class='RegistrationResponse3'>The applications Dave is asking access to are:</p></td></tr>
+</table>
+</br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse2'>Associate Termination</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>The associates E-Mail address is dave.jaynes@eversana.com.</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>The IDM team</p></td></tr>
+</table>
+</center>
+</body>
+</html>

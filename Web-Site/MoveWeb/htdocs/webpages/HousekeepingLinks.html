@@ -1,0 +1,76 @@
+<html>
+<head>
+
+	<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+	<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<!-- SetWebPageDTGToZero sets WebPageDTG to '000'. -->
+<BODY onLoad='BuildHousekeepingSelectionButtons()' class="bodyBackground">
+<br><br>
+<FORM id='LaunchAdminPortalBuildPage' METHOD='POST' ACTION='/cgi-bin/BuildWebPageScripts/CreateAddUserToPortalHTMLResponse.pl' target='topmainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td>
+			<p class='QuickLinks'>Administrative Links</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<!-- One Drive Delegation Application -->
+<FORM id='CallODDelegation' METHOD='POST' ACTION='/cgi-bin/BuildWebpageScripts/CreateAddUserToPortalHTMLResponse.pl' target='topmainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center' id="AddUserToPortal"></td>
+	</tr>
+</table>
+</FORM>
+<br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/webpages/thispagecomingsoon.htm' target='mainpanel'>
+				<img width=180 height=40 src="http://idmgmtapp01/images/buttons/ResetAllSQLTables.jpg" onMouseOver='BlueBlank_Description();' onMouseLeave='initialTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/webpages/thispagecomingsoon.htm' target='mainpanel'>
+				<img width=180 height=40 src="http://idmgmtapp01/images/buttons/DisableUserAccess.jpg" onMouseOver='BlueBlank_Description();' onMouseLeave='initialTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/webpages/Nuclear.htm' target='mainpanel'>
+				<img width=180 height=40 src="http://idmgmtapp01/images/buttons/DisableWebsiteAccess.jpg" onMouseOver='BlueBlank_Description();' onMouseLeave='initialTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/index.html' target='_parent'>
+				<img width=180 height=40 src="http://idmgmtapp01/images/buttons/ReturnToIDMWebsite.jpg" onMouseOver='BlueBlank_Description();' onMouseLeave='initialTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

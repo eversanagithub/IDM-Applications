@@ -1,0 +1,70 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 09, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [max.mongenas@eversana.com] whose manager is [brock.horner@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/max_mongenas_eversana_com]
+
+Adding folder [TERM-20230209-MAX.MONGENAS] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/max @ Work] into TERM folder.
+
+Moving file [/personal/max_mongenas_eversana_com/Documents/MM - Personal Tracker.xlsx] into folder [/personal/max_mongenas_eversana_com/Documents/TERM-20230209-MAX.MONGENAS/MM - Personal Tracker.xlsx]
+
+Moving file [/personal/max_mongenas_eversana_com/Documents/MM - Personal Tracker (1).xlsx] into folder [/personal/max_mongenas_eversana_com/Documents/TERM-20230209-MAX.MONGENAS/MM - Personal Tracker (1).xlsx]
+
+Moving file [/personal/max_mongenas_eversana_com/Documents/Book2.xlsx] into folder [/personal/max_mongenas_eversana_com/Documents/TERM-20230209-MAX.MONGENAS/Book2.xlsx]
+
+Adding user [brock.horner@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [brock.horner@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [anil.rachmadugu@eversana.com] whose manager is [rupal.patel@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/anil_rachmadugu_eversana_com]
+
+Adding folder [TERM-20230209-ANIL.RACHMADUGU] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Adding user [rupal.patel@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [rupal.patel@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

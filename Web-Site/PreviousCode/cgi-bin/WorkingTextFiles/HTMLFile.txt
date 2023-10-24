@@ -1,0 +1,65 @@
+<html>
+<head>
+<style>
+p.NameText {
+  font-family: 'Times New Roman', Times, serif;
+        color: blue;
+    font-size: 17px;
+   font-style: normal;
+  font-weight: normal;
+}
+p.AlertText {
+  font-family: 'Times New Roman', Times, serif;
+        color: red;
+    font-size: 17px;
+   font-style: normal;
+  font-weight: normal;
+}
+p.SummaryText {
+  font-family: 'Times New Roman', Times, serif;
+        color: green;
+    font-size: 20px;
+   font-style: normal;
+  font-weight: normal;
+text-decoration: underline;
+}
+p.DetailText {
+  font-family: 'Times New Roman', Times, serif;
+        color: black;
+    font-size: 16px;
+   font-style: normal;
+  font-weight: normal;
+}
+p.HeaderText {
+  font-family: Arial, Helvetica, sans-serif;
+        color: Black;
+    font-size: 30px;
+   font-style: normal;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<center>
+<table width=100%>
+<tr><td><img src='https://www.eversana.com/wp-content/uploads/2019/05/EmailHeaderTECHNOLOGYComm.png' width='545' height='85'></td></tr>
+</table>
+</center>
+<table>
+<tr><td><p class='NameText'>Dave,</p></td></tr>
+</table>
+</br>
+<table>
+<tr><td><p class='DetailText'>You have requested access to the One-Drive account belonging to <FONT COLOR=blue SIZE=3><i>Amy Kettle</i></FONT>. Your request has been approved and now have been delegated read-only access to this site.</p></td></tr>
+<tr><td><p class='DetailText'>Please back up any of Amy's important files to your personal space before <FONT COLOR=blue SIZE=3><b>Thursday, October 12, 2023</b></font>, after which time they will be deleted.</p></td></tr>
+<tr><td><p class='DetailText'>If this folder is empty, the user most likely did not have any files stored in their OneDrive repository, or the files have been removed due to a 30 day retention policy limit being exceeded.</p></td></tr>
+</table>
+<br>
+<table>
+<tr><td><p class='SummaryText'>OneDrive Details</p></td></tr>
+<tr><td><p class='DetailText'>Disabled User: AMY.KETTLE</p></td></tr>
+<tr><td><p class='DetailText'>Requestor: dave.jaynes@eversana.com</p></td></tr>
+<tr><td><p class='DetailText'>Link to One-Drive Site: <a href='https://eversana-my.sharepoint.com/personal/amy_kettle_eversana_com/_layouts/15/onedrive.aspx?id=%2fpersonal%2famy%5Fkettle%5Feversana%5Fcom%2fDocuments%2fTERM%2D20230912%2DAMY%2EKETTLE'>Click Here</p></td></tr>
+</table>
+</body>
+</html>

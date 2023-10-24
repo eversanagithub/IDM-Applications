@@ -1,0 +1,199 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 23, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [shanna.feldmann@eversana.com] whose manager is [jane.skaggs@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/shanna_feldmann_eversana_com]
+
+Adding folder [TERM-20230823-SHANNA.FELDMANN] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Learning Library] into TERM folder.
+
+Cannot move folder [TERM-20230823-SHANNA.FELDMANN] as it does not exist.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Shanna @ Eversana] into TERM folder.
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Learning Library] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Learning Library]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/New Recording 13.m4a] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/New Recording 13.m4a]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Book.xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Book.xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/My To Do List.xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/My To Do List.xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Book1.xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Book1.xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Sarclisa Integration Calendar (Updated).xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Sarclisa Integration Calendar (Updated).xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/SHANNA_TO-DO_LIST.xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/SHANNA_TO-DO_LIST.xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Shanna Project Management.xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Shanna Project Management.xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Book2.xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Book2.xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Dupixent Channel Audit.xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Dupixent Channel Audit.xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Shanna Project Management (1).xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Shanna Project Management (1).xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Papa Loan.xlsx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Papa Loan.xlsx]
+
+Moving file [/personal/shanna_feldmann_eversana_com/Documents/Dynamic Email Working File.pptx] into folder [/personal/shanna_feldmann_eversana_com/Documents/TERM-20230823-SHANNA.FELDMANN/Dynamic Email Working File.pptx]
+
+Adding user [jane.skaggs@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [jane.skaggs@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jen.schockett@eversana.com] whose manager is [christy.costello@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jen_schockett_eversana_com]
+
+Adding folder [TERM-20230823-JEN.SCHOCKETT] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/jen @ Work] into TERM folder.
+
+Moving folder [Documents/Competitive audit SME decks] into TERM folder.
+
+Cannot move folder [TERM-20230823-JEN.SCHOCKETT] as it does not exist.
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/Competitive audit SME decks] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/Competitive audit SME decks]
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/Hemo KO Gantt_Q1Q2_v5.pptx] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/Hemo KO Gantt_Q1Q2_v5.pptx]
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/Jen coverage doc.xlsx] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/Jen coverage doc.xlsx]
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/Jen S strengths slide.pptx] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/Jen S strengths slide.pptx]
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/Hemo Email Distro List.xlsx] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/Hemo Email Distro List.xlsx]
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/Takeda HEM Media Fee_OOP.xlsx] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/Takeda HEM Media Fee_OOP.xlsx]
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/Hemo GTO Budget Tracker FY22 11.11.22_JS.xlsb] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/Hemo GTO Budget Tracker FY22 11.11.22_JS.xlsb]
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/BDC Comm Mgmt October labor.xlsx] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/BDC Comm Mgmt October labor.xlsx]
+
+Moving file [/personal/jen_schockett_eversana_com/Documents/Nichole_OOO_Coverage_Nov2022.xlsx] into folder [/personal/jen_schockett_eversana_com/Documents/TERM-20230823-JEN.SCHOCKETT/Nichole_OOO_Coverage_Nov2022.xlsx]
+
+Adding user [christy.costello@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [christy.costello@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jen.schockett@eversana.com] whose manager is [christy.costello@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jen_schockett_eversana_com]
+
+Adding folder [TERM-20230823-JEN.SCHOCKETT] in /Documents directory
+
+Main Folder [TERM-20230823-JEN.SCHOCKETT] already exists --- will not recreate it
+
+Adding user [christy.costello@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [christy.costello@eversana.com]
+
+Processing OneDrive Delegation for delegate [kiara.taylor@eversana.com] whose manager is [william.mcghee@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kiara_taylor_eversana_com]
+
+Adding folder [TERM-20230823-KIARA.TAYLOR] in /Documents directory
+
+Adding user [william.mcghee@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [william.mcghee@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kenyah.canady@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kenyah_canady_eversana_com]
+
+Adding folder [TERM-20230823-KENYAH.CANADY] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Kenyah @ EVERSANA] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [anquaconetta.thompson@eversana.com] whose manager is [Candace.Scott@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/anquaconetta_thompson_eversana_com]
+
+Adding folder [TERM-20230823-ANQUACONETTA.THOMPSON] in /Documents directory
+
+Adding record into the Azure Storage Table
+
+Ran into an error. Error is:
+The specified user Candace.Scott@eversana.com could not be found.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [jeanne.hinton@eversana.com] whose manager is [william.mcghee@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jeanne_hinton_eversana_com]
+
+Adding folder [TERM-20230823-JEANNE.HINTON] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Adding user [william.mcghee@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [william.mcghee@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

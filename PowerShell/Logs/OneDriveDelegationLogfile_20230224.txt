@@ -1,0 +1,414 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 24, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [sandra.suson@eversana.com] whose manager is [jyoti.mhaske@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sandra_suson_eversana_com]
+
+Adding folder [TERM-20230224-SANDRA.SUSON] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/LITHUANIA] into TERM folder.
+
+Cannot move folder [TERM-20230224-SANDRA.SUSON] as it does not exist.
+
+Moving folder [Documents/Handover] into TERM folder.
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/LITHUANIA] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/LITHUANIA]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book2.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book2.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book4.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book4.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book3.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book3.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book6.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book6.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Shubham Poland Data (03-12-2021).xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Shubham Poland Data (03-12-2021).xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book1.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book1.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book9.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book9.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book12.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book12.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/BIDDERS.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/BIDDERS.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book11.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book11.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book5.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book5.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book8.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book8.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/GET DATA.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/GET DATA.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book9.1.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book9.1.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book14 drug 29-12-2021.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book14 drug 29-12-2021.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book4 drug (30-12-2021).xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book4 drug (30-12-2021).xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book13.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book13.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book19.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book19.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book14.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book14.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/NOTICE XML.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/NOTICE XML.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book7.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book7.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/PEGFILGRASTIM MAIN FILE.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/PEGFILGRASTIM MAIN FILE.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/UNIVERSITY CLINICAL CENTER OF SERBIA.docx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/UNIVERSITY CLINICAL CENTER OF SERBIA.docx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book7-RON.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book7-RON.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book11-croatia.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book11-croatia.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/POLAND-14-07.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/POLAND-14-07.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/SPECIFICATIONS OF THE TERMS OF THE CONTRACT.docx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/SPECIFICATIONS OF THE TERMS OF THE CONTRACT.docx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book7-18.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book7-18.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book3-PPP.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book3-PPP.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Szczecin.docx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Szczecin.docx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/FORM N.docx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/FORM N.docx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/QUALIFICATION REQUIREMENTS OF THE CONTRACTING AUTHORITY.docx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/QUALIFICATION REQUIREMENTS OF THE CONTRACTING AUTHORITY.docx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/italy-29.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/italy-29.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Book11POL-23-01.xlsx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Book11POL-23-01.xlsx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/INSTITUTE OF ONCOLOGY AND RADIOLOGY OF SERBIA.docx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/INSTITUTE OF ONCOLOGY AND RADIOLOGY OF SERBIA.docx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/Appendix No.docx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/Appendix No.docx]
+
+Moving file [/personal/sandra_suson_eversana_com/Documents/TYPE.docx] into folder [/personal/sandra_suson_eversana_com/Documents/TERM-20230224-SANDRA.SUSON/TYPE.docx]
+
+Adding user [jyoti.mhaske@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [jyoti.mhaske@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [rohith.chennupati@eversana.com] whose manager is [Magda.Rudnikowska@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/rohith_chennupati_eversana_com]
+
+Adding folder [TERM-20230224-ROHITH.CHENNUPATI] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Rohith @ Eversana] into TERM folder.
+
+Adding user [Magda.Rudnikowska@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Magda.Rudnikowska@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [joseph.fernandez@eversana.com] whose manager is [Beverly.Bergamini@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/joseph_fernandez_eversana_com]
+
+Adding folder [TERM-20230224-JOSEPH.FERNANDEZ] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Cannot move folder [TERM-20230224-JOSEPH.FERNANDEZ] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/Documents] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/Documents]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/Book.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/Book.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/Views_Reports_Joseph_Fernandez.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/Views_Reports_Joseph_Fernandez.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/Derived_Logics_updated.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/Derived_Logics_updated.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/Derived_Logics_updated (1).xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/Derived_Logics_updated (1).xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/FactTables.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/FactTables.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/FactTable.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/FactTable.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/vw_patient_insurance.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/vw_patient_insurance.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/vw_patient_insurance_cvw_insurance_verification.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/vw_patient_insurance_cvw_insurance_verification.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/DataGrid_list.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/DataGrid_list.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/Book1.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/Book1.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/VWDependency%Completion.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/VWDependency%Completion.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/APO Patient Census By Disease.xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/APO Patient Census By Disease.xlsx]
+
+Moving file [/personal/joseph_fernandez_eversana_com/Documents/APO Patient Census By Disease (1).xlsx] into folder [/personal/joseph_fernandez_eversana_com/Documents/TERM-20230224-JOSEPH.FERNANDEZ/APO Patient Census By Disease (1).xlsx]
+
+Adding user [Beverly.Bergamini@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Beverly.Bergamini@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [praveena.kanderi@eversana.com] whose manager is [Sumit.Gulati@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/praveena_kanderi_eversana_com]
+
+Adding folder [TERM-20230224-PRAVEENA.KANDERI] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Praveena @ Eversana] into TERM folder.
+
+Moving file [/personal/praveena_kanderi_eversana_com/Documents/Book5.xlsx] into folder [/personal/praveena_kanderi_eversana_com/Documents/TERM-20230224-PRAVEENA.KANDERI/Book5.xlsx]
+
+Moving file [/personal/praveena_kanderi_eversana_com/Documents/Book1.xlsx] into folder [/personal/praveena_kanderi_eversana_com/Documents/TERM-20230224-PRAVEENA.KANDERI/Book1.xlsx]
+
+Moving file [/personal/praveena_kanderi_eversana_com/Documents/Presentation.pptx] into folder [/personal/praveena_kanderi_eversana_com/Documents/TERM-20230224-PRAVEENA.KANDERI/Presentation.pptx]
+
+Moving file [/personal/praveena_kanderi_eversana_com/Documents/Book.xlsx] into folder [/personal/praveena_kanderi_eversana_com/Documents/TERM-20230224-PRAVEENA.KANDERI/Book.xlsx]
+
+Moving file [/personal/praveena_kanderi_eversana_com/Documents/Book (1).xlsx] into folder [/personal/praveena_kanderi_eversana_com/Documents/TERM-20230224-PRAVEENA.KANDERI/Book (1).xlsx]
+
+Moving file [/personal/praveena_kanderi_eversana_com/Documents/CE DC license after NOC.docx] into folder [/personal/praveena_kanderi_eversana_com/Documents/TERM-20230224-PRAVEENA.KANDERI/CE DC license after NOC.docx]
+
+Processing OneDrive Delegation for delegate [christina.cantrell@eversana.com] whose manager is [Michelle.Maier@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/christina_cantrell_eversana_com]
+
+Adding folder [TERM-20230224-CHRISTINA.CANTRELL] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Adding user [Michelle.Maier@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Michelle.Maier@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kimberley.hardy@eversana.com] whose manager is [Matthew.Hilman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kimberley_hardy_eversana_com]
+
+Adding folder [TERM-20230224-KIMBERLEY.HARDY] in /Documents directory
+
+Moving folder [Documents/Top Account URO GPO] into TERM folder.
+
+Moving folder [Documents/TOP acconts URO and IPN GPO] into TERM folder.
+
+Moving folder [Documents/Northeast Pipeline] into TERM folder.
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/Book.xlsx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/Book.xlsx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/AUA Mailing list as of 4-28 domestic copy.xlsx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/AUA Mailing list as of 4-28 domestic copy.xlsx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/AUA Mailing list as of 4-28 domestic copy copy.xlsx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/AUA Mailing list as of 4-28 domestic copy copy.xlsx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/Harrison.docx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/Harrison.docx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/Harrison 2.docx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/Harrison 2.docx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/Northeast Hospital Targets (All) 9.2.22 copy.xlsx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/Northeast Hospital Targets (All) 9.2.22 copy.xlsx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/Northeast Hospital Targets (All) 9.2.22 copy copy.xlsx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/Northeast Hospital Targets (All) 9.2.22 copy copy.xlsx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/Territory business Plans Q4 copy.pptx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/Territory business Plans Q4 copy.pptx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/Territory business Plans Q4 copy copy.pptx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/Territory business Plans Q4 copy copy.pptx]
+
+Moving file [/personal/kimberley_hardy_eversana_com/Documents/Territory business Plans Q4 copy copy copy.pptx] into folder [/personal/kimberley_hardy_eversana_com/Documents/TERM-20230224-KIMBERLEY.HARDY/Territory business Plans Q4 copy copy copy.pptx]
+
+Adding user [Matthew.Hilman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Matthew.Hilman@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [don.corbett@eversana.com] whose manager is [rachel.williams@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/don_corbett_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [patrick.schandler@eversana.com] whose manager is [Zach.Janice@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/patrick_schandler_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [stormie.krone@eversana.com] whose manager is [tara.wiles@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/stormie_krone_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [ramya.baskar@eversana.com] whose manager is [Beverly.Bergamini@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/ramya_baskar_eversana_com]
+
+Adding folder [TERM-20230224-RAMYA.BASKAR] in /Documents directory
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving file [/personal/ramya_baskar_eversana_com/Documents/source_est mapping_ shee.xlsx] into folder [/personal/ramya_baskar_eversana_com/Documents/TERM-20230224-RAMYA.BASKAR/source_est mapping_ shee.xlsx]
+
+Moving file [/personal/ramya_baskar_eversana_com/Documents/cvw_labels1.xlsx] into folder [/personal/ramya_baskar_eversana_com/Documents/TERM-20230224-RAMYA.BASKAR/cvw_labels1.xlsx]
+
+Adding user [Beverly.Bergamini@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Beverly.Bergamini@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jeffrey.yas@eversana.com] whose manager is [john.springer@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jeffrey_yas_eversana_com]
+
+Adding folder [TERM-20230224-JEFFREY.YAS] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/221230-01_EI-planning] into TERM folder.
+
+Moving file [/personal/jeffrey_yas_eversana_com/Documents/221230-01_EI-planning.zip] into folder [/personal/jeffrey_yas_eversana_com/Documents/TERM-20230224-JEFFREY.YAS/221230-01_EI-planning.zip]
+
+Moving file [/personal/jeffrey_yas_eversana_com/Documents/GettyImages-1278237817.psd] into folder [/personal/jeffrey_yas_eversana_com/Documents/TERM-20230224-JEFFREY.YAS/GettyImages-1278237817.psd]
+
+Moving file [/personal/jeffrey_yas_eversana_com/Documents/GettyImages-1049277458.psd] into folder [/personal/jeffrey_yas_eversana_com/Documents/TERM-20230224-JEFFREY.YAS/GettyImages-1049277458.psd]
+
+Moving file [/personal/jeffrey_yas_eversana_com/Documents/GettyImages-594203153.psd] into folder [/personal/jeffrey_yas_eversana_com/Documents/TERM-20230224-JEFFREY.YAS/GettyImages-594203153.psd]
+
+Moving file [/personal/jeffrey_yas_eversana_com/Documents/keepexploringTiles_810x438.psd] into folder [/personal/jeffrey_yas_eversana_com/Documents/TERM-20230224-JEFFREY.YAS/keepexploringTiles_810x438.psd]
+
+Moving file [/personal/jeffrey_yas_eversana_com/Documents/CES_headshots_website_jeff.psd] into folder [/personal/jeffrey_yas_eversana_com/Documents/TERM-20230224-JEFFREY.YAS/CES_headshots_website_jeff.psd]
+
+Adding record into the Azure Storage Table
+
+Ran into an error. Error is:
+The specified user john.springer@eversana.com could not be found.
+
+Sending out Error E-Mail Message.
+
+Sending out 10-Days left E-Mail reminder to [elizabeth.rooney@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [kellie.schoen@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [paul.pierce@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [katie.galbreath@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Ashli.Quinn@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [reba.houpe@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [jeff.campomanes@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Anne.Dempsey@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [denise.woltemath@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Adam.Romm@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [jesse.salzman@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [akira.robinson@eversanaconsulting.com]
+
+Sending out 10-Days left E-Mail reminder to [lori.castle@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Cammi.Lawrence@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [sarah.laurentius@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [ganesh.bhise@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [John.Kutz@eversanaconsulting.com]
+
+Sending out 10-Days left E-Mail reminder to [tanuj.mehra@eversanaconsulting.com]
+
+Sending out 10-Days left E-Mail reminder to [torrance.windham@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [marisol.fuentes@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [michelle.hadley@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+

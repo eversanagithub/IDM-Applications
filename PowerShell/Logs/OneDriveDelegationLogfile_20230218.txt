@@ -1,0 +1,395 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 18, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [katie.hayden@eversana.com] whose manager is [Andy.Griffin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/katie_hayden_eversana_com]
+
+Adding folder [TERM-20230218-KATIE.HAYDEN] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Benefits Guide.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Benefits Guide.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Sales Compliance Handbook.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Sales Compliance Handbook.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Kaitlyn Hayden Policy Book Signature.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Kaitlyn Hayden Policy Book Signature.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Compliance training admin compliance.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Compliance training admin compliance.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Compliance training customer facing compliance.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Compliance training customer facing compliance.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Evoke Core Competencies.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Evoke Core Competencies.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Gastroparesis Module.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Gastroparesis Module.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Gastroparesis Diagnosis and Management.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Gastroparesis Diagnosis and Management.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Gimoti clinical development.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Gimoti clinical development.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Gimoti PI.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Gimoti PI.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/4Q 2020 Meal Expense Tracker DRAFT copy.xlsx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/4Q 2020 Meal Expense Tracker DRAFT copy.xlsx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/2021 Q4 workbook.xlsx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/2021 Q4 workbook.xlsx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Patient-Enrollment-Form.pdf] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Patient-Enrollment-Form.pdf]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Provider log.xlsx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Provider log.xlsx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/3Q 2021 Budget Tracker.xlsx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/3Q 2021 Budget Tracker.xlsx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Dinner program sign in sheet copy.docx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Dinner program sign in sheet copy.docx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/2022 Target list.xlsx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/2022 Target list.xlsx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/3Q 2021 Budget Tracker (1).xlsx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/3Q 2021 Budget Tracker (1).xlsx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Point of Contact_vitaCare_GIMOTI_Final copy.xlsx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Point of Contact_vitaCare_GIMOTI_Final copy.xlsx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Sample Strategy HCPs.xlsx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Sample Strategy HCPs.xlsx]
+
+Moving file [/personal/katie_hayden_eversana_com/Documents/Katie Hayden RDN Resume.docx] into folder [/personal/katie_hayden_eversana_com/Documents/TERM-20230218-KATIE.HAYDEN/Katie Hayden RDN Resume.docx]
+
+Adding user [Andy.Griffin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Andy.Griffin@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [don.corbett@eversana.com] whose manager is [rachel.williams@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/don_corbett_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [patrick.schandler@eversana.com] whose manager is [Zach.Janice@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/patrick_schandler_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [stormie.krone@eversana.com] whose manager is [tara.wiles@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/stormie_krone_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [katie.berneking@eversana.com] whose manager is [abby.nicoletti@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/katie_berneking_eversana_com]
+
+Adding folder [TERM-20230218-KATIE.BERNEKING] in /Documents directory
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Educational Onboarding Intro to Pharma Marketing.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Educational Onboarding Intro to Pharma Marketing.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Educational Onboarding Who is EVERSANA INTOUCH.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Educational Onboarding Who is EVERSANA INTOUCH.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Case Studies Onboarding Notes.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Case Studies Onboarding Notes.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Deep Dive into BizDev.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Deep Dive into BizDev.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Educational Onboarding.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Educational Onboarding.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Novo Nordisk International client intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Novo Nordisk International client intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Palforzia Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Palforzia Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Crystal Knows Practice.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Crystal Knows Practice.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Intern Project Notes.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Intern Project Notes.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Xspray Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Xspray Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Katie Berneking Assignment List.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Katie Berneking Assignment List.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Reflektive Goals.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Reflektive Goals.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/RFI Organization.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/RFI Organization.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Indivior Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Indivior Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/GSK Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/GSK Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Strat Questions.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Strat Questions.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Credentials.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Credentials.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Amryt Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Amryt Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Weekly Article.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Weekly Article.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Epcoritamab Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Epcoritamab Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Hi.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Hi.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Current Experience in Oncology.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Current Experience in Oncology.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Nephrology Accounts All Time.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Nephrology Accounts All Time.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Alnylam Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Alnylam Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Orphazyme Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Orphazyme Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/KOMD Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/KOMD Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/GSK Project ETHOS Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/GSK Project ETHOS Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Takeda Mydayis DAOR Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Takeda Mydayis DAOR Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/GBT Oxbryta Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/GBT Oxbryta Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Ben’s Room AOR Mini Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Ben’s Room AOR Mini Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/GSK TESARO Mini Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/GSK TESARO Mini Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/TESARO Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/TESARO Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Eunjoo Pluenneke.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Eunjoo Pluenneke.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Pfizer Supply Chain.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Pfizer Supply Chain.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Genentech Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Genentech Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Takeda Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Takeda Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Pfizer Supply Chain Outline.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Pfizer Supply Chain Outline.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Katie Help - ES ITG Opportunities - Preliminary.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Katie Help - ES ITG Opportunities - Preliminary.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/HCP Global Omnichannel Oncology Launch Case Study.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/HCP Global Omnichannel Oncology Launch Case Study.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Ophthalmology Experience All Time.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Ophthalmology Experience All Time.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Pfizer Supply Chain Script.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Pfizer Supply Chain Script.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/ImmunityBio Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/ImmunityBio Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Doc1.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Doc1.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/RFI Report.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/RFI Report.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Santen Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Santen Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/ImmunityBio Pitch Notes.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/ImmunityBio Pitch Notes.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Rare Disease Experience.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Rare Disease Experience.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Questions for Brady.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Questions for Brady.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Creative Concepts.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Creative Concepts.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Katie Berneking Summer Projects.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Katie Berneking Summer Projects.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Katie Berneking Project Status.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Katie Berneking Project Status.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/AbbVie Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/AbbVie Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Presentation.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Presentation.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Pfizer Supply Chain 1.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Pfizer Supply Chain 1.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Pfizer Supply Chain 2.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Pfizer Supply Chain 2.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Pfizer Supply Chain 3.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Pfizer Supply Chain 3.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Pfizer Supply Chain.pdf] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Pfizer Supply Chain.pdf]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/RocketDocs Action Plan.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/RocketDocs Action Plan.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Workfront Training Notes.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Workfront Training Notes.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Content Impact Report Outline.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Content Impact Report Outline.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Performance Review.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Performance Review.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Horizon UPLIZNA Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Horizon UPLIZNA Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Takeda Client Intel1.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Takeda Client Intel1.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Morphosys & Incyte Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Morphosys & Incyte Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/1 on 1 notes.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/1 on 1 notes.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Genentech Client Intel1.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Genentech Client Intel1.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Exact Sciences Colorguard Team Bios.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Exact Sciences Colorguard Team Bios.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Content Impact Report.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Content Impact Report.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Book.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Book.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/QA AOR Final Template.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/QA AOR Final Template.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Etripamil HCP & Patient AOR QA.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Etripamil HCP & Patient AOR QA.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Response Record Game Plan.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Response Record Game Plan.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/D&I Info Slide.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/D&I Info Slide.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/UCB Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/UCB Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Design Best Practices.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Design Best Practices.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Weekly News Article Archive.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Weekly News Article Archive.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Milestone Pharma Client Bios and Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Milestone Pharma Client Bios and Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/BD Townhall Prep.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/BD Townhall Prep.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Merck INTL Client Bios & Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Merck INTL Client Bios & Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Neil McCallum-Deighton Bio.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Neil McCallum-Deighton Bio.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Boehringer Ingelheim Client Intel + Bios.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Boehringer Ingelheim Client Intel + Bios.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/AbbVie Client Intel1.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/AbbVie Client Intel1.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/EVERSANA Trends Notes.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/EVERSANA Trends Notes.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/BizDev RR New Responses.docx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/BizDev RR New Responses.docx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Competitive Analysis Jan 2023.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Competitive Analysis Jan 2023.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Presentation1_4.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Presentation1_4.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/All Opps 2022 Final2.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/All Opps 2022 Final2.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Arcellx Client Intel.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Arcellx Client Intel.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Arcellx Capes Appendix.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Arcellx Capes Appendix.pptx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/All Opps 2022 Final2-INT-7CLZTT2.xlsx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/All Opps 2022 Final2-INT-7CLZTT2.xlsx]
+
+Moving file [/personal/katie_berneking_eversana_com/Documents/Genentech Client Intel2.pptx] into folder [/personal/katie_berneking_eversana_com/Documents/TERM-20230218-KATIE.BERNEKING/Genentech Client Intel2.pptx]
+
+Adding user [abby.nicoletti@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [abby.nicoletti@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [daniel.casto@eversana.com] whose manager is [flo.lakes@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/daniel_casto_eversana_com]
+
+Adding folder [TERM-20230218-DANIEL.CASTO] in /Documents directory
+
+Moving file [/personal/daniel_casto_eversana_com/Documents/Eversana Regulatory Training Quiz 2022 EMS-M-6-12 Rev. 0.0[692]2.0.docx] into folder [/personal/daniel_casto_eversana_com/Documents/TERM-20230218-DANIEL.CASTO/Eversana Regulatory Training Quiz 2022 EMS-M-6-12 Rev. 0.0[692]2.0.docx]
+
+Moving file [/personal/daniel_casto_eversana_com/Documents/Eversana Regulatory Training Quiz 2022 EMS-M-6-12 Rev. 0.0[692]2.0.pdf] into folder [/personal/daniel_casto_eversana_com/Documents/TERM-20230218-DANIEL.CASTO/Eversana Regulatory Training Quiz 2022 EMS-M-6-12 Rev. 0.0[692]2.0.pdf]
+
+Adding user [flo.lakes@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [flo.lakes@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [lerin.muckleroy@eversana.com] whose manager is [mary.harbin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/lerin_muckleroy_eversana_com]
+
+Adding folder [TERM-20230218-LERIN.MUCKLEROY] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/PA Forms] into TERM folder.
+
+Cannot move folder [TERM-20230218-LERIN.MUCKLEROY] as it does not exist.
+
+Moving folder [Documents/Monthly Expired PA's] into TERM folder.
+
+Cannot move folder [TERM-20230218-LERIN.MUCKLEROY] as it does not exist.
+
+Moving file [/personal/lerin_muckleroy_eversana_com/Documents/PA Forms] into folder [/personal/lerin_muckleroy_eversana_com/Documents/TERM-20230218-LERIN.MUCKLEROY/PA Forms]
+
+Moving file [/personal/lerin_muckleroy_eversana_com/Documents/Monthly Expired PA's] into folder [/personal/lerin_muckleroy_eversana_com/Documents/TERM-20230218-LERIN.MUCKLEROY/Monthly Expired PA's]
+
+Adding user [mary.harbin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [mary.harbin@eversana.com]
+
+Adding record to Azure Storage Table.
+
+Adding record into SQL table.
+
+Sending out 10-Days left E-Mail reminder to [andrew.hanhauser@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Jamilyn.PerezAragon@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [melissa.thompson@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [sierra.barter@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Joanne.Kwinta@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Kathleen.Kulp@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [carter.hallett@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Ashley.Bonner@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [Jose.Varghese@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [joy.dunaway@eversana.com]
+
+Sending out 10-Days left E-Mail reminder to [sandy.aschenbrenner@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+

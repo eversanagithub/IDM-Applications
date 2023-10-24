@@ -1,0 +1,81 @@
+<html>
+<head>
+  <link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+  <script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+</head>
+<body onLoad='InitialRequesterDropDownList()' bgcolor="#0F0141">
+<FORM id='PortalRequestForm' METHOD='POST' ACTION='/cgi-bin/HousekeepingScripts/PortalRequestForm.pl'>
+<br>
+<table width='100%'>
+  <tr>
+    <td>
+      <p class='RegistrationBigHeading'>Admin Portal Registration Center</p>
+    </td>
+  </tr>
+</table>
+</br>
+<table>
+</table>
+</center>
+<br>
+<table width='100%'>
+  <tr>
+    <td>
+      <p class='RegistrationDetails'>This page provides a means for requesting a registration form from the IDM department for access to the Admin Portal portion of this website.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p class='RegistrationDetails'>Select your e-mail address from the drop-down menu and click the Submit Request button. A confirmation e-mail will then be sent to you.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p class='RegistrationDetails'>An associate from the IDM department will be in contact with you shortly to answer any questions and send you the official registration e-mail.</p>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+<table width='100%'>
+  <tr>
+    <td width='100%'>
+      <p class='AppCheckboxDescCenter'>Enter text in search string box to narrow search of your E-Mail address</p>
+    </td>  
+  </tr>
+</table>
+<br>
+<table width='100%' border=0>
+  <tr>
+		<td width='22%'>&nbsp</td>
+    <td width='25%' align='center'>
+      <input id='requesterName' name='requesterName' type='text' placeholder='e.g. john.doe' onkeyup='UpdateRequesterDropDownList(this);'>
+    </td>
+    <td width='25%' align='center'>
+      <select name='requesterNames' id='requesterNames'>
+        <option value=""></option>
+      </select>
+    </td>
+		<td width='28%'>&nbsp</td>
+  </tr>
+  <tr>
+		<td width='22%'>&nbsp</td>
+    <td width='25%' align='center'>
+      <p class='Applications'>Search String for E-Mail</p>
+    </td>
+    <td width='25%' align='center'>
+      <p class='Applications'>Select E-Mail Address</p>
+    </td>
+		<td width='28%'>&nbsp</td>
+  </tr> 
+</table>
+<br><br><br><br>
+<table width='100%'>
+  <tr>
+  <td width='42%'>&nbsp</td>
+    <td width='58%' align='left'>
+      <button class='styledButton' id='Submit' name='Submit' type='submit' value='Submit'>Submit Request</button>
+    </td>
+  </tr>
+</body>
+</html>

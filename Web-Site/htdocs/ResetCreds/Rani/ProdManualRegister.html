@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.AcctCreationTitle {
+	font-family: 'Times New Roman', Times, serif;
+	          color: white;
+        font-size: 40px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.AcctCreationDetail {
+	font-family: 'Times New Roman', Times, serif;
+	          color: white;
+        font-size: 25px;
+       font-style: normal;
+      font-weight: normal;
+       text-align: center;
+}
+</style>
+<script>
+const RetrieveInitialEncryptedKey = "http://idmgmtapp01/php/HousekeepingScripts/RetrieveInitialEncryptedKey.php"
+
+const RetrieveEncryptedKey = (EmplID,RetrieveInitialEncryptedKey,returnEncryptedKey) => {		
+	let applicationURL = "";
+	let getInfoParams = 'EmplID=' + EmplID;
+	const requestEncryptedKey = new XMLHttpRequest();
+	requestEncryptedKey.addEventListener('readystatechange', () => {
+		if(requestEncryptedKey.readyState === 4 && requestEncryptedKey.status === 200) 
+		{
+			returnEncryptedKey(requestEncryptedKey.responseText);
+		}
+	});
+	requestEncryptedKey.open("POST", RetrieveInitialEncryptedKey, true);
+	requestEncryptedKey.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	requestEncryptedKey.send(getInfoParams);
+}
+
+function setCookie(cname,cvalue,exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  let expires = "expires=" + d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function checkCookie() {
+	let EmplID = "120441";
+	setCookie("ProdEmpID", EmplID, 365);
+	RetrieveEncryptedKey(EmplID,RetrieveInitialEncryptedKey,function(thisEncryptedKey)
+	{
+		thisEncryptedKey = thisEncryptedKey.trim();
+		setCookie("ProdEncryptedKey",thisEncryptedKey, 365);
+	});
+}
+</script>
+</head>
+<body onload="checkCookie()" bgcolor='#0F0141'></body>
+<br><br>
+<table width='100%' align='center'>
+	<tr>
+		<td width='100%' align='center'>
+			<p class='AcctCreationTitle'>The Admin Portal credentials for Rani's account has been successfully reset.</p>
+		</td>
+	</tr>
+</table>
+<br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p class='AcctCreationTitle' >
+				<a href='http://idmgmtapp01/index.html' target='_parent'>
+				Click here to access the IDM web site
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+</html>

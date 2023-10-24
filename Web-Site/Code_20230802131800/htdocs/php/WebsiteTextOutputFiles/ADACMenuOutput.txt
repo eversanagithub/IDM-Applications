@@ -1,0 +1,55 @@
+Content-type: text/html
+
+<html>
+<head>
+<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+</head><body onLoad='DisplayADACIntro();JobCodeDropDownList()' bgcolor='#0F0141'>
+<FORM id='ViewListings' METHOD='POST' ACTION='/cgi-bin/ADAccountCreation/ADAccountCreation.pl' target='mainpanel'>
+<table width='100%' align='center'>
+<tr>
+<td width='100%' align='center'>
+<p class='AcctCreationTitle'>Welcome to the Active Directory Account Creation Application</p>
+</td>
+</tr>
+</table>
+<br>
+<table width='100%' align='center'>
+<tr>
+<th width='22%' align='center'>
+<p class='WhiteText_P15'>First Name</p>
+</th>
+<th width='22%' align='center'>
+<p class='WhiteText_P15'>Last Name</p>
+</th>
+<th width='%22' align='center'>
+<p class='WhiteText_P15'>Job Description (Title - Job Family Code - Job EEO Category)</p>
+</th>
+<th width='22%' align='center'>
+<p class='WhiteText_P15'>Manager</p>
+</th>
+<th width='12%' align='center'>
+<p class='WhiteText_P15'>Click below to submit entry</p>
+</th>
+</tr><tr>
+<td width='22%' align='center'>
+<input id='firstName' name='firstName' type='text' placeholder='e.g. John'>
+</td>
+<td width='22%' align='center'>
+<input id='lastName' name='lastName' type='text' placeholder='e.g. Doe'>
+</td>
+<td width='22%' align='center'>
+			<select name='jobDescription' id='jobDescription'>
+				<option value=""></option>
+			</select>
+</td>
+<td width='22%' align='center'>
+<input id='manager' name='manager' type='text' placeholder='e.g. Jane Doe'>
+</td>
+<td width='12%' align='center'>
+<button class='styledButton' id='Submit' name='Submit' value='Submit' type='submit'>Submit</button>
+</td>
+</tr>
+</table>
+</body>
+</html>

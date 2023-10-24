@@ -1,0 +1,99 @@
+.bodyBackground {
+	background:#0F0141;
+}
+
+a:hover,button:hover { cursor: pointer;}
+
+#TableWhiteBorder {
+  border: 1px solid white;
+  border-collapse: collapse;
+	border-spacing: 50px;
+}
+
+input[type='text'] {
+	width: 200px;
+	background-color: #0F0141;
+	color: white;
+	border: none;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+	text-align: center;
+}
+
+p.Heading {
+  font-family: 'Times New Roman', Times, serif;
+            color: #5B9BD5;
+        font-size: 20px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+  text-decoration: underline;
+}
+
+p.Detail {
+  font-family: 'Times New Roman', Times, serif;
+            color: white;
+        font-size: 18px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.Gold_P60 {
+	  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 60px;
+       font-style: italic;
+      font-weight: normal;
+			 text-align: center;
+}
+
+p.ModifyRoleAssignmentHeader {
+	  font-family: 'Times New Roman', Times, serif;
+            color: #DFAB17;
+ background-color: #0F0141;
+        font-size: 25px;
+       font-style: italic;
+      font-weight: normal;
+			 text-align: center;
+}
+
+p.Radio {
+  font-family: 'Times New Roman', Times, serif;
+            color: white;
+        font-size: 15px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: right;
+}
+
+p.SoftBlue {
+	font-family: 'Times New Roman', Times, serif;
+            color: 5B9BD5;
+        font-size: 35px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.TitleWhite {
+	  font-family: 'Times New Roman', Times, serif;
+            color: white;
+ background-color: #0F0141;
+        font-size: 40px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.TitleSmallWhite {
+	  font-family: 'Times New Roman', Times, serif;
+            color: white;
+ background-color: #0F0141;
+        font-size: 25px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}

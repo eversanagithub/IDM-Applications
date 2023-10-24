@@ -1,0 +1,62 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 09, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [elizabeth.chau@eversana.com] whose manager is [Joshua.Gauci@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/elizabeth_chau_eversana_com]
+
+Adding folder [TERM-20230809-ELIZABETH.CHAU] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Elizabeth @ Eversana] into TERM folder.
+
+Moving file [/personal/elizabeth_chau_eversana_com/Documents/EVOKE_Gimoti_Phase_3_manuscript_draft2_01182023_sent +MD+dg+mrc2+rdb_EC.docx] into folder [/personal/elizabeth_chau_eversana_com/Documents/TERM-20230809-ELIZABETH.CHAU/EVOKE_Gimoti_Phase_3_manuscript_draft2_01182023_sent +MD+dg+mrc2+rdb_EC.docx]
+
+Adding user [Joshua.Gauci@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Joshua.Gauci@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [molly.berg@eversana.com] whose manager is [angela.brennan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/molly_berg_eversana_com]
+
+Adding folder [TERM-20230809-MOLLY.BERG] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Adding user [angela.brennan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [angela.brennan@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

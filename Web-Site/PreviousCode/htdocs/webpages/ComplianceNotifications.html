@@ -1,0 +1,77 @@
+<html>
+<head>
+<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+</head>
+<body onLoad='DisplayComplianceNotificationIntro();GetTerminationDropDown()' bgcolor='#0F0141'>
+<FORM id='ViewListings' METHOD='POST' ACTION='/cgi-bin/ComplianceNotifications.pl' target='mainpanel'>
+<BR>
+<table width='100%' align='center'>
+<tr>
+<td width='100%' align='center'>
+<p class='AcctCreationTitle2'>Select name from the Drop-Down box to display associates information on the screen below.</p>
+</td>
+</tr>
+</table>
+<br>
+<table width='100%' align='center'>
+	<tr>
+		<th width='25%'>&nbsp</th>
+		<th width='25%' align='center'>
+			<p class='WhiteText_P15'>Enter Text String to Narrow Drop Down Listings</p>
+		</th>
+		<th width='25%' align='center'>
+			<p class='WhiteText_P15'>Select Former Associate E-Mail Address</p>
+		</th>
+		<th width='25%'>&nbsp</th>
+	</tr>
+	<tr>
+		<th width='25%'>&nbsp</th>
+		<td width='25%' align='center'>
+			<input id='assocName' name='assocName' type='text' placeholder='e.g. john.doe' onkeyup='UpdateTerminationDropDown(this);'>
+		</td>
+		<td width='25%' align='center'>
+			<select name='Email' id='Email' onChange='DisplayFormerAssociateInfo(this.value);'>
+				<option value=""></option>
+			</select>
+		</td>
+		<th width='25%'>&nbsp</th>
+	</tr>
+</table>
+<BR>
+<table border='0' width=100%>
+	<tr>
+		<canvas id='myCanvas' width='1600' height='0' style='border:2px solid #DFAB17;'>
+	</tr>
+</table>
+<br>
+<br>
+<table width='100%' align='center'>
+<tr>
+<td width='100%' align='center'>
+<p class='IDMTermedReportTitle'>Information Regarding Formerly Employed Associates at Eversana.</p>
+</td>
+</tr>
+</table>
+<br>
+<br>
+<TABLE width='100%' align='center'>
+	<TR>
+		<TH width='16%' align='center'><p class="IDMTermedReportHeading">Associate ID</p></TH>
+		<TH width='16%' align='center'><p class="IDMTermedReportHeading">Business Unit</p></TH>
+		<TH width='16%' align='center'><p class="IDMTermedReportHeading">HR Legal Name</p></TH>
+		<TH width='16%' align='center'><p class="IDMTermedReportHeading">Termination Date</p></TH>
+		<TH width='20%' align='center'><p class="IDMTermedReportHeading">Disablement Date</p></TH>
+		<TH width='16%' align='center'><p class="IDMTermedReportHeading">Reported To</p></TH>
+	</TR>
+	<TR>
+		<TD width='16%' id='AssociateID'></TD>
+		<TD width='16%' id='BusinessUnit'></TD>
+		<TD width='16%' id='HRLegalName'></TD>
+		<TD width='16%' id='TermDate'></TD>
+		<TD width='20%' id='DisableDate'></TD>
+		<TD width='16%' id='ReportedTo'></TD>
+	</TR>
+</TABLE>
+</body>
+</html>

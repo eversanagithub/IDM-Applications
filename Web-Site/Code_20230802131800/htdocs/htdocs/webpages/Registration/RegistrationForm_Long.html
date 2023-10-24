@@ -1,0 +1,159 @@
+<html>
+<head>
+  <link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+  <script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+</head>
+<body onLoad='InitialRequesterDropDownList()' bgcolor="#0F0141">
+<FORM id='PortalRequestForm' METHOD='POST' ACTION='/cgi-bin/HousekeepingScripts/PortalRequestForm.pl'>
+<table width='100%'>
+  <tr>
+    <td>
+      <p class='RegistrationHeading'>The Admin Portal is a secure area within the IDM Web Site where HR related administrative tasks can be easily executed.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p class='RegistrationHeading'>Only those individuals whose job responsibilities align with the applications available within the portal may gain access.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p class='RegistrationHeading'>The applications currently available for daily support of our HR and IDM departments are growing but presently include:.</p>
+    </td>
+  </tr>
+</table>
+</br>
+<table>
+</table>
+</center>
+<table width='100%'>
+  <tr>
+    <td width='12%' align='center'>
+      <img width=85 height=130 src="http://idmgmtapp01/images/AdminPortalErrorImages/Registration1.jpg">
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <img width=100 height=130 src="http://idmgmtapp01/images/AdminPortalErrorImages/Registration2.jpg">
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <img width=90 height=130 src="http://idmgmtapp01/images/AdminPortalErrorImages/Registration3.jpg">
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <img width=100 height=130 src="http://idmgmtapp01/images/AdminPortalErrorImages/Registration4.jpg">
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <img width=110 height=130 src="http://idmgmtapp01/images/AdminPortalErrorImages/Registration5.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td width='12%' align='center'>
+      <p class='Applications'>One Drive Delegation</p>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <p class='Applications'>AD Account Creation</p>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <p class='Applications'>Audit Reporting</p>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <p class='Applications'>Associate Termination</p>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <p class='Applications'>Web Site Maintenance</p>
+    </td>
+  </tr> 
+</table>
+<br>
+<br>
+<table width='100%'>
+  <tr>
+    <td>
+      <p class='RegistrationDetails'>Below is a simple registration form where you need to select your E-Mail address and check the boxes of those applications you need access to.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p class='RegistrationDetails'>After making these selections, click the Submit Request button. You will then receive a confirmation e-mail shortly afterwards cofirming your request.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p class='RegistrationDetails'>An associate from the IDM department will be in contact with you shortly to answer any questions and send you the official registration e-mail.</p>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+<table width='100%'>
+  <tr>
+    <td width='44.6%'>
+      <p class='AppCheckboxDescLeft'>Enter text in search string box to narrow search of your E-Mail address</p>
+    </td>  
+    <td width='55.4%'>
+      <p class='AppCheckboxDescCenter'>Check any of the boxes below if you want access to that particular application</p>
+    </td>
+  </tr>
+</table>
+<br>
+<table width='100%'>
+  <tr>
+    <td width='12%' align='center'>
+      <input id='requesterName' name='requesterName' type='text' placeholder='e.g. john.doe' onkeyup='UpdateRequesterDropDownList(this);'>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <select name='requesterNames' id='requesterNames'>
+        <option value=""></option>
+      </select>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <input type='checkbox' name='onedrivedelegation' id='onedrivedelegation'>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <input type='checkbox' name='adaccountcreation' id='adaccountcreation'>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <input type='checkbox' name='associatetermination' id='associatetermination'>
+    </td>
+  </tr>
+  <tr>
+    <td width='12%' align='center'>
+      <p class='Applications'>Search String for E-Mail</p>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <p class='Applications'>Select E-Mail Address</p>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <p class='Applications'>One-Drive Delegation</p>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <p class='Applications'>AD Account Creation</p>
+    </td>
+    <td width='10%'>&nbsp</td>
+    <td width='12%' align='center'>
+      <p class='Applications'>Associate Termination</p>
+    </td>
+  </tr> 
+</table>
+<br><br>
+<table width='100%'>
+  <tr>
+    <td width='12%' align='center'>
+      <button class='styledButton' id='Submit' name='Submit' type='submit' value='Submit'>Submit Request</button>
+    </td>
+  </tr>
+</body>
+</html>

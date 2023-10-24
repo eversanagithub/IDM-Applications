@@ -1,0 +1,16 @@
+
+Daily Set-OneDriveDelegation Detail Logging for February 05, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Pulling part delegates from Azure Storage Tables
+
+Pulling OneDrive Site URLs from SharePoint
+
+Pulling list of all Disabled Users
+
+Processing recently terminated users one at a time
+
+All delegates processed ... see you tomorrow!!
+

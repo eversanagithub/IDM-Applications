@@ -1,0 +1,284 @@
+
+Daily Set-OneDriveDelegation Detail Logging for August 31, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [donminque.savory@eversana.com] whose manager is [mary.harbin@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/donminque_savory_eversana_com]
+
+Adding folder [TERM-20230831-DONMINQUE.SAVORY] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Donminque @ Eversana] into TERM folder.
+
+Moving file [/personal/donminque_savory_eversana_com/Documents/Document.docx] into folder [/personal/donminque_savory_eversana_com/Documents/TERM-20230831-DONMINQUE.SAVORY/Document.docx]
+
+Moving file [/personal/donminque_savory_eversana_com/Documents/Document1.docx] into folder [/personal/donminque_savory_eversana_com/Documents/TERM-20230831-DONMINQUE.SAVORY/Document1.docx]
+
+Adding user [mary.harbin@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [mary.harbin@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [david.kuhr@eversana.com] whose manager is [carol.lam@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/david_kuhr_eversana_com]
+
+Adding folder [TERM-20230831-DAVID.KUHR] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Adding user [carol.lam@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [carol.lam@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [elaine.draise@eversana.com] whose manager is [Angela.Stone@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/elaine_draise_eversana_com]
+
+Adding folder [TERM-20230831-ELAINE.DRAISE] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Elaine @ Eversana] into TERM folder.
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/Replace Medication.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/Replace Medication.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet (3).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet (3).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (1).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (1).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/THANK YOU FOR CALLING JOHNSON AND JOHNSON HASPITAL ACCESS PATIENT ASSISTANCE PROGRAM.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/THANK YOU FOR CALLING JOHNSON AND JOHNSON HASPITAL ACCESS PATIENT ASSISTANCE PROGRAM.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/Elaine Draise  03-30-2021.xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/Elaine Draise  03-30-2021.xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (2).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (2).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (3).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (3).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 04-01-2021.xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 04-01-2021.xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 03-31-2021.xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 03-31-2021.xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (4).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (4).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (5).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (5).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (6).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (6).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (7).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (7).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (8).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (8).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (9).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (9).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 01 15 (3) (10).xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 01 15 (3) (10).xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/DI SANA Tracking Sheet 2021 04-10-2021.xlsb] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/DI SANA Tracking Sheet 2021 04-10-2021.xlsb]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/Doc1.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/Doc1.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/1Z557W8Y2455269084  John Young  09.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/1Z557W8Y2455269084  John Young  09.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/JJPAF Shift Bid Form -Elaine Draise.xlsx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/JJPAF Shift Bid Form -Elaine Draise.xlsx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/PRF GUIDELINES.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/PRF GUIDELINES.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/Patient.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/Patient.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/2022 JJPAF AE - A Hudson.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/2022 JJPAF AE - A Hudson.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/2021 JJPAF AE FORM - W. Russo.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/2021 JJPAF AE FORM - W. Russo.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/2021 JJPAF AE FORM - K. Krebbs.docx] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/2021 JJPAF AE FORM - K. Krebbs.docx]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/bookmarks_11_23_22.html] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/bookmarks_11_23_22.html]
+
+Moving file [/personal/elaine_draise_eversana_com/Documents/Chrome Passwords 11-22.csv] into folder [/personal/elaine_draise_eversana_com/Documents/TERM-20230831-ELAINE.DRAISE/Chrome Passwords 11-22.csv]
+
+Adding user [Angela.Stone@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Angela.Stone@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [amit.vhanakalas@eversana.com] whose manager is [Mahendra.Rai@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/amit_vhanakalas_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [salvatore.monopoli@eversana.com] whose manager is [Michael.DeLuca@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/salvatore_monopoli_eversana_com]
+
+Adding folder [TERM-20230831-SALVATORE.MONOPOLI] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/salvatore_monopoli_eversana_com/Documents/History100122121354.xlsx] into folder [/personal/salvatore_monopoli_eversana_com/Documents/TERM-20230831-SALVATORE.MONOPOLI/History100122121354.xlsx]
+
+Adding user [Michael.DeLuca@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Michael.DeLuca@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [liz.pahl@eversana.com] whose manager is [maria.kridler@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/liz_pahl_eversana_com]
+
+Adding folder [TERM-20230831-LIZ.PAHL] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/IVA Files] into TERM folder.
+
+Moving folder [Documents/Dynamic Web] into TERM folder.
+
+Moving folder [Documents/liz @ Work] into TERM folder.
+
+Moving file [/personal/liz_pahl_eversana_com/Documents/GEMTESA Brand Planning Ideas.pptx] into folder [/personal/liz_pahl_eversana_com/Documents/TERM-20230831-LIZ.PAHL/GEMTESA Brand Planning Ideas.pptx]
+
+Moving file [/personal/liz_pahl_eversana_com/Documents/Liz + Lucy OOO May 2-6.xlsx] into folder [/personal/liz_pahl_eversana_com/Documents/TERM-20230831-LIZ.PAHL/Liz + Lucy OOO May 2-6.xlsx]
+
+Moving file [/personal/liz_pahl_eversana_com/Documents/Denae Feedback.docx] into folder [/personal/liz_pahl_eversana_com/Documents/TERM-20230831-LIZ.PAHL/Denae Feedback.docx]
+
+Moving file [/personal/liz_pahl_eversana_com/Documents/VEN AML Weekly Hot Sheet.xlsx] into folder [/personal/liz_pahl_eversana_com/Documents/TERM-20230831-LIZ.PAHL/VEN AML Weekly Hot Sheet.xlsx]
+
+Moving file [/personal/liz_pahl_eversana_com/Documents/2023 VEN Attack Plan_4.6.23.xlsx] into folder [/personal/liz_pahl_eversana_com/Documents/TERM-20230831-LIZ.PAHL/2023 VEN Attack Plan_4.6.23.xlsx]
+
+Moving file [/personal/liz_pahl_eversana_com/Documents/VEN Client Ralationship Mapping.xlsx] into folder [/personal/liz_pahl_eversana_com/Documents/TERM-20230831-LIZ.PAHL/VEN Client Ralationship Mapping.xlsx]
+
+Moving file [/personal/liz_pahl_eversana_com/Documents/2023 VEN Attack Plan_4.26.23.xlsx] into folder [/personal/liz_pahl_eversana_com/Documents/TERM-20230831-LIZ.PAHL/2023 VEN Attack Plan_4.26.23.xlsx]
+
+Adding user [maria.kridler@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [maria.kridler@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [raldeja.pruitt@eversana.com] whose manager is [Desiree.Marcus@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/raldeja_pruitt_eversana_com]
+
+Adding folder [TERM-20230831-RALDEJA.PRUITT] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/raldeja_pruitt_eversana_com/Documents/Doc1.docx] into folder [/personal/raldeja_pruitt_eversana_com/Documents/TERM-20230831-RALDEJA.PRUITT/Doc1.docx]
+
+Moving file [/personal/raldeja_pruitt_eversana_com/Documents/When you first get your Wegovy.docx] into folder [/personal/raldeja_pruitt_eversana_com/Documents/TERM-20230831-RALDEJA.PRUITT/When you first get your Wegovy.docx]
+
+Adding user [Desiree.Marcus@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Desiree.Marcus@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [raldeja.pruitt@eversana.com] whose manager is [Desiree.Marcus@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/raldeja_pruitt_eversana_com]
+
+Adding folder [TERM-20230831-RALDEJA.PRUITT] in /Documents directory
+
+Main Folder [TERM-20230831-RALDEJA.PRUITT] already exists --- will not recreate it
+
+Adding user [Desiree.Marcus@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Desiree.Marcus@eversana.com]
+
+Processing OneDrive Delegation for delegate [terri.versace@eversana.com] whose manager is [carolin.leblond@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/terri_versace_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+All delegates processed ... see you tomorrow!!
+

@@ -1,0 +1,41 @@
+<html>
+<head>
+<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<body bgcolor='white'>
+<center>
+<table width=100%>
+<tr><td><img src='https://www.eversana.com/wp-content/uploads/2019/05/EmailHeaderTECHNOLOGYComm.png' width='545' height='85'></td></tr>
+</table>
+</br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>Hi Dave ,</p></td></tr>
+</table>
+</br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>You are receiving this e-mail in response to your registration request for Admin Portal access to the IDM website.</p></td></tr>
+<tr><td><p class='RegistrationResponse3'>Once approved and successfully registered, you will be given access to the following applications:</p></td></tr>
+</table>
+</br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse2'>Associate Termination</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>You are now recorded in our system as a pending registration.</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>Someone from the IDM team will be reaching out to you soon to discuss you access request.</p></td></tr>
+<tr><td><p class='RegistrationResponse3'>If access is approved, your will be receiving another E-Mail with the registration link in it.</p></td></tr>
+<tr><td><p class='RegistrationResponse3'>Simply click on that link and follow the instructions. Registration is really fast and easy.</p></td></tr>
+<tr><td><p class='RegistrationResponse3'>Again, if you have any further questions please contact a member of the IDM department .</p></td></tr>
+</table>
+<br>
+<table width=100%>
+<tr><td><p class='RegistrationResponse3'>Thanks Dave,</p></td></tr>
+<tr><td><p class='RegistrationResponse3'>The IDM team</p></td></tr>
+</table>
+</center>
+</body>
+</html>

@@ -1,0 +1,64 @@
+<html>
+<head>
+	<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+	<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<!-- SetWebPageDTGToZero sets WebPageDTG to '000'. -->
+<BODY onLoad='SetWebPageDTGToZero();BuildPromotionSelectionButtons()' class="bodyBackground">
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<img src="http://idmgmtapp01/images/ThisSite.jpg">
+		</td>
+	</tr>
+</table>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/index.html' target='_parent'>
+				<img width=150 height=20 src="http://idmgmtapp01/images/returntomainpage.jpg" onMouseOver='BlueBlank_Description();' onMouseLeave='initialTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<img src="http://idmgmtapp01/images/PromoteCodeLinks.jpg">
+		</td>
+	</tr>
+</table>
+<br><br>
+<!-- Promote code to production -->
+<FORM id='PortalForm' METHOD='POST' ACTION='/cgi-bin/BuildWebpageScripts/CreatePromoteHTMLResponse.pl' target='mainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center' id="Promote"></td>
+	</tr>
+</table>
+</FORM>
+<br>
+<!-- Revert production code to previous version -->
+<FORM id='RevertForm' METHOD='POST' ACTION='/cgi-bin/BuildWebpageScripts/CreateRevertHTMLResponse.pl' target='mainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center' id="Revert"></td>
+	</tr>
+</table>
+</FORM>
+<br>
+<!-- Send new code to GIT repository -->
+<FORM id='GITForm' METHOD='POST' ACTION='/cgi-bin/BuildWebpageScripts/CreateGITHTMLResponse.pl' target='mainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center' id="GIT"></td>
+	</tr>
+</table>
+</FORM>
+<br>
+<canvas id="myCanvas" width="400" height="0" style="border:1px solid #DFAB17;">
+</body>
+</html>

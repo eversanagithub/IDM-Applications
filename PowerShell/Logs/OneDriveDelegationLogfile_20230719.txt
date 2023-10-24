@@ -1,0 +1,443 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 19, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [iman.foster@eversana.com] whose manager is [sherika.cohens@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/iman_foster_eversana_com]
+
+Adding folder [TERM-20230719-IMAN.FOSTER] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving file [/personal/iman_foster_eversana_com/Documents/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0.docx] into folder [/personal/iman_foster_eversana_com/Documents/TERM-20230719-IMAN.FOSTER/CJA-5-35e-NVN Inbound Call Guide and FAQ - Novo Nordisk Rev 131.0.docx]
+
+Adding user [sherika.cohens@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [sherika.cohens@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [nicholas.dotson@eversana.com] whose manager is [william.mcghee@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/nicholas_dotson_eversana_com]
+
+Adding folder [TERM-20230719-NICHOLAS.DOTSON] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/nicholas_dotson_eversana_com/Documents/loc29.xlsx] into folder [/personal/nicholas_dotson_eversana_com/Documents/TERM-20230719-NICHOLAS.DOTSON/loc29.xlsx]
+
+Moving file [/personal/nicholas_dotson_eversana_com/Documents/EMY.xlsx] into folder [/personal/nicholas_dotson_eversana_com/Documents/TERM-20230719-NICHOLAS.DOTSON/EMY.xlsx]
+
+Adding user [william.mcghee@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [william.mcghee@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [prakash.gaud@eversana.com] whose manager is [anand.merneedi@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/prakash_gaud_eversana_com]
+
+Adding folder [TERM-20230719-PRAKASH.GAUD] in /Documents directory
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Prakash @ EVERSANA] into TERM folder.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Microsoft Teams Chat Files]
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Recordings] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Recordings]
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/TERM-20230324-PRAKASH.GAUD]
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/attachment1.eml] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/attachment1.eml]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/attachment1.eml] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/attachment1 (1).eml] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/attachment1 (1).eml]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/attachment1 (1).eml] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2022-10-18 162930.png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Screenshot 2022-10-18 162930.png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2022-10-18 162930.png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2022-10-18 162930 (1).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Screenshot 2022-10-18 162930 (1).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2022-10-18 162930 (1).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2022-10-20 162756.png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Screenshot 2022-10-20 162756.png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2022-10-20 162756.png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/dontHaveAccess.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/dontHaveAccess.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/dontHaveAccess.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Capture_2.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Capture_2.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Capture_2.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Capture_1.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Capture_1.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Capture_1.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (3).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image (3).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (3).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (4).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image (4).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (4).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/resp.txt] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/resp.txt]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/resp.txt] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Error_500.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Error_500.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Error_500.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/1_1 (1).jpg] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/1_1 (1).jpg]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/1_1 (1).jpg] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/1_1.jpg] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/1_1.jpg]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/1_1.jpg] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/10 (2).jpg] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/10 (2).jpg]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/10 (2).jpg] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/shipID.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/shipID.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/shipID.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/TestedOn Stage.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/TestedOn Stage.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/TestedOn Stage.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/2022_11_11.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/2022_11_11.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/2022_11_11.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/TestedOn Stage (1).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/TestedOn Stage (1).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/TestedOn Stage (1).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/shipID (1).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/shipID (1).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/shipID (1).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image.png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image.png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image.png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (5).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image (5).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (5).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (6).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image (6).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (6).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/sampProjCOI.zip] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/sampProjCOI.zip]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/sampProjCOI.zip] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/repo.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/repo.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/repo.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/UAR.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/UAR.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/UAR.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/sbhtml.txt] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/sbhtml.txt]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/sbhtml.txt] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/sampleCOI.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/sampleCOI.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/sampleCOI.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/NewChange.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/NewChange.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/NewChange.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (7).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image (7).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (7).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2022-11-29 154328.png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Screenshot 2022-11-29 154328.png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2022-11-29 154328.png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/COIauth.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/COIauth.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/COIauth.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/sampdata.txt] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/sampdata.txt]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/sampdata.txt] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coi-ui-app.zip] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/coi-ui-app.zip]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coi-ui-app.zip] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/LocalBuild.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/LocalBuild.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/LocalBuild.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coi-dashboard.zip] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/coi-dashboard.zip]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coi-dashboard.zip] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/apifor listrecevers] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/apifor listrecevers]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/apifor listrecevers] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (9).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image (9).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (9).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/NAL.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/NAL.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/NAL.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coi-ui.zip] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/coi-ui.zip]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coi-ui.zip] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coi-ui (1).zip] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/coi-ui (1).zip]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coi-ui (1).zip] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coiForm.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/coiForm.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/coiForm.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SANA_GroupId.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/SANA_GroupId.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SANA_GroupId.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SANA Enroll.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/SANA Enroll.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SANA Enroll.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/PhishingMail.png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/PhishingMail.png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/PhishingMail.png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/TS_PrakashG.xlsx] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/TS_PrakashG.xlsx]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/TS_PrakashG.xlsx] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/projID.png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/projID.png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/projID.png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/projID (1).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/projID (1).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/projID (1).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/ConfirmationBox.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/ConfirmationBox.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/ConfirmationBox.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/CloselegalReview.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/CloselegalReview.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/CloselegalReview.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/LegalExpert_user.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/LegalExpert_user.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/LegalExpert_user.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Legal_Disclosure.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Legal_Disclosure.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Legal_Disclosure.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SS_DisclosureField.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/SS_DisclosureField.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SS_DisclosureField.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SS_Align.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/SS_Align.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SS_Align.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SS_Done.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/SS_Done.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SS_Done.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/gettingCORSError.PNG] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/gettingCORSError.PNG]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/gettingCORSError.PNG] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (10).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image (10).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (10).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (12).png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/MicrosoftTeams-image (12).png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/MicrosoftTeams-image (12).png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SANACRM_2] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/SANACRM_2]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SANACRM_2] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SANACRM_1] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/SANACRM_1]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/SANACRM_1] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2023-03-06 194830.png] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Screenshot 2023-03-06 194830.png]
+
+Cannot move file [/personal/prakash_gaud_eversana_com/Documents/TERM-20230324-PRAKASH.GAUD/Microsoft Teams Chat Files/Screenshot 2023-03-06 194830.png] as it does not exist.
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/OutboundReportFor6thApril.xlsx] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/OutboundReportFor6thApril.xlsx]
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/BatchJobMonitoring_Morning_10th_April.xlsx] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/BatchJobMonitoring_Morning_10th_April.xlsx]
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/batch monitoring11Th april.xlsx] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/batch monitoring11Th april.xlsx]
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/Sana_Report_02_June & 05_June.xlsx] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Sana_Report_02_June & 05_June.xlsx]
+
+Moving file [/personal/prakash_gaud_eversana_com/Documents/Sana_Report_15_June.xlsx] into folder [/personal/prakash_gaud_eversana_com/Documents/TERM-20230719-PRAKASH.GAUD/Sana_Report_15_June.xlsx]
+
+Adding user [anand.merneedi@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [anand.merneedi@eversana.com]
+
+Processing OneDrive Delegation for delegate [prakash.gaud@eversana.com] whose manager is [anand.merneedi@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/prakash_gaud_eversana_com]
+
+Adding folder [TERM-20230719-PRAKASH.GAUD] in /Documents directory
+
+Main Folder [TERM-20230719-PRAKASH.GAUD] already exists --- will not recreate it
+
+Adding user [anand.merneedi@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [anand.merneedi@eversana.com]
+
+Processing OneDrive Delegation for delegate [elizabeth.stauffer@eversana.com] whose manager is [john.kenny@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/elizabeth_stauffer_eversana_com]
+
+Adding folder [TERM-20230719-ELIZABETH.STAUFFER] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Biogen] into TERM folder.
+
+Moving folder [Documents/Brand Planning] into TERM folder.
+
+Moving folder [Documents/RAVICTI] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/2022 Engage Brand Planning] into TERM folder.
+
+Moving file [/personal/elizabeth_stauffer_eversana_com/Documents/2023 Engage Affiliate L1-L2 Kickoff.pptx] into folder [/personal/elizabeth_stauffer_eversana_com/Documents/TERM-20230719-ELIZABETH.STAUFFER/2023 Engage Affiliate L1-L2 Kickoff.pptx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [patricia.ashton@eversana.com] whose manager is [nick.dbenedetto@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/patricia_ashton_eversana_com]
+
+Adding folder [TERM-20230719-PATRICIA.ASHTON] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Data] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/02 Brand Design & Strategy Documents] into TERM folder.
+
+Cannot move folder [TERM-20230719-PATRICIA.ASHTON] as it does not exist.
+
+Moving folder [Documents/P000040258 - BVY TN Story Leave Behind] into TERM folder.
+
+Cannot move folder [TERM-20230719-PATRICIA.ASHTON] as it does not exist.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Submission + Approval] into TERM folder.
+
+Cannot move folder [TERM-20230719-PATRICIA.ASHTON] as it does not exist.
+
+Moving folder [Documents/P000032579 - BVY Viral Suppression Leave Behind] into TERM folder.
+
+Cannot move folder [TERM-20230719-PATRICIA.ASHTON] as it does not exist.
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/02 Brand Design & Strategy Documents] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/02 Brand Design & Strategy Documents]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/P000040258 - BVY TN Story Leave Behind] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/P000040258 - BVY TN Story Leave Behind]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Book.xlsx] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Book.xlsx]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Brolucizumab_Intouch_Med Comm_Status_Report.xlsx] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Brolucizumab_Intouch_Med Comm_Status_Report.xlsx]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Intouch Coalition Task order 7.7.21.docx] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Intouch Coalition Task order 7.7.21.docx]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Novartis Brolucizumab Coalition Task Order 2021.xlsx] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Novartis Brolucizumab Coalition Task Order 2021.xlsx]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Doc2.docx] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Doc2.docx]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Presentation.pptx] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Presentation.pptx]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Submission + Approval] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Submission + Approval]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/P000032579 - BVY Viral Suppression Leave Behind] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/P000032579 - BVY Viral Suppression Leave Behind]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Gilead BVY Pre Existing Resistance IVA Update 8SEPT22.xlsx] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Gilead BVY Pre Existing Resistance IVA Update 8SEPT22.xlsx]
+
+Moving file [/personal/patricia_ashton_eversana_com/Documents/Next Steps.docx] into folder [/personal/patricia_ashton_eversana_com/Documents/TERM-20230719-PATRICIA.ASHTON/Next Steps.docx]
+
+Adding user [nick.dbenedetto@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [nick.dbenedetto@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

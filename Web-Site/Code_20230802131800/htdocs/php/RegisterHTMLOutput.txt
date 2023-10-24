@@ -1,0 +1,16 @@
+Content-type: text/html
+
+<html>
+<head>
+<meta http-equiv='refresh' content="10; url='http://idmgmtapp01/index.html'" />
+</head>
+<body bgcolor='#0F0141'>
+<table width='100%' align='center'>
+	<tr>
+		<td width='100%' align='center'>
+			<img width=1870 height=920 src='http://idmgmtapp01/images/FullScreenRegister.jpg'>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

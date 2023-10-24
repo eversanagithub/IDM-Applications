@@ -1,0 +1,45 @@
+<html>
+<head>
+
+	<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+	<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<!-- <BODY onload='BuildAdminPortalSelectionButtons()' class="bodyBackground"> -->
+<BODY onload='BuildAdminPortalApplicationSelectionButtonsRefresh()' class="bodyBackground">
+<br><br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td>
+			<p class='AppHeader'>Click on Desired App Below</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<!-- Associate Termination Application -->
+<FORM id='CallTerminateAssociate' METHOD='POST' ACTION='/cgi-bin/AssociateTerminations/CreateTERMHTMLResponse.pl' target='topmainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center' id="TerminateAssociate"></td>
+	</tr>
+</table>
+</FORM>
+<br>
+<!-- AD Account Creation Application -->
+<FORM id='CallAcctCreation' METHOD='POST' ACTION='/cgi-bin/ADAccountCreation/CreateADACHTMLResponse.pl' target='topmainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center' id="ADAccountCreation"></td>
+	</tr>
+</table>
+</FORM>
+<br>
+<!-- One Drive Delegation Application -->
+<FORM id='CallODDelegation' METHOD='POST' ACTION='/cgi-bin/OneDriveDelegation/CreateODDHTMLResponse.pl' target='topmainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center' id="OneDriveDelegation"></td>
+	</tr>
+</table>
+</FORM>
+</body>
+</html>

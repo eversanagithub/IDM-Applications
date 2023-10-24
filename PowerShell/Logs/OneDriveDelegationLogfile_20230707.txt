@@ -1,0 +1,230 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 07, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [jessica.kaiser@eversana.com] whose manager is [Angela.Stone@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jessica_kaiser_eversana_com]
+
+Adding folder [TERM-20230707-JESSICA.KAISER] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Jessica @ Eversana] into TERM folder.
+
+Moving file [/personal/jessica_kaiser_eversana_com/Documents/Processing Quick Notes.docx] into folder [/personal/jessica_kaiser_eversana_com/Documents/TERM-20230707-JESSICA.KAISER/Processing Quick Notes.docx]
+
+Moving file [/personal/jessica_kaiser_eversana_com/Documents/bookmarks_12_1_22.html] into folder [/personal/jessica_kaiser_eversana_com/Documents/TERM-20230707-JESSICA.KAISER/bookmarks_12_1_22.html]
+
+Moving file [/personal/jessica_kaiser_eversana_com/Documents/Chrome Passwords.csv] into folder [/personal/jessica_kaiser_eversana_com/Documents/TERM-20230707-JESSICA.KAISER/Chrome Passwords.csv]
+
+Moving file [/personal/jessica_kaiser_eversana_com/Documents/Gastroparesis research.docx] into folder [/personal/jessica_kaiser_eversana_com/Documents/TERM-20230707-JESSICA.KAISER/Gastroparesis research.docx]
+
+Moving file [/personal/jessica_kaiser_eversana_com/Documents/NP tracking.xlsx] into folder [/personal/jessica_kaiser_eversana_com/Documents/TERM-20230707-JESSICA.KAISER/NP tracking.xlsx]
+
+Moving file [/personal/jessica_kaiser_eversana_com/Documents/Links and Passwords.docx] into folder [/personal/jessica_kaiser_eversana_com/Documents/TERM-20230707-JESSICA.KAISER/Links and Passwords.docx]
+
+Moving file [/personal/jessica_kaiser_eversana_com/Documents/MedTek BV Notes Template.docx] into folder [/personal/jessica_kaiser_eversana_com/Documents/TERM-20230707-JESSICA.KAISER/MedTek BV Notes Template.docx]
+
+Moving file [/personal/jessica_kaiser_eversana_com/Documents/LEGAL GROUNDS FOR SUING AN EMPLOYER FOR FALSE PROMISES.docx] into folder [/personal/jessica_kaiser_eversana_com/Documents/TERM-20230707-JESSICA.KAISER/LEGAL GROUNDS FOR SUING AN EMPLOYER FOR FALSE PROMISES.docx]
+
+Adding user [Angela.Stone@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Angela.Stone@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [cecilia.setta@eversana.com] whose manager is [Magda.Rudnikowska@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/cecilia_setta_eversana_com]
+
+Adding folder [TERM-20230707-CECILIA.SETTA] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Cecilia @ EVERSANA] into TERM folder.
+
+Adding user [Magda.Rudnikowska@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Magda.Rudnikowska@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [whitney.calvert@eversana.com] whose manager is [tori.perdieu@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/whitney_calvert_eversana_com]
+
+Adding folder [TERM-20230707-WHITNEY.CALVERT] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Audience Data Report Sample.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Audience Data Report Sample.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Everyday Health x Regeneron Libtayo_Creative Update_2.7.2023.pptx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Everyday Health x Regeneron Libtayo_Creative Update_2.7.2023.pptx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Relevate Standard Data Spec - EHR.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Relevate Standard Data Spec - EHR.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Standard_MNG_FIA_1.2.docx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Standard_MNG_FIA_1.2.docx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/3.9_PeerDirect HCP Level File Interface  Agreement (FIA) v3.9_5.19.2021docx.docx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/3.9_PeerDirect HCP Level File Interface  Agreement (FIA) v3.9_5.19.2021docx.docx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/LIBTAYO NSCLC_AGGREGO ONCOLOGY_012022_NPI REPORT.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/LIBTAYO NSCLC_AGGREGO ONCOLOGY_012022_NPI REPORT.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/LIBTAYO FY23 Media Prisma.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/LIBTAYO FY23 Media Prisma.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Libtayo_Media_Tactics_Data_Template_2_22_2023.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Libtayo_Media_Tactics_Data_Template_2_22_2023.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Amex Bill.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Amex Bill.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/LIBTAYO 2023 Global Digital ATB_2.17.23.pdf] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/LIBTAYO 2023 Global Digital ATB_2.17.23.pdf]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Libtayo_Media_Tactics_Data_Template_2_22_2023 - Print.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Libtayo_Media_Tactics_Data_Template_2_22_2023 - Print.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Libtayo 2023 Print Insertion Dates.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Libtayo 2023 Print Insertion Dates.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/LIBTAYO Global Lung MP 2023 Working File_Whitney.pptx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/LIBTAYO Global Lung MP 2023 Working File_Whitney.pptx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/CEACAM5 US SOW 2023_v1.docx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/CEACAM5 US SOW 2023_v1.docx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/CEACAM5 2023 Global Trafficking Sheet .xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/CEACAM5 2023 Global Trafficking Sheet .xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/CEACAM5 US Media SOW_March 2023 - Copy.docx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/CEACAM5 US Media SOW_March 2023 - Copy.docx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/4620_CEACAM5_US_2023_KLO Campaign_creative switch 4.17.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/4620_CEACAM5_US_2023_KLO Campaign_creative switch 4.17.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Q4 2022-Q1 2023 CEACAM5 US Campaign.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Q4 2022-Q1 2023 CEACAM5 US Campaign.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/4620_CEACAM5_Global_2023_20230502_141641_4113396164.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/4620_CEACAM5_Global_2023_20230502_141641_4113396164.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/CEACAM5_US 2H 2023_Media Plan.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/CEACAM5_US 2H 2023_Media Plan.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/4620_CEACAM5_US_2023_20230529_013758_4144898286.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/4620_CEACAM5_US_2023_20230529_013758_4144898286.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/CEACAM5_Creative_Performance_2023.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/CEACAM5_Creative_Performance_2023.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/4620_CEACAM5_US_Q2_KTLO_2023_Final_Pull_20230703_080038_4187404490 (1).xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/4620_CEACAM5_US_Q2_KTLO_2023_Final_Pull_20230703_080038_4187404490 (1).xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/Book.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/Book.xlsx]
+
+Moving file [/personal/whitney_calvert_eversana_com/Documents/4620_CEACAM5_Global_2023_20230703_083805_4187437771.xlsx] into folder [/personal/whitney_calvert_eversana_com/Documents/TERM-20230707-WHITNEY.CALVERT/4620_CEACAM5_Global_2023_20230703_083805_4187437771.xlsx]
+
+Adding user [tori.perdieu@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [tori.perdieu@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [candace.scott@eversana.com] whose manager is [Neville.Adolf@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/candace_scott_eversana_com]
+
+Adding folder [TERM-20230707-CANDACE.SCOTT] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/candace_scott_eversana_com/Documents/DAILY COUNTBACK LOG PICKER ERRORS.xlsx] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/DAILY COUNTBACK LOG PICKER ERRORS.xlsx]
+
+Moving file [/personal/candace_scott_eversana_com/Documents/Doc1.docx] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/Doc1.docx]
+
+Moving file [/personal/candace_scott_eversana_com/Documents/goals.docx] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/goals.docx]
+
+Moving file [/personal/candace_scott_eversana_com/Documents/Inventory Production Tracker.xlsx] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/Inventory Production Tracker.xlsx]
+
+Moving file [/personal/candace_scott_eversana_com/Documents/test1.xls] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/test1.xls]
+
+Moving file [/personal/candace_scott_eversana_com/Documents/7086045401 check stock.pdf] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/7086045401 check stock.pdf]
+
+Moving file [/personal/candace_scott_eversana_com/Documents/0407141491 GE CHECK STOCK.pdf] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/0407141491 GE CHECK STOCK.pdf]
+
+Moving file [/personal/candace_scott_eversana_com/Documents/0407141472 GE CHECK STOCK.pdf] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/0407141472 GE CHECK STOCK.pdf]
+
+Moving file [/personal/candace_scott_eversana_com/Documents/Ecclesiasticus 30.docx] into folder [/personal/candace_scott_eversana_com/Documents/TERM-20230707-CANDACE.SCOTT/Ecclesiasticus 30.docx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [samir.syed@eversana.com] whose manager is [sohel.shameem@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/samir_syed_eversana_com]
+
+Ran into an error. Error is:
+The attempted operation is prohibited because it exceeds the list view threshold.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [franjo.hanzl@eversana.com] whose manager is [Mike.Ryan@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/franjo_hanzl_eversana_com]
+
+Adding folder [TERM-20230707-FRANJO.HANZL] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/franjo_hanzl_eversana_com/Documents/test.docx] into folder [/personal/franjo_hanzl_eversana_com/Documents/TERM-20230707-FRANJO.HANZL/test.docx]
+
+Adding user [Mike.Ryan@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Mike.Ryan@eversana.com]
+
+Adding record into SQL table.
+
+All delegates processed ... see you tomorrow!!
+

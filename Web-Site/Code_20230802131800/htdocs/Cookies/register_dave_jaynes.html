@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.AcctCreationTitle {
+	font-family: 'Times New Roman', Times, serif;
+	          color: black;
+        font-size: 40px;
+       font-style: italic;
+      font-weight: normal;
+       text-align: center;
+}
+
+p.AcctCreationDetail {
+	font-family: 'Times New Roman', Times, serif;
+	          color: black;
+        font-size: 25px;
+       font-style: normal;
+      font-weight: normal;
+       text-align: center;
+}
+</style>
+<script>
+function setCookie(cname,cvalue,exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  let expires = "expires=" + d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function checkCookie() {
+	let EmplID = "103257";
+	setCookie("ProdEmpID", EmplID, 10000);
+	let thisEncryptedKey = "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000ca7fe8542a37a145b17385ab01fd71c40000000002000000000003660000c000000010000000f071b55641ec17231581a5919be095900000000004800000a000000010000000d1fff6040f7070ed19c5c3cbbc08a051180000000273d29bf97b6724bfa9604c4fd2d0e37a1c3656c17832f914000000292f9acdb478c8b017e74199e4b21bb3f8323f76";
+	setCookie("ProdEncryptedKey",thisEncryptedKey, 365);
+}
+
+</script>
+</head>
+<body onload="checkCookie()" bgcolor='#0F0141'></body>
+<br><br>
+<table width='100%' align='center'>
+	<tr>
+		<td width='100%' align='center'>
+			<p class='AcctCreationTitle'>Your account has been successfully manually configured.</p>
+		</td>
+	</tr>
+</table>
+</html>

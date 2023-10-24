@@ -1,0 +1,42 @@
+<html>
+<head>
+	<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+	<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<!-- <BODY onload='BuildAdminPortalSelectionButtonsRefresh()' class="bodyBackground"> -->
+<BODY onload='BuildAdminPortalApplicationSelectionButtonsRefresh()' class="bodyBackground">
+<table border=0 style="width:100%">
+	<tr>
+		<td>
+			<p class='NoticeBlue'>Production Site</p>
+		</td>
+	</tr>
+</table>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/index.html' target='_parent'>
+				<img width=150 height=20 src="http://idmgmtapp01/images/returntomainpage.jpg" onMouseOver='BlueBlank_Description();' onMouseLeave='initialTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br>
+<table border=0 style="width:100%">
+	<tr>
+		<td>
+			<p class='AppHeader'>Click on Desired App Below</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%" id="AllButtons"></table>
+<table border='0' width=100%>
+ <tr>
+  <canvas id="myCanvas" width="400" height="0" style="border:1px solid #DFAB17;">
+ </tr>
+</table>
+</body>
+</html>

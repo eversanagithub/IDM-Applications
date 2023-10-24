@@ -1,0 +1,22 @@
+Content-type: text/html
+
+<html>
+<head>
+<link rel='stylesheet' href='http://iuatidmgmtapp01/css/styles.css'>
+<script LANGUAGE=JAVASCRIPT src=http://iuatidmgmtapp01/js/functions.js></script>
+</head>
+<body onLoad='DisplayTermIntro();' bgcolor='#0F0141'>
+<FORM id='ViewListings' METHOD='POST' ACTION='/cgi-bin/AssociateTerminations/ListAssociates.pl' target='mainpanel'>
+<table width='100%' align='center'>
+<tr>
+<th width='100%' align='center'>
+<p class='WhiteText_P15'>Employee ID</p>
+</th>
+</tr><tr>
+<td width='100%' align='center'>
+<input id='assocID' name='assocID' type='text' onkeyup='UpdateSearchRecords();'>
+</td>
+</tr>
+</table>
+</body>
+</html>

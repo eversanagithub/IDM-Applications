@@ -1,0 +1,81 @@
+<html>
+<head>
+	<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+	<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+</head>
+<BODY class="bodyBackground">
+<br><br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td>
+			<p class='AppHeader'>Click on Desired App Below</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+
+<!-- One Drive Delegation Application -->
+<FORM id='CallODDelegation' METHOD='POST' ACTION='/cgi-bin/Applications/OneDriveDelegation/CreateODDHTMLResponse.pl' target='topmainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<input id='Submit' name='Submit' value='ODDelegation' type='image' src='http://idmgmtapp01/Applications/images/ODDelegation.jpg' width=132 height=47 align='middle' border='0' onMouseOver='ODD_Description();' onMouseLeave='MainTopDisplay();' onClick='SetShowDescriptionsOff();CreateODDHTMLResponse();'>
+			</p>
+		</td>
+	</tr>
+</table>
+</FORM>
+<br>
+<!-- AD Account Creation Application -->
+<FORM id='CallAcctCreation' METHOD='POST' ACTION='/cgi-bin/Applications/ADAccountCreation/CreateADACHTMLResponse.pl' target='topmainpanel'>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<input id='Submit' name='Submit' value='AcctCreation' type='image' src='http://idmgmtapp01/Applications/images/ADAcctCreation.jpg' width=130 height=45 align='middle' border='0' onMouseOver='ADAC_Description();' onMouseLeave='MainTopDisplay();' onClick='SetShowDescriptionsOff();CreateADACHTMLResponse();'>
+			</p>
+		</td>
+	</tr>
+</table>
+</FORM>
+
+<br><br>
+<!-- Associate Termination Application -->
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/Applications/AssociateTerminations/SearchBoxes.html' target='topmainpanel'>
+				<img width=134 height=49 src="http://idmgmtapp01/Applications/images/Termination.jpg"   onMouseOver='EmployeeTerminationDescription();' onMouseLeave='MainTopDisplay();' onClick='SetShowDescriptionsOff();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/Applications/webpages/ComingSoon.htm' target='mainpanel'>
+				<img width=130 height=45 src="http://idmgmtapp01/Applications/images/Reactivation.jpg">
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br><br>
+<table border=0 style="width:100%">
+	<tr>
+		<td align='center'>
+			<p>
+				<a href='http://idmgmtapp01/Applications/index.html' target='_parent'>
+				<img width=130 height=45 src="http://idmgmtapp01/Applications/images/buttons/PortalLogout.jpg" onMouseOver='PortalLogoutBanner();' onMouseLeave='MainTopDisplay();' onClick='ResetAllAttributes();'>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

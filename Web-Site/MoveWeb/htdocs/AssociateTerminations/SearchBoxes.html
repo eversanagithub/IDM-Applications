@@ -1,0 +1,44 @@
+<html>
+<head>
+<link rel='stylesheet' href='http://idmgmtapp01/css/styles.css'>
+<script LANGUAGE=JAVASCRIPT src=http://idmgmtapp01/js/functions.js></script>
+</head>
+<!-- <body bgcolor="#0F0141" onLoad='UpdateFirstDetailRecord();PullTotalRecordCount(this)'> -->
+<body onLoad='DisplayTermIntro();' bgcolor="#0F0141">
+<FORM id='ViewListings' METHOD='POST' ACTION='/cgi-bin/AssociateTerminations/ListAssociates.pl' target='mainpanel'>
+<p class='Gold_P20'>Enter a combination of Employee ID, First Name and/or Last Name into the search boxes below populate table listing below.</p>
+
+<!-- <div id="TableWhiteBorder2"> -->
+<table width='100%' align='center'>
+	<tr>
+		<th width='33%'>
+			<p class='WhiteText_P15'>Associate ID</p>
+		</th>
+		<th width='33%'>
+			<p class='WhiteText_P15'>First Name</p>
+		</th>
+		<th width='%34'>
+			<p class='WhiteText_P15'>Last Name</p>
+		</th>
+	</tr>
+	<tr>
+		<td width='33%' align='center'>
+			<input id='assocID' name='assocID' type='text' onkeyup='UpdateSearchRecords();'>
+		</td>
+		<td width='33%' align='center'>
+			<input id='firstName' name='firstName' type='text' onkeyup='UpdateSearchRecords();'>
+		</td>
+		<td width='34%' align='center'>
+			<input id='lastName' name='lastName' type='text' onkeyup='UpdateSearchRecords();'>
+		</td>
+	</tr>
+</table>
+<br>
+<table border='0' width=100%>
+<tr>
+<canvas id='myCanvas' width='1600' height='0' style='border:2px solid #DFAB17;'>
+</tr>
+</table>
+<!-- </div> -->
+</body>
+</html>

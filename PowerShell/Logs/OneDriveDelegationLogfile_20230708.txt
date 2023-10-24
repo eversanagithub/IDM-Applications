@@ -1,0 +1,1122 @@
+
+Daily Set-OneDriveDelegation Detail Logging for July 08, 2023
+------------------------------------------------------------------
+
+Connection to Azure Resources
+
+Processing recently terminated users one at a time
+
+Processing OneDrive Delegation for delegate [mitch.menti@eversana.com] whose manager is [molly.buczynski@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/mitch_menti_eversana_com]
+
+Adding folder [TERM-20230708-MITCH.MENTI] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Ozempic - Novo Nordisk] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Goals and Growth 2021_Mitch Menti.docx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Goals and Growth 2021_Mitch Menti.docx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Orgovyx Q& A Questions.docx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Orgovyx Q& A Questions.docx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Orgovyx - Medical Download Notes.docx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Orgovyx - Medical Download Notes.docx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Intouch_Otsuka_Media_RFP_Case_Studies.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Intouch_Otsuka_Media_RFP_Case_Studies.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Astellas Experience Slide.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Astellas Experience Slide.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Mezzion Intouch Capabilities.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Mezzion Intouch Capabilities.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Takeda (Tak-935) 2020-2027 Sales Forecast.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Takeda (Tak-935) 2020-2027 Sales Forecast.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/RENEO INTOUCH GLOBAL CAPES.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/RENEO INTOUCH GLOBAL CAPES.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Q1 2022 ANALYSIS.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Q1 2022 ANALYSIS.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/PITCH PERFECT AWARDS DECK.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/PITCH PERFECT AWARDS DECK.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Top 20 Pharma.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Top 20 Pharma.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/IVA CASE STUDIES.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/IVA CASE STUDIES.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/H1 2022 Rep.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/H1 2022 Rep.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/EVERSANA INTOUCH DAOR Slideware.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/EVERSANA INTOUCH DAOR Slideware.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Rare Disease Experience.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Rare Disease Experience.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Rare Disease Slides.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Rare Disease Slides.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Copaxone Patient & HCP MCM.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Copaxone Patient & HCP MCM.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Opportunity Alignment Brief - Horizon.docx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Opportunity Alignment Brief - Horizon.docx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Horizon Therapeutics - Pitch Team.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Horizon Therapeutics - Pitch Team.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/CLIENTS.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/CLIENTS.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Agency Opportunities Pipeline.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Agency Opportunities Pipeline.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Shower Game.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Shower Game.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Leo Pharma Capes.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Leo Pharma Capes.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Leo Pharma - Client Backgrounder.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Leo Pharma - Client Backgrounder.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Mitch Menti - 2022 Goals & Growth.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Mitch Menti - 2022 Goals & Growth.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/ERASE THE LINE - AOR CASE.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/ERASE THE LINE - AOR CASE.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/UCB 2023 Launch Excellence.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/UCB 2023 Launch Excellence.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Integrated Agency Pipeline - Sep 2022.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Integrated Agency Pipeline - Sep 2022.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Slides For Kay - to Review.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Slides For Kay - to Review.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Pfizer - Answers - Internal.docx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Pfizer - Answers - Internal.docx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Genentech - Client Intel New.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Genentech - Client Intel New.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Case Studies Asks.docx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Case Studies Asks.docx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Client Roster by Thera Category-2022-09-19-11-22-23.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Client Roster by Thera Category-2022-09-19-11-22-23.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Merus Tactics Pricing for Chris.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Merus Tactics Pricing for Chris.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Margenza Video.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Margenza Video.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/MERUS_AOR_EVERSANA_INTOUCH_PRESENTATION.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/MERUS_AOR_EVERSANA_INTOUCH_PRESENTATION.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/EVERSANA INTOUCH RARE SLIDE.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/EVERSANA INTOUCH RARE SLIDE.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Cardiology Client Roster.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Cardiology Client Roster.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Kim Middleton Bio and Experience.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Kim Middleton Bio and Experience.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Cardiology Finalized Roster.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Cardiology Finalized Roster.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/2021-2022 Win Lost.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/2021-2022 Win Lost.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/AbbVie - Supporting EVERSANA INTOUCH deck.pptx.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/AbbVie - Supporting EVERSANA INTOUCH deck.pptx.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Market Access - Questions for Alex.docx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Market Access - Questions for Alex.docx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Creative_Sizzle_Reel_EVERSANA_INTOUCH.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Creative_Sizzle_Reel_EVERSANA_INTOUCH.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/EVERSANA INTOUCH_Otsuka Agency Media RFI 09-29-2022 (1).xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/EVERSANA INTOUCH_Otsuka Agency Media RFI 09-29-2022 (1).xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/EVERSANA_INTOUCH_Otsuka Agency Media RFI 09-29-2022 (1).xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/EVERSANA_INTOUCH_Otsuka Agency Media RFI 09-29-2022 (1).xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Pfizer Experience Slide.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Pfizer Experience Slide.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Book5.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Book5.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Novo Nordisk Starting Capes for Kate B.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Novo Nordisk Starting Capes for Kate B.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Integrated Pipeline October 2022.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Integrated Pipeline October 2022.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Streamlined - Dedupe Check Agency Opps.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Streamlined - Dedupe Check Agency Opps.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/EYLEA CS.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/EYLEA CS.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/PSP Experience.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/PSP Experience.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/2022 YTD Investment - Check Doc-2022-10-24-14-07-26.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/2022 YTD Investment - Check Doc-2022-10-24-14-07-26.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Conflict Check by Thera Category (Rev)-2022-10-24-14-06-01.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Conflict Check by Thera Category (Rev)-2022-10-24-14-06-01.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/2022 Opportunities Dead-2022-10-24-14-18-23.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/2022 Opportunities Dead-2022-10-24-14-18-23.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/ONCOLOGY CREDS FOR ARIEL.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/ONCOLOGY CREDS FOR ARIEL.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/DAOR OMNICHANNEL SLIDES FOR MOLLY.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/DAOR OMNICHANNEL SLIDES FOR MOLLY.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Oncology Experience Slides.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Oncology Experience Slides.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Field Services Agency Slides.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Field Services Agency Slides.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Why EVERSANA INTOUCH Slide.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Why EVERSANA INTOUCH Slide.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/EVERSANA INTOUCH References.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/EVERSANA INTOUCH References.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Vyndamax - Updated Outline.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Vyndamax - Updated Outline.pptx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Launch Target List.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Launch Target List.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Correct Drugs by FDA Approvalv2.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Correct Drugs by FDA Approvalv2.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Drugs by FDA Approval_Phase.xlsx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Drugs by FDA Approval_Phase.xlsx]
+
+Moving file [/personal/mitch_menti_eversana_com/Documents/Copromote slides for Jackie.pptx] into folder [/personal/mitch_menti_eversana_com/Documents/TERM-20230708-MITCH.MENTI/Copromote slides for Jackie.pptx]
+
+Adding user [molly.buczynski@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [molly.buczynski@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [andrea.breckenridge@eversana.com] whose manager is [pete.berg@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/andrea_breckenridge_eversana_com]
+
+Adding folder [TERM-20230708-ANDREA.BRECKENRIDGE] in /Documents directory
+
+Moving folder [Documents/Urovant] into TERM folder.
+
+Moving folder [Documents/Otsuka] into TERM folder.
+
+Moving folder [Documents/Teva] into TERM folder.
+
+Moving folder [Documents/Amwell] into TERM folder.
+
+Moving folder [Documents/Policies] into TERM folder.
+
+Moving folder [Documents/Takeda] into TERM folder.
+
+Moving folder [Documents/Genentech] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/General] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/EVERSANA INTOUCH Background 1] into TERM folder.
+
+Moving folder [Documents/EVERSANA INTOUCH Background 2] into TERM folder.
+
+Moving folder [Documents/EVERSANA INTOUCH Background 3] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Burn Reports - D365] into TERM folder.
+
+Cannot move folder [TERM-20230708-ANDREA.BRECKENRIDGE] as it does not exist.
+
+Moving folder [Documents/Guardant] into TERM folder.
+
+Moving folder [Documents/NNI] into TERM folder.
+
+Moving folder [Documents/GDS NML Q4 2022 Dashboard Updates] into TERM folder.
+
+Cannot move folder [TERM-20230708-ANDREA.BRECKENRIDGE] as it does not exist.
+
+Moving folder [Documents/Q1 2023 Staffing - Client Breakout] into TERM folder.
+
+Cannot move folder [TERM-20230708-ANDREA.BRECKENRIDGE] as it does not exist.
+
+Moving folder [Documents/Other Client Playbooks] into TERM folder.
+
+Cannot move folder [TERM-20230708-ANDREA.BRECKENRIDGE] as it does not exist.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/andrea @ Work] into TERM folder.
+
+Moving folder [Documents/B2D PMO] into TERM folder.
+
+Cannot move folder [TERM-20230708-ANDREA.BRECKENRIDGE] as it does not exist.
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Burn Reports - D365] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Burn Reports - D365]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/GDS NML Q4 2022 Dashboard Updates] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/GDS NML Q4 2022 Dashboard Updates]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Q1 2023 Staffing - Client Breakout] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Q1 2023 Staffing - Client Breakout]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Other Client Playbooks] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Other Client Playbooks]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Presentation.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Presentation.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/AmWell - Service Cloud and SFMC Journey Modification Estimate 11.16.21.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/AmWell - Service Cloud and SFMC Journey Modification Estimate 11.16.21.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Drawing.vsdx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Drawing.vsdx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Risk Register.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Risk Register.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Project Prioritization FINAL.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Project Prioritization FINAL.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/PMO GCM Strengths.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/PMO GCM Strengths.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Contract Manager Proposal.vsdx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Contract Manager Proposal.vsdx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/B2D_Master_PPT_2021.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/B2D_Master_PPT_2021.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Genentech Status Workbook.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Genentech Status Workbook.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Microsoft Project 2010.lnk] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Microsoft Project 2010.lnk]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Madrigal ROM 6.2.22.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Madrigal ROM 6.2.22.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/GNE FY22 Q2 Staffing.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/GNE FY22 Q2 Staffing.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Takeda Preference Center Estimate.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Takeda Preference Center Estimate.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Takeda Staffing Plan.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Takeda Staffing Plan.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Takeda Preference Center_Process Details_Channel Execution_Website_Published.docx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Takeda Preference Center_Process Details_Channel Execution_Website_Published.docx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Otsuka COE Transformation Discussion .pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Otsuka COE Transformation Discussion .pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/PMO Hours logged to date_ab.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/PMO Hours logged to date_ab.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Pod and Client Assignment Recommendations.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Pod and Client Assignment Recommendations.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/project manager job description.docx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/project manager job description.docx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/PMO-ET Staffing Proposal_06May22.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/PMO-ET Staffing Proposal_06May22.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Teva MCM_GCM 1Pgr Update_31May22.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Teva MCM_GCM 1Pgr Update_31May22.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/RFI_Multi Channel Marketing_04 06 2022.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/RFI_Multi Channel Marketing_04 06 2022.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/rollout plan.docx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/rollout plan.docx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Innovation Project Management Certificate 2.7.22.pdf] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Innovation Project Management Certificate 2.7.22.pdf]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/RFI_Multi Channel Marketing_04 06 2022 (3).pdf] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/RFI_Multi Channel Marketing_04 06 2022 (3).pdf]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Strengths Theme Report.pdf] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Strengths Theme Report.pdf]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/TMAF - Andrea Breckenridge.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/TMAF - Andrea Breckenridge.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/EVERSANA INTOUCH B2D PPT TEMPLATE.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/EVERSANA INTOUCH B2D PPT TEMPLATE.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Reports.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Reports.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/EVMS Training.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/EVMS Training.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Otsuka Example.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Otsuka Example.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Training.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Training.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Training 7.8.22.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Training 7.8.22.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Training 1.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Training 1.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Reports Training 1 Recording.mp4] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Reports Training 1 Recording.mp4]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Training 2.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Training 2.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Project Status Template.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Project Status Template.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Training 3.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Training 3.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Process .pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Process .pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Training 2.mp4] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Training 2.mp4]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Takeda Raw Data.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Takeda Raw Data.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/B2D PMO] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/B2D PMO]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/PMO-ET Staffing Proposal_07.18.22.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/PMO-ET Staffing Proposal_07.18.22.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/2021 Genentech D365 Actuals.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/2021 Genentech D365 Actuals.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Takeda AEM Cloud Project Structure.docx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Takeda AEM Cloud Project Structure.docx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Debanka Nandi, Resume EVERSANA.pdf] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Debanka Nandi, Resume EVERSANA.pdf]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/EO Project - Test Brief v2.2 .xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/EO Project - Test Brief v2.2 .xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/ImmunityBio SFMC Stand-up and MS.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/ImmunityBio SFMC Stand-up and MS.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/EVMS Example.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/EVMS Example.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Prioritization Matrix 7.28.22.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Prioritization Matrix 7.28.22.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Q3 Staffing Plan.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Q3 Staffing Plan.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Q3 Staffing.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Q3 Staffing.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Discrepencies.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Discrepencies.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Discrepencies.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Discrepencies.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/EVERSANA INTOUCH PPT Template.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/EVERSANA INTOUCH PPT Template.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/EVERSANA INTOUCH Background 1.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/EVERSANA INTOUCH Background 1.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/EVERSANA INTOUCH Background 2.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/EVERSANA INTOUCH Background 2.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/EVERSANA INTOUCH Background 3.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/EVERSANA INTOUCH Background 3.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/AlexanderCancro'sResume (1).pdf] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/AlexanderCancro'sResume (1).pdf]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Q3 Staffing Plan v1.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Q3 Staffing Plan v1.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Q3 Staffing Plan 8.18.22.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Q3 Staffing Plan 8.18.22.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/OCE Project Prioritization Process 7.13.22.docx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/OCE Project Prioritization Process 7.13.22.docx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/PM Resume Review.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/PM Resume Review.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Project Status Template 2.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Project Status Template 2.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Project Status Template 7.19.22.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Project Status Template 7.19.22.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/D365 Burn Report Training 2 recording.mp4] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/D365 Burn Report Training 2 recording.mp4]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Q4 Staffing Plan.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Q4 Staffing Plan.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Q3 Staffing Plan FINAL.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Q3 Staffing Plan FINAL.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Genentech Ways of Working.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Genentech Ways of Working.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Estimation Template.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Estimation Template.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/MorphoSys Estimate.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/MorphoSys Estimate.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Presentation1.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Presentation1.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Drawing1.vsdx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Drawing1.vsdx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/NNI Modular Content Transformation Status 2.7.23.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/NNI Modular Content Transformation Status 2.7.23.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Topics for Rithika.docx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Topics for Rithika.docx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Calculating Estimate at Completion Training.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Calculating Estimate at Completion Training.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/MyCite CRM Strategy Prep Meeting Transcript.docx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/MyCite CRM Strategy Prep Meeting Transcript.docx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/otsuka project notes.docx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/otsuka project notes.docx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Guardant Health Project Status Report.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Guardant Health Project Status Report.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Teva Web Template Estimate.xlsx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Teva Web Template Estimate.xlsx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Intern Presentation.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Intern Presentation.pptx]
+
+Moving file [/personal/andrea_breckenridge_eversana_com/Documents/Charis Nyarko Intern Presentation.pptx] into folder [/personal/andrea_breckenridge_eversana_com/Documents/TERM-20230708-ANDREA.BRECKENRIDGE/Charis Nyarko Intern Presentation.pptx]
+
+Adding user [pete.berg@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [pete.berg@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jeff.nau@eversana.com] whose manager is [doug.rimerman@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jeff_nau_eversana_com]
+
+Adding folder [TERM-20230708-JEFF.NAU] in /Documents directory
+
+Adding user [doug.rimerman@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [doug.rimerman@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kari.barnhart@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kari_barnhart_eversana_com]
+
+Adding folder [TERM-20230708-KARI.BARNHART] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Kari @ Eversana] into TERM folder.
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kari.barnhart@eversana.com] whose manager is [reba.houpe@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kari_barnhart_eversana_com]
+
+Adding folder [TERM-20230708-KARI.BARNHART] in /Documents directory
+
+Main Folder [TERM-20230708-KARI.BARNHART] already exists --- will not recreate it
+
+Adding user [reba.houpe@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [reba.houpe@eversana.com]
+
+Processing OneDrive Delegation for delegate [zury.perez@eversana.com] whose manager is [jillian.adriaanse@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/zury_perez_eversana_com]
+
+Adding folder [TERM-20230708-ZURY.PEREZ] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Zury @ Eversana] into TERM folder.
+
+Moving folder [Documents/Releases] into TERM folder.
+
+Moving file [/personal/zury_perez_eversana_com/Documents/Book1.xlsx] into folder [/personal/zury_perez_eversana_com/Documents/TERM-20230708-ZURY.PEREZ/Book1.xlsx]
+
+Moving file [/personal/zury_perez_eversana_com/Documents/Book2.xlsx] into folder [/personal/zury_perez_eversana_com/Documents/TERM-20230708-ZURY.PEREZ/Book2.xlsx]
+
+Moving file [/personal/zury_perez_eversana_com/Documents/Test Application.zip] into folder [/personal/zury_perez_eversana_com/Documents/TERM-20230708-ZURY.PEREZ/Test Application.zip]
+
+Moving file [/personal/zury_perez_eversana_com/Documents/eBV_QA_Report_01.01.21 - 08.01.21.xlsx] into folder [/personal/zury_perez_eversana_com/Documents/TERM-20230708-ZURY.PEREZ/eBV_QA_Report_01.01.21 - 08.01.21.xlsx]
+
+Moving file [/personal/zury_perez_eversana_com/Documents/Benefit Verification API Guide Final Draft 9.30.21 Comments ZP RP.docx] into folder [/personal/zury_perez_eversana_com/Documents/TERM-20230708-ZURY.PEREZ/Benefit Verification API Guide Final Draft 9.30.21 Comments ZP RP.docx]
+
+Moving file [/personal/zury_perez_eversana_com/Documents/Presentation1.pptx] into folder [/personal/zury_perez_eversana_com/Documents/TERM-20230708-ZURY.PEREZ/Presentation1.pptx]
+
+Moving file [/personal/zury_perez_eversana_com/Documents/2022 08.29.22 Novo Data Retention Fields Mapping.xlsx] into folder [/personal/zury_perez_eversana_com/Documents/TERM-20230708-ZURY.PEREZ/2022 08.29.22 Novo Data Retention Fields Mapping.xlsx]
+
+Moving file [/personal/zury_perez_eversana_com/Documents/You just learned that a business analyst plays a significant role in the project lifecycle and that one of the most important phases in the lifecycle is information discovery.docx] into folder [/personal/zury_perez_eversana_com/Documents/TERM-20230708-ZURY.PEREZ/You just learned that a business analyst plays a significant role in the project lifecycle and that one of the most important phases in the lifecycle is information discovery.docx]
+
+Adding user [jillian.adriaanse@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [jillian.adriaanse@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kim.kieran@eversana.com] whose manager is [andrew.jones@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kim_kieran_eversana_com]
+
+Adding folder [TERM-20230708-KIM.KIERAN] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/BIOGEN] into TERM folder.
+
+Moving folder [Documents/HR] into TERM folder.
+
+Moving folder [Documents/Custom Office Templates] into TERM folder.
+
+Moving folder [Documents/Apellis RFP AoR - GA -EVERSANA ENGAGE] into TERM folder.
+
+Moving folder [Documents/Pfizer PFE-1332 RFP] into TERM folder.
+
+Moving folder [Documents/LEO Pharma - From Client] into TERM folder.
+
+Moving folder [Documents/LEO Pharma] into TERM folder.
+
+Moving folder [Documents/Alkermes MA integrated capes ENGBD-010419] into TERM folder.
+
+Moving folder [Documents/J&J Nira-Abi account] into TERM folder.
+
+Moving folder [Documents/SPINRAZA LEO Onboarding for Barb & Casey] into TERM folder.
+
+Moving folder [Documents/CS Folder - Barb Casey Transition for SPIN Leo J&J] into TERM folder.
+
+Moving folder [Documents/Personal] into TERM folder.
+
+Moving folder [Documents/New] into TERM folder.
+
+Moving folder [Documents/Alkermes MedAffairs RFP] into TERM folder.
+
+Moving folder [Documents/BI] into TERM folder.
+
+Moving folder [Documents/Citius] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/EVERSANA] into TERM folder.
+
+Moving folder [Documents/Kim @ Eversana] into TERM folder.
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Spinraza Reimbursement Support PO.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Spinraza Reimbursement Support PO.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/SPINRAZA PVP Claims.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/SPINRAZA PVP Claims.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Next Steps.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Next Steps.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/ComplianceWire.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/ComplianceWire.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Kim Kieran Bio slide 7.8.21.pptx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Kim Kieran Bio slide 7.8.21.pptx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/BusinessPlan.Q2 021.Account.Plan.Overview_SPZ_UPDATES_Internal Review 7.15.21 KK.pptx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/BusinessPlan.Q2 021.Account.Plan.Overview_SPZ_UPDATES_Internal Review 7.15.21 KK.pptx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/BusinessPlan.Q2 2021.Account.Plan.Overview_SPZ_UPDATES_Internal Review 7.19.21 FINAL.pptx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/BusinessPlan.Q2 2021.Account.Plan.Overview_SPZ_UPDATES_Internal Review 7.19.21 FINAL.pptx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/BusinessPlan.Q2 2021.Account.Plan.Overview_Leo Pharma 7.19.21.pptx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/BusinessPlan.Q2 2021.Account.Plan.Overview_Leo Pharma 7.19.21.pptx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/ComplianceWire Technical Security Awareness.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/ComplianceWire Technical Security Awareness.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/ENGAGE_Janssen Nira-Abi Advisory Board_Project Brief_V3 (AutoRecovered).docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/ENGAGE_Janssen Nira-Abi Advisory Board_Project Brief_V3 (AutoRecovered).docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/ComplianceWire - Eduneering Copy Approval Process.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/ComplianceWire - Eduneering Copy Approval Process.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/EVERSANA Questions for.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/EVERSANA Questions for.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Emerging Therapies and Considerations for the Treatment of Advanced Prostate Cancer.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Emerging Therapies and Considerations for the Treatment of Advanced Prostate Cancer.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Client Kick.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Client Kick.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Pfizer Biosimilars Payer Business Deck.pptx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Pfizer Biosimilars Payer Business Deck.pptx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/2022 Year.docx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/2022 Year.docx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Book.xlsx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Book.xlsx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Oncology Biosimilars Payer Narrative FINAL_3.6.23_KSup.pptx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Oncology Biosimilars Payer Narrative FINAL_3.6.23_KSup.pptx]
+
+Moving file [/personal/kim_kieran_eversana_com/Documents/Presentation.pptx] into folder [/personal/kim_kieran_eversana_com/Documents/TERM-20230708-KIM.KIERAN/Presentation.pptx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [elyse.piacentini@eversana.com] whose manager is [dennis.ciszeski@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/elyse_piacentini_eversana_com]
+
+Adding folder [TERM-20230708-ELYSE.PIACENTINI] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving folder [Documents/Doptelet] into TERM folder.
+
+Moving folder [Documents/EMAPA-011526-007-006 A Guide to Denials and Appeals for Gamifant (MA)] into TERM folder.
+
+Cannot move folder [TERM-20230708-ELYSE.PIACENTINI] as it does not exist.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Elyse @ Eversana] into TERM folder.
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/EMAPA-011526-007-006 A Guide to Denials and Appeals for Gamifant (MA)] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/EMAPA-011526-007-006 A Guide to Denials and Appeals for Gamifant (MA)]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/APL2-007002-041 APL2 Value Story Customer Presentations_v46_EP.pdf] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/APL2-007002-041 APL2 Value Story Customer Presentations_v46_EP.pdf]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/APL2-007002-041 APL2 Value Story Customer Presentations_v46_EP.pptx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/APL2-007002-041 APL2 Value Story Customer Presentations_v46_EP.pptx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/Hank IDI.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/Hank IDI.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/Keyboard Command Cheat Sheet.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/Keyboard Command Cheat Sheet.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/goals.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/goals.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/Zach goals.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/Zach goals.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/Proposed Resources for New Hires Interns.pptx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/Proposed Resources for New Hires Interns.pptx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/TRALO-011311-009_ADBRY_ObjectionHandler_NewQs.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/TRALO-011311-009_ADBRY_ObjectionHandler_NewQs.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/backup for aprag value messages.pptx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/backup for aprag value messages.pptx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/claims table.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/claims table.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/Jardiance CKD pitch ideas.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/Jardiance CKD pitch ideas.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/NNI OB-23 Library of Obesity Comorbidities 007_CVD_draft_EP_ZH.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/NNI OB-23 Library of Obesity Comorbidities 007_CVD_draft_EP_ZH.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/SYNAGIS Leave Behind High Level Outline.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/SYNAGIS Leave Behind High Level Outline.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/Key Supporting Fact Primary Source Mapping.xlsx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/Key Supporting Fact Primary Source Mapping.xlsx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/BI Reference Primary Source Mapping_EMC claims to back annotate.xlsx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/BI Reference Primary Source Mapping_EMC claims to back annotate.xlsx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/Dear Dennis.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/Dear Dennis.docx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/SYNAGIS FRSM Deck 6_27_23.pptx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/SYNAGIS FRSM Deck 6_27_23.pptx]
+
+Moving file [/personal/elyse_piacentini_eversana_com/Documents/SobiThoughts_EP.docx] into folder [/personal/elyse_piacentini_eversana_com/Documents/TERM-20230708-ELYSE.PIACENTINI/SobiThoughts_EP.docx]
+
+Ran into an error. Error is:
+Cannot bind argument to parameter 'Table' because it is null.
+
+Sending out Error E-Mail Message.
+
+Processing OneDrive Delegation for delegate [anurag.pandey@eversana.com] whose manager is [Shilpa.Phadke@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/anurag_pandey_eversana_com]
+
+Adding folder [TERM-20230708-ANURAG.PANDEY] in /Documents directory
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Apps] into TERM folder.
+
+Moving file [/personal/anurag_pandey_eversana_com/Documents/LearningPlan for GP,Concord, MC1.x,FC,DRTOOL - DotNet SQL Server.xlsx] into folder [/personal/anurag_pandey_eversana_com/Documents/TERM-20230708-ANURAG.PANDEY/LearningPlan for GP,Concord, MC1.x,FC,DRTOOL - DotNet SQL Server.xlsx]
+
+Adding user [Shilpa.Phadke@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Shilpa.Phadke@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [richard.li@eversana.com] whose manager is [Margaret.Ainslie-Garcia@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/richard_li_eversana_com]
+
+Adding folder [TERM-20230708-RICHARD.LI] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/ASSURE Value Brief] into TERM folder.
+
+Moving folder [Documents/LCI Lung Surgery] into TERM folder.
+
+Moving folder [Documents/LEQVIO HTA Submission] into TERM folder.
+
+Moving folder [Documents/Richard @ Eversana] into TERM folder.
+
+Moving file [/personal/richard_li_eversana_com/Documents/Trials.xlsx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Trials.xlsx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/WCD Policies.xlsx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/WCD Policies.xlsx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Meeting Dec.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Meeting Dec.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance Dec 8 Update.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance Dec 8 Update.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Lit Searches.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Lit Searches.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Presentation.pptx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Presentation.pptx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/ASSURE Value Platform Draft.pptx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/ASSURE Value Platform Draft.pptx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Dec 15 Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Dec 15 Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/2010.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/2010.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Value Platform Draft Feedback.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Value Platform Draft Feedback.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Medical Therapy Optimization.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Medical Therapy Optimization.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Updates Jan 14-15.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Updates Jan 14-15.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kannel et al.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kannel et al.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Clinical Advisor Discussions -Dr. Heffernan Slide Deck - Jun 4 2021.pptx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Clinical Advisor Discussions -Dr. Heffernan Slide Deck - Jun 4 2021.pptx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LifeVest vs. ASSURE slide.pptx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LifeVest vs. ASSURE slide.pptx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Meeting Jan 18.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Meeting Jan 18.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance Combined Model.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance Combined Model.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/WCD Economics.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/WCD Economics.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/ICD-WCD Economic Literature Summary (AutoRecovered).docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/ICD-WCD Economic Literature Summary (AutoRecovered).docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/HF Report Findings.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/HF Report Findings.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Feb 9 Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Feb 9 Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Feb 14.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Feb 14.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance Feb 16 Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance Feb 16 Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Feb 14 (AutoRecovered).docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Feb 14 (AutoRecovered).docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra March 2 Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra March 2 Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance HTA Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance HTA Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Weekly meetings.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Weekly meetings.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Update Mar 14.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Update Mar 14.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Meeting March 16.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Meeting March 16.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Cerenovus Meeting March 16.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Cerenovus Meeting March 16.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance Meeting March 16.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance Meeting March 16.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Non.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Non.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Intracranial Aneurysms Burden.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Intracranial Aneurysms Burden.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Cerenovus Aneurysm Dossier.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Cerenovus Aneurysm Dossier.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Coils.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Coils.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance Meeting - Mar 30.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance Meeting - Mar 30.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra Update - April 4.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra Update - April 4.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Value Statement.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Value Statement.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/ASSURE Value Brief Branding Touchpoint.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/ASSURE Value Brief Branding Touchpoint.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance CADTH Requests.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance CADTH Requests.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Writing emails that people want to hear.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Writing emails that people want to hear.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance April 27.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance April 27.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Aneurysm Dossier Meeting - May 2.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Aneurysm Dossier Meeting - May 2.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Lung Surgery SLR Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Lung Surgery SLR Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Jardiance May 4.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Jardiance May 4.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/DRAFT_Cerenovus Aneruysm Dossier - Background & Coils Content 20220425.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/DRAFT_Cerenovus Aneruysm Dossier - Background & Coils Content 20220425.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/DRAFT_Cerenovus Aneruysm Dossier - Background & Coils Content 20220513 RL (AutoRecovered).docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/DRAFT_Cerenovus Aneruysm Dossier - Background & Coils Content 20220513 RL (AutoRecovered).docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI Timelines.pptx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI Timelines.pptx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI Timelines June 2022.pptx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI Timelines June 2022.pptx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Cerenovus Meeting June 15.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Cerenovus Meeting June 15.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Action Items.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Action Items.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI1.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI1.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Cerenovus.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Cerenovus.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI Meeting June 30.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI Meeting June 30.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Omer is more recent health economists joining on Jardiance.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Omer is more recent health economists joining on Jardiance.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/PE report.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/PE report.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/ASSURE VB Reference List Final.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/ASSURE VB Reference List Final.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Action Item1.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Action Item1.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Coil CER.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Coil CER.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI KoL Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI KoL Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/EVERSANA white paper.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/EVERSANA white paper.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/CTX001 Sept 22.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/CTX001 Sept 22.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI Meetin1.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI Meetin1.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Ethiman 2019.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Ethiman 2019.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Vertex CTX001.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Vertex CTX001.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LEQVIO Strategic Resubmission Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LEQVIO Strategic Resubmission Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Use adjectives to make something true but not specifically.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Use adjectives to make something true but not specifically.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Feedback from legal either today or tomorrow.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Feedback from legal either today or tomorrow.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Dossier will be translated and internal EOS.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Dossier will be translated and internal EOS.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/CTX.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/CTX.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Inclisiran Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Inclisiran Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/CTX001 Meeting - Nov 17.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/CTX001 Meeting - Nov 17.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Lung Surgery SLR - Manuscript Outline.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Lung Surgery SLR - Manuscript Outline.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Document2.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Document2.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Lung Surgery SLR - Manuscript Outline 2022 11 25.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Lung Surgery SLR - Manuscript Outline 2022 11 25.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Presentation2.pptx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Presentation2.pptx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Inclisiran Meeting Nov 30.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Inclisiran Meeting Nov 30.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Inclisiran.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Inclisiran.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Kestra White Paper.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Kestra White Paper.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LEQVIO.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LEQVIO.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Exa.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Exa.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LEQVIO Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LEQVIO Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LCI Lung Surgery Update Feb 3.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LCI Lung Surgery Update Feb 3.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/CHEST Submission Guidelines.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/CHEST Submission Guidelines.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LEQVIO 3.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LEQVIO 3.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LEQVIO Meeting 3.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LEQVIO Meeting 3.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Exacel CADTH BIA Report_2023 03 10 (AutoRecovered).docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Exacel CADTH BIA Report_2023 03 10 (AutoRecovered).docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Book2.xlsx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Book2.xlsx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/MINOR Criteria Discussion.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/MINOR Criteria Discussion.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/The TRUFILL.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/The TRUFILL.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/LEQVIO Meeting April 5.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/LEQVIO Meeting April 5.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Novartis Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Novartis Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Vertex Strategic Meeting.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Vertex Strategic Meeting.docx]
+
+Moving file [/personal/richard_li_eversana_com/Documents/Richard Li Letter of Resignation.docx] into folder [/personal/richard_li_eversana_com/Documents/TERM-20230708-RICHARD.LI/Richard Li Letter of Resignation.docx]
+
+Adding user [Margaret.Ainslie-Garcia@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Margaret.Ainslie-Garcia@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [angela.moore@eversana.com] whose manager is [Adam.Romm@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/angela_moore_eversana_com]
+
+Adding folder [TERM-20230708-ANGELA.MOORE] in /Documents directory
+
+Moving folder [Documents/Desktop] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Pictures] into TERM folder.
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Whiteboards] into TERM folder.
+
+Moving folder [Documents/Angela @ EVERSANA] into TERM folder.
+
+Moving file [/personal/angela_moore_eversana_com/Documents/form 4.pdf] into folder [/personal/angela_moore_eversana_com/Documents/TERM-20230708-ANGELA.MOORE/form 4.pdf]
+
+Moving file [/personal/angela_moore_eversana_com/Documents/Angela Moore 4-24-23.pdf] into folder [/personal/angela_moore_eversana_com/Documents/TERM-20230708-ANGELA.MOORE/Angela Moore 4-24-23.pdf]
+
+Adding user [Adam.Romm@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Adam.Romm@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [shruthi.thulasiraman@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/shruthi_thulasiraman_eversana_com]
+
+Adding folder [TERM-20230708-SHRUTHI.THULASIRAMAN] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving file [/personal/shruthi_thulasiraman_eversana_com/Documents/Update API.docx] into folder [/personal/shruthi_thulasiraman_eversana_com/Documents/TERM-20230708-SHRUTHI.THULASIRAMAN/Update API.docx]
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [saikrishna.sakinala@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/saikrishna_sakinala_eversana_com]
+
+Adding folder [TERM-20230708-SAIKRISHNA.SAKINALA] in /Documents directory
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [prachi.ghugarkar@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/prachi_ghugarkar_eversana_com]
+
+Adding folder [TERM-20230708-PRACHI.GHUGARKAR] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/TransPerfect_Config.xlsx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/TransPerfect_Config.xlsx]
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/Doc1.docx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/Doc1.docx]
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/check data .xlsx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/check data .xlsx]
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/Transperfect_Data.xlsx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/Transperfect_Data.xlsx]
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/Document.docx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/Document.docx]
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/Book.xlsx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/Book.xlsx]
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/Doc11.docx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/Doc11.docx]
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/Book 1.xlsx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/Book 1.xlsx]
+
+Moving file [/personal/prachi_ghugarkar_eversana_com/Documents/SET ANSI.docx] into folder [/personal/prachi_ghugarkar_eversana_com/Documents/TERM-20230708-PRACHI.GHUGARKAR/SET ANSI.docx]
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [sravan.perumalla@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/sravan_perumalla_eversana_com]
+
+Adding folder [TERM-20230708-SRAVAN.PERUMALLA] in /Documents directory
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [iyiola.ishola@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/iyiola_ishola_eversana_com]
+
+Adding folder [TERM-20230708-IYIOLA.ISHOLA] in /Documents directory
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [kiran.nakka@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/kiran_nakka_eversana_com]
+
+Adding folder [TERM-20230708-KIRAN.NAKKA] in /Documents directory
+
+Moving file [/personal/kiran_nakka_eversana_com/Documents/Book1.xlsx] into folder [/personal/kiran_nakka_eversana_com/Documents/TERM-20230708-KIRAN.NAKKA/Book1.xlsx]
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [vinaykumar.shetty@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/vinaykumar_shetty_eversana_com]
+
+Adding folder [TERM-20230708-VINAYKUMAR.SHETTY] in /Documents directory
+
+Moving folder [Documents/Microsoft Teams Chat Files] into TERM folder.
+
+Moving folder [Documents/Notebooks] into TERM folder.
+
+Moving folder [Documents/Documents] into TERM folder.
+
+Moving folder [Documents/Attachments] into TERM folder.
+
+Moving folder [Documents/Recordings] into TERM folder.
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [jonathan.mcnutt@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/jonathan_mcnutt_eversana_com]
+
+Adding folder [TERM-20230708-JONATHAN.MCNUTT] in /Documents directory
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+Adding record into SQL table.
+
+Processing OneDrive Delegation for delegate [patrick.cox@eversana.com] whose manager is [Alison.Allcock@eversana.com]
+
+Setting srv_OneDriveRetention@eversana.com as a temporary Site Collection Admin
+
+Connecting to PnPOnline for URL [https://eversana-my.sharepoint.com/personal/patrick_cox_eversana_com]
+
+Adding folder [TERM-20230708-PATRICK.COX] in /Documents directory
+
+Moving file [/personal/patrick_cox_eversana_com/Documents/TERM-20220615-PATRICK.COX] into folder [/personal/patrick_cox_eversana_com/Documents/TERM-20230708-PATRICK.COX/TERM-20220615-PATRICK.COX]
+
+Adding user [Alison.Allcock@eversana.com] as role of Read-Only for this folder.
+
+Sending out E-Mail notification to manager [Alison.Allcock@eversana.com]
+
+All delegates processed ... see you tomorrow!!
+
