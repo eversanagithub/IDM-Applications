@@ -16,8 +16,18 @@ $RunningJsonQuery = '';
 $update = '';
 $Count = '';
 
+// Set up the array variables for the SQL table fields and alot for four entries.
+$ar_AssociateID = array('blank','blank','blank','blank');
+$ar_BusinessUnit = array('blank','blank','blank','blank');
+$ar_HRLegalName = array('blank','blank','blank','blank');
+$ar_TermDate = array('blank','blank','blank','blank');
+$ar_DisableDate = array('blank','blank','blank','blank');
+$ar_ReportedTo = array('blank','blank','blank','blank');
+$ar_NiceTermDate = array('blank','blank','blank','blank');
+$ar_NiceDisableDate = array('blank','blank','blank','blank');
+
 $requesterName = $_POST['requesterName'];
-//$requesterName = "angel.mackey@eversana.com";
+//$requesterName = "rudy.diaz@eversana.com";
 
 function MakeNiceTermDate($TermDate)
 {
@@ -75,7 +85,7 @@ function MakeNiceTermDate($TermDate)
 				$month = "December";
 				break;
 		}
-		$niceTermDate = $month . " " . $intDay . ", " . $year;
+		$niceTermDate = $month . " " . $intDay . " " . $year;
 	}
 	return $niceTermDate;
 }
@@ -150,7 +160,7 @@ function MakeNiceDisableDate($DisableDate)
 		$intHour = (int)$hour;
 		if($intHour > 12) { $intHour = $intHour - 12; }
 		if($intHour == 0) { $intHour = 12; }
-		$niceDisableDate = $month . " " . $intDay . ", " . $year . " at " . $intHour . ":" . $minute . " " . $apm . " CT";
+		$niceDisableDate = $month . " " . $intDay . " " . $year . " at " . $intHour . ":" . $minute . " " . $apm . " CT";
 	}
 	return $niceDisableDate;
 }
@@ -198,15 +208,16 @@ $PullAssociateID = "select u.AssociateID from Ultipro_ADRpt u left join profile 
 $rs = odbc_exec($conn,$PullAssociateID);
 odbc_fetch_row($rs);
 $AssociateID = odbc_result($rs,'AssociateID');
-$NumRecords = 1;
+$NumRecords = 0;
 
 $sql="exec ComplianceNotifications_TerminationInfo_AssociateCheck '$AssociateID';";
 $rs=odbc_exec($conn,$sql);
 if (!$rs)
   {exit("Error in SQL");}
-$Counter = 0;
+$TotalCounter = -1;
 while (odbc_fetch_row($rs))
 {
+	$TotalCounter++;
 	$AssociateID = odbc_result($rs,"AssociateID");
 	$BusinessUnit = odbc_result($rs,"BusinessUnit");
 	$HRLegalName = odbc_result($rs,"HR Legal Name");
@@ -219,9 +230,30 @@ while (odbc_fetch_row($rs))
 	if($ReportedTo == "" || is_null($ReportedTo)) { $ReportedTo = "No Data"; }
 	if($NiceTermDate == "" || is_null($NiceTermDate)) { $NiceTermDate = "No Data"; }
 	if($NiceDisableDate == "" || is_null($NiceDisableDate)) { $NiceDisableDate = "No Data"; }
+	$ar_AssociateID[$TotalCounter] = $AssociateID;
+	$ar_BusinessUnit[$TotalCounter] = $BusinessUnit;
+	$ar_HRLegalName[$TotalCounter] = $HRLegalName;
+	$ar_TermDate[$TotalCounter] = $TermDate;
+	$ar_DisableDate[$TotalCounter] = $DisableDate;
+	$ar_ReportedTo[$TotalCounter] = $ReportedTo;
+	$ar_NiceTermDate[$TotalCounter] = $NiceTermDate;
+	$ar_NiceDisableDate[$TotalCounter] = $NiceDisableDate;
+}
+
+for($i = 0;$i <= $TotalCounter;$i++)
+{
+	$AssociateID = $ar_AssociateID[$i];
+	$BusinessUnit = $ar_BusinessUnit[$i];
+	$HRLegalName = $ar_HRLegalName[$i];
+	$TermDate = $ar_TermDate[$i];
+	$DisableDate = $ar_DisableDate[$i];
+	$ReportedTo = $ar_ReportedTo[$i];
+	$NiceTermDate = $ar_NiceTermDate[$i];
+	$NiceDisableDate = $ar_NiceDisableDate[$i];
+	$AssociateID = str_replace("'","",$AssociateID);
+	$ReportedTo = str_replace("'","",$ReportedTo);
 	$thisRow = get_item_html($AssociateID,$BusinessUnit,$HRLegalName,$NiceTermDate,$NiceDisableDate,$ReportedTo);
-	$Counter++;
-	if($Counter < $NumRecords)
+	if($i < $TotalCounter)
 	{
 		$RunningJsonQuery = $RunningJsonQuery . $thisRow . ', ';
 	}

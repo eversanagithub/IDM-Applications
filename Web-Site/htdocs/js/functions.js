@@ -1437,8 +1437,6 @@ function UpdateTerminationDropDown(textBox)
 	const params = 'requesterName=' + requesterName;
 	let dropDownData = '';
 	const request = new XMLHttpRequest();
-
-	// Kick off the listener method and wait for data to roll in.
 	request.addEventListener('readystatechange', () => {
 		if(request.readyState === 4 && request.status === 200) {
 			// Populate the str variable with the extracted JSON data.
@@ -1447,12 +1445,12 @@ function UpdateTerminationDropDown(textBox)
 			const arrayLength = obj.JSON_TerminationDropDown.length;
 			for(let i=0;i<arrayLength;i++)
 			{
+
 				dropDownData += "<option value='" + obj.JSON_TerminationDropDown[i].Email + "'>" + obj.JSON_TerminationDropDown[i].Email + "</option>";
 			}
 			document.getElementById('Email').innerHTML = dropDownData;
 		}
 	});
-
 	request.open("POST", UpdateTerminationDropDownPHPFile, true);
 	request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 	request.send(params);	
@@ -1462,6 +1460,7 @@ function DisplayFormerAssociateInfo(requesterName)
 {
 	const params = 'requesterName=' + requesterName;
 	const request = new XMLHttpRequest();
+	let myTable = '';
 	request.addEventListener('readystatechange', () => {
 		if(request.readyState === 4 && request.status === 200) {
 			// Populate the str variable with the extracted JSON data.
@@ -1470,7 +1469,7 @@ function DisplayFormerAssociateInfo(requesterName)
 			const obj = JSON.parse(str);
 			let arrayLength = obj.JSON_FormerAssociateInfo.length;
 			var detailLine = '';
-			for(let i=0;i<arrayLength;i++)
+			for(let i = 0;i < arrayLength;i++)
 			{
 				var AssociateID = obj.JSON_FormerAssociateInfo[i].AssociateID;
 				var BusinessUnit = obj.JSON_FormerAssociateInfo[i].BusinessUnit;
@@ -1478,18 +1477,43 @@ function DisplayFormerAssociateInfo(requesterName)
 				var TermDate = obj.JSON_FormerAssociateInfo[i].TermDate;
 				var DisableDate = obj.JSON_FormerAssociateInfo[i].DisableDate;
 				var ReportedTo = obj.JSON_FormerAssociateInfo[i].ReportedTo;
-				document.getElementById('AssociateID').innerText = AssociateID;
-				document.getElementById('BusinessUnit').innerText = BusinessUnit;
-				document.getElementById('HRLegalName').innerText = HRLegalName;
-				document.getElementById('TermDate').innerText = TermDate;
-				document.getElementById('DisableDate').innerText = DisableDate;
-				document.getElementById('ReportedTo').innerText = ReportedTo;
-				document.getElementById("AssociateID").setAttribute("class", "IDMTermedReportDetail");
-				document.getElementById("BusinessUnit").setAttribute("class", "IDMTermedReportDetail");
-				document.getElementById("HRLegalName").setAttribute("class", "IDMTermedReportDetail");
-				document.getElementById("TermDate").setAttribute("class", "IDMTermedReportDetail");
-				document.getElementById("DisableDate").setAttribute("class", "IDMTermedReportDetail");
-				document.getElementById("ReportedTo").setAttribute("class", "IDMTermedReportDetail");
+				document.getElementById('AssociateID2').innerText = "";
+				document.getElementById('BusinessUnit2').innerText = "";
+				document.getElementById('HRLegalName2').innerText = "";
+				document.getElementById('TermDate2').innerText = "";
+				document.getElementById('DisableDate2').innerText = "";
+				document.getElementById('ReportedTo2').innerText = "";
+				switch(i)
+				{
+					case 0:
+						document.getElementById('AssociateID1').innerText = AssociateID;
+						document.getElementById('BusinessUnit1').innerText = BusinessUnit;
+						document.getElementById('HRLegalName1').innerText = HRLegalName;
+						document.getElementById('TermDate1').innerText = TermDate;
+						document.getElementById('DisableDate1').innerText = DisableDate;
+						document.getElementById('ReportedTo1').innerText = ReportedTo;
+						document.getElementById("AssociateID1").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("BusinessUnit1").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("HRLegalName1").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("TermDate1").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("DisableDate1").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("ReportedTo1").setAttribute("class", "IDMTermedReportDetail");
+						break;
+					case 1:
+						document.getElementById('AssociateID2').innerText = AssociateID;
+						document.getElementById('BusinessUnit2').innerText = BusinessUnit;
+						document.getElementById('HRLegalName2').innerText = HRLegalName;
+						document.getElementById('TermDate2').innerText = TermDate;
+						document.getElementById('DisableDate2').innerText = DisableDate;
+						document.getElementById('ReportedTo2').innerText = ReportedTo;
+						document.getElementById("AssociateID2").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("BusinessUnit2").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("HRLegalName2").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("TermDate2").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("DisableDate2").setAttribute("class", "IDMTermedReportDetail");
+						document.getElementById("ReportedTo2").setAttribute("class", "IDMTermedReportDetail");
+						break;
+				}
 			}
 		}
 	});
