@@ -3,6 +3,7 @@
 		Date Written: September 8th, 2023
 		  Written By: Dave Jaynes
 		 Description: Processes a Service-Now request to add/remove members to/from an Service-Now AD Group.
+                      There are 19 modules and 14 functions that constitute for functionality of this script.
 #>
 
 ####################################################################
@@ -16,6 +17,9 @@ $DisplayValue = ""
 $Link = ""
 $TimeStamp = Get-Date -Format("yyyyMMddHHmmss")
 $Logfile = "C:\IDM\IDM-Applications\PowerShell\Logs\Junkfile_$TimeStamp"
+$Reportfile  = "C:\IDM\IDM-Applications\PowerShell\Reports\Service-Now_AD_Group\Service-Now_AD_Group_Modifications_$TimeStamp.txt"
+$DoesFileExist = Test-Path $Reportfile
+if($DoesFileExist -eq "True") { Remove-Item $Reportfile }
 
 ####################################################################
 #   Module 2: Define the SQL Write function.                       #
@@ -94,7 +98,19 @@ function DetermineErrorCode
 }
 
 ####################################################################
-#   Module 6: Return Group's GUID                                  #
+#   Module 6: Return Users's GUID                                  #
+####################################################################
+function FindUserGUID
+{
+	param(
+		[string]$EMailAddress
+	)  
+	try{ $GUID = (Get-ADUser -filter {UserPrincipalName -eq $EMailAddress}).ObjectGUID } catch { $GUID = $null }
+	return $GUID
+}
+
+####################################################################
+#   Module 7: Return Group's GUID                                  #
 ####################################################################
 function FindGroupGUID
 {
@@ -106,7 +122,7 @@ function FindGroupGUID
 }
 
 ####################################################################
-#   Module 7: Add member to AD Group                               #
+#   Module 8: Add member to AD Group                               #
 ####################################################################
 function AddUserToGroup
 {
@@ -129,7 +145,7 @@ function AddUserToGroup
 }
 
 ####################################################################
-#   Module 8: Remove member from AD Group                          #
+#   Module 9: Remove member from AD Group                          #
 ####################################################################
 function RemoveUserFromGroup
 {
@@ -152,7 +168,7 @@ function RemoveUserFromGroup
 }
 
 ####################################################################
-#   Module 9: Update the date field                                #
+#   Module 10: Update the date field                               #
 ####################################################################
 function UpdateProcessingDateField    
 {
@@ -176,7 +192,7 @@ function UpdateProcessingDateField
 }
 
 ####################################################################
-#   Module 10: Update the Return Code field with the action result #
+#   Module 11: Update the Return Code field with the action result #
 ####################################################################
 function UpdateReturnCode    
 {
@@ -185,17 +201,9 @@ function UpdateReturnCode
 		[string]$SysID,
 		[string]$Result
 	)
-	if($Result -eq "200") 
-	{ 
-		$Body = @{
-		u_return_code = "200"
-		}
-	}
-	else
-	{ 
-		$Body = @{
-		u_return_code = "404"
-		}
+
+	$Body = @{
+		u_return_code = "$Result"
 	}
 	$JsonBody = $Body | ConvertTo-Json
 	$Params = @{
@@ -209,7 +217,7 @@ function UpdateReturnCode
 }
 
 ####################################################################
-#    Module 11: Update SN Record to Processed                      #
+#    Module 12: Update SN Record to Processed                      #
 ####################################################################
 function UpdateRecordProcessed    
 {
@@ -232,7 +240,7 @@ function UpdateRecordProcessed
 }
 
 ####################################################################
-#    Module 12: Update SN Record to Processing                     #
+#    Module 13: Update SN Record to Processing                     #
 ####################################################################
 function UpdateRecordProcessing    
 {
@@ -255,7 +263,7 @@ function UpdateRecordProcessing
 }
 
 ####################################################################
-#    Module 13: Update Status Message field                        #
+#    Module 14: Update Status Message field                        #
 ####################################################################
 function UpdateStatusMessageField    
 {
@@ -279,7 +287,7 @@ function UpdateStatusMessageField
 }
 
 ####################################################################
-#    Module 14: Record Did Not Pass Initial Check                  #
+#    Module 15: Record Did Not Pass Initial Check                  #
 ####################################################################
 function RecordDidNotPassInitialCheck    
 {
@@ -319,7 +327,7 @@ function RecordDidNotPassInitialCheck
 }
 
 ####################################################################
-#   Module 15: Get status of user                                  #
+#   Module 16: Get status of user                                  #
 ####################################################################
 function CheckUserStatus    
 {
@@ -343,7 +351,7 @@ function CheckUserStatus
 }
 
 ####################################################################
-#   Module 16: Perform the REST API call into the ServiceNow       #
+#   Module 17: Perform the REST API call into the ServiceNow       #
 ####################################################################
 function Get-ServiceNowTable {
 	[OutputType([System.Management.Automation.PSCustomObject])]
@@ -408,8 +416,15 @@ function Get-ServiceNowTable {
 }
 
 ####################################################################
-#   Module 17: Main processing area                                #
+#   Module 18: Main processing area                                #
 ####################################################################
+
+<#
+We use the Invoke-RestMethod CmdLet to retrieve all records from the Service-Now table 'u_stage_sc_request'.
+Utilizing the 'u_status' field, we filter for all records with a value of 'Not_processed'.
+These records and then read into the '$ServiceNowRecords' object and parsed into individual
+variables below. It is these variables which will control how the processing plays out.
+#>
 $ServiceNowRecords = Get-ServiceNowTable -Table $SNTable -Query $Query -ServiceNowURL $ServiceNowURL
 $ServiceNowRecords | %{
 	$SNR = $_
@@ -435,33 +450,48 @@ $ServiceNowRecords | %{
 	[String[]]$User = $EMailAddress.Split("@")
 	$UserName = $User[0]
 	
-	# Initialize error code
+<#
+	In the following lines of code, we do variable sanitazitation to ensure data is valid.
+	We check E-Mail address, Domain Name, User and Group GUIDs, Action code and user Active status (True or False).
+	If any of these checks fail, the $ErrorCode value is changed from 0 to another value and processing
+	does not run for this particular record.
+#>
 	$ErrorCode = 0
 	$Message = ""
 
-	# Validate the EMail address and domain name.
-	if($EMailAddress -notlike "*@eversana*") {	$ErrorCode++ }
-	if($Domain -notlike "universal.co") { $ErrorCode += 2 }
+	if($EMailAddress -notlike "*@eversana*") 
+	{	
+		$ErrorCode++ 
+		$UpdateResult = 406
+	}
+	if($Domain -notlike "universal.co") 
+	{ 
+		$ErrorCode += 2 
+		$UpdateResult = 406
+	}
 
-	# Pull in the User's GUID
 	$UserGUID = $null
-	try{ $UserGUID = (Get-ADUser -filter {UserPrincipalName -eq $EMailAddress}).ObjectGUID } catch {}
-	if($UserGUID -eq $null) { $ErrorCode += 4 }
+	$UserGUID = FindUserGUID -EMailAddress $EMailAddress
+	if(($UserGUID -eq $null) -or ($GroupGUID -eq "")) 
+	{ 
+		$ErrorCode += 4 
+		$UpdateResult = 406
+	}
 	
-	# Pull in the Group GUID
 	$GroupGUID = $null
 	$GroupGUID = FindGroupGUID -GroupName $GroupName
-	if($GroupGUID -eq $null) { $ErrorCode += 8 }
+	if(($GroupGUID -eq $null) -or ($GroupGUID -eq ""))
+	{ 
+		$ErrorCode += 8 
+		$UpdateResult = 406
+	}
 	
-	# Now we check for overriding errors
 	if(($Action -ne "Add") -and ($Action -ne "Remove")) 
 	{ 
 		$ErrorCode = 17 
 		$UpdateResult = 406
 	}
-	
-	# Check if the user is active. 
-	# If it isn't we need to check if the users exists or not to determine the correct error code.
+
 	$UserStatus = CheckUserStatus -UserName $UserName
 	if($UserStatus -ne "True") 
 	{ 
@@ -470,6 +500,7 @@ $ServiceNowRecords | %{
 			NoExist
 			{
 				$ErrorCode = 1
+				$UpdateResult = 406
 				break
 			}
 			False
@@ -480,15 +511,23 @@ $ServiceNowRecords | %{
 		}
 	}
 	
-	# Start out with Processed Record set to No.
-	$ProcessedRecord = "No"
+<#
+	Now that the variable sanitazitation process has completed, we attempt to process the record
+	based on the $ErrorCode variable value. A value of zero means record is good to process.
+	Below we set the $ProcessedRecord variable to 'No'. If it passes the processing text
+	which is indicated by the $ErrorCode variable value, then $ProcessedRecord will be
+	set to 'Yes' Note that this variable for used for the summary report and has no effect on processing logic.
 	
-	# Process the records that pass validation
+	Additionally, we set the Processing field to 'Processing'.
+	Since this script runs once a minute, we don't want the next rendition of the script to
+	pick up processing of it when the prior run is currently chewing on it.
+	Therefore we change the processing field from 'Not_processed' to 'Processing'.
+#>
+	$ProcessedRecord = "No"
+	UpdateRecordProcessing -ServiceNowURL $ServiceNowURL -SysID $SysID
+
 	if($ErrorCode -eq 0)
 	{
-		# Set the Processing field to 'Processing'
-		UpdateRecordProcessing -ServiceNowURL $ServiceNowURL -SysID $SysID
-		
 		# Call the appropriate action function
 		switch($Action)
 		{
@@ -500,7 +539,6 @@ $ServiceNowRecords | %{
 			}
 			Remove
 			{
-				Write-Host "Passing: RemoveUserFromGroup -GroupName $GroupName -UserName $Username"
 				$UpdateResult = RemoveUserFromGroup -GroupName $GroupName -UserName $Username
 				if($UpdateResult -ne 200) { $ErrorCode = 16 }
 				break
@@ -509,23 +547,25 @@ $ServiceNowRecords | %{
 		$ProcessedRecord = "Yes"
 	}
 
-	# Set the Processed date field in the SN table
-	UpdateProcessingDateField -ServiceNowURL $ServiceNowURL -SysID $SysID
-
-	# Update the result of the AD Group action
-	UpdateReturnCode -ServiceNowURL $ServiceNowURL -SysID $SysID -Result $UpdateResult
+<#
+	This is the Post-Processing section.
 	
-	# Update the status message if the Update Result code is not equal 200 or the ErrorCode is not equal to zero.
+	Here we will update key fields within the record just processed. These steps are:
+	1. Set the Processed date field in the SN table to the current date/time.
+	2. Update the return code field to depict the status of the request.
+	3. Update the message field if a processing issue has occurred.
+	4. Finally mark the Processing field to 'Processed', significing the end of this records process run.
+#>
+	UpdateProcessingDateField -ServiceNowURL $ServiceNowURL -SysID $SysID
+	UpdateReturnCode -ServiceNowURL $ServiceNowURL -SysID $SysID -Result $UpdateResult
 	if(($UpdateResult -ne 200) -or ($ErrorCode -ne 0))
 	{ 
 		$Message = DetermineErrorCode -ErrorCode $ErrorCode
 		UpdateStatusMessageField -ServiceNowURL $ServiceNowURL -SysID $SysID -Message $Message 
 	}
-
-	# Finally, set the Processing field to 'Processed'
 	UpdateRecordProcessed -ServiceNowURL $ServiceNowURL -SysID $SysID
 		
-	# Create the reporting object for a summary display
+	# Create the reporting object for a summary display which shows the status of all records.
 	$TotADGroupRequest = New-Object -TypeName PSObject -Property @{
 		'E-Mail Address' = $EMailAddress
 		'Action' = $Action
@@ -539,14 +579,14 @@ $ServiceNowRecords | %{
 }
 
 ####################################################################
-#   Module 18: Finish Up                                           #
+#   Module 19: Finish Up                                           #
 ####################################################################
 # Display the formatted contents of the PS Object '$TotAzureEmpInfos'
-$TotADGroupRequests | Sort-Object | Format-Table 'E-Mail Address', 'Action', 'Domain', 'Group Name', 'Update Code', 'Processed', 'Message' -AutoSize
+$TotADGroupRequests | Sort-Object | Format-Table 'E-Mail Address', 'Action', 'Domain', 'Group Name', 'Update Code', 'Processed', 'Message' -AutoSize|Out-File -FilePath $Reportfile
 
-# Kick off batches processes.
+# This command kicks off all the batched Adds and Removes of users to/from the Service-Now AD groups.
 $Command = "exec msdb.dbo.sp_start_job N'IDM - AD-Adhoc AddUpdateRemove'"
-SQLWrite -SQLCommand $Command
+#SQLWrite -SQLCommand $Command
 
 # Nuke the log file.
 $DoesFileExist = Test-Path $Logfile
