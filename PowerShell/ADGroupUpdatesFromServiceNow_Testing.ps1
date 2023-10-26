@@ -2,7 +2,7 @@
 		Program Name: ADGroupUpdatesFromServiceNow.ps1
 		Date Written: September 8th, 2023
 		  Written By: Dave Jaynes
-		 Description: Processes a Service-Now request to add a member to an AD Group 
+		 Description: Processes a Service-Now request to add/remove members to/from an Service-Now AD Group.
 #>
 
 ####################################################################
@@ -15,7 +15,7 @@ $Process = ""
 $DisplayValue = ""
 $Link = ""
 $TimeStamp = Get-Date -Format("yyyyMMddHHmmss")
-$Logfile = "C:\UtilityScripts\Logs\Junkfile_$TimeStamp"
+$Logfile = "C:\IDM\IDM-Applications\PowerShell\Logs\Junkfile_$TimeStamp"
 
 ####################################################################
 #   Module 2: Define the SQL Write function.                       #
@@ -42,22 +42,23 @@ $ServiceNowTestURL = "https://eversanatest.service-now.com/api/now/table/u_stage
 $ServiceNowProdURL = "https://eversana.service-now.com/api/now/table/u_stage_sc_request"
 $ServiceNowURL = $ServiceNowDevURL
 $SNTable = "u_stage_sc_request"
-$Query = "u_status=Not_processed"
+# $Query = "u_status=Not_processed"
+$Query = "u_status=Processed"
 $ContentType = "application/json"
 
 ####################################################################
 #   Module 4: Pull credentials based on user running script.       #
 ####################################################################
 # Create the credentials for ServiceNow PowerShell Integration
-$serviceAccountUserName2 = Get-Content "C:\PowerShell\credentials\PowerShell_Integration_UserName.txt"
-$serviceAccountPassword2 = Get-Content "C:\PowerShell\credentials\EncryptedPowershellIntegrationPassword_dave_jaynes.txt" | ConvertTo-SecureString
-$PS_Integ_Credential = New-Object System.Management.Automation.PSCredential($serviceAccountUserName2,$serviceAccountPassword2)
+$serviceAccountUserName1 = Get-Content "C:\IDM\IDM-Applications\PowerShell\credentials\PowerShell_Integration_UserName.txt"
+$serviceAccountPassword1 = Get-Content "C:\IDM\IDM-Applications\PowerShell\credentials\EncryptedPowershellIntegrationPassword.txt" | ConvertTo-SecureString
+$PS_Integ_Credential = New-Object System.Management.Automation.PSCredential($serviceAccountUserName1,$serviceAccountPassword1)
 
 # Create the credentials for AzAccount
-$serviceAccountUserName3 = Get-Content "C:\PowerShell\credentials\OneDriveRetentionUserName.txt"
-$serviceAccountPassword3 = Get-Content "C:\PowerShell\credentials\OneDriveRetentionPassword2.txt" | ConvertTo-SecureString
-$AzureADCredential3 = New-Object System.Management.Automation.PSCredential($serviceAccountUserName3,$serviceAccountPassword3)
-Connect-AzAccount -Credential $AzureADCredential3|Out-File -FilePath $Logfile
+$serviceAccountUserName2 = Get-Content "C:\IDM\IDM-Applications\PowerShell\credentials\OneDriveRetentionUserName.txt"
+$serviceAccountPassword2 = Get-Content "C:\IDM\IDM-Applications\PowerShell\credentials\EncryptedOneDriveRetentionPassword.txt" | ConvertTo-SecureString
+$AzureADCredential = New-Object System.Management.Automation.PSCredential($serviceAccountUserName2,$serviceAccountPassword2)
+Connect-AzAccount -Credential $AzureADCredential|Out-File -FilePath $Logfile
 
 ####################################################################
 #   Module 5: Return Error Message                                 #
@@ -85,7 +86,9 @@ function DetermineErrorCode
 			13	{	$Message = "Group GUID returned NULL value, User GUID returned NULL value and E-Mail address is not valid"	}
 			14	{	$Message = "Group GUID returned NULL value, User GUID returned NULL value and Domain name is not correct"	}
 			15	{	$Message = "Group GUID returned NULL value, User GUID returned NULL value, E-Mail address is not valid and Domain name is not correct" }
-			16  {	$Message = "Unknown processing error" }
+			16  {	$Message = "Error occurred during the addition of removal of user from the AD account" }
+			17  {	$Message = "Invalid Action. Only Add and Remove are allowed" }
+			18  {	$Message = "User is not currently active so record cannot be processed" }
 		}
 		return $Message
 }
@@ -116,8 +119,6 @@ function AddUserToGroup
 	{
 		$Command = "exec iam..AD_AdHoc_AddUpdateAttribute 'ad_universal','memberof','" + $UserName + "','" + $GroupName + "'"
 		#SQLWrite -SQLCommand $Command
-		$Command = "exec msdb.dbo.sp_start_job N'IDM - AD-Adhoc-AddUpdateAttribute'"
-		#SQLWrite -SQLCommand $Command
 		$Result = 200
 	}
 	catch
@@ -140,8 +141,6 @@ function RemoveUserFromGroup
 	try
 	{
 		$Command = "exec iam..AD_AdHoc_RemoveAttribute 'ad_universal','memberof','$UserName','$GroupName'"
-		#SQLWrite -SQLCommand $Command
-		$Command = "exec msdb.dbo.sp_start_job N'IDM - AD-Adhoc-AddUpdateAttribute'"
 		#SQLWrite -SQLCommand $Command
 		$Result = 200
 	}
@@ -206,7 +205,6 @@ function UpdateReturnCode
 		ContentType = $ContentType
 		Credential = $PS_Integ_Credential
 	}
-	# Write-Host "Here we set the Sys ID [$SysID] to 'Processed'"
 	#$thisResult = Invoke-RestMethod @Params
 }
 
@@ -230,7 +228,6 @@ function UpdateRecordProcessed
 		ContentType = $ContentType
 		Credential = $PS_Integ_Credential
 	}
-	# Write-Host "Here we set the Sys ID [$SysID] to 'Processed'"
 	#$thisResult = Invoke-RestMethod @Params
 }
 
@@ -254,7 +251,6 @@ function UpdateRecordProcessing
 		ContentType = $ContentType
 		Credential = $PS_Integ_Credential
 	}
-	# Write-Host "Here we set the Sys ID [$SysID] to 'Processing'"
 	#$thisResult = Invoke-RestMethod @Params
 }
 
@@ -279,12 +275,75 @@ function UpdateStatusMessageField
 		ContentType = $ContentType
 		Credential = $PS_Integ_Credential
 	}
-	# Write-Host "Here we set the Sys ID [$SysID] to 'Processing'"
 	#$thisResult = Invoke-RestMethod @Params
 }
 
 ####################################################################
-#   Module 14: Perform the REST API call into the ServiceNow       #
+#    Module 14: Record Did Not Pass Initial Check                  #
+####################################################################
+function RecordDidNotPassInitialCheck    
+{
+	param(
+		[string]$ServiceNowURL,
+		[string]$SysID,
+		[string]$Message
+	)
+	
+	# Set Return Code to 406
+	$Body = @{
+		u_return_code = "406"
+	}
+	$JsonBody = $Body | ConvertTo-Json
+	$Params = @{
+		Method = "PATCH"
+		Uri = $ServiceNowURL + "/" + $SysID
+		Body = $JsonBody
+		ContentType = $ContentType
+		Credential = $PS_Integ_Credential
+	}
+	#$thisResult = Invoke-RestMethod @Params
+	
+	# Write the message to the u_status_message field
+	$Body = @{
+		u_status_message = "$Message"
+	}
+	$JsonBody = $Body | ConvertTo-Json
+	$Params = @{
+		Method = "PATCH"
+		Uri = $ServiceNowURL + "/" + $SysID
+		Body = $JsonBody
+		ContentType = $ContentType
+		Credential = $PS_Integ_Credential
+	}
+	#$thisResult = Invoke-RestMethod @Params
+}
+
+####################################################################
+#   Module 15: Get status of user                                  #
+####################################################################
+function CheckUserStatus    
+{
+	param(
+		[string]$UserName
+	)
+	$Enabled = ""
+	try
+	{
+		$Properties = Get-aduser $UserName -Properties Enabled
+		$Properties | %{
+			$SNR = $_
+			$Enabled = $SNR.Enabled
+		}
+	}
+	catch
+	{
+		$Enabled = "NoExist"
+	}
+	return $Enabled
+}
+
+####################################################################
+#   Module 16: Perform the REST API call into the ServiceNow       #
 ####################################################################
 function Get-ServiceNowTable {
 	[OutputType([System.Management.Automation.PSCustomObject])]
@@ -349,7 +408,7 @@ function Get-ServiceNowTable {
 }
 
 ####################################################################
-#   Module 15: Main processing area                                #
+#   Module 17: Main processing area                                #
 ####################################################################
 $ServiceNowRecords = Get-ServiceNowTable -Table $SNTable -Query $Query -ServiceNowURL $ServiceNowURL
 $ServiceNowRecords | %{
@@ -378,21 +437,51 @@ $ServiceNowRecords | %{
 	
 	# Initialize error code
 	$ErrorCode = 0
-	
+	$Message = ""
+
 	# Validate the EMail address and domain name.
-		$EMailAddress = "Bob"
 	if($EMailAddress -notlike "*@eversana*") {	$ErrorCode++ }
-	if($Domain -notlike "*.co*") { $ErrorCode += 2 }
+	if($Domain -notlike "universal.co") { $ErrorCode += 2 }
 
 	# Pull in the User's GUID
 	$UserGUID = $null
-	#try{ $UserGUID = (Get-ADUser -filter {UserPrincipalName -eq $EMailAddress}).ObjectGUID } catch {}
+	try{ $UserGUID = (Get-ADUser -filter {UserPrincipalName -eq $EMailAddress}).ObjectGUID } catch {}
 	if($UserGUID -eq $null) { $ErrorCode += 4 }
 	
 	# Pull in the Group GUID
 	$GroupGUID = $null
 	$GroupGUID = FindGroupGUID -GroupName $GroupName
 	if($GroupGUID -eq $null) { $ErrorCode += 8 }
+	
+	# Now we check for overriding errors
+	if(($Action -ne "Add") -and ($Action -ne "Remove")) 
+	{ 
+		$ErrorCode = 17 
+		$UpdateResult = 406
+	}
+	
+	# Check if the user is active. 
+	# If it isn't we need to check if the users exists or not to determine the correct error code.
+	$UserStatus = CheckUserStatus -UserName $UserName
+	if($UserStatus -ne "True") 
+	{ 
+		switch($UserStatus)
+		{
+			NoExist
+			{
+				$ErrorCode = 1
+				break
+			}
+			False
+			{
+				$ErrorCode = 18
+				$UpdateResult = 301
+			}
+		}
+	}
+	
+	# Start out with Processed Record set to No.
+	$ProcessedRecord = "No"
 	
 	# Process the records that pass validation
 	if($ErrorCode -eq 0)
@@ -406,32 +495,18 @@ $ServiceNowRecords | %{
 			Add
 			{
 				$UpdateResult = AddUserToGroup -GroupName $GroupName -UserName $UserName
-				if($UpdateResult -ne 200)
-				{
-					$Message = DetermineErrorCode -ErrorCode 16
-					UpdateStatusMessageField -ServiceNowURL $ServiceNowURL -SysID $SysID -Message $Message
-				}
+				if($UpdateResult -ne 200) { $ErrorCode = 16 }
 				break
 			}
 			Remove
 			{
-				$UpdateResult = RemoveUserFromGroup -GroupGUID $GroupName -UserGUID $Username
-				if($UpdateResult -ne 200)
-				{
-					$Message = DetermineErrorCode -ErrorCode 16
-					UpdateStatusMessageField -ServiceNowURL $ServiceNowURL -SysID $SysID -Message $Message
-				}
+				Write-Host "Passing: RemoveUserFromGroup -GroupName $GroupName -UserName $Username"
+				$UpdateResult = RemoveUserFromGroup -GroupName $GroupName -UserName $Username
+				if($UpdateResult -ne 200) { $ErrorCode = 16 }
 				break
 			}
 		}
 		$ProcessedRecord = "Yes"
-	}
-	else
-	{
-		$ProcessedRecord = "Yes"
-		$UpdateResult = "406"
-		$Message = DetermineErrorCode -ErrorCode $ErrorCode
-		UpdateStatusMessageField -ServiceNowURL $ServiceNowURL -SysID $SysID -Message $Message
 	}
 
 	# Set the Processed date field in the SN table
@@ -439,6 +514,13 @@ $ServiceNowRecords | %{
 
 	# Update the result of the AD Group action
 	UpdateReturnCode -ServiceNowURL $ServiceNowURL -SysID $SysID -Result $UpdateResult
+	
+	# Update the status message if the Update Result code is not equal 200 or the ErrorCode is not equal to zero.
+	if(($UpdateResult -ne 200) -or ($ErrorCode -ne 0))
+	{ 
+		$Message = DetermineErrorCode -ErrorCode $ErrorCode
+		UpdateStatusMessageField -ServiceNowURL $ServiceNowURL -SysID $SysID -Message $Message 
+	}
 
 	# Finally, set the Processing field to 'Processed'
 	UpdateRecordProcessed -ServiceNowURL $ServiceNowURL -SysID $SysID
@@ -450,16 +532,22 @@ $ServiceNowRecords | %{
 		'Domain' = $Domain
 		'Group Name' = $GroupName
 		'Update Code' = $UpdateResult
+		'Processed' = $ProcessedRecord
 		'Message' = $Message
 	}
 	$TotADGroupRequests += $TotADGroupRequest
 }
 
 ####################################################################
-#   Module 16: Finish Up                                           #
+#   Module 18: Finish Up                                           #
 ####################################################################
 # Display the formatted contents of the PS Object '$TotAzureEmpInfos'
-$TotADGroupRequests | Sort-Object | Format-Table 'E-Mail Address', 'Action', 'Domain', 'Group Name', 'Update Code', 'Message' -AutoSize
+$TotADGroupRequests | Sort-Object | Format-Table 'E-Mail Address', 'Action', 'Domain', 'Group Name', 'Update Code', 'Processed', 'Message' -AutoSize
 
+# Kick off batches processes.
+$Command = "exec msdb.dbo.sp_start_job N'IDM - AD-Adhoc AddUpdateRemove'"
+SQLWrite -SQLCommand $Command
+
+# Nuke the log file.
 $DoesFileExist = Test-Path $Logfile
 if($DoesFileExist -eq "True") { Remove-Item $Logfile }
